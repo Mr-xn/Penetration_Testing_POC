@@ -11,10 +11,12 @@
 ## IOT Device
 
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
+- [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
 
 ## Web APP
 
 - [致远OA_A8_getshell_0day](致远OA_A8_getshell_0day.md)
+- [Couch through 2.0存在路径泄露漏洞](Couch through 2.0存在路径泄露漏洞.md)
 
 ## Mobile APP
 
