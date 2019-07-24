@@ -38,6 +38,7 @@
 - [indexhibit cms v2.1.5 直接编辑php文件getshell](indexhibit%20cms%20v2.1.5%20直接编辑php文件getshell.md)
 - [S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号](S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号.md)
 - [S-CMS PHP v3.0存在SQL注入漏洞](S-CMS%20PHP%20v3.0存在SQL注入漏洞.md)
+- [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](dede_burp_admin_path.md)
 
 ## Mobile APP
 
