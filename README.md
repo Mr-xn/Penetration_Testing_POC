@@ -31,7 +31,6 @@
 - [yii2-statemachine v2.x.x存在XSS漏洞](yii2-statemachine%20v2.x.x存在XSS漏洞.md)
 - [maccms_v10存在CSRF漏洞可增加任意账号](maccms_v10存在CSRF漏洞可增加任意账号.md)
 - [LFCMS 3.7.0存在CSRF漏洞可添加任意用户账户或任意管理员账户](LFCMS%203.7.0存在CSRF漏洞可添加任意用户账户或任意管理员账户.md)
-- [FUELCMS 1.4存在CSRF可修改管理员账户密码](FUELCMS%201.4存在CSRF可修改管理员账户密码.md)
 - [Finecms_v5.4存在CSRF漏洞可修改管理员账户密码](Finecms_v5.4存在CSRF漏洞可修改管理员账户密码.md)
 - [Amazon Kindle Fire HD (3rd Generation)内核驱动拒绝服务漏洞](Amazon%20Kindle%20Fire%20HD%20\(3rd%20Generation\)内核驱动拒绝服务漏洞.md)
 - [Metinfo-6.1.2版本存在XSS漏洞&SQL注入漏洞](Metinfo-6.1.2版本存在XSS漏洞&SQL注入漏洞.md)
