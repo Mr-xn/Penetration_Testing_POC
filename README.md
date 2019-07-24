@@ -37,7 +37,6 @@
 - [Hucart cms v5.7.4 CSRF漏洞可任意增加管理员账号](Hucart%20cms%20v5.7.4%20CSRF漏洞可任意增加管理员账号.md)
 - [indexhibit cms v2.1.5 直接编辑php文件getshell](indexhibit%20cms%20v2.1.5%20直接编辑php文件getshell.md)
 - [S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号](S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号.md)
-- [Sitemagic CMS v4.4后台未过滤直接上传php导致getshell](Sitemagic%20CMS%20v4.4后台未过滤直接上传php导致getshell.md)
 - [S-CMS PHP v3.0存在SQL注入漏洞](S-CMS%20PHP%20v3.0存在SQL注入漏洞.md)
 
 ## Mobile APP
