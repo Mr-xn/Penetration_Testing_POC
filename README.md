@@ -22,7 +22,7 @@
 - [MiniCMS 1.10存在CSRF漏洞可增加管理员账户](MiniCMS%201.10存在CSRF漏洞可增加管理员账户.md)
 - [Z-Blog 1.5.1.1740存在XSS漏洞](Z-Blog%201.5.1.1740存在XSS漏洞.md)
 - [YzmCMS 3.6存在XSS漏洞](YzmCMS%203.6存在XSS漏洞.md)
-- [Cobub Razor 0.7.2越权增加管理员账户](Cobub%20Razor%200.7.2越权增加管理员账户.md)\
+- [Cobub Razor 0.7.2越权增加管理员账户](Cobub%20Razor%200.7.2越权增加管理员账户.md)
 - [Cobub Razor 0.8.0存在SQL注入漏洞](Cobub%20Razor%200.8.0存在SQL注入漏洞.md)
 - [Cobub Razor 0.8.0存在物理路径泄露漏洞](Cobub%20Razor%200.8.0存在物理路径泄露漏洞.md)
 - [五指CMS 4.1.0存在CSRF漏洞可增加管理员账户](五指CMS%204.1.0存在CSRF漏洞可增加管理员账户.md)
