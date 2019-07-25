@@ -1,0 +1,3 @@
+http://xxx.org/discuzx/portal.php
+http://www.aaa.org.cn/forum.php
+https://www.bbb.com/forum.php

@@ -39,6 +39,8 @@
 - [S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号](S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号.md)
 - [S-CMS PHP v3.0存在SQL注入漏洞](S-CMS%20PHP%20v3.0存在SQL注入漏洞.md)
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](dede_burp_admin_path.md)
+- [MetInfoCMS 5.X版本GETSHELL漏洞合集](MetInfoCMS 5.X版本GETSHELL漏洞合集.md)
+- [discuz ml RCE 漏洞检测工具](discuz-ml-rce/README.md)
 
 ## Mobile APP
 
