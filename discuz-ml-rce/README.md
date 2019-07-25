@@ -30,37 +30,37 @@ pip -r requirements.txt
 使用帮助<br/>
 python dz-ml-rce.py -h<br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce06.png)
+![](demo/dzmlrce06.png)
 
 <br/>
 判断模式<br/>
 python dz-ml-rce.py -u "http://www.xxx.cn/forum.php" <br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce02.png)
+![](demo/dzmlrce02.png)
 
 <br/>
 cmdshell模式<br/>
 python dz-ml-rce.py -u "http://www.xxx.cn/forum.php" --cmdshell<br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce03.png)
+![](demo/dzmlrce03.png)
 
 <br/>
 getshell模式<br/>
 python dz-ml-rce.py -u "http://www.xxx.cn/forum.php" --getshell<br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce04.png)
+![](demo/dzmlrce04.png)
 
 <br/>
 批量检测<br/>
 python dz-ml-rce.py -f urls.txt<br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce01.png)
+![](demo/dzmlrce01.png)
 
 <br/>
 批量getshell<br/>
 python dz-ml-rce.py -f urls.txt --getshell<br/>
 
-![](https://github.com/theLSA/discuz-ml-rce/raw/master/demo/dzmlrce09.png)
+![](demo/dzmlrce09.png)
 
 
 ----------------
