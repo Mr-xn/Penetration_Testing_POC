@@ -41,6 +41,11 @@
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](dede_burp_admin_path.md)
 - [MetInfoCMS 5.X版本GETSHELL漏洞合集](MetInfoCMS 5.X版本GETSHELL漏洞合集.md)
 - [discuz ml RCE 漏洞检测工具](discuz-ml-rce/README.md)
+- [thinkphp5框架缺陷导致远程代码执行](thinkphp5框架缺陷导致远程代码执行.md)
+- [FineCMS_v5.0.8两处getshell](FineCMS_v5.0.8两处getshell.md)
+- [Struts2_045漏洞批量检测|搜索引擎采集扫描](Struts2_045-Poc)
+- [thinkphp5命令执行](thinkphp5命令执行.md)
+- [typecho反序列化漏洞](typecho反序列化漏洞.md)
 
 ## Mobile APP
 
