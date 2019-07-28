@@ -5,6 +5,8 @@
 
 ```python
 #!/usr/bin/env python
+# 需要requests 模块，请自行使用 pip 安装
+
 '''/*
     * author = Mochazz
     * team   = 红日安全团队
@@ -65,7 +67,9 @@ print("后台地址为：",back_dir)
 升级版本代码如下:
 ```python
 #!/usr/bin/env python3
+# 需要requests 模块，请自行使用 pip 安装
 # coding:utf-8
+
 import requests
 import itertools
 from random import choice
