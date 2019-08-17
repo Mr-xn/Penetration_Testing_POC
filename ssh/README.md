@@ -1,5 +1,5 @@
 ### 渗透测试TIPS之删除、伪造Linux系统登录日志  
-> 来源于https://www.freebuf.com/articles/system/141474.html ，但是原链接失效，故在此处备份  
+> 来源于https://www.freebuf.com/articles/system/141474.html ，但是原链接失效，故在此处备份:[渗透测试TIPS之删除伪造Linux系统登录日志.pdf](渗透测试TIPS之删除伪造Linux系统登录日志.pdf)
 ### 适用于 Linux 系统，[`fake_login_log.py`](https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/ssh/fake_login_log.py) 脚本默认适用于`python2`版本
 
 ### 删除日志
