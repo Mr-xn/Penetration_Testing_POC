@@ -25,3 +25,5 @@
 `python fake_login_log.py --mode add  --type btmp --user root --tty "pts/7" --date "2017-8-2 00:06:34" --host "127.0.0.1" `//伪造用户为root且登录来源host为127.0.0.1的用户登录失败记录  
 4. 伪造lastlog记录  
 `python fake_login_log.py --mode add --type=lastlog --user=rootclay --date="2017-7-24 14:22:07" --tty "pts/2" --host "127.0.0.1" `//伪造用户为rootclay 时间2017-7-24 14:22:07 来源登录ip为127.0.0.1的用户登录记录  
+
+> PS: 执行完这些命令之后删除掉`fake_login_log.py`本身然后使用`history -cw`清除一下历史记录.美滋滋
