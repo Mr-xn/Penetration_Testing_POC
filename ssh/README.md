@@ -1,7 +1,8 @@
 ## 渗透测试TIPS之删除、伪造Linux系统登录日志  
 > 来源于[freebuf](https://www.freebuf.com/articles/system/141474.html)，文章备份:[渗透测试TIPS之删除伪造Linux系统登录日志.pdf](渗透测试TIPS之删除伪造Linux系统登录日志.pdf),但是文章脚本失效了,我保存了一份.
-### 适用于 Linux 系统，[`fake_login_log.py`](https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/ssh/fake_login_log.py) 脚本默认适用于`python2`版本
-
+### 适用于 Linux 系统，[`fake_login_log.py`](https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/ssh/fake_login_log.py) 脚本默认适用于`python2`版本，需要`Root`权限！
+## 演示:  
+![show img](./fake_login_log.gif)
 ## USEAGE  
 ### 删除日志  
 1. 删除utmp记录，将自己从w或者who输出中隐藏  
