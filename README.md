@@ -47,6 +47,8 @@
 - [thinkphp5命令执行](thinkphp5命令执行.md)
 - [typecho反序列化漏洞](typecho反序列化漏洞.md)
 - [CVE-2019-10173 Xstream 1.4.10版本远程代码执行](CVE-2019-10173%20Xstream%201.4.10版本远程代码执行漏洞.md)
+- [IIS/CVE-2017-7269-Echo-PoC](./IIS/CVE-2017-7269-Echo-PoC)
+- [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
 
 ## Mobile APP
 
