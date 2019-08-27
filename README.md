@@ -49,6 +49,8 @@
 - [CVE-2019-10173 Xstream 1.4.10版本远程代码执行](CVE-2019-10173%20Xstream%201.4.10版本远程代码执行漏洞.md)
 - [IIS/CVE-2017-7269-Echo-PoC](./IIS/CVE-2017-7269-Echo-PoC)
 - [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
+- [Linux登录日志清除/伪造](./ssh)
+- [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 
 ## Mobile APP
 
