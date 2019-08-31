@@ -55,6 +55,7 @@
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
 - [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
+- [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
 
 ## Mobile APP
 
