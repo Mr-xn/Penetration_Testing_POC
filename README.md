@@ -52,6 +52,7 @@
 - [Linux登录日志清除/伪造](./ssh)
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 - [CVE-2019-11510](./CVE-2019-11510)
+- [Redis(<=5.0.5) RCE](./redis-rogue-server)
 
 ## Mobile APP
 
