@@ -1,0 +1,14 @@
+2019-07-28 14:57:48,702 [+]127.0.0.1:7001 console address is exposed! The path is: http://127.0.0.1:7001/console/login/LoginForm.jsp Please try weak password blasting!
+2019-07-28 14:57:48,717 [+]127.0.0.1:7001 UDDI module is exposed! The path is: http://127.0.0.1:7001/uddiexplorer/ Please verify the SSRF vulnerability!
+2019-07-28 14:57:48,717 [-]127.0.0.1:7001 not detected CVE_2016_0638.
+2019-07-28 14:57:48,717 [-]127.0.0.1:7001 not detected CVE_2016_3510.
+2019-07-28 14:57:48,717 [-]127.0.0.1:7001 not detected CVE_2017_3248.
+2019-07-28 14:57:48,725 [-]127.0.0.1:7001 not detected CVE-2017-3506.
+2019-07-28 14:57:48,731 [-]127.0.0.1:7001 not detected CVE-2017-10271.
+2019-07-28 14:57:48,731 [-]127.0.0.1:7001 not detected CVE_2018_2628.
+2019-07-28 14:57:48,731 [-]127.0.0.1:7001 not detected CVE_2018_2893.
+2019-07-28 14:57:48,735 [-]127.0.0.1:7001 not detected CVE-2018-2894.
+2019-07-28 14:57:48,914 [+]127.0.0.1:7001 has a JAVA deserialization vulnerability:CVE-2019-2725.
+2019-07-28 14:57:49,133 [+]And your current permission is:rabbitmask\rabbitmask.
+2019-07-28 14:57:51,356 [+]127.0.0.1:7001 has a JAVA deserialization vulnerability:CVE-2019-2729.
+2019-07-28 14:57:51,356 [+]And your current permission is:rabbitmask\rabbitmask.
