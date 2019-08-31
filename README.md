@@ -53,6 +53,7 @@
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
+- [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
 
 ## Mobile APP
 
