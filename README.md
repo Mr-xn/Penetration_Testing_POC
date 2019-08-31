@@ -54,6 +54,7 @@
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
+- [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
 
 ## Mobile APP
 
