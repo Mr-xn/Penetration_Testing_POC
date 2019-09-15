@@ -58,6 +58,7 @@
 - [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
 - [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
 - [Webmin Remote Code Execution (authenticated)-CVE-2019-15642](https://github.com/jas502n/CVE-2019-15642)
+- [CVE-2019-16131 OKLite v1.2.25 任意文件上传漏洞](./CVE-2019-16131%20OKLite%20v1.2.25%20任意文件上传漏洞.md)
 
 ## Mobile APP
 
