@@ -9,10 +9,13 @@
 # Penetration_Testing_POC_With_Python
 搜集有关渗透测试中用python编写的POC、脚本
 
+## 请使用搜索查找
+
 ## IOT Device
 
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
 - [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
+- [CVE-2019-16313 蜂网互联企业级路由器v4.31密码泄露漏洞](./CVE-2019-16313%20蜂网互联企业级路由器v4.31密码泄露漏洞.md)
 
 ## Web APP
 
@@ -59,6 +62,9 @@
 - [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
 - [Webmin Remote Code Execution (authenticated)-CVE-2019-15642](https://github.com/jas502n/CVE-2019-15642)
 - [CVE-2019-16131 OKLite v1.2.25 任意文件上传漏洞](./CVE-2019-16131%20OKLite%20v1.2.25%20任意文件上传漏洞.md)
+- [CVE-2019-16132 OKLite v1.2.25 存在任意文件删除漏洞](./CVE-2019-16132%20OKLite%20v1.2.25%20存在任意文件删除漏洞.md)
+- [CVE-2019-16309 FlameCMS 3.3.5 后台登录处存在sql注入漏洞](./CVE-2019-16309%20FlameCMS%203.3.5%20后台登录处存在sql注入漏洞.md)
+- [CVE-2019-16314 indexhibit cms v2.1.5 存在重装并导致getshell](./CVE-2019-16314%20indexhibit%20cms%20v2.1.5%20存在重装并导致getshell.md)
 
 ## Mobile APP
 
