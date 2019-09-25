@@ -1,0 +1,2 @@
+
+http://192.168.50.233[!] This URL is Vulnerable ! [!] username: test   password: qq123123 
