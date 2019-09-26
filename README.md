@@ -65,6 +65,8 @@
 - [CVE-2019-16132 OKLite v1.2.25 存在任意文件删除漏洞](./CVE-2019-16132%20OKLite%20v1.2.25%20存在任意文件删除漏洞.md)
 - [CVE-2019-16309 FlameCMS 3.3.5 后台登录处存在sql注入漏洞](./CVE-2019-16309%20FlameCMS%203.3.5%20后台登录处存在sql注入漏洞.md)
 - [CVE-2019-16314 indexhibit cms v2.1.5 存在重装并导致getshell](./CVE-2019-16314%20indexhibit%20cms%20v2.1.5%20存在重装并导致getshell.md)
+- [泛微OA管理系统RCE漏洞利用脚本](./泛微OA管理系统RCE漏洞利用脚本.md)
+- [CVE-2019-16759 vBulletin 5.x 0day pre-auth RCE exploit](./CVE-2019-16759%20vBulletin%205.x%200day%20pre-auth%20RCE%20exploit.md)
 
 ## Mobile APP
 
