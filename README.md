@@ -53,7 +53,6 @@
 - [CVE-2019-10173 Xstream 1.4.10版本远程代码执行](CVE-2019-10173%20Xstream%201.4.10版本远程代码执行漏洞.md)
 - [IIS/CVE-2017-7269-Echo-PoC](./IIS/CVE-2017-7269-Echo-PoC)
 - [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
-- [Linux登录日志清除/伪造](./ssh)
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
@@ -67,6 +66,7 @@
 - [CVE-2019-16314 indexhibit cms v2.1.5 存在重装并导致getshell](./CVE-2019-16314%20indexhibit%20cms%20v2.1.5%20存在重装并导致getshell.md)
 - [泛微OA管理系统RCE漏洞利用脚本](./泛微OA管理系统RCE漏洞利用脚本.md)
 - [CVE-2019-16759 vBulletin 5.x 0day pre-auth RCE exploit](./CVE-2019-16759%20vBulletin%205.x%200day%20pre-auth%20RCE%20exploit.md)
+- [zentao-getshell 禅道8.2 - 9.2.1前台Getshell](./zentao-getshell)
 
 ## Mobile APP
 
@@ -78,9 +78,12 @@
 - [MS17-010-微软永恒之蓝漏洞](https://github.com/Mr-xn/MS17-010)
 - [macOS-Kernel-Exploit](./macOS-Kernel-Exploit)
 
-## tools
+
+## tools-[小工具集合](./tools)
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
+- [Linux登录日志清除/伪造](./ssh)
+- [python2的socks代理](./tools/s5.py)
 
 ## 说明
 
