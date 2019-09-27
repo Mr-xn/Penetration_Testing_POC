@@ -81,7 +81,7 @@
 ## tools-[小工具集合](./tools)
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
-- [Linux登录日志清除/伪造](./ssh)
+- [Linux登录日志清除/伪造](./tools/ssh)
 - [python2的socks代理](./tools/s5.py)
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](./tools/dede_burp_admin_path.md)
 
