@@ -226,7 +226,7 @@ if __name__ == '__main__':
 ```
 
 ## 使用效果如下
-![dede_burp_admin_path](img/dede_burp_admin_path.gif)
+![dede_burp_admin_path](../img/dede_burp_admin_path.gif)
 
 ### 相关文章
 https://xz.aliyun.com/t/2064
