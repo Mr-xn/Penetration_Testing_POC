@@ -252,12 +252,10 @@ exp 用途: 远程注入dll
 用法: 这也可能是nsa工具包里最好用的一个,想必大家早都已经很熟练了,这里就不啰嗦了
 ```
 ***
-快速检测目标系统未打漏洞补丁,注意,这里一定要先进到一个能读写的目录中去执行,要不然,没法创建临时文件:
+快速检测目标系统未打漏洞补丁,注意,这里一定要先进到一个能读写的目录中去执行,要不然,没法创建临时文件:  
 
-```
-# systeminfo>temp.txt&(for %i in (KB952004 KB970483 KB977165 KB2160329 KB2503665 KB2592799 KB2707511 KB2829361 KB2850851 KB3000061 KB3011780 KB3036220 KB3045171 KB3077657 KB3079904 KB3134228 KB3143141 KB3124280 KB3141780 KB4013389) do @type temp.txt|@find /i  "%i"|| @echo %i Not Installed!)&del /f /q /a temp.txt
+`systeminfo>temp.txt&(for %i in (KB952004 KB970483 KB977165 KB2160329 KB2503665 KB2592799 KB2707511 KB2829361 KB2850851 KB3000061 KB3011780 KB3036220 KB3045171 KB3077657 KB3079904 KB3134228 KB3143141 KB3124280 KB3141780 KB4013389) do @type temp.txt|@find /i  "%i"|| @echo %i Not Installed!)&del /f /q /a temp.txt`
 
-```
 ***
 ![](../img/systeminfo_pacet.png)  
 
