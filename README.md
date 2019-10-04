@@ -71,6 +71,7 @@
 
 - [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份对照](./tools/Local%20Privilege%20Escalation.md)
+- [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 
 ## PC
 
