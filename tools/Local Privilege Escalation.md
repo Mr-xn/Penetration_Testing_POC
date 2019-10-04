@@ -1,5 +1,5 @@
 ## windows 溢出提权小记+Linux&Windows提权思维导图  
-
+> PS 图片看不清的请右键新标签打开查看
 ### Linux&Windows提权思维导图：  
 
 ![Local Privilege Escalation](privilege%20localhost.jpg)
