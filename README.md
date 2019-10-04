@@ -84,6 +84,9 @@
 - [Linux登录日志清除/伪造](./tools/ssh)
 - [python2的socks代理](./tools/s5.py)
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](./tools/dede_burp_admin_path.md)
+- [PHP 7.1-7.3 disable_functions bypass](./tools/PHP%207.1-7.3%20disable_functions%20bypass.md)
+- [cmd下查询3389远程桌面端口](./tools/cmd下查询3389远程桌面端口.md)
+- [伪装成企业微信名片的钓鱼代码](./tools/伪装成企业微信名片的钓鱼代码.txt)
 
 ## 说明
 
