@@ -1,7 +1,7 @@
 - [Penetration_Testing_POC_With_Python](#PenetrationTestingPOCWithPython)
   - [IOT Device](#IOT-Device)
   - [Web APP](#Web-APP)
-  - [Mobile APP](#Mobile-APP)
+  - [提权辅助相关](#提权辅助相关)
   - [PC](#PC)
   - [tools](#tools-小工具集合)
   - [说明](#%E8%AF%B4%E6%98%8E)
@@ -67,9 +67,10 @@
 - [CVE-2019-16759 vBulletin 5.x 0day pre-auth RCE exploit](./CVE-2019-16759%20vBulletin%205.x%200day%20pre-auth%20RCE%20exploit.md)
 - [zentao-getshell 禅道8.2 - 9.2.1前台Getshell](./zentao-getshell)
 
-## Mobile APP
+## 提权辅助相关
 
-- 1.xxx
+- [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
+- [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份对照](./tools/Local%20ivilege%20alation.md)
 
 ## PC
 
@@ -87,6 +88,7 @@
 - [PHP 7.1-7.3 disable_functions bypass](./tools/PHP%207.1-7.3%20disable_functions%20bypass.md)
 - [cmd下查询3389远程桌面端口](./tools/cmd下查询3389远程桌面端口.md)
 - [伪装成企业微信名片的钓鱼代码](./tools/伪装成企业微信名片的钓鱼代码.txt)
+- [vbulletin5-rce利用工具(批量检测/getshell)](https://github.com/theLSA/vbulletin5-rce)/[保存了一份源码:vbulletin5-rce.py](./tools/vbulletin5-rce.py)
 
 ## 说明
 
