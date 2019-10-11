@@ -9,7 +9,7 @@ tp5-getshell.py - thinkphp5 rce漏洞检测工具
 
 控制器过滤不严导致rce,漏洞详情参考
 
-[thinkphp5 RCE漏洞重现及分析](demo/lsablog.com-ThinkPHP5 RCE漏洞重现及分析.pdf)
+[thinkphp5 RCE漏洞重现及分析](demo/lsablog.com-ThinkPHP5%20RCE漏洞重现及分析.pdf)
 
 <br/>
 本工具支持单url/批量检测，有phpinfo模式、cmd shell模式、getshell(写一句话)模式，批量检测直接使用getshell模式。
