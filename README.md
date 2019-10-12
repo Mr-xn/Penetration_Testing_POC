@@ -16,6 +16,7 @@
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
 - [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
 - [CVE-2019-16313 蜂网互联企业级路由器v4.31密码泄露漏洞](./CVE-2019-16313%20蜂网互联企业级路由器v4.31密码泄露漏洞.md)
+- [D-Link路由器RCE漏洞](./CVE-2019-16920-D-Link-rce.md)
 
 ## Web APP
 
@@ -53,6 +54,7 @@
 - [IIS/CVE-2017-7269-Echo-PoC](./IIS/CVE-2017-7269-Echo-PoC)
 - [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
+- [TP5_RCE合集](./tp5-getshell/TP5_RCE合集.md)
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
@@ -66,12 +68,15 @@
 - [泛微OA管理系统RCE漏洞利用脚本](./泛微OA管理系统RCE漏洞利用脚本.md)
 - [CVE-2019-16759 vBulletin 5.x 0day pre-auth RCE exploit](./CVE-2019-16759%20vBulletin%205.x%200day%20pre-auth%20RCE%20exploit.md)
 - [zentao-getshell 禅道8.2 - 9.2.1前台Getshell](./zentao-getshell)
+- [泛微 e-cology OA 前台SQL注入漏洞](./泛微%20e-cology%20OA%20前台SQL注入漏洞.md)
+- [Joomla-3.4.6-RCE](./Joomla-3.4.6-RCE.md)
 
 ## 提权辅助相关
 
 - [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
+- [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
 
 ## PC
 
@@ -90,6 +95,7 @@
 - [cmd下查询3389远程桌面端口](./tools/cmd下查询3389远程桌面端口.md)
 - [伪装成企业微信名片的钓鱼代码](./tools/伪装成企业微信名片的钓鱼代码.txt)
 - [vbulletin5-rce利用工具(批量检测/getshell)](https://github.com/theLSA/vbulletin5-rce)/[保存了一份源码:vbulletin5-rce.py](./tools/vbulletin5-rce.py)
+- [CVE-2017-12615](./tools/CVE-2017-12615.py)
 
 ## 说明
 
