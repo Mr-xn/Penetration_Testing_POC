@@ -2,7 +2,7 @@
 
 > 近日，在遇到一个WAF，目标服务器配置如下：  
 
-> 1. ASP.NET
+> 1.ASP.NET
 > 2.IIS
 > 3.Windows
 > 4.X WAF

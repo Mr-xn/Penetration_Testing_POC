@@ -71,6 +71,8 @@
 - [zentao-getshell 禅道8.2 - 9.2.1前台Getshell](./zentao-getshell)
 - [泛微 e-cology OA 前台SQL注入漏洞](./泛微%20e-cology%20OA%20前台SQL注入漏洞.md)
 - [Joomla-3.4.6-RCE](./Joomla-3.4.6-RCE.md)
+- [Easy File Sharing Web Server 7.2 - GET 缓冲区溢出 (SEH)](./Easy%20File%20Sharing%20Web%20Server%207.2%20-%20GET%20缓冲区溢出%20(SEH).md)
+- [构建ASMX绕过限制WAF达到命令执行(适用于ASP.NET环境)](./构建ASMX绕过限制WAF达到命令执行.md)
 
 ## 提权辅助相关
 
@@ -98,6 +100,8 @@
 - [vbulletin5-rce利用工具(批量检测/getshell)](https://github.com/theLSA/vbulletin5-rce)/[保存了一份源码:vbulletin5-rce.py](./tools/vbulletin5-rce.py)
 - [CVE-2017-12615](./tools/CVE-2017-12615.py)
 - [通过Shodan和favicon icon发现真实IP地址](https://github.com/pielco11/fav-up)
+- [Cobalt_Strike扩展插件](./tools/Cobalt_Strike扩展插件.md)
+- [Windows命令行cmd的空格替换](./tools/Windows命令行cmd的空格替换.md)
 
 ## 说明
 
