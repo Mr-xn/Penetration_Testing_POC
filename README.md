@@ -55,6 +55,7 @@
 - [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 - [TP5_RCE合集](./tp5-getshell/TP5_RCE合集.md)
+- [TP3.X-TP5.x](./tp5-getshell\ThinkPHP.md)
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
@@ -96,6 +97,7 @@
 - [伪装成企业微信名片的钓鱼代码](./tools/伪装成企业微信名片的钓鱼代码.txt)
 - [vbulletin5-rce利用工具(批量检测/getshell)](https://github.com/theLSA/vbulletin5-rce)/[保存了一份源码:vbulletin5-rce.py](./tools/vbulletin5-rce.py)
 - [CVE-2017-12615](./tools/CVE-2017-12615.py)
+- [通过Shodan和favicon icon发现真实IP地址](https://github.com/pielco11/fav-up)
 
 ## 说明
 
