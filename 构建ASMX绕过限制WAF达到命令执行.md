@@ -2,14 +2,14 @@
 
 > 近日，在遇到一个WAF，目标服务器配置如下：  
 
-> 1.ASP.NET
-> 2.IIS
-> 3.Windows
-> 4.X WAF
-> 5.不允许上传 ASP、ASPX、ASA、CER、....
-> 6.任意文件上传漏洞
-> 于是想到还有ASMX，构建SOAP接口，分享给大家以便留存
-> 另外，WAF还拦截“Process()”，于是在C#代码里，创建了一个子类继承Process父类，然后实例化：  
+> 1.ASP.NET  
+> 2.IIS  
+> 3.Windows  
+> 4.X WAF  
+> 5.不允许上传 ASP、ASPX、ASA、CER、....  
+> 6.任意文件上传漏洞  
+> 于是想到还有ASMX，构建SOAP接口，分享给大家以便留存  
+> 另外，WAF还拦截“Process()”，于是在C#代码里，创建了一个子类继承Process父类，然后实例化：    
 
 ![](img/process.png)  
 
