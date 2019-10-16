@@ -80,6 +80,7 @@
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
+- [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)
 
 ## PC
 
