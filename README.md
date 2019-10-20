@@ -106,7 +106,10 @@
 - [通过Shodan和favicon icon发现真实IP地址](https://github.com/pielco11/fav-up)
 - [Cobalt_Strike扩展插件](./tools/Cobalt_Strike扩展插件.md)
 - [Windows命令行cmd的空格替换](./tools/Windows命令行cmd的空格替换.md)
+- [绕过disable_function汇总](./tools/绕过disable_function汇总.md)
+- [WAF Bypass](https://chybeta.gitbooks.io/waf-bypass/content/)
+- [命令注入总结](./tools/命令注入总结.md)
 
 ## 说明
 
-> 此项目所有文章、代码均来源于互联网，仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！
+> 此项目所有文章、代码部分来源于互联网，版权归原作者所有，此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！
