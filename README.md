@@ -75,6 +75,7 @@
 - [Easy File Sharing Web Server 7.2 - GET 缓冲区溢出 (SEH)](./Easy%20File%20Sharing%20Web%20Server%207.2%20-%20GET%20缓冲区溢出%20(SEH).md)
 - [构建ASMX绕过限制WAF达到命令执行(适用于ASP.NET环境)](./构建ASMX绕过限制WAF达到命令执行.md)
 - [CVE-2019-17662-ThinVNC 1.0b1 - Authentication Bypass](./CVE-2019-17662-ThinVNC%201.0b1%20-%20Authentication%20Bypass.md)
+- [CVE-2019-16278andCVE-2019-16279-about-nostromo-nhttpd](./CVE-2019-16278andCVE-2019-16279-about-nostromo-nhttpd.md)
 
 ## 提权辅助相关
 
