@@ -111,6 +111,7 @@
 - [绕过disable_function汇总](./tools/绕过disable_function汇总.md)
 - [WAF Bypass](https://chybeta.gitbooks.io/waf-bypass/content/)
 - [命令注入总结](./tools/命令注入总结.md)
+- [隐藏wifi-ssid获取 · theKingOfNight's Blog](./tools/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
 
 ## 说明
 
