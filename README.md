@@ -17,6 +17,7 @@
 - [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
 - [CVE-2019-16313 蜂网互联企业级路由器v4.31密码泄露漏洞](./CVE-2019-16313%20蜂网互联企业级路由器v4.31密码泄露漏洞.md)
 - [D-Link路由器RCE漏洞](./CVE-2019-16920-D-Link-rce.md)
+- [CVE-2019-13051-Pi-Hole路由端去广告软件的命令注入&权限提升](./CVE-2019-13051)
 
 ## Web APP
 
@@ -77,6 +78,7 @@
 - [CVE-2019-17662-ThinVNC 1.0b1 - Authentication Bypass](./CVE-2019-17662-ThinVNC%201.0b1%20-%20Authentication%20Bypass.md)
 - [CVE-2019-16278andCVE-2019-16279-about-nostromo-nhttpd](./CVE-2019-16278andCVE-2019-16279-about-nostromo-nhttpd.md)
 - [CVE-2019-11043-PHP远程代码执行漏](./CVE-2019-11043)
+- [ThinkCMF漏洞全集和](./ThinkCMF漏洞全集和.md)
 
 ## 提权辅助相关
 
