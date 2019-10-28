@@ -80,6 +80,7 @@
 - [CVE-2019-11043-PHP远程代码执行漏](./CVE-2019-11043)
 - [ThinkCMF漏洞全集和](./ThinkCMF漏洞全集和.md)
 - [CVE-2019-7609-kibana低于6.6.0未授权远程代码命令执行](./CVE-2019-7609-kibana低于6.6.0未授权远程代码命令执行.md)
+- [ecologyExp.jar-泛微ecology OA系统数据库配置文件读取](./tools/ecologyExp.jar)
 
 ## 提权辅助相关
 
