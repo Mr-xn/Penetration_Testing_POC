@@ -117,6 +117,7 @@
 - [WAF Bypass](https://chybeta.gitbooks.io/waf-bypass/content/)
 - [命令注入总结](./tools/命令注入总结.md)
 - [隐藏wifi-ssid获取 · theKingOfNight's Blog](./tools/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
+- [crt.sh证书/域名收集](./tools/crt.sh证书收集.py)
 
 ## 说明
 
