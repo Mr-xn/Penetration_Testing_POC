@@ -83,6 +83,7 @@
 - [ecologyExp.jar-泛微ecology OA系统数据库配置文件读取](./tools/ecologyExp.jar)
 - [freeFTP1.0.8-'PASS'远程缓冲区溢出](./freeFTP1.0.8-'PASS'远程缓冲区溢出.md)
 - [rConfig v3.9.2 RCE漏洞](./rConfig%20v3.9.2%20RCE漏洞.md)
+- [apache_solr_rce](./solr_rce.md)
 
 ## 提权辅助相关
 
