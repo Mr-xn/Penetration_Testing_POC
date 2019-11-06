@@ -120,6 +120,8 @@
 - [命令注入总结](./tools/命令注入总结.md)
 - [隐藏wifi-ssid获取 · theKingOfNight's Blog](./tools/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
 - [crt.sh证书/域名收集](./tools/crt.sh证书收集.py)
+- [TP漏洞集合利用工具py3版本-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/TPscan)
+- [Python2编写的struts2漏洞全版本检测和利用工具-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/struts-scan)
 
 ## 说明
 
