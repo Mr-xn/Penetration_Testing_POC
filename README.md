@@ -56,7 +56,7 @@
 - [CVE-2019-15107 Webmin RCE](./CVE-2019-15107)
 - [thinkphp5 rce漏洞检测工具](./tp5-getshell)
 - [TP5_RCE合集](./tp5-getshell/TP5_RCE合集.md)
-- [TP3.X-TP5.x](./tp5-getshell\ThinkPHP.md)
+- [TP3.X-TP5.x](./tp5-getshell/ThinkPHP.md)
 - [关于ThinkPHP框架的历史漏洞分析集合](https://github.com/Mochazz/ThinkPHP-Vuln)
 - [CVE-2019-11510](./CVE-2019-11510)
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
