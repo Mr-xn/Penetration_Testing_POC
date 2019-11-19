@@ -4,6 +4,7 @@
   - [提权辅助相关](#提权辅助相关)
   - [PC](#PC)
   - [tools](#tools-小工具集合)
+  - [books](#书籍相关)
   - [说明](#%E8%AF%B4%E6%98%8E)
 
 # Penetration_Testing_POC_With_Python
@@ -132,6 +133,10 @@
 - [sqlmap_bypass_安全狗_tamper](./tools/sqlmap_bypass_安全狗_tamper.py)
 - [sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper](./tools/sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper.py)
 - [sqlmap_bypass_云锁_tamper](./tools/sqlmap_bypass_云锁_tamper.py)
+
+## 书籍相关
+
+- [windwos权限维持系列12篇PDF](./books/Window权限维持)
 
 ## 说明
 
