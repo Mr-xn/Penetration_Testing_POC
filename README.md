@@ -90,6 +90,7 @@
 - [用于检测JSON接口令牌安全性测试](https://github.com/ticarpi/jwt_tool)
 - [cve-2019-17424 nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC](cve-2019-17424%20nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC.md)
 - [CVE-2019-12409_Apache_Solr RCE](https://github.com/jas502n/CVE-2019-12409)
+- [Shiro RCE (Padding Oracle Attack)](https://github.com/wuppp/shiro_rce_exp)
 
 ## 提权辅助相关
 
