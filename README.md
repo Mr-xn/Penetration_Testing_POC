@@ -105,6 +105,7 @@
 - [CVE-2019-0708-python版](./BlueKeep/bluekeep-CVE-2019-0708-python)
 - [MS17-010-微软永恒之蓝漏洞](https://github.com/Mr-xn/MS17-010)
 - [macOS-Kernel-Exploit](./macOS-Kernel-Exploit)
+- [CVE-2019-1388 UAC提权 (nt authority\system)](https://github.com/jas502n/CVE-2019-1388)
 
 
 ## tools-[小工具集合](./tools)
