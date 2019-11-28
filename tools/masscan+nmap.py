@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 # __author__: www.t00ls.net-rabbittb
 # modified by mrxn
-# you must needed install python-nmap first  then nmap with pip3 or pip
+# you must needed install python-nmap first with pip3 or pip
 import os
 import time
 import json
