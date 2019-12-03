@@ -136,6 +136,8 @@
 - [sqlmap_bypass_安全狗_tamper](./tools/sqlmap_bypass_安全狗_tamper.py)
 - [sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper](./tools/sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper.py)
 - [sqlmap_bypass_云锁_tamper](./tools/sqlmap_bypass_云锁_tamper.py)
+- [masscan+nmap扫描脚本](./tools/masscan%2Bnmap.py)
+- [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 
 ## 书籍相关
 
