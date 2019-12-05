@@ -138,6 +138,7 @@
 - [sqlmap_bypass_云锁_tamper](./tools/sqlmap_bypass_云锁_tamper.py)
 - [masscan+nmap扫描脚本](./tools/masscan%2Bnmap.py)
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
+- [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
 
 ## 书籍相关
 
