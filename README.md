@@ -141,6 +141,7 @@
 - [masscan+nmap扫描脚本](./tools/masscan%2Bnmap.py)
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 - [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
+- [RdpThief-从远程桌面客户端提取明文凭据辅助工具](https://github.com/0x09AL/RdpThief)
 
 ## 书籍相关
 
