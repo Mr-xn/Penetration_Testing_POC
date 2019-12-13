@@ -142,6 +142,7 @@
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 - [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
 - [RdpThief-从远程桌面客户端提取明文凭据辅助工具](https://github.com/0x09AL/RdpThief)
+- [织梦(DEDECMS)全版本漏洞扫描](https://github.com/lengjibo/dedecmscan)
 
 ## 书籍相关
 
