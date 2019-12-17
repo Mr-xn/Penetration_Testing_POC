@@ -144,6 +144,7 @@
 - [RdpThief-从远程桌面客户端提取明文凭据辅助工具](https://github.com/0x09AL/RdpThief)
 - [织梦(DEDECMS)全版本漏洞扫描](https://github.com/lengjibo/dedecmscan)
 - [使用powershell或CMD直接运行命令反弹shell](https://github.com/ZHacker13/ReverseTCPShell)
+- [FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB弱口令检测](https://github.com/netxfly/x-crack)
 
 ## 书籍相关
 
