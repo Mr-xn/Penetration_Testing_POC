@@ -99,6 +99,7 @@
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
 - [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)
+- [远控免杀系列](https://github.com/TideSec/BypassAntiVirus)
 
 ## PC
 
