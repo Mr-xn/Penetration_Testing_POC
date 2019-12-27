@@ -91,6 +91,7 @@
 - [cve-2019-17424 nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC](cve-2019-17424%20nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC.md)
 - [CVE-2019-12409_Apache_Solr RCE](https://github.com/jas502n/CVE-2019-12409)
 - [Shiro RCE (Padding Oracle Attack)](https://github.com/wuppp/shiro_rce_exp)
+- [CVE-2019-19634-class.upload.php <= 2.0.4任意文件上传](https://github.com/jra89/CVE-2019-19634)
 
 ## 提权辅助相关
 
