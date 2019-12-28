@@ -147,7 +147,7 @@
 - [织梦(DEDECMS)全版本漏洞扫描](https://github.com/lengjibo/dedecmscan)
 - [使用powershell或CMD直接运行命令反弹shell](https://github.com/ZHacker13/ReverseTCPShell)
 - [FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB弱口令检测](https://github.com/netxfly/x-crack)
-- [.git泄露利用脚本](https://github.com/lijiejie/GitHack)
+- [GitHack-.git泄露利用脚本](https://github.com/lijiejie/GitHack)
 - [SVN源代码泄露全版本Dump源码](https://github.com/admintony/svnExploit)
 - [多进程批量网站备份文件扫描](https://github.com/sry309/ihoneyBakFileScan)
 
