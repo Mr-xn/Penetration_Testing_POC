@@ -132,7 +132,7 @@
 - [绕过disable_function汇总](./tools/绕过disable_function汇总.md)
 - [WAF Bypass](https://chybeta.gitbooks.io/waf-bypass/content/)
 - [命令注入总结](./tools/命令注入总结.md)
-- [隐藏wifi-ssid获取 · theKingOfNight's Blog](./tools/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
+- [隐藏wifi-ssid获取 · theKingOfNight's Blog](./books/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
 - [crt.sh证书/域名收集](./tools/crt.sh证书收集.py)
 - [TP漏洞集合利用工具py3版本-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/TPscan)
 - [Python2编写的struts2漏洞全版本检测和利用工具-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/struts-scan)
@@ -154,6 +154,15 @@
 ## 书籍相关
 
 - [windwos权限维持系列12篇PDF](./books/Window权限维持)
+- [44139-mysql-udf-exploitation](./books/44139-mysql-udf-exploitation.pdf)
+- [emlog CMS的代码审计_越权到后台getshell](./books/emlog%20CMS的代码审计_越权到后台getshell%20-%20先知社区.pdf)
+- [PHPOK 5.3 最新版前台注入](./books/PHPOK%205.3%20最新版前台注入%20-%20先知社区.pdf)
+- [PHPOK 5.3 最新版前台无限制注入（二）](./books/PHPOK%205.3%20最新版前台无限制注入（二）%20-%20先知社区.pdf)
+- [Thinkphp5 RCE总结](./books/Thinkphp5%20RCE总结%20_%20ChaBug安全.pdf)
+- [rConfig v3.9.2 RCE漏洞分析](./books/rConfig%20v3.9.2%20RCE漏洞分析.pdf)
+- [weiphp5.0 cms审计之exp表达式注入](./books/weiphp5.0%20cms审计之exp表达式注入%20-%20先知社区.pdf)
+- [zzzphp1.7.4&1.7.5到处都是sql注入](./books/zzzphp1.7.4%261.7.5到处都是sql注入.pdf)
+- [FCKeditor文件上传漏洞及利用-File-Upload-Vulnerability-in-FCKEditor](./books/FCKeditor文件上传漏洞及利用-File-Upload-Vulnerability-in-FCKEditor.pdf)
 
 ## 说明
 
