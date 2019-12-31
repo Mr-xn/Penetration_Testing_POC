@@ -93,6 +93,12 @@
 - [CVE-2019-12409_Apache_Solr RCE](https://github.com/jas502n/CVE-2019-12409)
 - [Shiro RCE (Padding Oracle Attack)](https://github.com/wuppp/shiro_rce_exp)
 - [CVE-2019-19634-class.upload.php <= 2.0.4任意文件上传](https://github.com/jra89/CVE-2019-19634)
+- [Apache Solr RCE via Velocity Template Injection](./Apache%20Solr%20RCE%20via%20Velocity%20Template%20Injection.md)
+- [CVE-2019-10758-mongo-express before 0.54.0 is vulnerable to Remote Code Execution ](https://github.com/masahiro331/CVE-2019-10758/)
+- [CVE-2019-2107-Android播放视频-RCE-POC(Android 7.0版本，7.1.1版本，7.1.2版本，8.0版本，8.1版本，9.0版本)](https://github.com/marcinguy/CVE-2019-2107)
+- [CVE-2019-19844-Django重置密码漏洞(受影响版本:Django master branch,Django 3.0,Django 2.2,Django 1.11)](https://github.com/ryu22e/django_cve_2019_19844_poc/)
+- [CVE-2019-17556-unsafe-deserialization-in-apache-olingo(Apache Olingo反序列化漏洞，影响: 4.0.0版本至4.6.0版本)](https://medium.com/bugbountywriteup/cve-2019-17556-unsafe-deserialization-in-apache-olingo-8ebb41b66817)
+- 
 
 ## 提权辅助相关
 
@@ -102,6 +108,7 @@
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
 - [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)
 - [远控免杀系列](https://github.com/TideSec/BypassAntiVirus)
+- [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 
 ## PC
 
@@ -151,6 +158,7 @@
 - [GitHack-.git泄露利用脚本](https://github.com/lijiejie/GitHack)
 - [SVN源代码泄露全版本Dump源码](https://github.com/admintony/svnExploit)
 - [多进程批量网站备份文件扫描](https://github.com/sry309/ihoneyBakFileScan)
+- [Empire](https://github.com/BC-SECURITY/Empire/)|相关文章:[后渗透测试神器Empire详解](https://mp.weixin.qq.com/s/xCtkoIwVomx5f8hVSoGKpA)
 
 ## 书籍相关
 
