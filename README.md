@@ -10,7 +10,7 @@
 # Penetration_Testing_POC_With_Python
 搜集有关渗透测试中用python编写的POC、脚本
 
-## 请使用搜索查找
+## 请善用搜索[`Ctrl+F`]查找
 
 ## IOT Device
 
@@ -159,6 +159,7 @@
 - [SVN源代码泄露全版本Dump源码](https://github.com/admintony/svnExploit)
 - [多进程批量网站备份文件扫描](https://github.com/sry309/ihoneyBakFileScan)
 - [Empire](https://github.com/BC-SECURITY/Empire/)|相关文章:[后渗透测试神器Empire详解](https://mp.weixin.qq.com/s/xCtkoIwVomx5f8hVSoGKpA)
+- [FOFA Pro view 是一款FOFA Pro 资产展示浏览器插件，目前兼容 Chrome、Firefox、Opera](https://github.com/0nise/fofa_view)
 
 ## 书籍相关
 
