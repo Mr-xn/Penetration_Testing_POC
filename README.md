@@ -98,7 +98,7 @@
 - [CVE-2019-2107-Android播放视频-RCE-POC(Android 7.0版本，7.1.1版本，7.1.2版本，8.0版本，8.1版本，9.0版本)](https://github.com/marcinguy/CVE-2019-2107)
 - [CVE-2019-19844-Django重置密码漏洞(受影响版本:Django master branch,Django 3.0,Django 2.2,Django 1.11)](https://github.com/ryu22e/django_cve_2019_19844_poc/)
 - [CVE-2019-17556-unsafe-deserialization-in-apache-olingo(Apache Olingo反序列化漏洞，影响: 4.0.0版本至4.6.0版本)](https://medium.com/bugbountywriteup/cve-2019-17556-unsafe-deserialization-in-apache-olingo-8ebb41b66817)
-- 
+- [ZZCMS201910 SQL Injections](./ZZCMS201910%20SQL%20Injections.md)
 
 ## 提权辅助相关
 
