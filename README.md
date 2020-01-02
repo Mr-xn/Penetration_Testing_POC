@@ -117,7 +117,7 @@
 - [MS17-010-微软永恒之蓝漏洞](https://github.com/Mr-xn/MS17-010)
 - [macOS-Kernel-Exploit](./macOS-Kernel-Exploit)
 - [CVE-2019-1388 UAC提权 (nt authority\system)](https://github.com/jas502n/CVE-2019-1388)
-- [CVE-2019-1405 and CVE-2019-1322 Microsoft Windows 10 Build 1803 < 1903 - 'COMahawk' Local Privilege Escalation](https://github.com/apt69/COMahawk)
+- [CVE-2019-1405和CVE-2019-1322：通过组合漏洞进行权限提升 Microsoft Windows 10 Build 1803 < 1903 - 'COMahawk' Local Privilege Escalation](https://github.com/apt69/COMahawk)
 - [CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708)
 - [Telegram(macOS v4.9.155353) 代码执行漏洞](https://github.com/Metnew/telegram-links-nsworkspace-open)
 
