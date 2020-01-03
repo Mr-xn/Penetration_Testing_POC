@@ -164,6 +164,7 @@
 ## 书籍相关
 
 - [windwos权限维持系列12篇PDF](./books/Window权限维持)
+- [Linux 权限维持之进程注入](./books/Linux%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81%E4%B9%8B%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%20%C2%AB%20%E5%80%BE%E6%97%8B%E7%9A%84%E5%8D%9A%E5%AE%A2.pdf)
 - [44139-mysql-udf-exploitation](./books/44139-mysql-udf-exploitation.pdf)
 - [emlog CMS的代码审计_越权到后台getshell](./books/emlog%20CMS的代码审计_越权到后台getshell%20-%20先知社区.pdf)
 - [PHPOK 5.3 最新版前台注入](./books/PHPOK%205.3%20最新版前台注入%20-%20先知社区.pdf)
