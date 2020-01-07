@@ -166,6 +166,7 @@
 - [一个包含php,java,python,C#等各种语言版本的XXE漏洞Demo](https://github.com/c0ny1/xxe-lab)
 - [内网常见渗透工具包](https://github.com/yuxiaokui/Intranet-Penetration)
 - [从内存中加载 SHELLCODE bypass AV查杀](https://github.com/brimstone/go-shellcode)|[twitter示例](https://twitter.com/jas502n/status/1213847002947051521)
+- [流量转发工具-pingtunnel是把tcp/udp/sock5流量伪装成icmp流量进行转发的工具](https://github.com/esrrhs/pingtunnel)
 
 ## 书籍相关
 
@@ -181,6 +182,7 @@
 - [zzzphp1.7.4&1.7.5到处都是sql注入](./books/zzzphp1.7.4%261.7.5到处都是sql注入.pdf)
 - [FCKeditor文件上传漏洞及利用-File-Upload-Vulnerability-in-FCKEditor](./books/FCKeditor文件上传漏洞及利用-File-Upload-Vulnerability-in-FCKEditor.pdf)
 - [zzcms 2019 版本代码审计](./books/zzcms%202019%E7%89%88%E6%9C%AC%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%20-%20%E5%85%88%E7%9F%A5%E7%A4%BE%E5%8C%BA.pdf)
+- [利用SQLmap 结合 OOB 技术实现音速盲注](./books/手把手带你利用SQLmap结合OOB技术实现音速盲注.pdf)
 
 ## 说明
 
