@@ -171,6 +171,7 @@
 - [pypykatz-通过python3实现完整的Mimikatz功能(python3.6+)](https://github.com/skelsec/pypykatz)
 - [【windows】Bypassing AV via in-memory PE execution-通过在内存中加载多次XOR后的payload来bypass杀软](https://blog.dylan.codes/bypassing-av-via/)|[作者自建gitlab地址](https://git.dylan.codes/batman/darkarmour)
 - [wafw00f-帮助你快速识别web应用是否使用何种WAF(扫描之前很有用)](https://github.com/EnableSecurity/wafw00f)
+- [Linux提取其他用户密码的工具(需要root权限)](https://github.com/huntergregal/mimipenguin)
 
 ## 书籍相关
 
