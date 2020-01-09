@@ -174,6 +174,7 @@
 - [wafw00f-帮助你快速识别web应用是否使用何种WAF(扫描之前很有用)](https://github.com/EnableSecurity/wafw00f)
 - [Linux提取其他用户密码的工具(需要root权限)](https://github.com/huntergregal/mimipenguin)
 - [apache2_BackdoorMod-apache后门模块](https://github.com/VladRico/apache2_BackdoorMod)
+- [对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)](https://github.com/uknowsec/SharpDecryptPwd)
 
 ## 书籍相关
 
