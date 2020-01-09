@@ -110,6 +110,7 @@
 - [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)
 - [远控免杀系列](https://github.com/TideSec/BypassAntiVirus)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
+- [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
 
 ## PC
 
