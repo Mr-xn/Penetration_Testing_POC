@@ -100,6 +100,7 @@
 - [CVE-2019-17556-unsafe-deserialization-in-apache-olingo(Apache Olingo反序列化漏洞，影响: 4.0.0版本至4.6.0版本)](https://medium.com/bugbountywriteup/cve-2019-17556-unsafe-deserialization-in-apache-olingo-8ebb41b66817)
 - [ZZCMS201910 SQL Injections](./ZZCMS201910%20SQL%20Injections.md)
 - [WDJACMS1.5.2模板注入漏洞](./WDJACMS1.5.2模板注入漏洞.md)
+- [CVE-2019-19781-Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway](https://github.com/projectzeroindia/CVE-2019-19781)
 
 ## 提权辅助相关
 
