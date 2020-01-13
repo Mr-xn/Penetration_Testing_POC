@@ -20,6 +20,7 @@
 - [D-Link路由器RCE漏洞](./CVE-2019-16920-D-Link-rce.md)
 - [CVE-2019-13051-Pi-Hole路由端去广告软件的命令注入&权限提升](./CVE-2019-13051)
 - [D-Link DIR-859 - RCE UnAutenticated (CVE-2019–17621)](https://github.com/s1kr10s/D-Link-DIR-859-RCE)
+- [小米系列路由器远程命令执行漏洞(CVE-2019-18370，CVE-2019-18371)](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC)
 
 ## Web APP
 
@@ -176,6 +177,7 @@
 - [Linux提取其他用户密码的工具(需要root权限)](https://github.com/huntergregal/mimipenguin)
 - [apache2_BackdoorMod-apache后门模块](https://github.com/VladRico/apache2_BackdoorMod)
 - [对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)](https://github.com/uknowsec/SharpDecryptPwd)
+- [一个简单探测jboss漏洞的工具](https://github.com/GGyao/jbossScan)
 
 ## 书籍相关
 
