@@ -103,6 +103,7 @@
 - [WDJACMS1.5.2模板注入漏洞](./WDJACMS1.5.2模板注入漏洞.md)
 - [CVE-2019-19781-Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway](https://github.com/projectzeroindia/CVE-2019-19781)
 - [CVE-2019-19781.nse---use Nmap check  Citrix ADC Remote Code Execution](https://github.com/cyberstruggle/DeltaGroup/tree/master/CVE-2019-19781)
+- [Mysql Client 任意文件读取攻击链拓展](https://paper.seebug.org/1112/)
 
 ## 提权辅助相关
 
