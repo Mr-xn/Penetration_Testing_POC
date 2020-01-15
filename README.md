@@ -180,6 +180,7 @@
 - [apache2_BackdoorMod-apache后门模块](https://github.com/VladRico/apache2_BackdoorMod)
 - [对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)](https://github.com/uknowsec/SharpDecryptPwd)
 - [一个简单探测jboss漏洞的工具](https://github.com/GGyao/jbossScan)
+- [一款lcx在golang下的实现-适合内网代理流量到公网,比如阿里云的机器代理到你的公网机器](https://github.com/cw1997/NATBypass)
 
 ## 书籍相关
 
