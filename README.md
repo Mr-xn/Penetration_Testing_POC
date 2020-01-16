@@ -21,7 +21,7 @@
 - [CVE-2019-13051-Pi-Hole路由端去广告软件的命令注入&权限提升](./CVE-2019-13051)
 - [D-Link DIR-859 - RCE UnAutenticated (CVE-2019–17621)](https://github.com/s1kr10s/D-Link-DIR-859-RCE)
 - [小米系列路由器远程命令执行漏洞(CVE-2019-18370，CVE-2019-18371)](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC)
-- [Huawei HG255 Directory Traversal[目录穿越]](https://packetstormsecurity.com/files/155954/huaweihg255-traversal.rb.txt)
+- [Huawei HG255 Directory Traversal[目录穿越]](https://packetstormsecurity.com/files/155954/huaweihg255-traversal.rb.txt)|[本地备份文件](./tools/huaweihg255-traversal.rb)
 
 ## Web APP
 
@@ -107,6 +107,8 @@
 - [Mysql Client 任意文件读取攻击链拓展](https://paper.seebug.org/1112/)
 - [CVE-2020-5504-phpMyAdmin注入(需要登录)](https://xz.aliyun.com/t/7092)
 - [CVE-2020-5509-Car Rental Project 1.0版本中存在远程代码执行漏洞](https://github.com/FULLSHADE/CVE-2020-5509-POC)
+- [CryptoAPI PoC CVE-2020-0601](https://github.com/kudelskisecurity/chainoffools/blob/master/README.md)
+- [New Weblogic RCE  (CVE-2020-2546、CVE-2020-2551) CVE-2020-2546](https://mp.weixin.qq.com/s/Q-ZtX-7vt0JnjNbBmyuG0w)
 
 ## 提权辅助相关
 
