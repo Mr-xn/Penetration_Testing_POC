@@ -105,6 +105,7 @@
 - [CVE-2019-19781.nse---use Nmap check  Citrix ADC Remote Code Execution](https://github.com/cyberstruggle/DeltaGroup/tree/master/CVE-2019-19781)
 - [Mysql Client 任意文件读取攻击链拓展](https://paper.seebug.org/1112/)
 - [CVE-2020-5504-phpMyAdmin注入(需要登录)](https://xz.aliyun.com/t/7092)
+- [CVE-2020-5509-Car Rental Project 1.0版本中存在远程代码执行漏洞](https://github.com/FULLSHADE/CVE-2020-5509-POC)
 
 ## 提权辅助相关
 
@@ -116,6 +117,7 @@
 - [远控免杀系列](https://github.com/TideSec/BypassAntiVirus)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
+- [将powershell脚本直接注入到进程中执行来绕过对powershell.exe的限制](https://github.com/EmpireProject/PSInject)
 
 ## PC
 
