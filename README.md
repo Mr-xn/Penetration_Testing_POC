@@ -119,6 +119,7 @@
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
 - [将powershell脚本直接注入到进程中执行来绕过对powershell.exe的限制](https://github.com/EmpireProject/PSInject)
+- [CVE-2020-2696 – Local privilege escalation via CDE dtsession](https://github.com/0xdea/exploits/blob/master/solaris/raptor_dtsession_ipa.c)
 
 ## PC
 
