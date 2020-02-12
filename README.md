@@ -23,6 +23,7 @@
 - [小米系列路由器远程命令执行漏洞(CVE-2019-18370，CVE-2019-18371)](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC)
 - [Huawei HG255 Directory Traversal[目录穿越]](https://packetstormsecurity.com/files/155954/huaweihg255-traversal.rb.txt)|[本地备份文件](./tools/huaweihg255-traversal.rb)
 - [D-Link Devices - Unauthenticated Remote Command Execution in ssdpcgi (Metasploit)CVE-2019-20215(Metasploit)](./POC_Details/D-Link%20Devices%20-%20Unauthenticated%20Remote%20Command%20Execution%20in%20ssdpcgi%20(Metasploit)%20CVE-2019-20215.rb)
+- [从 Interfaces.d 到 RCE：Mozilla WebThings IoT 网关漏洞挖掘](https://research.nccgroup.com/2020/02/10/interfaces-d-to-rce/)
 
 ## Web APP
 
