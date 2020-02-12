@@ -115,6 +115,7 @@
 - [PHPOK v5.3&v5.4getshell](https://www.anquanke.com/post/id/194453) | [phpok V5.4.137前台getshell分析](https://forum.90sec.com/t/topic/728) | [PHPOK 4.7从注入到getshell](https://xz.aliyun.com/t/1569)
 - [thinkphp6 session 任意文件创建漏洞复现 含POC](./books/thinkphp6%20session%20任意文件创建漏洞复现%20含POC.pdf) --- 原文在漏洞推送公众号上
 - [WordPress InfiniteWP - Client Authentication Bypass (Metasploit)](https://www.exploit-db.com/exploits/48047)
+- [【Linux提权/RCE】OpenSMTPD 6.4.0 < 6.6.1 - Local Privilege Escalation + Remote Code Execution](https://www.exploit-db.com/exploits/48051)
 
 ## 提权辅助相关
 
