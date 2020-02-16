@@ -118,6 +118,7 @@
 - [WordPress InfiniteWP - Client Authentication Bypass (Metasploit)](https://www.exploit-db.com/exploits/48047)
 - [【Linux提权/RCE】OpenSMTPD 6.4.0 < 6.6.1 - Local Privilege Escalation + Remote Code Execution](https://www.exploit-db.com/exploits/48051)
 - [CVE-2020-7471-django1.11-1.11.282.2-2.2.103.0-3.0.3 StringAgg(delimiter)使用了不安全的数据会造成SQL注入漏洞环境和POC](https://github.com/Saferman/CVE-2020-7471)
+- [CVE-2019-17564 : Apache Dubbo反序列化漏洞](https://www.anquanke.com/post/id/198747)
 
 ## 提权辅助相关
 
