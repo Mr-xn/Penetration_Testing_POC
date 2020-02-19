@@ -210,6 +210,7 @@
 - [A script to scan for unsecured Laravel .env files](https://github.com/tismayil/laravelN00b)
 - [Struts2漏洞扫描Golang版-【特点:单文件、全平台支持、可在webshell下使用】](https://github.com/x51/STS2G)
 - [Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)
+- [完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
 
 ## 书籍相关
 
