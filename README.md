@@ -214,6 +214,7 @@
 - [Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)
 - [完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
 - [GitHub敏感信息泄露监控](https://github.com/FeeiCN/GSIL)
+- [Java安全相关的漏洞和技术demo](https://github.com/threedr3am/learnjavabug)
 
 ## 书籍相关
 
