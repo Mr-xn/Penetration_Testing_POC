@@ -135,6 +135,7 @@
 - [CVE-2020-2696 – Local privilege escalation via CDE dtsession](https://github.com/0xdea/exploits/blob/master/solaris/raptor_dtsession_ipa.c)
 - [CVE-2020-0683-利用Windows MSI “Installer service”提权](https://github.com/padovah4ck/CVE-2020-0683/)
 - [Linux sudo提权辅助工具—查找sudo权限配置漏洞](https://github.com/TH3xACE/SUDO_KILLER)
+- [Windows提权-CVE-2020-0668：Windows Service Tracing本地提权漏洞](https://github.com/RedCursorSecurityConsulting/CVE-2020-0668)
 
 ## PC
 
