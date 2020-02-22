@@ -121,7 +121,7 @@
 - [YzmCMS 5.4 后台getshell](https://xz.aliyun.com/t/7231)
 - [CNVD-2020-10487(CVE-2020-1938), tomcat ajp 文件读取漏洞poc](https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC)|[Java版本POC](https://github.com/0nise/CVE-2020-1938)|[Tomcat-Ajp协议文件读取漏洞](https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi/)
 - [CVE-2020-8840：Jackson-databind远程命令执行漏洞（或影响fastjson）](https://github.com/jas502n/CVE-2020-8840)
-- [CVE-2020-8813-Cacti v1.2.8 RCE远程代码执行 EXP以及分析（需要认证/或开启访客即可不需要登录）(一款Linux是基于PHP,MySQL,SNMP及RRDTool开发的网络流量监测图形分析工具)](https://shells.systems/cacti-v1-2-8-authenticated-remote-code-execution-cve-2020-8813/)
+- [CVE-2020-8813-Cacti v1.2.8 RCE远程代码执行 EXP以及分析（需要认证/或开启访客即可不需要登录）(一款Linux是基于PHP,MySQL,SNMP及RRDTool开发的网络流量监测图形分析工具)](https://shells.systems/cacti-v1-2-8-authenticated-remote-code-execution-cve-2020-8813/)|[EXP](./CVE-2020-8813%20-%20Cacti%20v1.2.8%20RCE.md)
 
 ## 提权辅助相关
 
