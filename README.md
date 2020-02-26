@@ -224,7 +224,7 @@
 - [bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统](https://github.com/CTF-MissFeng/bayonet)
 - [内网渗透中常用的c#程序整合成cs脚本，直接内存加载](https://github.com/uknowsec/SharpToolsAggressor)
 - [又一个各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
-- [内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|**相关文章:**[配置reGeorg+Proxifier渗透内网]([https://www.k0rz3n.com/2018/07/06/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8reGeorg+Proxifier%E6%B8%97%E9%80%8F%E5%86%85%E7%BD%91/](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网/))|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier]([https://sky666sec.github.io/2017/12/16/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E4%B9%8BreGeorg-Proxifier/](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier/))|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
+- [内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|**相关文章:**[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
 
 ## 书籍相关
 
