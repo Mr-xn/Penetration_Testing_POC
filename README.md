@@ -140,6 +140,7 @@
 - [CVE-2020-0683-利用Windows MSI “Installer service”提权](https://github.com/padovah4ck/CVE-2020-0683/)
 - [Linux sudo提权辅助工具—查找sudo权限配置漏洞](https://github.com/TH3xACE/SUDO_KILLER)
 - [Windows提权-CVE-2020-0668：Windows Service Tracing本地提权漏洞](https://github.com/RedCursorSecurityConsulting/CVE-2020-0668)
+- [Linux提取-Linux kernel XFRM UAF poc (3.x - 5.x kernels)2020年1月前没打补丁可测试](https://github.com/duasynt/xfrm_poc)
 
 ## PC
 
