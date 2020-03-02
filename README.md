@@ -26,6 +26,7 @@
 - [小米系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md)
 - [Intelbras Wireless N 150Mbps WRN240 - Authentication Bypass (Config Upload-未经验证即可替换固件)](https://www.exploit-db.com/exploits/48158)
 - [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)
+- [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 
 ## Web APP
 
