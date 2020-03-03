@@ -127,6 +127,7 @@
 - [CVE-2020-8840：Jackson-databind远程命令执行漏洞（或影响fastjson）](https://github.com/jas502n/CVE-2020-8840)
 - [CVE-2020-8813-Cacti v1.2.8 RCE远程代码执行 EXP以及分析（需要认证/或开启访客即可不需要登录）(一款Linux是基于PHP,MySQL,SNMP及RRDTool开发的网络流量监测图形分析工具)](https://shells.systems/cacti-v1-2-8-authenticated-remote-code-execution-cve-2020-8813/)|[EXP](./CVE-2020-8813%20-%20Cacti%20v1.2.8%20RCE.md)|[CVE-2020-8813MSF利用脚本](https://www.exploit-db.com/exploits/48159)
 - [CVE-2020-7246-PHP项目管理系统qdPM< 9.1 RCE](https://www.exploit-db.com/exploits/48146)
+- [CVE-2020-9547：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9547)
 
 ## 提权辅助相关
 
