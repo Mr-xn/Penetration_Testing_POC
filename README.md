@@ -25,7 +25,7 @@
 - [从 Interfaces.d 到 RCE：Mozilla WebThings IoT 网关漏洞挖掘](https://research.nccgroup.com/2020/02/10/interfaces-d-to-rce/)
 - [小米系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md)
 - [Intelbras Wireless N 150Mbps WRN240 - Authentication Bypass (Config Upload-未经验证即可替换固件)](https://www.exploit-db.com/exploits/48158)
-- [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)
+- [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[Wing FTP Server 6.2.3权限提升漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)|[Wing FTP Server 6.2.5权限提升](https://www.exploit-db.com/exploits/48154)
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 
 ## Web APP
@@ -161,6 +161,7 @@
 - [CVE-2020-0618: 微软 SQL Server Reporting Services远程代码执行（RCE）漏洞](https://www.mdsec.co.uk/2020/02/cve-2020-0618-rce-in-sql-server-reporting-services-ssrs/)|[GitHub验证POC(其实前文的分析文章也有)](https://github.com/euphrat1ca/CVE-2020-0618)
 - [CVE-2020-0767Microsoft ChakraCore脚本引擎【Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分】安全漏洞](https://github.com/phoenhex/files/blob/master/pocs/cve-2020-0767.js)
 - [CVE-2020-0688：微软EXCHANGE服务的远程代码执行漏洞](https://github.com/random-robbie/cve-2020-0688)|[CVE-2020-0688_EXP---另一个漏洞检测利用脚本](https://github.com/Yt1g3r/CVE-2020-0688_EXP)|[又一个cve-2020-0688利用脚本](https://github.com/Ridter/cve-2020-0688)
+- [CVE-2020-0674: Internet Explorer远程代码执行漏洞检测](https://github.com/binaryfigments/CVE-2020-0674)
 
 
 ## tools-[小工具集合](./tools)
