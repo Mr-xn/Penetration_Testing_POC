@@ -238,6 +238,7 @@
 - [内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|**相关文章:**[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
+- [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
 
 ## 书籍相关
 
