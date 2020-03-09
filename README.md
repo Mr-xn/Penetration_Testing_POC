@@ -129,6 +129,7 @@
 - [CVE-2020-7246-PHP项目管理系统qdPM< 9.1 RCE](https://www.exploit-db.com/exploits/48146)
 - [CVE-2020-9547：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9547)
 - [CVE-2020-9548：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9548)
+- [Apache ActiveMQ 5.11.1目录遍历/ Shell上传](https://cxsecurity.com/issue/WLB-2020030033)
 
 ## 提权辅助相关
 
