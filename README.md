@@ -130,6 +130,8 @@
 - [CVE-2020-9547：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9547)
 - [CVE-2020-9548：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9548)
 - [Apache ActiveMQ 5.11.1目录遍历/ Shell上传](https://cxsecurity.com/issue/WLB-2020030033)
+- [CVE-2020-2555：WebLogic RCE漏洞POC](https://mp.weixin.qq.com/s/Wq6Fu-NlK8lzofLds8_zoA)
+- [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
 
 ## 提权辅助相关
 
@@ -148,6 +150,7 @@
 - [Windows提权-CVE-2020-0668：Windows Service Tracing本地提权漏洞](https://github.com/RedCursorSecurityConsulting/CVE-2020-0668)
 - [Linux提取-Linux kernel XFRM UAF poc (3.x - 5.x kernels)2020年1月前没打补丁可测试](https://github.com/duasynt/xfrm_poc)
 - [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
+- [Linux提权辅助检测Perl脚本](https://github.com/jondonas/linux-exploit-suggester-2)|[Linux提权辅助检测bash脚本](https://github.com/mzet-/linux-exploit-suggester)
 
 ## PC
 
@@ -244,6 +247,8 @@
 - [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
 - [社会工程学密码生成器，是一个利用个人信息生成密码的工具](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)
 - [云业CMS(yunyecms)的多处SQL注入审计分析](./books/云业CMS(yunyecms)的多处SQL注入审计分析.pdf)|[原文地址](https://xz.aliyun.com/t/7302)|[官网下载地址](http://www.yunyecms.com/index.php?m=version&c=index&a=index)|[sqlmap_yunyecms_front_sqli_tamp.py](./tools/sqlmap_yunyecms_front_sqli_tamp.py)
+- [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)
+- [【PHP】bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
 
 ## 书籍相关
 
@@ -262,6 +267,7 @@
 - [利用SQLmap 结合 OOB 技术实现音速盲注](./books/手把手带你利用SQLmap结合OOB技术实现音速盲注.pdf)
 - [特权提升技术总结之Windows文件服务内核篇(主要是在webshell命令行执行各种命令搜集信息)](https://xz.aliyun.com/t/7261)|[(项目留存PDF版本)](./books/特权提升技术总结之Windows文件服务内核篇%20-%20先知社区.pdf)
 - [WellCMS 2.0 Beta3 后台任意文件上传](./books/WellCMS%202.0%20Beta3%20后台任意文件上传.pdf)
+- [国外详细的CTF分析总结文章(2014-2017年)](https://github.com/ctfs)
 
 ## 说明
 
