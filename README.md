@@ -168,6 +168,7 @@
 - [CVE-2020-0674: Internet Explorer远程代码执行漏洞检测](https://github.com/binaryfigments/CVE-2020-0674)
 - [CVE-2020-8794: OpenSMTPD 远程命令执行漏洞](./CVE-2020-8794-OpenSMTPD%20远程命令执行漏洞.md)
 - [Linux平台-CVE-2020-8597: PPPD 远程代码执行漏洞](https://github.com/marcinguy/CVE-2020-8597)
+- [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)
 
 
 ## tools-[小工具集合](./tools)
