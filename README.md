@@ -132,6 +132,7 @@
 - [Apache ActiveMQ 5.11.1目录遍历/ Shell上传](https://cxsecurity.com/issue/WLB-2020030033)
 - [CVE-2020-2555：WebLogic RCE漏洞POC](https://mp.weixin.qq.com/s/Wq6Fu-NlK8lzofLds8_zoA)
 - [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
+- [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 
 ## 提权辅助相关
 
@@ -249,7 +250,8 @@
 - [云业CMS(yunyecms)的多处SQL注入审计分析](./books/云业CMS(yunyecms)的多处SQL注入审计分析.pdf)|[原文地址](https://xz.aliyun.com/t/7302)|[官网下载地址](http://www.yunyecms.com/index.php?m=version&c=index&a=index)|[sqlmap_yunyecms_front_sqli_tamp.py](./tools/sqlmap_yunyecms_front_sqli_tamp.py)
 - [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)
 - [【PHP】bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
-- [织梦全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
+- [织梦dedecms全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
+- [CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)
 
 ## 书籍相关
 
