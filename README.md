@@ -274,6 +274,8 @@
 - [特权提升技术总结之Windows文件服务内核篇(主要是在webshell命令行执行各种命令搜集信息)](https://xz.aliyun.com/t/7261)|[(项目留存PDF版本)](./books/特权提升技术总结之Windows文件服务内核篇%20-%20先知社区.pdf)
 - [WellCMS 2.0 Beta3 后台任意文件上传](./books/WellCMS%202.0%20Beta3%20后台任意文件上传.pdf)
 - [国外详细的CTF分析总结文章(2014-2017年)](https://github.com/ctfs)
+- [这是一篇“不一样”的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码](./books/这是一篇"不一样"的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码-%20奇安信A-TEAM技术博客.pdf)|[原文地址](https://blog.ateam.qianxin.com/post/zhe-shi-yi-pian-bu-yi-yang-de-zhen-shi-shen-tou-ce-shi-an-li-fen-xi-wen-zhang/)
+- [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 
 ## 说明
 
