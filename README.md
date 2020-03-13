@@ -130,7 +130,7 @@
 - [CVE-2020-9547：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9547)
 - [CVE-2020-9548：FasterXML/jackson-databind 远程代码执行漏洞](https://github.com/fairyming/CVE-2020-9548)
 - [Apache ActiveMQ 5.11.1目录遍历/ Shell上传](https://cxsecurity.com/issue/WLB-2020030033)
-- [CVE-2020-2555：WebLogic RCE漏洞POC](https://mp.weixin.qq.com/s/Wq6Fu-NlK8lzofLds8_zoA)
+- [CVE-2020-2555：WebLogic RCE漏洞POC](https://mp.weixin.qq.com/s/Wq6Fu-NlK8lzofLds8_zoA)|[CVE-2020-2555-Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE](https://github.com/Y4er/CVE-2020-2555)
 - [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 
@@ -252,6 +252,9 @@
 - [【PHP】bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
 - [织梦dedecms全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
 - [CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)
+- [Dirble -快速目录扫描和爬取工具【比dirsearch和dirb更快】](https://github.com/nccgroup/dirble)
+- [RedRabbit - Red Team PowerShell脚本](https://github.com/securethelogs/RedRabbit)
+- [Pentest Tools Framework - 渗透测试工具集-适用于Linux系统](https://github.com/pikpikcu/Pentest-Tools-Framework)
 
 ## 书籍相关
 
