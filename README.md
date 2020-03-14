@@ -255,6 +255,9 @@
 - [Dirble -快速目录扫描和爬取工具【比dirsearch和dirb更快】](https://github.com/nccgroup/dirble)
 - [RedRabbit - Red Team PowerShell脚本](https://github.com/securethelogs/RedRabbit)
 - [Pentest Tools Framework - 渗透测试工具集-适用于Linux系统](https://github.com/pikpikcu/Pentest-Tools-Framework)
+- [白鹿社工字典生成器，灵活与易用兼顾。](https://github.com/HongLuDianXue/BaiLu-SED-Tool)
+- [NodeJsScan-一款转为Nodejs进行静态代码扫描开发的工具](https://github.com/ajinabraham/NodeJsScan)
+- [一款国人根据poison ivy重写的远控](https://github.com/killeven/Poison-Ivy-Reload)
 
 ## 书籍相关
 
