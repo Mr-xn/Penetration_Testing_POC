@@ -205,7 +205,7 @@
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 - [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
 - [RdpThief-从远程桌面客户端提取明文凭据辅助工具](https://github.com/0x09AL/RdpThief)
-- [织梦(DEDECMS)全版本漏洞扫描](https://github.com/lengjibo/dedecmscan)
+- [织梦(DEDECMS)全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
 - [使用powershell或CMD直接运行命令反弹shell](https://github.com/ZHacker13/ReverseTCPShell)
 - [FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB弱口令检测](https://github.com/netxfly/x-crack)
 - [GitHack-.git泄露利用脚本](https://github.com/lijiejie/GitHack)
