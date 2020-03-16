@@ -1,3 +1,6 @@
+## <span id="head1"> Penetration_Testing_POC</span>
+搜集有关渗透测试中用到的POC、脚本、工具、文章等姿势分享，作为笔记吧，欢迎补充。
+
 - [ Penetration_Testing_POC](#head1)
 - [ 请善用搜索[`Ctrl+F`]查找](#head2)
 - [IOT Device](#head3)
@@ -7,20 +10,8 @@
 - [ tools-小工具集合](#head7)
 - [ 文章/书籍/教程相关](#head8)
 - [ 说明](#head9)
-## <span id="head1"> Penetration_Testing_POC</span>
-搜集有关渗透测试中用到的POC、脚本、工具、文章等姿势分享，作为笔记吧，欢迎补充。
 
 ## <span id="head2"> 请善用搜索[`Ctrl+F`]查找</span>
-
-- - [Penetration_Testing_POC_With_Python](#PenetrationTestingPOCWithPython)
-- [IOT Device](#IOT-Device)
-- [Web APP](#Web-APP)
-- [提权辅助相关](#提权辅助相关)
-- [PC](#PC)
-- [tools](#tools-小工具集合)
-- [books](#书籍相关)
-- [说明](#%E8%AF%B4%E6%98%8E)
-
 ## <span id="head3">IOT Device</span>
 
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
