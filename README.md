@@ -258,6 +258,7 @@
 - [白鹿社工字典生成器，灵活与易用兼顾。](https://github.com/HongLuDianXue/BaiLu-SED-Tool)
 - [NodeJsScan-一款转为Nodejs进行静态代码扫描开发的工具](https://github.com/ajinabraham/NodeJsScan)
 - [一款国人根据poison ivy重写的远控](https://github.com/killeven/Poison-Ivy-Reload)
+- [NoXss-可配合burpsuite批量检测XSS](https://github.com/lwzSoviet/NoXss)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
