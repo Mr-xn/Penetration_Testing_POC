@@ -1,18 +1,27 @@
-## Penetration_Testing_POC
+- [ Penetration_Testing_POC](#head1)
+- [ 请善用搜索[`Ctrl+F`]查找](#head2)
+- [IOT Device](#head3)
+- [Web APP](#head4)
+- [ 提权辅助相关](#head5)
+- [ PC](#head6)
+- [ tools-小工具集合](#head7)
+- [ 文章/书籍/教程相关](#head8)
+- [ 说明](#head9)
+## <span id="head1"> Penetration_Testing_POC</span>
 搜集有关渗透测试中用到的POC、脚本、工具、文章等姿势分享，作为笔记吧，欢迎补充。
 
-## 请善用搜索[`Ctrl+F`]查找
+## <span id="head2"> 请善用搜索[`Ctrl+F`]查找</span>
 
 - - [Penetration_Testing_POC_With_Python](#PenetrationTestingPOCWithPython)
-  - [IOT Device](#IOT-Device)
-  - [Web APP](#Web-APP)
-  - [提权辅助相关](#提权辅助相关)
-  - [PC](#PC)
-  - [tools](#tools-小工具集合)
-  - [books](#书籍/文章/教程相关)
-  - [说明](#%E8%AF%B4%E6%98%8E)
+- [IOT Device](#IOT-Device)
+- [Web APP](#Web-APP)
+- [提权辅助相关](#提权辅助相关)
+- [PC](#PC)
+- [tools](#tools-小工具集合)
+- [books](#书籍相关)
+- [说明](#%E8%AF%B4%E6%98%8E)
 
-## IOT Device
+## <span id="head3">IOT Device</span>
 
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
 - [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
@@ -28,7 +37,7 @@
 - [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[Wing FTP Server 6.2.3权限提升漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)|[Wing FTP Server 6.2.5权限提升](https://www.exploit-db.com/exploits/48154)
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 
-## Web APP
+## <span id="head4">Web APP</span>
 
 - [致远OA_A8_getshell_0day](致远OA_A8_getshell_0day.md)
 - [Couch through 2.0存在路径泄露漏洞 ](Couch%20through%202.0存在路径泄露漏洞.md)
@@ -135,7 +144,7 @@
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 - [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
 
-## 提权辅助相关
+## <span id="head5"> 提权辅助相关</span>
 
 - [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
@@ -154,7 +163,7 @@
 - [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 - [Linux提权辅助检测Perl脚本](https://github.com/jondonas/linux-exploit-suggester-2)|[Linux提权辅助检测bash脚本](https://github.com/mzet-/linux-exploit-suggester)
 
-## PC
+## <span id="head6"> PC</span>
 
 - [ 微软RDP远程代码执行漏洞（CVE-2019-0708）](./BlueKeep)
 - [CVE-2019-0708-python版](./BlueKeep/bluekeep-CVE-2019-0708-python)
@@ -176,7 +185,7 @@
 - [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)|[CVE-2020–0796检测与修复](CVE-2020-0796检测与修复.md)
 
 
-## tools-[小工具集合](./tools)
+## <span id="head7"> tools-小工具集合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
 - [Linux登录日志清除/伪造](./tools/ssh)
@@ -259,7 +268,7 @@
 - [NodeJsScan-一款转为Nodejs进行静态代码扫描开发的工具](https://github.com/ajinabraham/NodeJsScan)
 - [一款国人根据poison ivy重写的远控](https://github.com/killeven/Poison-Ivy-Reload)
 
-## 书籍/文章/教程相关
+## <span id="head8"> 文章/书籍/教程相关</span>
 
 - [windwos权限维持系列12篇PDF](./books/Window权限维持)
 - [Linux 权限维持之进程注入(需要关闭ptrace)](./books/Linux%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81%E4%B9%8B%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%20%C2%AB%20%E5%80%BE%E6%97%8B%E7%9A%84%E5%8D%9A%E5%AE%A2.pdf) | [在不使用ptrace的情况下，将共享库（即任意代码）注入实时Linux进程中。(不需要关闭ptrace)](https://github.com/DavidBuchanan314/dlinject)
@@ -281,6 +290,6 @@
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [表达式注入.pdf](./books/表达式注入.pdf)
 
-## 说明
+## <span id="head9"> 说明</span>
 
 > 此项目所有文章、代码部分来源于互联网，版权归原作者所有，此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！
