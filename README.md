@@ -9,7 +9,7 @@
   - [提权辅助相关](#提权辅助相关)
   - [PC](#PC)
   - [tools](#tools-小工具集合)
-  - [books](#书籍相关)
+  - [books](#书籍/文章/教程相关)
   - [说明](#%E8%AF%B4%E6%98%8E)
 
 ## IOT Device
@@ -133,6 +133,7 @@
 - [CVE-2020-2555：WebLogic RCE漏洞POC](https://mp.weixin.qq.com/s/Wq6Fu-NlK8lzofLds8_zoA)|[CVE-2020-2555-Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE](https://github.com/Y4er/CVE-2020-2555)
 - [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
+- [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
 
 ## 提权辅助相关
 
@@ -205,7 +206,6 @@
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 - [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
 - [RdpThief-从远程桌面客户端提取明文凭据辅助工具](https://github.com/0x09AL/RdpThief)
-- [织梦(DEDECMS)全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
 - [使用powershell或CMD直接运行命令反弹shell](https://github.com/ZHacker13/ReverseTCPShell)
 - [FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB弱口令检测](https://github.com/netxfly/x-crack)
 - [GitHack-.git泄露利用脚本](https://github.com/lijiejie/GitHack)
@@ -259,7 +259,7 @@
 - [NodeJsScan-一款转为Nodejs进行静态代码扫描开发的工具](https://github.com/ajinabraham/NodeJsScan)
 - [一款国人根据poison ivy重写的远控](https://github.com/killeven/Poison-Ivy-Reload)
 
-## 书籍相关
+## 书籍/文章/教程相关
 
 - [windwos权限维持系列12篇PDF](./books/Window权限维持)
 - [Linux 权限维持之进程注入(需要关闭ptrace)](./books/Linux%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81%E4%B9%8B%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%20%C2%AB%20%E5%80%BE%E6%97%8B%E7%9A%84%E5%8D%9A%E5%AE%A2.pdf) | [在不使用ptrace的情况下，将共享库（即任意代码）注入实时Linux进程中。(不需要关闭ptrace)](https://github.com/DavidBuchanan314/dlinject)
@@ -279,6 +279,7 @@
 - [国外详细的CTF分析总结文章(2014-2017年)](https://github.com/ctfs)
 - [这是一篇“不一样”的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码](./books/这是一篇"不一样"的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码-%20奇安信A-TEAM技术博客.pdf)|[原文地址](https://blog.ateam.qianxin.com/post/zhe-shi-yi-pian-bu-yi-yang-de-zhen-shi-shen-tou-ce-shi-an-li-fen-xi-wen-zhang/)
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
+- [表达式注入.pdf](./books/表达式注入.pdf)
 
 ## 说明
 
