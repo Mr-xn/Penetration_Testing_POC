@@ -262,6 +262,7 @@
 - [NoXss-可配合burpsuite批量检测XSS](https://github.com/lwzSoviet/NoXss)
 - [fofa 采集脚本](https://raw.githubusercontent.com/ggg4566/SomeTools/master/fofa_search.py)
 - [java web 压缩文件 安全 漏洞](https://github.com/jas502n/Java-Compressed-file-security)
+- [可以自定义规则的密码字典生成器,支持图形界面](https://github.com/bit4woo/passmaker)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -284,6 +285,7 @@
 - [这是一篇“不一样”的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码](./books/这是一篇"不一样"的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码-%20奇安信A-TEAM技术博客.pdf)|[原文地址](https://blog.ateam.qianxin.com/post/zhe-shi-yi-pian-bu-yi-yang-de-zhen-shi-shen-tou-ce-shi-an-li-fen-xi-wen-zhang/)
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [表达式注入.pdf](./books/表达式注入.pdf)
+- [WordPress ThemeREX Addons 插件安全漏洞深度分析](./books/WordPress%20ThemeREX%20Addons%20插件安全漏洞深度分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
