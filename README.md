@@ -261,6 +261,7 @@
 - [一款国人根据poison ivy重写的远控](https://github.com/killeven/Poison-Ivy-Reload)
 - [NoXss-可配合burpsuite批量检测XSS](https://github.com/lwzSoviet/NoXss)
 - [fofa 采集脚本](https://raw.githubusercontent.com/ggg4566/SomeTools/master/fofa_search.py)
+- [java web 压缩文件 安全 漏洞](https://github.com/jas502n/Java-Compressed-file-security)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
