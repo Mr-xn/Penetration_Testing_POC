@@ -286,6 +286,7 @@
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [表达式注入.pdf](./books/表达式注入.pdf)
 - [WordPress ThemeREX Addons 插件安全漏洞深度分析](./books/WordPress%20ThemeREX%20Addons%20插件安全漏洞深度分析.pdf)
+- [通达OA文件包含&文件上传漏洞分析](./books/通达OA文件包含&文件上传漏洞分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
