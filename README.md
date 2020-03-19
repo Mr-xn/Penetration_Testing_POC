@@ -289,6 +289,7 @@
 - [WordPress ThemeREX Addons 插件安全漏洞深度分析](./books/WordPress%20ThemeREX%20Addons%20插件安全漏洞深度分析.pdf)
 - [通达OA文件包含&文件上传漏洞分析](./books/通达OA文件包含&文件上传漏洞分析.pdf)
 - [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
+- [权限维持及后门持久化技巧总结](./books/权限维持及后门持久化技巧总结.pdf)
 
 ## <span id="head9"> 说明</span>
 
