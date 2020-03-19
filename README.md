@@ -175,6 +175,7 @@
 - [Linux平台-CVE-2020-8597: PPPD 远程代码执行漏洞](https://github.com/marcinguy/CVE-2020-8597)
 - [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)|[CVE-2020–0796检测与修复](CVE-2020-0796检测与修复.md)|[又一个CVE-2020-0796的检测工具-可导致目标系统崩溃重启](https://github.com/eerykitty/CVE-2020-0796-PoC)
 - [WinRAR 代码执行漏洞 (CVE-2018-20250)-POC](https://github.com/Ridter/acefile)|[相关文章](https://research.checkpoint.com/2019/extracting-code-execution-from-winrar/)|[全网筛查 WinRAR 代码执行漏洞 (CVE-2018-20250)](https://xlab.tencent.com/cn/2019/02/22/investigating-winrar-code-execution-vulnerability-cve-2018-20250-at-internet-scale/)
+- [windows10相关漏洞EXP&POC](https://github.com/nu11secur1ty/Windows10Exploits)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -287,6 +288,7 @@
 - [表达式注入.pdf](./books/表达式注入.pdf)
 - [WordPress ThemeREX Addons 插件安全漏洞深度分析](./books/WordPress%20ThemeREX%20Addons%20插件安全漏洞深度分析.pdf)
 - [通达OA文件包含&文件上传漏洞分析](./books/通达OA文件包含&文件上传漏洞分析.pdf)
+- [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
 
 ## <span id="head9"> 说明</span>
 
