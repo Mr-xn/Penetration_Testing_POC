@@ -135,6 +135,7 @@
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 - [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
 - [通达OA RCE漏洞](https://github.com/fuhei/tongda_rce)
+- [CVE-2020-10673-jackson-databind JNDI注入导致远程代码执行]()
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -265,6 +266,7 @@
 - [fofa 采集脚本](https://raw.githubusercontent.com/ggg4566/SomeTools/master/fofa_search.py)
 - [java web 压缩文件 安全 漏洞](https://github.com/jas502n/Java-Compressed-file-security)
 - [可以自定义规则的密码字典生成器,支持图形界面](https://github.com/bit4woo/passmaker)
+- [dump lass 工具(绕过/干掉卡巴斯基)](./books/dump%20lass%20工具.pdf)|[loader.zip下载](./tools/loader.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
