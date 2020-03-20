@@ -134,6 +134,7 @@
 - [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 - [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
+- [通达OA RCE漏洞](https://github.com/fuhei/tongda_rce)
 
 ## <span id="head5"> 提权辅助相关</span>
 
