@@ -293,6 +293,8 @@
 - [通达OA文件包含&文件上传漏洞分析](./books/通达OA文件包含&文件上传漏洞分析.pdf)
 - [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
 - [权限维持及后门持久化技巧总结](./books/权限维持及后门持久化技巧总结.pdf)
+- [Cobaltstrike 4破解之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
+- [Cobalt Strike 4.0 更新内容介绍](./books/Cobalt%20Strike%204.0%20更新内容介绍.pdf)
 
 ## <span id="head9"> 说明</span>
 
