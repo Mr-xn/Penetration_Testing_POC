@@ -289,14 +289,21 @@
 - [WellCMS 2.0 Beta3 后台任意文件上传](./books/WellCMS%202.0%20Beta3%20后台任意文件上传.pdf)
 - [国外详细的CTF分析总结文章(2014-2017年)](https://github.com/ctfs)
 - [这是一篇“不一样”的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码](./books/这是一篇"不一样"的真实渗透测试案例分析文章-从discuz的后台getshell到绕过卡巴斯基获取域控管理员密码-%20奇安信A-TEAM技术博客.pdf)|[原文地址](https://blog.ateam.qianxin.com/post/zhe-shi-yi-pian-bu-yi-yang-de-zhen-shi-shen-tou-ce-shi-an-li-fen-xi-wen-zhang/)
-- [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [表达式注入.pdf](./books/表达式注入.pdf)
 - [WordPress ThemeREX Addons 插件安全漏洞深度分析](./books/WordPress%20ThemeREX%20Addons%20插件安全漏洞深度分析.pdf)
 - [通达OA文件包含&文件上传漏洞分析](./books/通达OA文件包含&文件上传漏洞分析.pdf)
 - [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
 - [权限维持及后门持久化技巧总结](./books/权限维持及后门持久化技巧总结.pdf)
+- [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [Cobaltstrike 4破解之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
 - [Cobalt Strike 4.0 更新内容介绍](./books/Cobalt%20Strike%204.0%20更新内容介绍.pdf)
+- [Cobal_Strike_自定义OneLiner](./books/Cobal_Strike_自定义OneLiner_Evi1cg's_blog.pdf)
+- [cobalt strike 快速上手 [ 一 ]](./books/cobalt%20strike%20快速上手 [ 一 ]%20-%20klion's blog.pdf)
+- [Cobalt strike3.0使用手册](./books/Cobalt%20strike3.0使用手册 _ Evi1cg's blog.pdf)
+- [Cobalt_Strike_Spear_Phish_CS邮件钓鱼制作](./books/Cobalt_Strike_Spear_Phish_Evi1cg's blog  CS邮件钓鱼制作.md)
+- [Remote NTLM relaying through CS](./books/Remote NTLM relaying through CS _ Evi1cg's blog.pdf)
+- [渗透测试神器Cobalt Strike使用教程](./books/渗透测试神器Cobalt%20Strike使用教程.pdf)
+- [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
 
 ## <span id="head9"> 说明</span>
 
