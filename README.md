@@ -267,6 +267,8 @@
 - [java web 压缩文件 安全 漏洞](https://github.com/jas502n/Java-Compressed-file-security)
 - [可以自定义规则的密码字典生成器,支持图形界面](https://github.com/bit4woo/passmaker)
 - [dump lass 工具(绕过/干掉卡巴斯基)](./books/dump%20lass%20工具.pdf)|[loader.zip下载](./tools/loader.zip)
+- [GO语言版本的mimikatz](https://github.com/vyrus001/go-mimikatz)
+- [CVE-2019-0708-批量检测扫描工具](./tools/cve0708.rar)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
