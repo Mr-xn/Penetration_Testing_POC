@@ -269,6 +269,7 @@
 - [dump lass 工具(绕过/干掉卡巴斯基)](./books/dump%20lass%20工具.pdf)|[loader.zip下载](./tools/loader.zip)
 - [GO语言版本的mimikatz-编译后免杀](https://github.com/vyrus001/go-mimikatz)
 - [CVE-2019-0708-批量检测扫描工具](./tools/cve0708.rar)
+- [dump lsass的工具](https://github.com/outflanknl/Dumpert)|[又一个dump lsass的工具](https://github.com/7hmA3s/dump_lsass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -295,7 +296,7 @@
 - [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
 - [权限维持及后门持久化技巧总结](./books/权限维持及后门持久化技巧总结.pdf)
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
-- [Cobaltstrike 4破解之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
+- [Cobaltstrike 4.0之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
 - [Cobalt Strike 4.0 更新内容介绍](./books/Cobalt%20Strike%204.0%20更新内容介绍.pdf)
 - [Cobal_Strike_自定义OneLiner](./books/Cobal_Strike_自定义OneLiner_Evi1cg's_blog.pdf)
 - [cobalt strike 快速上手 [ 一 ]](./books/cobalt%20strike%20快速上手 [ 一 ]%20-%20klion's blog.pdf)
@@ -304,6 +305,7 @@
 - [Remote NTLM relaying through CS](./books/Remote NTLM relaying through CS _ Evi1cg's blog.pdf)
 - [渗透测试神器Cobalt Strike使用教程](./books/渗透测试神器Cobalt%20Strike使用教程.pdf)
 - [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
+- [ThinkPHP v6.0.0_6.0.1 任意文件操作漏洞分析](./books/ThinkPHP%20v6.0.0_6.0.1%20任意文件操作漏洞分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
