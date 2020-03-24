@@ -307,6 +307,7 @@
 - [渗透测试神器Cobalt Strike使用教程](./books/渗透测试神器Cobalt%20Strike使用教程.pdf)
 - [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
 - [ThinkPHP v6.0.0_6.0.1 任意文件操作漏洞分析](./books/ThinkPHP%20v6.0.0_6.0.1%20任意文件操作漏洞分析.pdf)
+- [Django_CVE-2020-9402_Geo_SQL注入分析](./books/Django_CVE-2020-9402_Geo_SQL注入分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
