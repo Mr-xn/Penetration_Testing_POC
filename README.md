@@ -271,6 +271,7 @@
 - [CVE-2019-0708-批量检测扫描工具](./tools/cve0708.rar)
 - [dump lsass的工具](https://github.com/outflanknl/Dumpert)|[又一个dump lsass的工具](https://github.com/7hmA3s/dump_lsass)
 - [Cobalt Strike插件 - RDP日志取证&清除](https://github.com/QAX-A-Team/EventLogMaster)
+- [xencrypt-一款利用powershell来加密并采用Gzip/DEFLATE来绕过杀软的工具](https://github.com/the-xentropy/xencrypt)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
