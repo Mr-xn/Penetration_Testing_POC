@@ -178,6 +178,7 @@
 - [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)|[CVE-2020–0796检测与修复](CVE-2020-0796检测与修复.md)|[又一个CVE-2020-0796的检测工具-可导致目标系统崩溃重启](https://github.com/eerykitty/CVE-2020-0796-PoC)
 - [WinRAR 代码执行漏洞 (CVE-2018-20250)-POC](https://github.com/Ridter/acefile)|[相关文章](https://research.checkpoint.com/2019/extracting-code-execution-from-winrar/)|[全网筛查 WinRAR 代码执行漏洞 (CVE-2018-20250)](https://xlab.tencent.com/cn/2019/02/22/investigating-winrar-code-execution-vulnerability-cve-2018-20250-at-internet-scale/)
 - [windows10相关漏洞EXP&POC](https://github.com/nu11secur1ty/Windows10Exploits)
+- [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -272,6 +273,7 @@
 - [dump lsass的工具](https://github.com/outflanknl/Dumpert)|[又一个dump lsass的工具](https://github.com/7hmA3s/dump_lsass)
 - [Cobalt Strike插件 - RDP日志取证&清除](https://github.com/QAX-A-Team/EventLogMaster)
 - [xencrypt-一款利用powershell来加密并采用Gzip/DEFLATE来绕过杀软的工具](https://github.com/the-xentropy/xencrypt)
+- [SessionGopher-一款采用powershell来解密Windows机器上保存的session文件，例如： WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop，支持远程加载和本地加载使用](https://github.com/Arvanaghi/SessionGopher)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
