@@ -313,6 +313,7 @@
 - [ThinkPHP v6.0.0_6.0.1 任意文件操作漏洞分析](./books/ThinkPHP%20v6.0.0_6.0.1%20任意文件操作漏洞分析.pdf)
 - [Django_CVE-2020-9402_Geo_SQL注入分析](./books/Django_CVE-2020-9402_Geo_SQL注入分析.pdf)
 - [CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行](./books/CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行.pdf)
+- [安全狗SQL注入WAF绕过](./books/安全狗SQL注入WAF绕过.pdf)
 - [通过将JavaScript隐藏在PNG图片中，绕过CSP](https://www.secjuice.com/hiding-javascript-in-png-csp-bypass/)
 
 ## <span id="head9"> 说明</span>
