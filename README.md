@@ -315,6 +315,7 @@
 - [CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行](./books/CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行.pdf)
 - [安全狗SQL注入WAF绕过](./books/安全狗SQL注入WAF绕过.pdf)
 - [通过将JavaScript隐藏在PNG图片中，绕过CSP](https://www.secjuice.com/hiding-javascript-in-png-csp-bypass/)
+- [通达OA任意文件上传_文件包含GetShell](./books/通达OA任意文件上传_文件包含GetShell.pdf)
 
 ## <span id="head9"> 说明</span>
 
