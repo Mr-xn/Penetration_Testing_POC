@@ -317,6 +317,7 @@
 - [通过将JavaScript隐藏在PNG图片中，绕过CSP](https://www.secjuice.com/hiding-javascript-in-png-csp-bypass/)
 - [通达OA任意文件上传_文件包含GetShell](./books/通达OA任意文件上传_文件包含GetShell.pdf)
 - [文件上传Bypass安全狗4.0](./books/文件上传Bypass安全狗4.0.pdf)
+- [SQL注入Bypass安全狗4.0](./books/SQL注入Bypass安全狗4.0.pdf)
 
 ## <span id="head9"> 说明</span>
 
