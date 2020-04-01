@@ -275,6 +275,7 @@
 - [Cobalt Strike插件 - RDP日志取证&清除](https://github.com/QAX-A-Team/EventLogMaster)
 - [xencrypt-一款利用powershell来加密并采用Gzip/DEFLATE来绕过杀软的工具](https://github.com/the-xentropy/xencrypt)
 - [SessionGopher-一款采用powershell来解密Windows机器上保存的session文件，例如： WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop，支持远程加载和本地加载使用](https://github.com/Arvanaghi/SessionGopher)
+- [CVE-2020-0796 Local Privilege Escalation POC-python版本](https://github.com/ZecOps/CVE-2020-0796-LPE-POC)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
