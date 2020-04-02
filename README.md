@@ -278,6 +278,7 @@
 - [CVE-2020-0796 Local Privilege Escalation POC-python版本](https://github.com/ZecOps/CVE-2020-0796-LPE-POC)
 - [Windows杀软在线对比辅助](https://github.com/r00tSe7en/get_AV)
 - [递归式寻找域名和api](https://github.com/p1g3/JSINFO-SCAN)
+- [mssqli-duet-用于mssql的sql注入脚本,使用RID爆破,从Active Directory环境中提取域用户](https://github.com/Keramas/mssqli-duet)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
