@@ -277,6 +277,7 @@
 - [SessionGopher-一款采用powershell来解密Windows机器上保存的session文件，例如： WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop，支持远程加载和本地加载使用](https://github.com/Arvanaghi/SessionGopher)
 - [CVE-2020-0796 Local Privilege Escalation POC-python版本](https://github.com/ZecOps/CVE-2020-0796-LPE-POC)
 - [Windows杀软在线对比辅助](https://github.com/r00tSe7en/get_AV)
+- [递归式寻找域名和api](https://github.com/p1g3/JSINFO-SCAN)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
