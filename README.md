@@ -322,6 +322,7 @@
 - [通达OA任意文件上传_文件包含GetShell](./books/通达OA任意文件上传_文件包含GetShell.pdf)
 - [文件上传Bypass安全狗4.0](./books/文件上传Bypass安全狗4.0.pdf)
 - [SQL注入Bypass安全狗4.0](./books/SQL注入Bypass安全狗4.0.pdf)
+- [通过正则类SQL注入防御的绕过技巧](./books/通过正则类SQL注入防御的绕过技巧.pdf)
 
 ## <span id="head9"> 说明</span>
 
