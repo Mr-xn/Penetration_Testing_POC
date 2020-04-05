@@ -279,6 +279,8 @@
 - [Windows杀软在线对比辅助](https://github.com/r00tSe7en/get_AV)
 - [递归式寻找域名和api](https://github.com/p1g3/JSINFO-SCAN)
 - [mssqli-duet-用于mssql的sql注入脚本,使用RID爆破,从Active Directory环境中提取域用户](https://github.com/Keramas/mssqli-duet)
+- [【Android脱壳】之一键提取APP敏感信息](https://github.com/TheKingOfDuck/ApkAnalyser)
+- [Shiro系列漏洞检测GUI版本-ShiroExploit GUI版本](https://github.com/feihong-cs/ShiroExploit_GUI)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
