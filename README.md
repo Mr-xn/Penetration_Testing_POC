@@ -325,6 +325,7 @@
 - [文件上传Bypass安全狗4.0](./books/文件上传Bypass安全狗4.0.pdf)
 - [SQL注入Bypass安全狗4.0](./books/SQL注入Bypass安全狗4.0.pdf)
 - [通过正则类SQL注入防御的绕过技巧](./books/通过正则类SQL注入防御的绕过技巧.pdf)
+- [MYSQL_SQL_BYPASS_WIKI-mysql注入,bypass的一些心得](https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI)
 
 ## <span id="head9"> 说明</span>
 
