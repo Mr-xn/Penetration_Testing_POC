@@ -180,6 +180,7 @@
 - [WinRAR 代码执行漏洞 (CVE-2018-20250)-POC](https://github.com/Ridter/acefile)|[相关文章](https://research.checkpoint.com/2019/extracting-code-execution-from-winrar/)|[全网筛查 WinRAR 代码执行漏洞 (CVE-2018-20250)](https://xlab.tencent.com/cn/2019/02/22/investigating-winrar-code-execution-vulnerability-cve-2018-20250-at-internet-scale/)
 - [windows10相关漏洞EXP&POC](https://github.com/nu11secur1ty/Windows10Exploits)
 - [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
+- [CVE-2019-1458-Win32k中的特权提升漏洞](https://github.com/unamer/CVE-2019-1458)
 
 
 ## <span id="head7"> tools-小工具集合</span>
