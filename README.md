@@ -289,6 +289,7 @@
 - [Shiro系列漏洞检测GUI版本-ShiroExploit GUI版本](https://github.com/feihong-cs/ShiroExploit_GUI)
 - [通过phpinfo获取cookie突破httponly](./通过phpinfo获取cookie突破httponly.md)
 - [phpstudy RCE 利用工具 windows GUI版本](https://github.com/aimorc/phpstudyrce)
+- [WebAliveScan-根据端口快速扫描存活的WEB](https://github.com/broken5/WebAliveScan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
