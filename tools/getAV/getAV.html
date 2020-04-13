@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <title>getAVName</title>
+        <meta charset="utf-8">
+</head>
+
+<body>
+        <center>
+                <h4>tasklist /svc</h4><br>
+                <textarea style="width: 950px; height: 341px;" id="content"></textarea><br><br>
+                <input type="submit" id="search" value="查询" onclick="getAVName();"><br>
+                <div id="result"></div>
+        </center>
+
+        <script src="./avlist.js"></script>
+        <script>
+                function getAVName() {
+                        var tasklist = document.getElementById('content').value;
+                        var re = new RegExp("(.*?)\.exe", "g");
+                        var tasks = tasklist.match(re);
+                        var result = document.getElementById('result');
+                        var htmlContent = "";
+                        for (i = 0; i < Object.keys(avList).length; i++) {
+                                var taskid = Object.keys(avList)[i];
+                                for (x = 0; x < tasks.length; x++) {
+                                        if (taskid == tasks[x]) {
+                                                htmlContent += taskid + " <=> " + avList[taskid] + "<br>";
+                                        }
+                                }
+                        }
+                        result.innerHTML = htmlContent;
+                }
+
+        </script>
+</body>
+
+</html>
