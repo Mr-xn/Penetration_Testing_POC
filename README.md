@@ -156,6 +156,7 @@
 - [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 - [Linux提权辅助检测Perl脚本](https://github.com/jondonas/linux-exploit-suggester-2)|[Linux提权辅助检测bash脚本](https://github.com/mzet-/linux-exploit-suggester)
 - [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)
+- [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
 
 ## <span id="head6"> PC</span>
 
@@ -191,6 +192,8 @@
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](./tools/dede_burp_admin_path.md)
 - [PHP 7.1-7.3 disable_functions bypass](./tools/PHP%207.1-7.3%20disable_functions%20bypass.md)
 - [一个各种方式突破Disable_functions达到命令执行的shell](https://github.com/l3m0n/Bypass_Disable_functions_Shell)
+- [【PHP】bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
+- [另一个bypass PHP的disable_functions](https://github.com/mm0r1/exploits)
 - [cmd下查询3389远程桌面端口](./tools/cmd下查询3389远程桌面端口.md)
 - [伪装成企业微信名片的钓鱼代码](./tools/伪装成企业微信名片的钓鱼代码.txt)
 - [vbulletin5-rce利用工具(批量检测/getshell)](https://github.com/theLSA/vbulletin5-rce)/[保存了一份源码:vbulletin5-rce.py](./tools/vbulletin5-rce.py)
@@ -256,7 +259,6 @@
 - [社会工程学密码生成器，是一个利用个人信息生成密码的工具](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)
 - [云业CMS(yunyecms)的多处SQL注入审计分析](./books/云业CMS(yunyecms)的多处SQL注入审计分析.pdf)|[原文地址](https://xz.aliyun.com/t/7302)|[官网下载地址](http://www.yunyecms.com/index.php?m=version&c=index&a=index)|[sqlmap_yunyecms_front_sqli_tamp.py](./tools/sqlmap_yunyecms_front_sqli_tamp.py)
 - [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)
-- [【PHP】bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
 - [织梦dedecms全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
 - [CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)
 - [Dirble -快速目录扫描和爬取工具【比dirsearch和dirb更快】](https://github.com/nccgroup/dirble)
@@ -283,7 +285,6 @@
 - [【Android脱壳】之一键提取APP敏感信息](https://github.com/TheKingOfDuck/ApkAnalyser)
 - [Shiro系列漏洞检测GUI版本-ShiroExploit GUI版本](https://github.com/feihong-cs/ShiroExploit_GUI)
 - [通过phpinfo获取cookie突破httponly](./通过phpinfo获取cookie突破httponly.md)
-- [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
