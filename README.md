@@ -337,6 +337,8 @@
 - [通过正则类SQL注入防御的绕过技巧](./books/通过正则类SQL注入防御的绕过技巧.pdf)
 - [MYSQL_SQL_BYPASS_WIKI-mysql注入,bypass的一些心得](https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI)
 - [bypass云锁注入测试](./books/bypass云锁注入测试.md)
+- [360webscan.php_bypass](./books/360webscan.php_bypass.pdf)
+- [think3.2.3_sql注入分析](./books/think3.2.3_sql注入分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
