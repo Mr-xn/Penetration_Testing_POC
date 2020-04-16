@@ -138,6 +138,7 @@
 - [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
 - [通达OA RCE漏洞](https://github.com/fuhei/tongda_rce)
 - [CVE-2020-10673-jackson-databind JNDI注入导致远程代码执行]()
+- [CVE-2020-10199、CVE-2020-10204漏洞一键检测工具，图形化界面（Sonatype Nexus <3.21.1）](https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -291,6 +292,7 @@
 - [phpstudy RCE 利用工具 windows GUI版本](https://github.com/aimorc/phpstudyrce)
 - [WebAliveScan-根据端口快速扫描存活的WEB](https://github.com/broken5/WebAliveScan)
 - [扫描可写目录.aspx](./tools/扫描可写目录.aspx)
+- [PC客户端（C-S架构）渗透测试](https://github.com/theLSA/CS-checklist)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
