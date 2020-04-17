@@ -139,6 +139,7 @@
 - [通达OA RCE漏洞](https://github.com/fuhei/tongda_rce)
 - [CVE-2020-10673-jackson-databind JNDI注入导致远程代码执行]()
 - [CVE-2020-10199、CVE-2020-10204漏洞一键检测工具，图形化界面（Sonatype Nexus <3.21.1）](https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204)
+- [CVE-2020-2555-Oracle Coherence 反序列化漏洞](https://github.com/wsfengfan/CVE-2020-2555)|[分析文章](https://paper.seebug.org/1141/)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -186,6 +187,7 @@
 - [windows10相关漏洞EXP&POC](https://github.com/nu11secur1ty/Windows10Exploits)
 - [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
 - [CVE-2019-1458-Win32k中的特权提升漏洞【shell可用-Windows提取】](https://github.com/unamer/CVE-2019-1458)
+- [CVE-2019-1253-Windows权限提升漏洞-AppXSvc任意文件安全描述符覆盖EoP的另一种poc](https://github.com/sgabe/CVE-2019-1253)|[CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -255,7 +257,7 @@
 - [在线扫描-网站基础信息获取|旁站|端口扫描|信息泄露](https://scan.top15.cn/web/)
 - [bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统](https://github.com/CTF-MissFeng/bayonet)
 - [内网渗透中常用的c#程序整合成cs脚本，直接内存加载](https://github.com/uknowsec/SharpToolsAggressor)
-- [又一个各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
+- [【漏洞库】又一个各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
 - [内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|**相关文章:**[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
@@ -293,6 +295,8 @@
 - [WebAliveScan-根据端口快速扫描存活的WEB](https://github.com/broken5/WebAliveScan)
 - [扫描可写目录.aspx](./tools/扫描可写目录.aspx)
 - [PC客户端（C-S架构）渗透测试](https://github.com/theLSA/CS-checklist)
+- [wsltools-web扫描辅助python库](https://github.com/Symbo1/wsltools)
+- [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
