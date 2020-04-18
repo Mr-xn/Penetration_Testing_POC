@@ -298,6 +298,7 @@
 - [PC客户端（C-S架构）渗透测试](https://github.com/theLSA/CS-checklist)
 - [wsltools-web扫描辅助python库](https://github.com/Symbo1/wsltools)
 - [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
+- [sharpmimi.exe-免杀版mimikatz](./tools/sharpmimi.exe)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
