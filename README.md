@@ -162,7 +162,7 @@
 - [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)
 - [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
 - [【Windows提权工具】Windows 7 to Windows 10 / Server 2019](https://github.com/CCob/SweetPotato)|[搭配CS的修改版可上线system权限的session](https://github.com/lengjibo/RedTeamTools/tree/master/windows/SweetPotato)
-- [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)
+- [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)|[SweetPotato_webshell下执行命令版.pdf](./books/SweetPotato_webshell下执行命令版.pdf)
 
 ## <span id="head6"> PC</span>
 
