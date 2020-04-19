@@ -189,6 +189,7 @@
 - [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
 - [CVE-2019-1458-Win32k中的特权提升漏洞【shell可用-Windows提取】](https://github.com/unamer/CVE-2019-1458)
 - [CVE-2019-1253-Windows权限提升漏洞-AppXSvc任意文件安全描述符覆盖EoP的另一种poc](https://github.com/sgabe/CVE-2019-1253)|[CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253)
+- [【免杀】Cobalt Strike插件，用于快速生成免杀的可执行文件](https://github.com/hack2fun/BypassAV)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -299,6 +300,7 @@
 - [wsltools-web扫描辅助python库](https://github.com/Symbo1/wsltools)
 - [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
 - [sharpmimi.exe-免杀版mimikatz](./tools/sharpmimi.exe)
+- [thinkPHP代码执行批量检测工具](https://github.com/admintony/thinkPHPBatchPoc)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -348,6 +350,7 @@
 - [360webscan.php_bypass](./books/360webscan.php_bypass.pdf)
 - [think3.2.3_sql注入分析](./books/think3.2.3_sql注入分析.pdf)
 - [UEditor SSRF DNS Rebinding](./books/UEditor%20SSRF%20DNS%20Rebinding)
+- [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
 
 ## <span id="head9"> 说明</span>
 
