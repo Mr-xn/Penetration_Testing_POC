@@ -301,6 +301,7 @@
 - [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
 - [sharpmimi.exe-免杀版mimikatz](./tools/sharpmimi.exe)
 - [thinkPHP代码执行批量检测工具](https://github.com/admintony/thinkPHPBatchPoc)
+- [pypykatz-python中使用Mimikatz](https://github.com/skelsec/pypykatz)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -351,6 +352,7 @@
 - [think3.2.3_sql注入分析](./books/think3.2.3_sql注入分析.pdf)
 - [UEditor SSRF DNS Rebinding](./books/UEditor%20SSRF%20DNS%20Rebinding)
 - [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
+- [京东SRC小课堂系列文章](https://github.com/xiangpasama/JDSRC-Small-Classroom)
 
 ## <span id="head9"> 说明</span>
 
