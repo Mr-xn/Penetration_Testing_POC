@@ -149,7 +149,7 @@
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
 - [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)
-- [远控免杀系列](https://github.com/TideSec/BypassAntiVirus)
+- [远控免杀从入门到实践之白名单（113个）](https://github.com/TideSec/BypassAntiVirus)|[远控免杀从入门到实践之白名单（113个）总结篇.pdf](./books/远控免杀从入门到实践之白名单（113个）总结篇.pdf)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
 - [将powershell脚本直接注入到进程中执行来绕过对powershell.exe的限制](https://github.com/EmpireProject/PSInject)
@@ -302,7 +302,9 @@
 - [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
 - [sharpmimi.exe-免杀版mimikatz](./tools/sharpmimi.exe)
 - [thinkPHP代码执行批量检测工具](https://github.com/admintony/thinkPHPBatchPoc)
-- [pypykatz-python中使用Mimikatz](https://github.com/skelsec/pypykatz)
+- [pypykatz-用纯Python实现的Mimikatz](https://github.com/skelsec/pypykatz)
+- [Flux-Keylogger-具有Web面板的现代Javascript键盘记录器](https://github.com/LimerBoy/Flux-Keylogger)
+- [JSINFO-SCAN-递归式寻找域名和api](https://github.com/p1g3/JSINFO-SCAN)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
