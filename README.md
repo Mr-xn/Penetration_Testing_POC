@@ -145,7 +145,7 @@
 - [cve-2020-5260-Git凭证泄露漏洞](https://github.com/brompwnie/cve-2020-5260)
 - [通达OA前台任意用户伪造登录漏洞批量检测](./通达OA前台任意用户伪造登录漏洞批量检测.md)
 - [CVE-2020-11890 JoomlaRCE <3.9.17  远程命令执行漏洞(需要有效的账号密码)](https://github.com/HoangKien1020/CVE-2020-11890)
-- [CVE-2020-10238【JoomlaRCE <= 3.9.15 远程命令执行漏洞】&CVE-2020-10239【JoomlaRCE 3.7.0 to 3.9.15 远程命令执行漏洞】](https://github.com/HoangKien1020/CVE-2020-10238)
+- [CVE-2020-10238【JoomlaRCE <= 3.9.15 远程命令执行漏洞(需要有效的账号密码)】&CVE-2020-10239【JoomlaRCE 3.7.0 to 3.9.15 远程命令执行漏洞(需要有效的账号密码)】](https://github.com/HoangKien1020/CVE-2020-10238)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -313,6 +313,7 @@
 - [JSINFO-SCAN-递归式寻找域名和api](https://github.com/p1g3/JSINFO-SCAN)
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
+- [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
