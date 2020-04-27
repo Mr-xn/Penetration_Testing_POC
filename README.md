@@ -367,6 +367,8 @@
 - [UEditor SSRF DNS Rebinding](./books/UEditor%20SSRF%20DNS%20Rebinding)
 - [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
 - [京东SRC小课堂系列文章](https://github.com/xiangpasama/JDSRC-Small-Classroom)
+- [windows权限提升的多种方式](https://medium.com/bugbountywriteup/privilege-escalation-in-windows-380bee3a2842)|[Privilege_Escalation_in_Windows_for_OSCP](./books/Privilege_Escalation_in_Windows_for_OSCP.pdf)
+- [bypass CSP](https://medium.com/bugbountywriteup/content-security-policy-csp-bypass-techniques-e3fa475bfe5d)|[Content-Security-Policy(CSP)Bypass_Techniques](./books/Content-Security-Policy(CSP)Bypass_Techniques.pdf)
 
 ## <span id="head9"> 说明</span>
 
