@@ -316,6 +316,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
