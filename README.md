@@ -317,6 +317,7 @@
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
 - [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)
+- [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
