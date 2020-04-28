@@ -373,6 +373,7 @@
 - [京东SRC小课堂系列文章](https://github.com/xiangpasama/JDSRC-Small-Classroom)
 - [windows权限提升的多种方式](https://medium.com/bugbountywriteup/privilege-escalation-in-windows-380bee3a2842)|[Privilege_Escalation_in_Windows_for_OSCP](./books/Privilege_Escalation_in_Windows_for_OSCP.pdf)
 - [bypass CSP](https://medium.com/bugbountywriteup/content-security-policy-csp-bypass-techniques-e3fa475bfe5d)|[Content-Security-Policy(CSP)Bypass_Techniques](./books/Content-Security-Policy(CSP)Bypass_Techniques.pdf)
+- [个人维护的安全知识框架,内容偏向于web](https://github.com/No-Github/1earn)
 
 ## <span id="head9"> 说明</span>
 
