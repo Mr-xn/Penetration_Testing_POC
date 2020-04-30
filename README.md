@@ -322,6 +322,7 @@
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
 - [使用 sshLooterC 抓取 SSH 密码](https://github.com/mthbernardes/sshLooterC)|[相关文章](https://www.ch1ng.com/blog/208.html)|[本地版本](./books/使用sshLooterC抓取SSH密码.pdf)
 - [redis-rogue-server-Redis 4.x/5.x RCE](https://github.com/AdministratorGithub/redis-rogue-server)
+- [ew-内网穿透(跨平台)](https://github.com/idlefire/ew)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
