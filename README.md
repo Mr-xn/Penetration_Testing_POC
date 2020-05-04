@@ -325,6 +325,7 @@
 - [ew-内网穿透(跨平台)](https://github.com/idlefire/ew)
 - [xray-weblisten-ui-一款基于GO语言写的Xray 被动扫描管理](https://github.com/virink/xray-weblisten-ui)
 - [SQLEXP-SQL 注入利用工具，存在waf的情况下自定义编写tamper脚本 dump数据](https://github.com/ggg4566/SQLEXP)
+- [SRC资产在线管理系统 - Shots](https://github.com/broken5/Shots)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
