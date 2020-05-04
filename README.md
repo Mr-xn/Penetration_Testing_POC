@@ -381,7 +381,8 @@
 - [bypass CSP](https://medium.com/bugbountywriteup/content-security-policy-csp-bypass-techniques-e3fa475bfe5d)|[Content-Security-Policy(CSP)Bypass_Techniques](./books/Content-Security-Policy(CSP)Bypass_Techniques.pdf)
 - [个人维护的安全知识框架,内容偏向于web](https://github.com/No-Github/1earn)
 - [PAM劫持SSH密码](./PAM劫持SSH密码.md)
-- [零组资料文库](https://wiki.0-sec.org/)
+- [零组资料文库-(需要邀请注册)](https://wiki.0-sec.org/)
+- [redis未授权个人总结-Mature](./books/redis未授权个人总结-Mature.pdf)
 
 ## <span id="head9"> 说明</span>
 
