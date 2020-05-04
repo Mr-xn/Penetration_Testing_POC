@@ -380,6 +380,7 @@
 - [bypass CSP](https://medium.com/bugbountywriteup/content-security-policy-csp-bypass-techniques-e3fa475bfe5d)|[Content-Security-Policy(CSP)Bypass_Techniques](./books/Content-Security-Policy(CSP)Bypass_Techniques.pdf)
 - [个人维护的安全知识框架,内容偏向于web](https://github.com/No-Github/1earn)
 - [PAM劫持SSH密码](./PAM劫持SSH密码.md)
+- [零组资料文库](https://wiki.0-sec.org/)
 
 ## <span id="head9"> 说明</span>
 
