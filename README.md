@@ -387,6 +387,7 @@
 - [零组资料文库-(需要邀请注册)](https://wiki.0-sec.org/)
 - [redis未授权个人总结-Mature](./books/redis未授权个人总结-Mature.pdf)
 - [NTLM中继攻击的新方法](https://www.secureauth.com/blog/what-old-new-again-relay-attack)
+- [PbootCMS审计](./books/PbootCMS审计.pdf)
 
 ## <span id="head9"> 说明</span>
 
