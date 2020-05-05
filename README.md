@@ -326,6 +326,9 @@
 - [xray-weblisten-ui-一款基于GO语言写的Xray 被动扫描管理](https://github.com/virink/xray-weblisten-ui)
 - [SQLEXP-SQL 注入利用工具，存在waf的情况下自定义编写tamper脚本 dump数据](https://github.com/ggg4566/SQLEXP)
 - [SRC资产在线管理系统 - Shots](https://github.com/broken5/Shots)
+- [luject：可以将动态库静态注入到指定应用程序包的工具，目前支持Android/iPhonsOS/Windows/macOS/Linux](https://github.com/lanoox/luject)|[相关文章](https://tboox.org/cn/2020/04/26/luject/)
+- [CursedChrome：Chrome扩展植入程序，可将受害Chrome浏览器转变为功能齐全的HTTP代理，使你能够以受害人身份浏览网站](https://github.com/mandatoryprogrammer/CursedChrome)
+- [pivotnacci：通过HTTP隧道进行Socks连接](https://github.com/blackarrowsec/pivotnacci)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -383,6 +386,7 @@
 - [PAM劫持SSH密码](./PAM劫持SSH密码.md)
 - [零组资料文库-(需要邀请注册)](https://wiki.0-sec.org/)
 - [redis未授权个人总结-Mature](./books/redis未授权个人总结-Mature.pdf)
+- [NTLM中继攻击的新方法](https://www.secureauth.com/blog/what-old-new-again-relay-attack)
 
 ## <span id="head9"> 说明</span>
 
