@@ -45,7 +45,7 @@ if (isset($_GET['pass']))
     $_SESSION['k']=$key;
     print $key;
 }
-else
+else if (!empty($_SESSION['k']))
 {
     $key=$_SESSION['k'];
         $post=file_get_contents("php://input").'';
@@ -71,6 +71,8 @@ else
 
 ```
 
-### 原帖：https://www.t00ls.net/thread-56301-1-1.html
+### 原帖：https://www.t00ls.net/thread-56301-1-1.html 
+
+### 参考：https://www.t00ls.net/thread-56337-1-1.html
 
 ### 欢迎大家前往土司投稿！
