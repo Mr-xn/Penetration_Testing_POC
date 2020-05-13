@@ -402,6 +402,7 @@
 - [PbootCMS审计](./books/PbootCMS审计.pdf)
 - [De1CTF2020系列文章](https://github.com/De1ta-team/De1CTF2020)
 - [xss-demo-超级简单版本的XSS练习demo](https://github.com/haozi/xss-demo)
+- [空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透](./books/空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透.pdf)
 
 ## <span id="head9"> 说明</span>
 
