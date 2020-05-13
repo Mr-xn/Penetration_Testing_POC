@@ -341,6 +341,7 @@
 - [自己收集整理的端口、子域、账号密码、其他杂七杂八字典，用于自己使用](https://github.com/cwkiller/Pentest_Dic)
 - [xFTP6密码解密](./tools/xFTP6密码解密.md)
 - [Mars-战神TideSec出品的WDScanner的重写一款综合的漏洞扫描,资产发现/变更,域名监控/子域名挖掘,Awvs扫描,POC检测,web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等工具](https://github.com/TideSec/Mars)
+- [Shellcode Compiler：用于生成Windows 和 Linux平台的shellcode工具](https://github.com/NytroRST/ShellcodeCompiler)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
