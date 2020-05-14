@@ -177,6 +177,7 @@
 - [【bypass UAC】Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe"](https://github.com/L3cr0f/DccwBypassUAC/)
 - [【Windows提权】CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7](https://github.com/alpha1ab/CVE-2018-8120)
 - [【Windows提权 Windows 10&Server 2019】PrintSpoofer-Abusing Impersonation Privileges on Windows 10 and Server 2019](https://github.com/itm4n/PrintSpoofer)|[配合文章食用-pipePotato复现](./books/pipePotato复现.pdf)|[Windows 权限提升 BadPotato-已经在Windows 2012-2019 8-10 全补丁测试成功](https://github.com/BeichenDream/BadPotato)
+- [【Windows提权】Windows 下的提权大合集](https://github.com/lyshark/Windows-exploits)
 
 ## <span id="head6"> PC</span>
 
@@ -343,6 +344,7 @@
 - [Mars-战神TideSec出品的WDScanner的重写一款综合的漏洞扫描,资产发现/变更,域名监控/子域名挖掘,Awvs扫描,POC检测,web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等工具](https://github.com/TideSec/Mars)
 - [Shellcode Compiler：用于生成Windows 和 Linux平台的shellcode工具](https://github.com/NytroRST/ShellcodeCompiler)
 - [BadDNS 是一款使用 Rust 开发的使用公共 DNS 服务器进行多层子域名探测的极速工具](https://github.com/joinsec/BadDNS)
+- [XServer是一个用于对方法进行分析的Xposed插件](https://github.com/monkeylord/XServer)|[相关文章：Xposed+XServer无需脱壳抓取加密包](https://xz.aliyun.com/t/7669)|[使用xserver对某应用进行不脱壳抓加密包](https://blog.csdn.net/nini_boom/article/details/104400619)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -405,6 +407,7 @@
 - [De1CTF2020系列文章](https://github.com/De1ta-team/De1CTF2020)
 - [xss-demo-超级简单版本的XSS练习demo](https://github.com/haozi/xss-demo)
 - [空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透](./books/空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透.pdf)
+- [入门KKCMS代码审计](./books/入门KKCMS代码审计.pdf)
 
 ## <span id="head9"> 说明</span>
 
