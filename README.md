@@ -346,6 +346,7 @@
 - [Shellcode Compiler：用于生成Windows 和 Linux平台的shellcode工具](https://github.com/NytroRST/ShellcodeCompiler)
 - [BadDNS 是一款使用 Rust 开发的使用公共 DNS 服务器进行多层子域名探测的极速工具](https://github.com/joinsec/BadDNS)
 - [XServer是一个用于对方法进行分析的Xposed插件](https://github.com/monkeylord/XServer)|[相关文章：Xposed+XServer无需脱壳抓取加密包](https://xz.aliyun.com/t/7669)|[使用xserver对某应用进行不脱壳抓加密包](https://blog.csdn.net/nini_boom/article/details/104400619)
+- [masscan_to_nmap-基于masscan和nmap的快速端口扫描和指纹识别工具](https://github.com/7dog7/masscan_to_nmap)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
