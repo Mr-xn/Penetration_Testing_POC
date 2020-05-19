@@ -179,6 +179,7 @@
 - [【Windows提权 Windows 10&Server 2019】PrintSpoofer-Abusing Impersonation Privileges on Windows 10 and Server 2019](https://github.com/itm4n/PrintSpoofer)|[配合文章食用-pipePotato复现](./books/pipePotato复现.pdf)|[Windows 权限提升 BadPotato-已经在Windows 2012-2019 8-10 全补丁测试成功](https://github.com/BeichenDream/BadPotato)
 - [【Windows提权】Windows 下的提权大合集](https://github.com/lyshark/Windows-exploits)
 - [【Windows提权】-CVE-2020-1048 | PrintDemon本地提权漏洞-漏洞影响自1996年以来发布(Windows NT 4)的所有Windows版本](https://github.com/ionescu007/PrintDemon)
+- [【Windows bypass UAC】UACME-一种集成了60多种Bypass UAC的方法](https://github.com/hfiref0x/UACME)
 
 ## <span id="head6"> PC</span>
 
