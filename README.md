@@ -151,6 +151,7 @@
 - [CVE-2020-11651-SaltStack Proof of Concept【认证绕过RCE漏洞】](https://github.com/0xc0d/CVE-2020-11651)|[CVE-2020-11651&&CVE-2020-11652 EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP)
 - [showdoc的api_page存在任意文件上传getshell](./showdoc的api_page存在任意文件上传getshell.md)
 - [Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法](https://github.com/CaijiOrz/fastjson-1.2.47-RCE)
+- [SpringBoot_Actuator_RCE](https://github.com/jas502n/SpringBoot_Actuator_RCE)
 
 ## <span id="head5"> 提权辅助相关</span>
 
