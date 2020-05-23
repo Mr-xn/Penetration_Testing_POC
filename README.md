@@ -354,6 +354,7 @@
 - [Evilreg -使用Windows注册表文件的反向Shell (.Reg)](https://github.com/thelinuxchoice/evilreg)
 - [Shecodject工具使用python注入shellcode bypass 火絨,360,windows defender](https://github.com/TaroballzChen/Shecodject)
 - [Malleable-C2-Profiles-Cobalt Strike的C2隐藏配置文件相关](https://github.com/xx0hcd/Malleable-C2-Profiles)|[渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
+- [AutoRemove-自动卸载360](https://github.com/DeEpinGh0st/AutoRemove)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
