@@ -270,6 +270,7 @@
 - [一个简单探测jboss漏洞的工具](https://github.com/GGyao/jbossScan)
 - [一款lcx在golang下的实现-适合内网代理流量到公网,比如阿里云的机器代理到你的公网机器](https://github.com/cw1997/NATBypass)
 - [Cobalt Strike Aggressor 插件包](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
+- [Erebus-CobaltStrike后渗透测试插件,包括了信息收集、权限获取、密码获取、痕迹清除等等常见的脚本插件](https://github.com/DeEpinGh0st/Erebus)
 - [IP/IP段资产扫描-->扫描开放端口识别运行服务部署网站-->自动化整理扫描结果-->输出可视化报表+整理结果](https://github.com/LangziFun/LangNetworkTopology3)
 - [A script to scan for unsecured Laravel .env files](https://github.com/tismayil/laravelN00b)
 - [Struts2漏洞扫描Golang版-【特点:单文件、全平台支持、可在webshell下使用】](https://github.com/x51/STS2G)
