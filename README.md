@@ -420,6 +420,7 @@
 - [xss-demo-超级简单版本的XSS练习demo](https://github.com/haozi/xss-demo)
 - [空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透](./books/空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透.pdf)
 - [入门KKCMS代码审计](./books/入门KKCMS代码审计.pdf)
+- [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist](https://github.com/LandGrey/SpringBootVulExploit)
 
 ## <span id="head9"> 说明</span>
 
