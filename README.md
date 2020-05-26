@@ -152,6 +152,7 @@
 - [showdoc的api_page存在任意文件上传getshell](./showdoc的api_page存在任意文件上传getshell.md)
 - [Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法](https://github.com/CaijiOrz/fastjson-1.2.47-RCE)
 - [SpringBoot_Actuator_RCE](https://github.com/jas502n/SpringBoot_Actuator_RCE)
+- [jizhicms(极致CMS)v1.7.1代码审计-任意文件上传getshell+sql注入+反射XSS](./books/jizhicms(极致CMS)v1.7.1代码审计引发的思考.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
