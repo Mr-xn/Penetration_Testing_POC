@@ -359,6 +359,7 @@
 - [AutoRemove-自动卸载360](https://github.com/DeEpinGh0st/AutoRemove)
 - [ligolo：用于渗透时反向隧道连接工具](https://github.com/sysdream/ligolo)
 - [RMIScout: Java RMI爆破工具](https://github.com/BishopFox/rmiscout)
+- [FRIDA-DEXDump-【使用Frida来进行Android脱壳】](https://github.com/hluwa/FRIDA-DEXDump)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
