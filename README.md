@@ -358,6 +358,7 @@
 - [Malleable-C2-Profiles-Cobalt Strike的C2隐藏配置文件相关](https://github.com/xx0hcd/Malleable-C2-Profiles)|[渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
 - [AutoRemove-自动卸载360](https://github.com/DeEpinGh0st/AutoRemove)
 - [ligolo：用于渗透时反向隧道连接工具](https://github.com/sysdream/ligolo)
+- [RMIScout: Java RMI爆破工具](https://github.com/BishopFox/rmiscout)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -426,3 +427,5 @@
 ## <span id="head9"> 说明</span>
 
 > 此项目所有文章、代码部分来源于互联网，版权归原作者所有，此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！
+
+![](https://ooo.0o0.ooo/2017/06/13/593fb9335fe9c.jpg)
