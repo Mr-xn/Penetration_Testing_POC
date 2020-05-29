@@ -361,6 +361,7 @@
 - [RMIScout: Java RMI爆破工具](https://github.com/BishopFox/rmiscout)
 - [FRIDA-DEXDump-【使用Frida来进行Android脱壳】](https://github.com/hluwa/FRIDA-DEXDump)
 - [Donut-Shellcode生成工具](https://github.com/TheWover/donut)
+- [JSP-Webshells集合【2020最新bypass某云检测可用】](https://github.com/threedr3am/JSP-Webshells)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
