@@ -184,6 +184,7 @@
 - [【Windows bypass UAC】UACME-一种集成了60多种Bypass UAC的方法](https://github.com/hfiref0x/UACME)
 - [CVE-2020–1088： Windows wersvc.dll 任意文件删除本地提权漏洞分析](https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2)
 - [【Windows提权】CVE-2019-0863-Windows中错误报告机制导致的提权-EXP](https://github.com/sailay1996/WerTrigger)
+- [【Windows提权】CVE-2020-1066-EXP](https://github.com/cbwang505/CVE-2020-1066-EXP)
 
 ## <span id="head6"> PC</span>
 
