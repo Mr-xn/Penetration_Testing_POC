@@ -4,7 +4,7 @@
 
 - [ Penetration_Testing_POC](#head1)
 - [ 请善用搜索[`Ctrl+F`]查找](#head2)
-- [IOT Device](#head3)
+- [IOT Device&Mobile Phone](#head3)
 - [Web APP](#head4)
 - [ 提权辅助相关](#head5)
 - [ PC](#head6)
@@ -14,7 +14,7 @@
 
 ## <span id="head2"> 请善用搜索[`Ctrl+F`]查找</span>
 
-## <span id="head3">IOT Device</span>
+## <span id="head3">IOT Device&Mobile Phone</span>
 
 - [天翼创维awifi路由器存在多处未授权访问漏洞](天翼创维awifi路由器存在多处未授权访问漏洞.md)
 - [华为WS331a产品管理页面存在CSRF漏洞](华为WS331a产品管理页面存在CSRF漏洞.md)
@@ -29,6 +29,7 @@
 - [Intelbras Wireless N 150Mbps WRN240 - Authentication Bypass (Config Upload-未经验证即可替换固件)](https://www.exploit-db.com/exploits/48158)
 - [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[Wing FTP Server 6.2.3权限提升漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)|[Wing FTP Server 6.2.5权限提升](https://www.exploit-db.com/exploits/48154)
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
+- [CVE-2020-12753-LG 智能手机任意代码执行漏洞](https://github.com/shinyquagsire23/CVE-2020-12753-PoC)
 
 ## <span id="head4">Web APP</span>
 
