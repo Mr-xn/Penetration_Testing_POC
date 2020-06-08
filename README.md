@@ -156,6 +156,7 @@
 - [jizhicms(极致CMS)v1.7.1代码审计-任意文件上传getshell+sql注入+反射XSS](./books/jizhicms(极致CMS)v1.7.1代码审计引发的思考.pdf)
 - [CVE-2020-9484：Apache Tomcat Session 反序列化代码执行漏洞](./tools/CVE-2020-9484.tgz)|[CVE-2020-9484：Apache Tomcat 反序列化RCE漏洞的分析和利用](https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/)
 - [PHPOK 最新版漏洞组合拳 GETSHELL](./books/PHPOK最新版漏洞组合拳GETSHELL.pdf)
+- [Apache Kylin 3.0.1命令注入漏洞](https://community.sonarsource.com/t/apache-kylin-3-0-1-command-injection-vulnerability/25706)
 
 ## <span id="head5"> 提权辅助相关</span>
 
