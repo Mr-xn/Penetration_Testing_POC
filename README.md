@@ -375,6 +375,7 @@
 - [FrameScan：一款python3编写的简易的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan)
 - [SpoofWeb：一键部署HTTPS钓鱼站](https://github.com/klionsec/SpoofWeb)
 - [VpsEnvInstall：一键部署VPS渗透环境](https://github.com/klionsec/VpsEnvInstall)
+- [tangalanga：Zoom会议扫描工具](https://github.com/elcuervo/tangalanga)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
