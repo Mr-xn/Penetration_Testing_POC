@@ -373,6 +373,7 @@
 - [Windows hash dump之secretsdump.md](https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py)|[相关文章]([https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows%20hash%20dump%E4%B9%8Bsecretsdump.md](https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows hash dump之secretsdump.md))
 - [WindowsVulnScan：基于主机的漏洞扫描工【类似windows-exp-suggester】](https://github.com/chroblert/WindowsVulnScan)
 - [FrameScan：一款python3编写的简易的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan)
+- [SpoofWeb：一键部署HTTPS钓鱼站](https://github.com/klionsec/SpoofWeb)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
