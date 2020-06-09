@@ -374,6 +374,7 @@
 - [WindowsVulnScan：基于主机的漏洞扫描工【类似windows-exp-suggester】](https://github.com/chroblert/WindowsVulnScan)
 - [FrameScan：一款python3编写的简易的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan)
 - [SpoofWeb：一键部署HTTPS钓鱼站](https://github.com/klionsec/SpoofWeb)
+- [VpsEnvInstall：一键部署VPS渗透环境](https://github.com/klionsec/VpsEnvInstall)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
