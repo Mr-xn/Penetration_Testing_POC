@@ -30,6 +30,7 @@
 - [cve-2020-8634&cve-2020-8635](https://www.exploit-db.com/exploits/48160)|[Wing FTP Server 6.2.3权限提升漏洞发现分析复现过程](https://www.hooperlabs.xyz/disclosures/cve-2020-8635.php)|[Wing FTP Server 6.2.5权限提升](https://www.exploit-db.com/exploits/48154)
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 - [CVE-2020-12753-LG 智能手机任意代码执行漏洞](https://github.com/shinyquagsire23/CVE-2020-12753-PoC)
+- [CVE-2020-12695-UPnP 安全漏洞](https://github.com/yunuscadirci/CallStranger)
 
 ## <span id="head4">Web APP</span>
 
@@ -372,10 +373,11 @@
 - [ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。](https://github.com/Adminisme/ServerScan)
 - [Windows hash dump之secretsdump.md](https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py)|[相关文章]([https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows%20hash%20dump%E4%B9%8Bsecretsdump.md](https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows hash dump之secretsdump.md))
 - [WindowsVulnScan：基于主机的漏洞扫描工【类似windows-exp-suggester】](https://github.com/chroblert/WindowsVulnScan)
-- [FrameScan：一款python3编写的简易的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan)
+- [基于实战沉淀下的各种弱口令字典](https://github.com/klionsec/SuperWordlist)
 - [SpoofWeb：一键部署HTTPS钓鱼站](https://github.com/klionsec/SpoofWeb)
 - [VpsEnvInstall：一键部署VPS渗透环境](https://github.com/klionsec/VpsEnvInstall)
 - [tangalanga：Zoom会议扫描工具](https://github.com/elcuervo/tangalanga)
+- [碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC](https://github.com/Cl0udG0d/SZhe_Scan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
