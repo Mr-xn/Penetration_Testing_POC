@@ -31,6 +31,7 @@
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 - [CVE-2020-12753-LG 智能手机任意代码执行漏洞](https://github.com/shinyquagsire23/CVE-2020-12753-PoC)
 - [CVE-2020-12695-UPnP 安全漏洞](https://github.com/yunuscadirci/CallStranger)
+- [weblogic T3 collections java InvokerTransformer Transformer InvokerTransformer weblogic.jndi.WLInitialContextFactory](https://github.com/hktalent/weblogic_java_des)
 
 ## <span id="head4">Web APP</span>
 
