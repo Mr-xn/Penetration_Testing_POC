@@ -371,13 +371,14 @@
 - [JSP-Webshells集合【2020最新bypass某云检测可用】](https://github.com/threedr3am/JSP-Webshells)
 - [one-scan-多合一网站指纹扫描器，轻松获取网站的 IP / DNS 服务商 / 子域名 / HTTPS 证书 / WHOIS / 开发框架 / WAF 等信息](https://github.com/Jackeriss/one-scan)
 - [ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。](https://github.com/Adminisme/ServerScan)
-- [Windows hash dump之secretsdump.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py)|[相关文章](https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows%20hash%20dump%E4%B9%8Bsecretsdump.md)
+- [域渗透-Windows hash dump之secretsdump.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py)|[相关文章](https://github.com/PythonPig/PythonPig.github.io/blob/730be0e55603df96f45680c25c56ba8148052d2c/_posts/2019-07-16-Windows%20hash%20dump%E4%B9%8Bsecretsdump.md)
 - [WindowsVulnScan：基于主机的漏洞扫描工【类似windows-exp-suggester】](https://github.com/chroblert/WindowsVulnScan)
 - [基于实战沉淀下的各种弱口令字典](https://github.com/klionsec/SuperWordlist)
 - [SpoofWeb：一键部署HTTPS钓鱼站](https://github.com/klionsec/SpoofWeb)
 - [VpsEnvInstall：一键部署VPS渗透环境](https://github.com/klionsec/VpsEnvInstall)
 - [tangalanga：Zoom会议扫描工具](https://github.com/elcuervo/tangalanga)
 - [碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC](https://github.com/Cl0udG0d/SZhe_Scan)
+- [Taie-RedTeam-OS-泰阿安全实验室-基于XUbuntu私人订制的红蓝对抗渗透操作系统](https://github.com/taielab/Taie-RedTeam-OS)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
