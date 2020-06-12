@@ -447,6 +447,7 @@
 - [入门KKCMS代码审计](./books/入门KKCMS代码审计.pdf)
 - [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist](https://github.com/LandGrey/SpringBootVulExploit)
 - [文件上传突破waf总结](./books/文件上传突破waf总结.pdf)
+- [极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞](./books/极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞.pdf)
 
 ## <span id="head9"> 说明</span>
 
