@@ -382,6 +382,7 @@
 - [碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC](https://github.com/Cl0udG0d/SZhe_Scan)
 - [Taie-RedTeam-OS-泰阿安全实验室-基于XUbuntu私人订制的红蓝对抗渗透操作系统](https://github.com/taielab/Taie-RedTeam-OS)
 - [naiveproxy-一款用C语言编写类似于trojan的代理工具](https://github.com/klzgrad/naiveproxy)
+- [BrowserGhost-一个抓取浏览器密码的工具，后续会添加更多功能](https://github.com/QAX-A-Team/BrowserGhost)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
