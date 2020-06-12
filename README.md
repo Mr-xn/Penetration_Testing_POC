@@ -31,7 +31,6 @@
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 - [CVE-2020-12753-LG 智能手机任意代码执行漏洞](https://github.com/shinyquagsire23/CVE-2020-12753-PoC)
 - [CVE-2020-12695-UPnP 安全漏洞](https://github.com/yunuscadirci/CallStranger)
-- [weblogic T3 collections java InvokerTransformer Transformer InvokerTransformer weblogic.jndi.WLInitialContextFactory](https://github.com/hktalent/weblogic_java_des)
 
 ## <span id="head4">Web APP</span>
 
@@ -159,6 +158,7 @@
 - [CVE-2020-9484：Apache Tomcat Session 反序列化代码执行漏洞](./tools/CVE-2020-9484.tgz)|[CVE-2020-9484：Apache Tomcat 反序列化RCE漏洞的分析和利用](https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/)
 - [PHPOK 最新版漏洞组合拳 GETSHELL](./books/PHPOK最新版漏洞组合拳GETSHELL.pdf)
 - [Apache Kylin 3.0.1命令注入漏洞](https://community.sonarsource.com/t/apache-kylin-3-0-1-command-injection-vulnerability/25706)
+- [weblogic T3 collections java InvokerTransformer Transformer InvokerTransformer weblogic.jndi.WLInitialContextFactory](https://github.com/hktalent/weblogic_java_des)
 
 ## <span id="head5"> 提权辅助相关</span>
 
