@@ -383,6 +383,7 @@
 - [Taie-RedTeam-OS-泰阿安全实验室-基于XUbuntu私人订制的红蓝对抗渗透操作系统](https://github.com/taielab/Taie-RedTeam-OS)
 - [naiveproxy-一款用C语言编写类似于trojan的代理工具](https://github.com/klzgrad/naiveproxy)
 - [BrowserGhost-一个抓取浏览器密码的工具，后续会添加更多功能](https://github.com/QAX-A-Team/BrowserGhost)
+- [GatherInfo-渗透测试信息搜集/内网渗透信息搜集](https://github.com/Paper-Pen/GatherInfo)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
