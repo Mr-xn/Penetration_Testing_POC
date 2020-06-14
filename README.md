@@ -384,6 +384,7 @@
 - [naiveproxy-一款用C语言编写类似于trojan的代理工具](https://github.com/klzgrad/naiveproxy)
 - [BrowserGhost-一个抓取浏览器密码的工具，后续会添加更多功能](https://github.com/QAX-A-Team/BrowserGhost)
 - [GatherInfo-渗透测试信息搜集/内网渗透信息搜集](https://github.com/Paper-Pen/GatherInfo)
+- [EvilPDF：一款把恶意文件嵌入在 PDF 中的工具](https://github.com/thelinuxchoice/evilpdf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
