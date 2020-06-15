@@ -222,6 +222,7 @@
 - [【免杀】Cobalt Strike插件，用于快速生成免杀的可执行文件](https://github.com/hack2fun/BypassAV)
 - [CVE-2020-0674：Internet Explorer UAF 漏洞exp【在64位的win7测试了IE 8, 9, 10, and 11】](https://github.com/maxpl0it/CVE-2020-0674-Exploit)
 - [SMBGhost_AutomateExploitation-SMBGhost (CVE-2020-0796) Automate Exploitation and Detection](https://github.com/Barriuso/SMBGhost_AutomateExploitation)
+- [MS Windows OLE 远程代码执行漏洞(CVE-2020-1281)](https://github.com/guhe120/Windows-EoP/tree/master/CVE-2020-1281)
 
 
 ## <span id="head7"> tools-小工具集合</span>
