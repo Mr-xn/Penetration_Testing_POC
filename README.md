@@ -191,6 +191,7 @@
 - [CVE-2020–1088： Windows wersvc.dll 任意文件删除本地提权漏洞分析](https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2)
 - [【Windows提权】CVE-2019-0863-Windows中错误报告机制导致的提权-EXP](https://github.com/sailay1996/WerTrigger)
 - [【Windows提权】CVE-2020-1066-EXP](https://github.com/cbwang505/CVE-2020-1066-EXP)
+- [CVE-2020-0787-EXP-ALL-WINDOWS-VERSION-适用于Windows所有版本的提权EXP](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION)
 
 ## <span id="head6"> PC</span>
 
