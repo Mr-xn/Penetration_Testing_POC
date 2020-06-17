@@ -159,6 +159,7 @@
 - [PHPOK 最新版漏洞组合拳 GETSHELL](./books/PHPOK最新版漏洞组合拳GETSHELL.pdf)
 - [Apache Kylin 3.0.1命令注入漏洞](https://community.sonarsource.com/t/apache-kylin-3-0-1-command-injection-vulnerability/25706)
 - [weblogic T3 collections java InvokerTransformer Transformer InvokerTransformer weblogic.jndi.WLInitialContextFactory](https://github.com/hktalent/weblogic_java_des)
+- [CVE-2020-5410 Spring Cloud Config目录穿越漏洞](https://xz.aliyun.com/t/7877)
 
 ## <span id="head5"> 提权辅助相关</span>
 
