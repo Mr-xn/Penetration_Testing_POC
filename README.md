@@ -31,6 +31,7 @@
 - [CVE-2020-9374-TP LINK TL-WR849N - RCE](./CVE-2020-9374.md)
 - [CVE-2020-12753-LG 智能手机任意代码执行漏洞](https://github.com/shinyquagsire23/CVE-2020-12753-PoC)
 - [CVE-2020-12695-UPnP 安全漏洞](https://github.com/yunuscadirci/CallStranger)
+- [79款 Netgear 路由器遭远程接管0day](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2020.06.15-netgear/exploit.py)
 
 ## <span id="head4">Web APP</span>
 
@@ -455,6 +456,8 @@
 - [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist](https://github.com/LandGrey/SpringBootVulExploit)
 - [文件上传突破waf总结](./books/文件上传突破waf总结.pdf)
 - [极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞](./books/极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞.pdf)|[原文地址](https://xz.aliyun.com/t/7872)
+- [代码审计之DTCMS_V5.0后台漏洞两枚](./books/代码审计之DTCMS_V5.0后台漏洞两枚.pdf)
+- [快速判断sql注入点是否支持load_file](./快速判断sql注入点是否支持load_file.md)
 
 ## <span id="head9"> 说明</span>
 
