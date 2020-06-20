@@ -390,6 +390,7 @@
 - [BrowserGhost-一个抓取浏览器密码的工具，后续会添加更多功能](https://github.com/QAX-A-Team/BrowserGhost)
 - [GatherInfo-渗透测试信息搜集/内网渗透信息搜集](https://github.com/Paper-Pen/GatherInfo)
 - [EvilPDF：一款把恶意文件嵌入在 PDF 中的工具](https://github.com/thelinuxchoice/evilpdf)
+- [SatanSword-红队综合渗透框架，支持web指纹识别、漏洞PoC检测、批量web信息和端口信息查询、路径扫描、批量JS查找子域名、使用google headless、协程支持、完整的日志回溯](https://github.com/Lucifer1993/SatanSword)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -458,6 +459,7 @@
 - [极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞](./books/极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞.pdf)|[原文地址](https://xz.aliyun.com/t/7872)
 - [代码审计之DTCMS_V5.0后台漏洞两枚](./books/代码审计之DTCMS_V5.0后台漏洞两枚.pdf)
 - [快速判断sql注入点是否支持load_file](./快速判断sql注入点是否支持load_file.md)
+- [文件上传内容检测绕过](./books/文件上传内容检测绕过.md)
 
 ## <span id="head9"> 说明</span>
 
