@@ -421,6 +421,7 @@
 - [高级SQL注入：混淆和绕过](./books/高级SQL注入：混淆和绕过.pdf)
 - [权限维持及后门持久化技巧总结](./books/权限维持及后门持久化技巧总结.pdf)
 - [Windows常见的持久化后门汇总](./books/Windows常见的持久化后门汇总.pdf)
+- [Linux常见的持久化后门汇总](./books/Linux常见的持久化后门汇总.pdf)
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [Cobaltstrike 4.0之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
 - [Cobalt Strike 4.0 更新内容介绍](./books/Cobalt%20Strike%204.0%20更新内容介绍.pdf)
