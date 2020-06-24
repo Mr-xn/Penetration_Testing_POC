@@ -470,6 +470,7 @@
 - [【Android脱壳】_腾讯加固动态脱壳（上篇）](./books/移动安全（九）_TengXun加固动态脱壳（上篇）.pdf)
 - [【Android脱壳】腾讯加固动态脱壳（下篇）](./books/移动安全（十）_TengXun加固动态脱壳（下篇）.pdf)
 - [【Android脱壳】记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务](./books/记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务.pdf)
+- [【Android抓包】记一次APP测试的爬坑经历.pdf](./books/记一次APP测试的爬坑经历.pdf)
 
 ## <span id="head9"> 说明</span>
 
