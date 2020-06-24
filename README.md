@@ -472,6 +472,8 @@
 - [【Android脱壳】记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务](./books/记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务.pdf)
 - [【Android抓包】记一次APP测试的爬坑经历.pdf](./books/记一次APP测试的爬坑经历.pdf)
 - [完整的内网域渗透-暗月培训之项目六](./books/完整的内网域渗透-暗月培训之项目六.pdf)
+- [Android APP渗透测试方法大全](./books/Android%20APP渗透测试方法大全.pdf)
+- [App安全检测指南-V1.0](./books/App安全检测指南-V1.0.pdf)
 
 ## <span id="head9"> 说明</span>
 
