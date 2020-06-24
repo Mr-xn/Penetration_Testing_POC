@@ -368,7 +368,7 @@
 - [Mars-战神TideSec出品的WDScanner的重写一款综合的漏洞扫描,资产发现/变更,域名监控/子域名挖掘,Awvs扫描,POC检测,web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等工具](https://github.com/TideSec/Mars)
 - [Shellcode Compiler：用于生成Windows 和 Linux平台的shellcode工具](https://github.com/NytroRST/ShellcodeCompiler)
 - [BadDNS 是一款使用 Rust 开发的使用公共 DNS 服务器进行多层子域名探测的极速工具](https://github.com/joinsec/BadDNS)
-- [XServer是一个用于对方法进行分析的Xposed插件](https://github.com/monkeylord/XServer)|[相关文章：Xposed+XServer无需脱壳抓取加密包](https://xz.aliyun.com/t/7669)|[使用xserver对某应用进行不脱壳抓加密包](https://blog.csdn.net/nini_boom/article/details/104400619)
+- [【Android脱壳】XServer是一个用于对方法进行分析的Xposed插件](https://github.com/monkeylord/XServer)|[相关文章：Xposed+XServer无需脱壳抓取加密包](https://xz.aliyun.com/t/7669)|[使用xserver对某应用进行不脱壳抓加密包](https://blog.csdn.net/nini_boom/article/details/104400619)
 - [masscan_to_nmap-基于masscan和nmap的快速端口扫描和指纹识别工具](https://github.com/7dog7/masscan_to_nmap)
 - [Evilreg -使用Windows注册表文件的反向Shell (.Reg)](https://github.com/thelinuxchoice/evilreg)
 - [Shecodject工具使用python注入shellcode bypass 火絨,360,windows defender](https://github.com/TaroballzChen/Shecodject)
@@ -376,7 +376,7 @@
 - [AutoRemove-自动卸载360](https://github.com/DeEpinGh0st/AutoRemove)
 - [ligolo：用于渗透时反向隧道连接工具](https://github.com/sysdream/ligolo)
 - [RMIScout: Java RMI爆破工具](https://github.com/BishopFox/rmiscout)
-- [FRIDA-DEXDump-【使用Frida来进行Android脱壳】](https://github.com/hluwa/FRIDA-DEXDump)
+- [【Android脱壳】FRIDA-DEXDump-【使用Frida来进行Android脱壳】](https://github.com/hluwa/FRIDA-DEXDump)
 - [Donut-Shellcode生成工具](https://github.com/TheWover/donut)
 - [JSP-Webshells集合【2020最新bypass某云检测可用】](https://github.com/threedr3am/JSP-Webshells)
 - [one-scan-多合一网站指纹扫描器，轻松获取网站的 IP / DNS 服务商 / 子域名 / HTTPS 证书 / WHOIS / 开发框架 / WAF 等信息](https://github.com/Jackeriss/one-scan)
@@ -466,6 +466,9 @@
 - [代码审计之DTCMS_V5.0后台漏洞两枚](./books/代码审计之DTCMS_V5.0后台漏洞两枚.pdf)
 - [快速判断sql注入点是否支持load_file](./快速判断sql注入点是否支持load_file.md)
 - [文件上传内容检测绕过](./books/文件上传内容检测绕过.md)
+- [Fastjson_=1.2.47反序列化远程代码执行漏洞复现](./books/Fastjson_=1.2.47反序列化远程代码执行漏洞复现.pdf)
+- [【Android脱壳】_腾讯加固动态脱壳（上篇）](./books/移动安全（九）_TengXun加固动态脱壳（上篇）.pdf)
+- [【Android脱壳】腾讯加固动态脱壳（下篇）](./books/移动安全（十）_TengXun加固动态脱壳（下篇）.pdf)
 
 ## <span id="head9"> 说明</span>
 
