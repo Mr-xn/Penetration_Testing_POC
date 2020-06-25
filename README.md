@@ -164,6 +164,8 @@
 - [Apache Kylin 3.0.1命令注入漏洞](https://community.sonarsource.com/t/apache-kylin-3-0-1-command-injection-vulnerability/25706)
 - [weblogic T3 collections java InvokerTransformer Transformer InvokerTransformer weblogic.jndi.WLInitialContextFactory](https://github.com/hktalent/weblogic_java_des)
 - [CVE-2020-5410 Spring Cloud Config目录穿越漏洞](https://xz.aliyun.com/t/7877)
+- [NewZhan CMS 全版本 SQL注入（0day）](./books/NewZhan%20CMS%20全版本%20SQL注入（0day）.pdf)
+- [盲注 or 联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）](./books/盲注%20or%20联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
