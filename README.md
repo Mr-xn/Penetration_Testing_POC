@@ -397,6 +397,7 @@
 - [EvilPDF：一款把恶意文件嵌入在 PDF 中的工具](https://github.com/thelinuxchoice/evilpdf)
 - [SatanSword-红队综合渗透框架，支持web指纹识别、漏洞PoC检测、批量web信息和端口信息查询、路径扫描、批量JS查找子域名、使用google headless、协程支持、完整的日志回溯](https://github.com/Lucifer1993/SatanSword)
 - [Get-WeChat-DB-获取目标机器的微信数据库和密钥](https://github.com/A2kaid/Get-WeChat-DB)
+- [ThinkphpRCE-支持代理IP池的批量检测tThinkphp漏洞或者日志泄露的py3脚本](https://github.com/sukabuliet/ThinkphpRCE)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
