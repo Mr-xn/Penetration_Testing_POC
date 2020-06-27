@@ -477,6 +477,7 @@
 - [完整的内网域渗透-暗月培训之项目六](./books/完整的内网域渗透-暗月培训之项目六.pdf)
 - [Android APP渗透测试方法大全](./books/Android%20APP渗透测试方法大全.pdf)
 - [App安全检测指南-V1.0](./books/App安全检测指南-V1.0.pdf)
+- [借github上韩国师傅的一个源码实例再次理解.htaccess的功效](./books/借github上韩国师傅的一个源码实例再次理解.htaccess的功效.pdf)
 
 ## <span id="head9"> 说明</span>
 
