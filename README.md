@@ -166,6 +166,7 @@
 - [CVE-2020-5410 Spring Cloud Config目录穿越漏洞](https://xz.aliyun.com/t/7877)
 - [NewZhan CMS 全版本 SQL注入（0day）](./books/NewZhan%20CMS%20全版本%20SQL注入（0day）.pdf)
 - [盲注 or 联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）](./books/盲注%20or%20联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）.pdf)
+- [从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过](./books/从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
