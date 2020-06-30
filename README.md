@@ -201,6 +201,7 @@
 - [【Windows提权】CVE-2020-1066-EXP](https://github.com/cbwang505/CVE-2020-1066-EXP)
 - [【Windows提权】CVE-2020-0787-EXP-ALL-WINDOWS-VERSION-适用于Windows所有版本的提权EXP](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION)
 - [【Windows提权】CVE-2020-1054-Win32k提权漏洞Poc](https://github.com/0xeb-bp/cve-2020-1054)
+- [【Linux提权】对Linux提权的简单总结](./books/对Linux提权的简单总结.pdf)
 
 ## <span id="head6"> PC</span>
 
