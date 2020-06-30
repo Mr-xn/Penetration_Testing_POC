@@ -480,6 +480,7 @@
 - [App安全检测指南-V1.0](./books/App安全检测指南-V1.0.pdf)
 - [借github上韩国师傅的一个源码实例再次理解.htaccess的功效](./books/借github上韩国师傅的一个源码实例再次理解.htaccess的功效.pdf)
 - [Pentest_Note-渗透Tips，总结了渗透测试常用的工具方法](https://github.com/xiaoy-sec/Pentest_Note)
+- [红蓝对抗之Windows内网渗透-腾讯SRC出品](./books/红蓝对抗之Windows内网渗透-腾讯SRC出品.pdf)
 
 ## <span id="head9"> 说明</span>
 
