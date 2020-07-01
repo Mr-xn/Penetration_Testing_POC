@@ -203,6 +203,7 @@
 - [【Windows提权】CVE-2020-0787-EXP-ALL-WINDOWS-VERSION-适用于Windows所有版本的提权EXP](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION)
 - [【Windows提权】CVE-2020-1054-Win32k提权漏洞Poc](https://github.com/0xeb-bp/cve-2020-1054)
 - [【Linux提权】对Linux提权的简单总结](./books/对Linux提权的简单总结.pdf)
+- [【Windows提权】wesng-Windows提权辅助脚本](https://github.com/bitsadmin/wesng)
 
 ## <span id="head6"> PC</span>
 
@@ -401,6 +402,7 @@
 - [SatanSword-红队综合渗透框架，支持web指纹识别、漏洞PoC检测、批量web信息和端口信息查询、路径扫描、批量JS查找子域名、使用google headless、协程支持、完整的日志回溯](https://github.com/Lucifer1993/SatanSword)
 - [Get-WeChat-DB-获取目标机器的微信数据库和密钥](https://github.com/A2kaid/Get-WeChat-DB)
 - [ThinkphpRCE-支持代理IP池的批量检测Thinkphp漏洞或者日志泄露的py3脚本](https://github.com/sukabuliet/ThinkphpRCE)
+- [fakelogonscreen-伪造（Windows）系统登录页面,截获密码](https://github.com/bitsadmin/fakelogonscreen)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
