@@ -486,6 +486,7 @@
 - [Pentest_Note-渗透Tips，总结了渗透测试常用的工具方法](https://github.com/xiaoy-sec/Pentest_Note)
 - [红蓝对抗之Windows内网渗透-腾讯SRC出品](./books/红蓝对抗之Windows内网渗透-腾讯SRC出品.pdf)
 - [远程提取Windows中的系统凭证](./books/远程提取Windows中的系统凭证.pdf)
+- [绕过ASM执行powershell脚本](./books/绕过ASM执行powershell脚本.md)
 
 ## <span id="head9"> 说明</span>
 
