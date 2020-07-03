@@ -76,6 +76,7 @@
 - [Redis(<=5.0.5) RCE](./redis-rogue-server)
 - [Redis 4.x/5.x RCE（主从复制导致RCE）](https://github.com/Ridter/redis-rce)
 - [生成Redis恶意模块so文件配合主从复制RCE达到命令执行](https://github.com/n0b0dyCN/RedisModules-ExecuteCommand)|[相关文章](https://www.freebuf.com/vuls/224235.html)
+- [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
 - [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
 - [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
