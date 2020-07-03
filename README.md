@@ -489,6 +489,7 @@
 - [远程提取Windows中的系统凭证](./books/远程提取Windows中的系统凭证.pdf)
 - [绕过AMSI执行powershell脚本](./books/绕过AMSI执行powershell脚本.md)|[AmsiScanBufferBypass-相关项目](https://github.com/rasta-mouse/AmsiScanBufferBypass)
 - [踩坑记录-Redis(Windows)的getshell](./books/踩坑记录-Redis(Windows)的getshell.pdf)
+- [Cobal_Strike踩坑记录-DNS Beacon](./books/Cobal_Strike踩坑记录-DNS%20Beacon.pdf)
 
 ## <span id="head9"> 说明</span>
 
