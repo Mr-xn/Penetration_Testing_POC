@@ -487,6 +487,7 @@
 - [红蓝对抗之Windows内网渗透-腾讯SRC出品](./books/红蓝对抗之Windows内网渗透-腾讯SRC出品.pdf)
 - [远程提取Windows中的系统凭证](./books/远程提取Windows中的系统凭证.pdf)
 - [绕过AMSI执行powershell脚本](./books/绕过AMSI执行powershell脚本.md)|[AmsiScanBufferBypass-相关项目](https://github.com/rasta-mouse/AmsiScanBufferBypass)
+- [踩坑记录-Redis(Windows)的getshell](./books/踩坑记录-Redis(Windows)的getshell.pdf)
 
 ## <span id="head9"> 说明</span>
 
