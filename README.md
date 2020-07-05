@@ -405,6 +405,9 @@
 - [ThinkphpRCE-支持代理IP池的批量检测Thinkphp漏洞或者日志泄露的py3脚本](https://github.com/sukabuliet/ThinkphpRCE)
 - [fakelogonscreen-伪造（Windows）系统登录页面,截获密码](https://github.com/bitsadmin/fakelogonscreen)
 - [WMIHACKER-仅135端口免杀横向移动](https://github.com/360-Linton-Lab/WMIHACKER)|[使用方法以及介绍](./books/WMIHACKER（仅135端口免杀横向移动）.pdf)|[横向移动工具WMIHACKER](./books/横向移动工具WMIHACKER.pdf)|[原文链接](https://www.anquanke.com/post/id/209665)
+- [cloud-ranges-部分公有云IP地址范围](https://github.com/pry0cc/cloud-ranges)
+- [sqltools_ch-sqltools2.0汉化增强版](./ttools/sqltools_ch.rar)
+- [railgun-poc_1.0.1.7-多功能端口扫描/爆破/漏洞利用、编码转换等](./tools/railgun-poc_1.0.1.7.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
