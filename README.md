@@ -408,6 +408,7 @@
 - [cloud-ranges-部分公有云IP地址范围](https://github.com/pry0cc/cloud-ranges)
 - [sqltools_ch-sqltools2.0汉化增强版](./ttools/sqltools_ch.rar)
 - [railgun-poc_1.0.1.7-多功能端口扫描/爆破/漏洞利用/编码转换等](./tools/railgun-poc_1.0.1.7.zip)
+- [dede_funcookie.php-DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./tools/dede_funcookie.php)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -495,6 +496,7 @@
 - [踩坑记录-Redis(Windows)的getshell](./books/踩坑记录-Redis(Windows)的getshell.pdf)
 - [Cobal_Strike踩坑记录-DNS Beacon](./books/Cobal_Strike踩坑记录-DNS%20Beacon.pdf)
 - [windows下隐藏webshell的方法](./books/windows下隐藏webshell的方法.md)
+- [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析 (三) 碰撞点.pdf)
 
 ## <span id="head9"> 说明</span>
 
