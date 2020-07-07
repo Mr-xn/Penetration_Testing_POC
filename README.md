@@ -169,6 +169,7 @@
 - [盲注 or 联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）](./books/盲注%20or%20联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）.pdf)
 - [从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过](./books/从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过.pdf)
 - [CVE-2020-1948 : Apache Dubbo 远程代码执行漏洞](https://github.com/ctlyz123/CVE-2020-1948)
+- [CVE-2020-5902-F5 BIG-IP 远程代代码执行（RCE）&任意文件包含读取](https://github.com/jas502n/CVE-2020-5902)
 
 ## <span id="head5"> 提权辅助相关</span>
 
