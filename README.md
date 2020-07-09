@@ -499,6 +499,7 @@
 - [Cobal_Strike踩坑记录-DNS Beacon](./books/Cobal_Strike踩坑记录-DNS%20Beacon.pdf)
 - [windows下隐藏webshell的方法](./books/windows下隐藏webshell的方法.md)
 - [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析 (三) 碰撞点.pdf)
+- [针对宝塔的RASP及其disable_functions的绕过](./books/针对宝塔的RASP及其disable_functions的绕过.pdf)
 
 ## <span id="head9"> 说明</span>
 
