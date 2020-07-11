@@ -412,6 +412,7 @@
 - [railgun-poc_1.0.1.7-多功能端口扫描/爆破/漏洞利用/编码转换等](./tools/railgun-poc_1.0.1.7.zip)
 - [dede_funcookie.php-DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./tools/dede_funcookie.php)
 - [WAScan-一款功能强大的Web应用程序扫描工具【基于python开发的命令行扫描器】](https://github.com/m4ll0k/WAScan)
+- [Peinject_dll-CS插件之另类持久化方法-PE感染](https://github.com/m0ngo0se/Peinject_dll)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -501,6 +502,7 @@
 - [windows下隐藏webshell的方法](./books/windows下隐藏webshell的方法.md)
 - [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析 (三) 碰撞点.pdf)
 - [针对宝塔的RASP及其disable_functions的绕过](./books/针对宝塔的RASP及其disable_functions的绕过.pdf)
+- [渗透基础WMI学习笔记](./books/渗透基础WMI学习笔记.pdf)
 
 ## <span id="head9"> 说明</span>
 
