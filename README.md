@@ -414,6 +414,7 @@
 - [dede_funcookie.php-DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./tools/dede_funcookie.php)
 - [WAScan-一款功能强大的Web应用程序扫描工具【基于python开发的命令行扫描器】](https://github.com/m4ll0k/WAScan)
 - [Peinject_dll-CS插件之另类持久化方法-PE感染](https://github.com/m0ngo0se/Peinject_dll)
+- [MSSQL_BackDoor-摆脱MSSMS和 Navicat 调用执行 sp_cmdExec](https://github.com/evi1ox/MSSQL_BackDoor)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
