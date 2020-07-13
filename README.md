@@ -505,6 +505,7 @@
 - [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析 (三) 碰撞点.pdf)
 - [针对宝塔的RASP及其disable_functions的绕过](./books/针对宝塔的RASP及其disable_functions的绕过.pdf)
 - [渗透基础WMI学习笔记](./books/渗透基础WMI学习笔记.pdf)
+- [【海洋CMS】SeaCMS_v10.1代码审计实战](./books/SeaCMS_v10.1代码审计实战.pdf)
 
 ## <span id="head9"> 说明</span>
 
