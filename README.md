@@ -415,6 +415,7 @@
 - [WAScan-一款功能强大的Web应用程序扫描工具【基于python开发的命令行扫描器】](https://github.com/m4ll0k/WAScan)
 - [Peinject_dll-CS插件之另类持久化方法-PE感染](https://github.com/m0ngo0se/Peinject_dll)
 - [MSSQL_BackDoor-摆脱MSSMS和 Navicat 调用执行 sp_cmdExec](https://github.com/evi1ox/MSSQL_BackDoor)
+- [xShock-一款针对Shellshock漏洞的利用工具【例如低版本cgi的默认配置页面进行利用】](https://github.com/capture0x/xShock/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
