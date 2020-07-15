@@ -239,7 +239,7 @@
 - [CVE-2020-0674：Internet Explorer UAF 漏洞exp【在64位的win7测试了IE 8, 9, 10, and 11】](https://github.com/maxpl0it/CVE-2020-0674-Exploit)
 - [SMBGhost_AutomateExploitation-SMBGhost (CVE-2020-0796) Automate Exploitation and Detection](https://github.com/Barriuso/SMBGhost_AutomateExploitation)
 - [MS Windows OLE 远程代码执行漏洞(CVE-2020-1281)](https://github.com/guhe120/Windows-EoP/tree/master/CVE-2020-1281)
-- [CVE-2020-1350-Windows的DNS服务器RCE](https://github.com/ZephrFish/CVE-2020-1350)
+- [CVE-2020-1350-Windows的DNS服务器RCE检测的powershell脚本](https://github.com/T13nn3s/CVE-2020-1350)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -515,6 +515,7 @@
 - [针对宝塔的RASP及其disable_functions的绕过](./books/针对宝塔的RASP及其disable_functions的绕过.pdf)
 - [渗透基础WMI学习笔记](./books/渗透基础WMI学习笔记.pdf)
 - [【海洋CMS】SeaCMS_v10.1代码审计实战](./books/SeaCMS_v10.1代码审计实战.pdf)
+- [红队攻防实践：闲谈Webshell在实战中的应用](./books/红队攻防实践：闲谈Webshell在实战中的应用.pdf)
 
 ## <span id="head9"> 说明</span>
 
