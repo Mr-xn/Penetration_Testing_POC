@@ -424,6 +424,7 @@
 - [tini-tools-针对红蓝对抗各个场景使用的小工具-【主要是Java写的工具】【目前有phpstudy.jar和域名转IP工具.jar】](https://github.com/sunird/tini-tools)
 - [code6-码小六是一款 GitHub 代码泄露监控系统，通过定期扫描 GitHub 发现代码泄露行为](https://github.com/4x99/code6)
 - [taowu-cobalt-strike-适用于cobalt strike3.x与cobalt strike4.x的插件](https://github.com/pandasec888/taowu-cobalt-strike)
+- [Weblogic-scan-Weblogic 漏洞批量扫描工具](./tools/Weblogic-scan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
