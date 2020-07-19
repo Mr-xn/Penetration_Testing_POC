@@ -172,6 +172,7 @@
 - [CVE-2020-1948 : Apache Dubbo 远程代码执行漏洞](https://github.com/ctlyz123/CVE-2020-1948)
 - [CVE-2020-5902-F5 BIG-IP 远程代代码执行（RCE）&任意文件包含读取](https://github.com/jas502n/CVE-2020-5902)
 - [CVE-2020-8193-Citrix未授权访问任意文件读取](https://github.com/jas502n/CVE-2020-8193)
+- [通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01](./books/通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -518,6 +519,7 @@
 - [渗透基础WMI学习笔记](./books/渗透基础WMI学习笔记.pdf)
 - [【海洋CMS】SeaCMS_v10.1代码审计实战](./books/SeaCMS_v10.1代码审计实战.pdf)
 - [红队攻防实践：闲谈Webshell在实战中的应用](./books/红队攻防实践：闲谈Webshell在实战中的应用.pdf)
+- [php无eval后门](./books/php无eval后门.pdf)
 
 ## <span id="head9"> 说明</span>
 
