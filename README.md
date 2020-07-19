@@ -520,6 +520,7 @@
 - [【海洋CMS】SeaCMS_v10.1代码审计实战](./books/SeaCMS_v10.1代码审计实战.pdf)
 - [红队攻防实践：闲谈Webshell在实战中的应用](./books/红队攻防实践：闲谈Webshell在实战中的应用.pdf)
 - [php无eval后门](./books/php无eval后门.pdf)
+- [【代码审计】ThinkPhp6任意文件写入](./books/[代码审计]ThinkPhp6任意文件写入.pdf)
 
 ## <span id="head9"> 说明</span>
 
