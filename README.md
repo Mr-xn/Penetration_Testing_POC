@@ -240,6 +240,7 @@
 - [SMBGhost_AutomateExploitation-SMBGhost (CVE-2020-0796) Automate Exploitation and Detection](https://github.com/Barriuso/SMBGhost_AutomateExploitation)
 - [MS Windows OLE 远程代码执行漏洞(CVE-2020-1281)](https://github.com/guhe120/Windows-EoP/tree/master/CVE-2020-1281)
 - [CVE-2020-1350-Windows的DNS服务器RCE检测的powershell脚本](https://github.com/T13nn3s/CVE-2020-1350)|[CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS)
+- [CVE-2020-1362-Microsoft Windows WalletService权限提升漏洞](https://github.com/Q4n/CVE-2020-1362)
 
 
 ## <span id="head7"> tools-小工具集合</span>
