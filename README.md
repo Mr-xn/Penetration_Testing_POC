@@ -173,6 +173,7 @@
 - [CVE-2020-5902-F5 BIG-IP 远程代代码执行（RCE）&任意文件包含读取](https://github.com/jas502n/CVE-2020-5902)
 - [CVE-2020-8193-Citrix未授权访问任意文件读取](https://github.com/jas502n/CVE-2020-8193)
 - [通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01](./books/通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01.pdf)
+- [CVE-2020-14645-WebLogic 远程代码执行漏洞](https://github.com/Y4er/CVE-2020-14645)
 
 ## <span id="head5"> 提权辅助相关</span>
 
