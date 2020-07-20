@@ -319,6 +319,7 @@
 - [【内网代理】Tunna-通过http隧道将TCP流量代理出来](https://github.com/SECFORCE/Tunna)
 - [【内网代理】proxy.php-单文件版的php代理](https://github.com/mcnemesis/proxy.php)
 - [【内网代理】pivotnacci-通过HTTP隧道将TCP流量代理出来或进去](https://github.com/blackarrowsec/pivotnacci)
+- [【内网代理】毒刺(pystinger)通过webshell实现**内网SOCK4代理**,**端口映射**.](https://github.com/FunnyWolf/pystinger)|[pystinger.zip-下载](./tools/pystinger.zip)
 - [【内网代理】php-proxy-app-一款代理访问网站的工具](https://github.com/Athlon1600/php-proxy-app)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
@@ -428,7 +429,6 @@
 - [code6-码小六是一款 GitHub 代码泄露监控系统，通过定期扫描 GitHub 发现代码泄露行为](https://github.com/4x99/code6)
 - [taowu-cobalt-strike-适用于cobalt strike3.x与cobalt strike4.x的插件](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Weblogic-scan-Weblogic 漏洞批量扫描工具](./tools/Weblogic-scan)
-- [毒刺(pystinger)通过webshell实现**内网SOCK4代理**,**端口映射**.](https://github.com/FunnyWolf/pystinger)|[pystinger.zip-下载](./tools/pystinger.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
