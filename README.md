@@ -514,7 +514,7 @@
 - [踩坑记录-Redis(Windows)的getshell](./books/踩坑记录-Redis(Windows)的getshell.pdf)
 - [Cobal_Strike踩坑记录-DNS Beacon](./books/Cobal_Strike踩坑记录-DNS%20Beacon.pdf)
 - [windows下隐藏webshell的方法](./books/windows下隐藏webshell的方法.md)
-- [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析 (三) 碰撞点.pdf)
+- [DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./books/DEDECMS伪随机漏洞分析(三)碰撞点.pdf)
 - [针对宝塔的RASP及其disable_functions的绕过](./books/针对宝塔的RASP及其disable_functions的绕过.pdf)
 - [渗透基础WMI学习笔记](./books/渗透基础WMI学习笔记.pdf)
 - [【海洋CMS】SeaCMS_v10.1代码审计实战](./books/SeaCMS_v10.1代码审计实战.pdf)
@@ -523,7 +523,7 @@
 - [【代码审计】ThinkPhp6任意文件写入](./books/[代码审计]ThinkPhp6任意文件写入.pdf)
 - [YzmCMS代码审计](./books/YzmCMS代码审计.pdf)
 - [BadUSB简单免杀一秒上线CobaltStrike](./books/BadUSB/BadUSB简单免杀一秒上线CobaltStrike.pdf)
-- [BasUSB实现后台静默执行上线CobaltStrike](./books/BadUSB/BasUSB实现后台静默执行上线CobaltStrike.pdf)
+- [BasUSB实现后台静默执行上线CobaltStrike](./books/BadUSB/BadUSB实现后台静默执行上线CobaltStrike.pdf)
 - [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)
 
 ## <span id="head9"> 说明</span>
