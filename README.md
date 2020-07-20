@@ -428,6 +428,7 @@
 - [code6-码小六是一款 GitHub 代码泄露监控系统，通过定期扫描 GitHub 发现代码泄露行为](https://github.com/4x99/code6)
 - [taowu-cobalt-strike-适用于cobalt strike3.x与cobalt strike4.x的插件](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Weblogic-scan-Weblogic 漏洞批量扫描工具](./tools/Weblogic-scan)
+- [毒刺(pystinger)通过webshell实现**内网SOCK4代理**,**端口映射**.](https://github.com/FunnyWolf/pystinger)|[pystinger.zip-下载](./tools/pystinger.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
