@@ -530,6 +530,7 @@
 - [BadUSB简单免杀一秒上线CobaltStrike](./books/BadUSB/BadUSB简单免杀一秒上线CobaltStrike.pdf)
 - [BasUSB实现后台静默执行上线CobaltStrike](./books/BadUSB/BadUSB实现后台静默执行上线CobaltStrike.pdf)
 - [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)
+- [一文学会Web_Service漏洞挖掘](./books/一文学会Web_Service漏洞挖掘.pdf)
 
 ## <span id="head9"> 说明</span>
 
