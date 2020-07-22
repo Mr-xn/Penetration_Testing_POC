@@ -211,6 +211,7 @@
 - [【Windows提权】CVE-2020-1054-Win32k提权漏洞Poc](https://github.com/0xeb-bp/cve-2020-1054)|[CVE-2020-1054-POC](https://github.com/Iamgublin/CVE-2020-1054)
 - [【Linux提权】对Linux提权的简单总结](./books/对Linux提权的简单总结.pdf)
 - [【Windows提权】wesng-Windows提权辅助脚本](https://github.com/bitsadmin/wesng)
+- [【Windows提权】dazzleUP是一款用来帮助渗透测试人员进行权限提升的工具，可以在window系统中查找脆弱面进行攻击。工具包括两部分检查内容，exploit检查和错误配置检查。](https://github.com/hlldz/dazzleUP)
 
 ## <span id="head6"> PC</span>
 
