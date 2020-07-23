@@ -175,6 +175,7 @@
 - [通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01](./books/通读审计之天目MVC_T框架带Home版(temmokumvc)_v2.01.pdf)
 - [CVE-2020-14645-WebLogic 远程代码执行漏洞](https://github.com/Y4er/CVE-2020-14645)|[Weblogic_CVE-2020-14645](https://github.com/DSO-Lab/Weblogic_CVE-2020-14645)
 - [CVE-2020-6287-SAP NetWeaver AS JAVA 授权问题漏洞-创建用户EXP](https://github.com/duc-nt/CVE-2020-6287-exploit)|[SAP_RECON-PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)](https://github.com/chipik/SAP_RECON)
+- [CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029-jenkins-rce](https://github.com/orangetw/awesome-jenkins-rce-2019)
 
 ## <span id="head5"> 提权辅助相关</span>
 
