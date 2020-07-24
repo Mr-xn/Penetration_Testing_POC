@@ -537,6 +537,7 @@
 - [一文学会Web_Service漏洞挖掘](./books/一文学会Web_Service漏洞挖掘.pdf)
 - [唯快不破的分块传输绕WAF](./books/唯快不破的分块传输绕WAF.pdf)
 - [Unicode的规范化相关漏洞挖掘思路实操](./books/Unicode的规范化相关漏洞挖掘思路实操.pdf)
+- [全方面绕过安全狗2](./books/全方面绕过安全狗2.pdf)
 
 ## <span id="head9"> 说明</span>
 
