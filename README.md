@@ -536,6 +536,7 @@
 - [一文学会Web_Service漏洞挖掘](./books/一文学会Web_Service漏洞挖掘.pdf)
 - [唯快不破的分块传输绕WAF](./books/唯快不破的分块传输绕WAF.pdf)
 - [Unicode的规范化相关漏洞挖掘思路实操](./books/Unicode的规范化相关漏洞挖掘思路实操.pdf)
+- [红队攻防实践：unicode进行webshell免杀的思考](./books/红队攻防实践：unicode进行webshell免杀的思考.pdf)
 
 ## <span id="head9"> 说明</span>
 
