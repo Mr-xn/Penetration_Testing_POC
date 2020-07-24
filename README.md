@@ -177,6 +177,7 @@
 - [CVE-2020-6287-SAP NetWeaver AS JAVA 授权问题漏洞-创建用户EXP](https://github.com/duc-nt/CVE-2020-6287-exploit)|[SAP_RECON-PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)](https://github.com/chipik/SAP_RECON)
 - [CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029-jenkins-rce](https://github.com/orangetw/awesome-jenkins-rce-2019)
 - [CVE-2020-3452：Cisco ASA/FTD 任意文件读取漏洞](./CVE-2020-3452：Cisco_ASAFTD任意文件读取漏洞.md)
+- [74CMS_v5.0.1后台RCE分析](./books/74CMS_v5.0.1后台RCE分析.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
