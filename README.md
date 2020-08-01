@@ -442,6 +442,7 @@
 - [C_Shot-shellcode远程加载器](https://github.com/anthemtotheego/C_Shot)|[相关文章](./books/C_shot–shellcode远程加载器.pdf)
 - [dz_ml_rce.py-Discuz! ml RCE漏洞利用工具](./tools/dz_ml_rce.py)
 - [Redis未授权访问漏洞利用工具](./tools/Redis_Exp-by_PANDA墨森.zip)
+- [Shiro 回显利用工具](./tools/shiroPoc-1.0-SNAPSHOT-jar-with-dependencies_20200726_130831.jar)|[相关文章](./books/Shiro_回显利用工具.pdf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
