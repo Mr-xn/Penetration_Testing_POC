@@ -249,9 +249,10 @@
 - [CVE-2020-1350-Windows的DNS服务器RCE检测的powershell脚本](https://github.com/T13nn3s/CVE-2020-1350)|[CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS)
 - [CVE-2020-1362-Microsoft Windows WalletService权限提升漏洞](https://github.com/Q4n/CVE-2020-1362)
 - [CVE-2020-10713-GRUB2 本地代码执行漏洞](https://github.com/eclypsium/BootHole)
+- [CVE-2020-1313-Microsoft Windows Update Orchestrator Service权限提升漏洞，可用于Windows提权操作，支持新版的Windows server 2004](https://github.com/irsl/CVE-2020-1313)
 
 
-## <span id="head7"> tools-小工具集合</span>
+## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
 - [Linux SSH登录日志清除/伪造](./tools/ssh)
