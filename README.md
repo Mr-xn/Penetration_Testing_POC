@@ -440,6 +440,8 @@
 - [fofa2Xray-一款联合fofa与xray的自动化批量扫描工具,使用Golang编写，适用于windows与linux](https://github.com/piaolin/fofa2Xray)
 - [CasExp-Apereo CAS 反序列化利用工具](https://github.com/potats0/CasExp)
 - [C_Shot-shellcode远程加载器](https://github.com/anthemtotheego/C_Shot)|[相关文章](./books/C_shot–shellcode远程加载器.pdf)
+- [dz_ml_rce.py-Discuz! ml RCE漏洞利用工具](./tools/dz_ml_rce.py)
+- [Redis未授权访问漏洞利用工具](./tools/Redis_Exp-by_PANDA墨森.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
