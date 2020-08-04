@@ -178,6 +178,7 @@
 - [CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029-jenkins-rce](https://github.com/orangetw/awesome-jenkins-rce-2019)
 - [CVE-2020-3452：Cisco ASA/FTD 任意文件读取漏洞](./CVE-2020-3452：Cisco_ASAFTD任意文件读取漏洞.md)
 - [74CMS_v5.0.1后台RCE分析](./books/74CMS_v5.0.1后台RCE分析.pdf)
+- [CVE-2020-8163 - Remote code execution of user-provided local names in Rails](https://github.com/sh286/CVE-2020-8163)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -551,6 +552,7 @@
 - [冰蝎——从入门到魔改(续)](./books/冰蝎——从入门到魔改(续).pdf)
 - [技术分享_ 内网渗透手动学习实践](./books/技术分享%20_%20内网渗透手动学习实践.pdf)
 - [权限维持之打造不一样的映像劫持后门](./books/权限维持之打造不一样的映像劫持后门.pdf)
+- [Jboss漏洞利用总结](./books/Jboss漏洞利用总结.pdf)
 
 ## <span id="head9"> 说明</span>&
 
