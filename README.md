@@ -553,6 +553,7 @@
 - [技术分享_ 内网渗透手动学习实践](./books/技术分享%20_%20内网渗透手动学习实践.pdf)
 - [权限维持之打造不一样的映像劫持后门](./books/权限维持之打造不一样的映像劫持后门.pdf)
 - [Jboss漏洞利用总结](./books/Jboss漏洞利用总结.pdf)
+- [Java RMI服务远程命令执行利用](./books/Java_RMI服务远程命令执行利用.pdf)|[小天之天的测试工具-attackRMI.jar](./tools/attackRMI.jar)
 
 ## <span id="head9"> 说明</span>&
 
