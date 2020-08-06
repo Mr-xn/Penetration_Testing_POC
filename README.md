@@ -554,6 +554,7 @@
 - [权限维持之打造不一样的映像劫持后门](./books/权限维持之打造不一样的映像劫持后门.pdf)
 - [Jboss漏洞利用总结](./books/Jboss漏洞利用总结.pdf)
 - [Java RMI服务远程命令执行利用](./books/Java_RMI服务远程命令执行利用.pdf)|[小天之天的测试工具-attackRMI.jar](./tools/attackRMI.jar)
+- [PbootCMS任意代码执行(从v1.0.1到v2.0.9)的前世今生](./books/PbootCMS任意代码执行(从v1.0.1到v2.0.9)的前世今生.pdf)
 
 ## <span id="head9"> 说明</span>&
 
