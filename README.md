@@ -558,6 +558,8 @@
 - [Jboss漏洞利用总结](./books/Jboss漏洞利用总结.pdf)
 - [Java RMI服务远程命令执行利用](./books/Java_RMI服务远程命令执行利用.pdf)|[小天之天的测试工具-attackRMI.jar](./tools/attackRMI.jar)
 - [PbootCMS任意代码执行(从v1.0.1到v2.0.9)的前世今生](./books/PbootCMS任意代码执行(从v1.0.1到v2.0.9)的前世今生.pdf)
+- [实战绕过双重waf(玄武盾+程序自身过滤)结合编写sqlmap的tamper获取数据](./books/实战绕过双重waf(玄武盾+程序自身过滤)结合编写sqlmap的tamper获取数据.pdf)
+- [OneThink前台注入分析](./books/OneThink前台注入分析.pdf)
 
 ## <span id="head9"> 说明</span>&
 
