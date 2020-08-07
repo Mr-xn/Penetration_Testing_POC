@@ -444,6 +444,7 @@
 - [dz_ml_rce.py-Discuz! ml RCE漏洞利用工具](./tools/dz_ml_rce.py)
 - [Redis未授权访问漏洞利用工具](./tools/Redis_Exp-by_PANDA墨森.zip)
 - [Shiro 回显利用工具](./tools/shiroPoc-1.0-SNAPSHOT-jar-with-dependencies_20200726_130831.jar)|[相关文章](./books/Shiro_回显利用工具.pdf)
+- [GetIPinfo-用于寻找多网卡主机方便内网跨网段渗透避免瞎打找不到核心网](https://github.com/r35tart/GetIPinfo)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
