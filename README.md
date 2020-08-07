@@ -445,6 +445,8 @@
 - [Redis未授权访问漏洞利用工具](./tools/Redis_Exp-by_PANDA墨森.zip)
 - [Shiro 回显利用工具](./tools/shiroPoc-1.0-SNAPSHOT-jar-with-dependencies_20200726_130831.jar)|[相关文章](./books/Shiro_回显利用工具.pdf)
 - [GetIPinfo-用于寻找多网卡主机方便内网跨网段渗透避免瞎打找不到核心网](https://github.com/r35tart/GetIPinfo)
+- [Layer子域名挖掘机-Layer5.0 SAINTSEC](https://github.com/euphrat1ca/LayerDomainFinder)
+- [cve_2020_14644.jar-Weblogic 远程命令执行漏洞（CVE-2020-14644）回显利用工具](./tools/cve_2020_14644.jar)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
