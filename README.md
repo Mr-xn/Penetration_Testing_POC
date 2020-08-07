@@ -447,7 +447,7 @@
 - [GetIPinfo-用于寻找多网卡主机方便内网跨网段渗透避免瞎打找不到核心网](https://github.com/r35tart/GetIPinfo)
 - [Layer子域名挖掘机-Layer5.0 SAINTSEC](https://github.com/euphrat1ca/LayerDomainFinder)
 - [cve_2020_14644.jar-Weblogic 远程命令执行漏洞（CVE-2020-14644）回显利用工具](./tools/cve_2020_14644.jar)
-- [PowerShell武器库](https://github.com/MScholtes/TechNet-Gallery)|[Powershell ebserver：PowerShell实现的Web服务器，无需IIS，支持PowerShell命令执行、脚本执行、上传、下载等功能](https://github.com/MScholtes/TechNet-Gallery/tree/master/Powershell%20Webserver)|[PS2EXE-GUI：将PowerShell脚本转换为EXE文件](https://github.com/MScholtes/TechNet-Gallery/tree/master/PS2EXE-GUI)
+- [TechNet-Gallery-PowerShell武器库](https://github.com/MScholtes/TechNet-Gallery)|[Powershell ebserver：PowerShell实现的Web服务器，无需IIS，支持PowerShell命令执行、脚本执行、上传、下载等功能](https://github.com/MScholtes/TechNet-Gallery/tree/master/Powershell%20Webserver)|[PS2EXE-GUI：将PowerShell脚本转换为EXE文件](https://github.com/MScholtes/TechNet-Gallery/tree/master/PS2EXE-GUI)
 - [spybrowse：窃取指定浏览器的配置文件](https://github.com/1d8/spybrowse)
 - [FavFreak：执行基于favicon.ico的侦察](https://github.com/devanshbatham/FavFreak)
 
