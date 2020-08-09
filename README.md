@@ -564,6 +564,7 @@
 - [实战绕过双重waf(玄武盾+程序自身过滤)结合编写sqlmap的tamper获取数据](./books/实战绕过双重waf(玄武盾+程序自身过滤)结合编写sqlmap的tamper获取数据.pdf)
 - [OneThink前台注入分析](./books/OneThink前台注入分析.pdf)
 - [记一次从源代码泄漏到后台(微擎cms)获取webshell的过程](./books/记一次从源代码泄漏到后台(微擎cms)获取webshell的过程.pdf)
+- [Android抓包—关于抓包的碎碎念-看雪论坛-Android板块ChenSem](./books/关于抓包的碎碎念.pdf)|[原文地址](https://bbs.pediy.com/thread-260965.htm)
 
 ## <span id="head9"> 说明</span>&
 
