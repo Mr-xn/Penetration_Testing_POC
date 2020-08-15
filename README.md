@@ -567,6 +567,7 @@
 - [记一次从源代码泄漏到后台(微擎cms)获取webshell的过程](./books/记一次从源代码泄漏到后台(微擎cms)获取webshell的过程.pdf)
 - [Android抓包—关于抓包的碎碎念-看雪论坛-Android板块ChenSem](./books/关于抓包的碎碎念.pdf)|[原文地址](https://bbs.pediy.com/thread-260965.htm)
 - [CVE-2020-15778-Openssh-SCP命令注入漏洞复现报告](./books/CVE-2020-15778-Openssh-SCP命令注入漏洞复现报告.pdf)
+- [bolt_cms_V3.7.0_xss和远程代码执行漏洞](./books/bolt_cms_V3.7.0_xss和远程代码执行漏洞.pdf)
 
 ## <span id="head9"> 说明</span>
 
