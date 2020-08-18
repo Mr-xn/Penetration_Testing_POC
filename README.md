@@ -453,6 +453,7 @@
 - [FavFreak：执行基于favicon.ico的侦察](https://github.com/devanshbatham/FavFreak)
 - [gorailgun_v1.0.7-集漏洞端口扫描利用于一体的工具](./tools/gorailgun_v1.0.7.zip)
 - [【shell管理工具】Godzilla-哥斯拉](https://github.com/BeichenDream/Godzilla)|[-AntSword蚁剑](https://github.com/AntSwordProject)|[Behinder-冰蝎](https://github.com/rebeyond/Behinder)
+- [C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
