@@ -453,7 +453,7 @@
 - [FavFreak：执行基于favicon.ico的侦察](https://github.com/devanshbatham/FavFreak)
 - [gorailgun_v1.0.7-集漏洞端口扫描利用于一体的工具](./tools/gorailgun_v1.0.7.zip)
 - [【shell管理工具】Godzilla-哥斯拉](https://github.com/BeichenDream/Godzilla)|[-AntSword蚁剑](https://github.com/AntSwordProject)|[Behinder-冰蝎](https://github.com/rebeyond/Behinder)
-- [C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)
+- [由python编写打包的Linux下自动巡检工具](./tools/linux_auto_xunjian)|[源处](https://github.com/heikanet/linux_auto_xunjian)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -573,9 +573,19 @@
 - [bolt_cms_V3.7.0_xss和远程代码执行漏洞](./books/bolt_cms_V3.7.0_xss和远程代码执行漏洞.pdf)
 - [关于Cobalt_Strike检测方法与去特征的思考](./books/关于Cobalt_Strike检测方法与去特征的思考.pdf)
 - [代码审计_PHPCMS_V9前台RCE挖掘分析](./books/代码审计_PHPCMS_V9前台RCE挖掘分析.pdf)
+- [【免杀】C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)|[原文地址](https://mp.weixin.qq.com/s/0OB0yQAiOfsU4JqkCDUi7w)
+- [利用图片隐写术来远程动态加载shellcode](./books/利用图片隐写术来远程动态加载shellcode.pdf)|[原文地址](https://mp.weixin.qq.com/s/QZ5YlRZN47zne7vCzvUpJw)
+- [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
+
 
 ## <span id="head9"> 说明</span>
 
-> 此项目所有文章、代码部分来源于互联网，版权归原作者所有，此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！
-
+### 免责声明
+> 1.此项目所有文章、代码部分来源于互联网，版权归原作者所有，转载留存的都会写上原著出处，如有遗漏，还请说明，谢谢！  
+> 2.此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！  
+> 3.如果项目中涉及到你的隐私或者需要删除的，请issue留言指名具体文件内容，附上你的证明，或者邮箱联系我，核实后即刻删除。  
+### 喜讯
+在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
+![](./img/trending.png)  
+### 最后，选一个屁股吧！
 ![](https://ooo.0o0.ooo/2017/06/13/593fb9335fe9c.jpg)
