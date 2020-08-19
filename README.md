@@ -452,7 +452,7 @@
 - [spybrowse：窃取指定浏览器的配置文件](https://github.com/1d8/spybrowse)
 - [FavFreak：执行基于favicon.ico的侦察](https://github.com/devanshbatham/FavFreak)
 - [gorailgun_v1.0.7-集漏洞端口扫描利用于一体的工具](./tools/gorailgun_v1.0.7.zip)
-- [【shell管理工具】Godzilla-哥斯拉](https://github.com/BeichenDream/Godzilla)|[-AntSword蚁剑](https://github.com/AntSwordProject)|[Behinder-冰蝎](https://github.com/rebeyond/Behinder)
+- [【shell管理工具】Godzilla-哥斯拉](https://github.com/BeichenDream/Godzilla)|[AntSword-蚁剑](https://github.com/AntSwordProject)|[Behinder-冰蝎](https://github.com/rebeyond/Behinder)
 - [由python编写打包的Linux下自动巡检工具](./tools/linux_auto_xunjian)|[源处](https://github.com/heikanet/linux_auto_xunjian)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
@@ -576,6 +576,7 @@
 - [【免杀】C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)|[原文地址](https://mp.weixin.qq.com/s/0OB0yQAiOfsU4JqkCDUi7w)
 - [利用图片隐写术来远程动态加载shellcode](./books/利用图片隐写术来远程动态加载shellcode.pdf)|[原文地址](https://mp.weixin.qq.com/s/QZ5YlRZN47zne7vCzvUpJw)
 - [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
+- [渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell](./books/渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell.pdf)|[原文地址](https://mp.weixin.qq.com/s/K2nUSMyE4PwVYqa7t95BTQ)
 
 
 ## <span id="head9"> 说明</span>
