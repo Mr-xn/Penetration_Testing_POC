@@ -554,7 +554,7 @@
 - [YzmCMS代码审计](./books/YzmCMS代码审计.pdf)
 - [BadUSB简单免杀一秒上线CobaltStrike](./books/BadUSB/BadUSB简单免杀一秒上线CobaltStrike.pdf)
 - [BasUSB实现后台静默执行上线CobaltStrike](./books/BadUSB/BadUSB实现后台静默执行上线CobaltStrike.pdf)
-- [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)
+- [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)|[近源渗透-BadUsb](./books/近源渗透-BadUsb.pdf)
 - [一文学会Web_Service漏洞挖掘](./books/一文学会Web_Service漏洞挖掘.pdf)
 - [唯快不破的分块传输绕WAF](./books/唯快不破的分块传输绕WAF.pdf)
 - [Unicode的规范化相关漏洞挖掘思路实操](./books/Unicode的规范化相关漏洞挖掘思路实操.pdf)
