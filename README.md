@@ -554,7 +554,7 @@
 - [YzmCMS代码审计](./books/YzmCMS代码审计.pdf)
 - [BadUSB简单免杀一秒上线CobaltStrike](./books/BadUSB/BadUSB简单免杀一秒上线CobaltStrike.pdf)
 - [BasUSB实现后台静默执行上线CobaltStrike](./books/BadUSB/BadUSB实现后台静默执行上线CobaltStrike.pdf)
-- [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)|[近源渗透-BadUsb](./books/近源渗透-BadUsb.pdf)
+- [手把手带你制作一个X谁谁上线的BadUSB](./books/BadUSB/手把手带你制作一个X谁谁上线的BadUSB.pdf)|[近源渗透-BadUsb](./books/近源渗透-BadUsb.pdf)-[原文地址](https://mp.weixin.qq.com/s/3tX6uxqw0_tjhQK0ARec5A)
 - [一文学会Web_Service漏洞挖掘](./books/一文学会Web_Service漏洞挖掘.pdf)
 - [唯快不破的分块传输绕WAF](./books/唯快不破的分块传输绕WAF.pdf)
 - [Unicode的规范化相关漏洞挖掘思路实操](./books/Unicode的规范化相关漏洞挖掘思路实操.pdf)
@@ -580,6 +580,7 @@
 - [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
 - [渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell](./books/渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell.pdf)|[原文地址](https://mp.weixin.qq.com/s/K2nUSMyE4PwVYqa7t95BTQ)
 - [HW礼盒：深信服edr RCE，天融信dlp unauth和通达OA v11.6版本RCE](./books/HW%E7%A4%BC%E7%9B%92%EF%BC%9A%E6%B7%B1%E4%BF%A1%E6%9C%8Dedr%20RCE%EF%BC%8C%E5%A4%A9%E8%9E%8D%E4%BF%A1dlp%20unauth%E5%92%8C%E9%80%9A%E8%BE%BEOA%20v11.6%E7%89%88%E6%9C%ACRCE.pdf)
+- [wordpress 评论插件 wpDiscuz 任意文件上传漏洞分析](./books/wordpress%20%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%20wpDiscuz%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90.pdf)
 
 
 ## <span id="head9"> 说明</span>
