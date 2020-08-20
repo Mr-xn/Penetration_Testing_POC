@@ -579,6 +579,7 @@
 - [利用图片隐写术来远程动态加载shellcode](./books/利用图片隐写术来远程动态加载shellcode.pdf)|[原文地址](https://mp.weixin.qq.com/s/QZ5YlRZN47zne7vCzvUpJw)
 - [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
 - [渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell](./books/渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell.pdf)|[原文地址](https://mp.weixin.qq.com/s/K2nUSMyE4PwVYqa7t95BTQ)
+- [HW礼盒：深信服edr RCE，天融信dlp unauth和通达OA v11.6版本RCE](./books/HW%E7%A4%BC%E7%9B%92%EF%BC%9A%E6%B7%B1%E4%BF%A1%E6%9C%8Dedr%20RCE%EF%BC%8C%E5%A4%A9%E8%9E%8D%E4%BF%A1dlp%20unauth%E5%92%8C%E9%80%9A%E8%BE%BEOA%20v11.6%E7%89%88%E6%9C%ACRCE.pdf)
 
 
 ## <span id="head9"> 说明</span>
