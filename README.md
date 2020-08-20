@@ -584,7 +584,7 @@
 - [HW礼盒：深信服edr RCE，天融信dlp unauth和通达OA v11.6版本RCE](./books/HW%E7%A4%BC%E7%9B%92%EF%BC%9A%E6%B7%B1%E4%BF%A1%E6%9C%8Dedr%20RCE%EF%BC%8C%E5%A4%A9%E8%9E%8D%E4%BF%A1dlp%20unauth%E5%92%8C%E9%80%9A%E8%BE%BEOA%20v11.6%E7%89%88%E6%9C%ACRCE.pdf)
 - [wordpress 评论插件 wpDiscuz 任意文件上传漏洞分析](./books/wordpress%20%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%20wpDiscuz%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90.pdf)
 - [Gopher协议使用总结](./books/Gopher协议使用总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/SjGvsl3jxOtyg6BtGgFf5A)
-- [sqlmap使用总结](./books/sqlmap使用总结.pdf)|[【实战技巧】sqlmap不为人知的骚操作](./books/%E3%80%90%E5%AE%9E%E6%88%98%E6%8A%80%E5%B7%A7%E3%80%91sqlmap%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C_Summer's_blog.pdf)-[原文地址](https://blog.csdn.net/sun1318578251/article/details/102524100)|[记一份SQLmap 使用手册小结（一）](./books/记一份SQLmap 使用手册小结（一）.pdf)|[记一份SQLmap 使用手册小结（二）](./books/记一份SQLmap 使用手册小结（二）.pdf)
+- [sqlmap使用总结](./books/sqlmap使用总结.pdf)|[【实战技巧】sqlmap不为人知的骚操作](./books/%E3%80%90%E5%AE%9E%E6%88%98%E6%8A%80%E5%B7%A7%E3%80%91sqlmap%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C_Summer's_blog.pdf)-[原文地址](https://blog.csdn.net/sun1318578251/article/details/102524100)|[记一份SQLmap 使用手册小结（一）](./books/记一份SQLmap%20使用手册小结（一）.pdf)|[记一份SQLmap 使用手册小结（二）](./books/记一份SQLmap%20使用手册小结（二）.pdf)
 
 
 ## <span id="head9"> 说明</span>
