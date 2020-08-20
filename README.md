@@ -454,6 +454,7 @@
 - [gorailgun_v1.0.7-集漏洞端口扫描利用于一体的工具](./tools/gorailgun_v1.0.7.zip)
 - [【shell管理工具】Godzilla-哥斯拉](https://github.com/BeichenDream/Godzilla)|[AntSword-蚁剑](https://github.com/AntSwordProject)|[Behinder-冰蝎](https://github.com/rebeyond/Behinder)
 - [由python编写打包的Linux下自动巡检工具](./tools/linux_auto_xunjian)|[源处](https://github.com/heikanet/linux_auto_xunjian)
+- [【内网探测】SharpNetCheck-批量检测机器是否有出网权限，可在dnslog中回显内网ip地址和计算机名，可实现内网中的快速定位可出网机器](https://github.com/uknowsec/SharpNetCheck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
