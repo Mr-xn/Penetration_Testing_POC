@@ -457,6 +457,7 @@
 - [由python编写打包的Linux下自动巡检工具](./tools/linux_auto_xunjian)|[源处](https://github.com/heikanet/linux_auto_xunjian)
 - [【内网探测】SharpNetCheck-批量检测机器是否有出网权限，可在dnslog中回显内网ip地址和计算机名，可实现内网中的快速定位可出网机器](https://github.com/uknowsec/SharpNetCheck)
 - [fofa搜索增强版-使用fofa的url+cookies即可自动下载所有结果](./tools/fofa搜索增强版.zip)
+- [SharpBlock-A method of bypassing EDR's active projection DLL's by preventing entry point exection](https://github.com/CCob/SharpBlock)|[相关文章](https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -582,7 +583,7 @@
 - [渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell](./books/渗透测试XiaoCms之自力更生代码审计-后台数据库备份SQL注入到getshell.pdf)|[原文地址](https://mp.weixin.qq.com/s/K2nUSMyE4PwVYqa7t95BTQ)
 - [HW礼盒：深信服edr RCE，天融信dlp unauth和通达OA v11.6版本RCE](./books/HW%E7%A4%BC%E7%9B%92%EF%BC%9A%E6%B7%B1%E4%BF%A1%E6%9C%8Dedr%20RCE%EF%BC%8C%E5%A4%A9%E8%9E%8D%E4%BF%A1dlp%20unauth%E5%92%8C%E9%80%9A%E8%BE%BEOA%20v11.6%E7%89%88%E6%9C%ACRCE.pdf)
 - [wordpress 评论插件 wpDiscuz 任意文件上传漏洞分析](./books/wordpress%20%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%20wpDiscuz%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90.pdf)
-- [Gopher协议使用总结](./books/Gopher协议使用总结.pdf)-[原文地址][https://mp.weixin.qq.com/s/SjGvsl3jxOtyg6BtGgFf5A]
+- [Gopher协议使用总结](./books/Gopher协议使用总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/SjGvsl3jxOtyg6BtGgFf5A)
 
 
 ## <span id="head9"> 说明</span>
