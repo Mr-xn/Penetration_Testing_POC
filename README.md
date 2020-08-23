@@ -459,6 +459,7 @@
 - [fofa搜索增强版-使用fofa的url+cookies即可自动下载所有结果](./tools/fofa搜索增强版.zip)
 - [SharpBlock-A method of bypassing EDR's active projection DLL's by preventing entry point exection](https://github.com/CCob/SharpBlock)|[相关文章](https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/)
 - [bypasswaf-云锁数字型注入tamper/安全狗的延时、布尔、union注入绕过tamper](https://github.com/pureqh/bypasswaf)
+- [通达OA 2017 版本SQL注入脚本](./tools/tongda_oa_2017_sql_injection.py)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -589,6 +590,7 @@
 - [mac上Parallels Desktop安装kali linux 2020.2a并安装好Parallels Tools+Google拼音输入法](./books/mac%E4%B8%8AParallels%20Desktop%E5%AE%89%E8%A3%85kali%20linux%202020.2a%E5%B9%B6%E5%AE%89%E8%A3%85%E5%A5%BDParallels%20Tools+Google%E6%8B%BC%E9%9F%B3%E8%BE%93%E5%85%A5%E6%B3%95.docx)
 - [通达OA v11.5 多枚0day漏洞复现](./books/%E9%80%9A%E8%BE%BEOA%20v11.5%20%E5%A4%9A%E6%9E%9A0day%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.pdf)
 - [POSCMS(20200821)_任意 SQL 语句执行（需要登录后台）](./books/POSCMS_%E4%BB%BB%E6%84%8F%20SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%EF%BC%88%E9%9C%80%E8%A6%81%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0%EF%BC%89.pdf)-[原文地址](https://www.t00ls.net/thread-57551-1-1.html)|[POSCMS v3.2.0漏洞复现(getshell+前台SQL注入)](./books/POSCMS%20v3.2.0%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0(getshell+%E5%89%8D%E5%8F%B0SQL%E6%B3%A8%E5%85%A5).pdf)-[原文地址](https://xz.aliyun.com/t/4858)
+- [多线程+二分法的巧用——通达OA 2017 SQL盲注](./books/%E5%A4%9A%E7%BA%BF%E7%A8%8B+%E4%BA%8C%E5%88%86%E6%B3%95%E7%9A%84%E5%B7%A7%E7%94%A8%E2%80%94%E2%80%94%E9%80%9A%E8%BE%BEOA%20SQL%E7%9B%B2%E6%B3%A8.pdf)-[原文地址](https://mp.weixin.qq.com/s/zH13q6xBRc58ggHqfKKi_g)
 
 
 ## <span id="head9"> 说明</span>
