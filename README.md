@@ -588,6 +588,7 @@
 - [sqlmap使用总结](./books/sqlmap使用总结.pdf)|[【实战技巧】sqlmap不为人知的骚操作](./books/%E3%80%90%E5%AE%9E%E6%88%98%E6%8A%80%E5%B7%A7%E3%80%91sqlmap%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C_Summer's_blog.pdf)-[原文地址](https://blog.csdn.net/sun1318578251/article/details/102524100)|[记一份SQLmap 使用手册小结（一）](./books/记一份SQLmap%20使用手册小结（一）.pdf)|[记一份SQLmap 使用手册小结（二）](./books/记一份SQLmap%20使用手册小结（二）.pdf)
 - [mac上Parallels Desktop安装kali linux 2020.2a并安装好Parallels Tools+Google拼音输入法](./books/mac%E4%B8%8AParallels%20Desktop%E5%AE%89%E8%A3%85kali%20linux%202020.2a%E5%B9%B6%E5%AE%89%E8%A3%85%E5%A5%BDParallels%20Tools+Google%E6%8B%BC%E9%9F%B3%E8%BE%93%E5%85%A5%E6%B3%95.docx)
 - [通达OA v11.5 多枚0day漏洞复现](./books/%E9%80%9A%E8%BE%BEOA%20v11.5%20%E5%A4%9A%E6%9E%9A0day%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.pdf)
+- [POSCMS(20200821)_任意 SQL 语句执行（需要登录后台）](./books/POSCMS_%E4%BB%BB%E6%84%8F%20SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%EF%BC%88%E9%9C%80%E8%A6%81%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0%EF%BC%89.pdf)-[原文地址](https://www.t00ls.net/thread-57551-1-1.html)|[POSCMS v3.2.0漏洞复现(getshell+前台SQL注入)](./books/POSCMS%20v3.2.0%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0(getshell+%E5%89%8D%E5%8F%B0SQL%E6%B3%A8%E5%85%A5).pdf)-[原文地址](https://xz.aliyun.com/t/4858)
 
 
 ## <span id="head9"> 说明</span>
