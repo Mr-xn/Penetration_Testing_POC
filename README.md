@@ -458,6 +458,7 @@
 - [【内网探测】SharpNetCheck-批量检测机器是否有出网权限，可在dnslog中回显内网ip地址和计算机名，可实现内网中的快速定位可出网机器](https://github.com/uknowsec/SharpNetCheck)
 - [fofa搜索增强版-使用fofa的url+cookies即可自动下载所有结果](./tools/fofa搜索增强版.zip)
 - [SharpBlock-A method of bypassing EDR's active projection DLL's by preventing entry point exection](https://github.com/CCob/SharpBlock)|[相关文章](https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/)
+- [bypasswaf-云锁数字型注入tamper/安全狗的延时、布尔、union注入绕过tamper](https://github.com/pureqh/bypasswaf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
