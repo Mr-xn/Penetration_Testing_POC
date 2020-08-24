@@ -462,6 +462,7 @@
 - [通达OA 2017 版本SQL注入脚本](./tools/tongda_oa_2017_sql_injection.py)
 - [t14m4t：一款封装了THC-Hydra和Nmap的自动化爆破工具](https://github.com/MS-WEB-BN/t14m4t)
 - [ksubdomain：一款基于无状态子域名爆破工具](https://github.com/knownsec/ksubdomain)
+- [smuggler-一款用python3编写的http请求走私验证测试工具](https://github.com/defparam/smuggler)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
