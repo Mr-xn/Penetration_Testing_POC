@@ -460,7 +460,7 @@
 - [SharpBlock-A method of bypassing EDR's active projection DLL's by preventing entry point exection](https://github.com/CCob/SharpBlock)|[相关文章](https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/)
 - [bypasswaf-云锁数字型注入tamper/安全狗的延时、布尔、union注入绕过tamper](https://github.com/pureqh/bypasswaf)
 - [通达OA 2017 版本SQL注入脚本](./tools/tongda_oa_2017_sql_injection.py)
-- [t14m4t：一款封装了THC-Hydra和Nmap的自动化暴破工具](https://github.com/MS-WEB-BN/t14m4t)
+- [t14m4t：一款封装了THC-Hydra和Nmap的自动化爆破工具](https://github.com/MS-WEB-BN/t14m4t)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
