@@ -460,11 +460,12 @@
 - [SharpBlock-A method of bypassing EDR's active projection DLL's by preventing entry point exection](https://github.com/CCob/SharpBlock)|[相关文章](https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/)
 - [bypasswaf-云锁数字型注入tamper/安全狗的延时、布尔、union注入绕过tamper](https://github.com/pureqh/bypasswaf)
 - [通达OA 2017 版本SQL注入脚本](./tools/tongda_oa_2017_sql_injection.py)
+- [t14m4t：一款封装了THC-Hydra和Nmap的自动化暴破工具](https://github.com/MS-WEB-BN/t14m4t)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
 - [windwos权限维持系列12篇PDF](./books/Window权限维持)
-- [Linux 权限维持之进程注入(需要关闭ptrace)](./books/Linux%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81%E4%B9%8B%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%20%C2%AB%20%E5%80%BE%E6%97%8B%E7%9A%84%E5%8D%9A%E5%AE%A2.pdf) | [在不使用ptrace的情况下，将共享库（即任意代码）注入实时Linux进程中。(不需要关闭ptrace)](https://github.com/DavidBuchanan314/dlinject)|[[总结]Linux权限维持](./books/[总结]Linux权限维持.pdf)
+- [Linux 权限维持之进程注入(需要关闭ptrace)](./books/Linux%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81%E4%B9%8B%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%20%C2%AB%20%E5%80%BE%E6%97%8B%E7%9A%84%E5%8D%9A%E5%AE%A2.pdf) | [在不使用ptrace的情况下，将共享库（即任意代码）注入实时Linux进程中。(不需要关闭ptrace)](https://github.com/DavidBuchanan314/dlinject)|[[总结]Linux权限维持](./books/[总结]Linux权限维持.pdf)-[原文地址](https://www.cnblogs.com/-mo-/p/12337766.html)
 - [44139-mysql-udf-exploitation](./books/44139-mysql-udf-exploitation.pdf)
 - [emlog CMS的代码审计_越权到后台getshell](./books/emlog%20CMS的代码审计_越权到后台getshell%20-%20先知社区.pdf)
 - [PHPOK 5.3 最新版前台注入](./books/PHPOK%205.3%20最新版前台注入%20-%20先知社区.pdf)
