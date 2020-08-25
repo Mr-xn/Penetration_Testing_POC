@@ -463,6 +463,7 @@
 - [t14m4t：一款封装了THC-Hydra和Nmap的自动化爆破工具](https://github.com/MS-WEB-BN/t14m4t)
 - [ksubdomain：一款基于无状态子域名爆破工具](https://github.com/knownsec/ksubdomain)
 - [smuggler-一款用python3编写的http请求走私验证测试工具](https://github.com/defparam/smuggler)
+- [Fuzz_dic：又一个类型全面的参数和字典收集项目](https://github.com/SmithEcon/Fuzz_dic)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
