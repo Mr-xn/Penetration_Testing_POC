@@ -464,6 +464,7 @@
 - [ksubdomain：一款基于无状态子域名爆破工具](https://github.com/knownsec/ksubdomain)
 - [smuggler-一款用python3编写的http请求走私验证测试工具](https://github.com/defparam/smuggler)
 - [Fuzz_dic：又一个类型全面的参数和字典收集项目](https://github.com/SmithEcon/Fuzz_dic)
+- [PowerUpSQL：为攻击SQLServer而设计的具有攻击性的PowerShell脚本](https://github.com/NetSPI/PowerUpSQL)|[利用PowerUpSQL攻击SQL Server实例](./books/%E5%88%A9%E7%94%A8PowerUpSQL%E6%94%BB%E5%87%BBSQL%20Server%E5%AE%9E%E4%BE%8B.pdf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
