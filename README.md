@@ -598,6 +598,7 @@
 - [多线程+二分法的巧用——通达OA 2017 SQL盲注](./books/%E5%A4%9A%E7%BA%BF%E7%A8%8B+%E4%BA%8C%E5%88%86%E6%B3%95%E7%9A%84%E5%B7%A7%E7%94%A8%E2%80%94%E2%80%94%E9%80%9A%E8%BE%BEOA%20SQL%E7%9B%B2%E6%B3%A8.pdf)-[原文地址](https://mp.weixin.qq.com/s/zH13q6xBRc58ggHqfKKi_g)
 - [宝塔面板webshell隐藏小技巧](./books/宝塔面板webshell隐藏小技巧.pdf)-[原文地址](https://mp.weixin.qq.com/s/-8JE1ovWKOorNr6MCAgejg)
 - [配合隐写术远程动态加载 shellcode](./books/%E9%85%8D%E5%90%88%E9%9A%90%E5%86%99%E6%9C%AF%E8%BF%9C%E7%A8%8B%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%20shellcode.pdf)|[原文地址](https://www.t00ls.net/thread-57618-1-1.html)
+- [MySQL蜜罐获取攻击者微信ID](./books/MySQL蜜罐获取攻击者微信ID.pdf)-[原文地址](https://mp.weixin.qq.com/s/m4I_YDn98K_A2yGAhv67Gg)
 
 
 ## <span id="head9"> 说明</span>
@@ -609,9 +610,9 @@
 
 <details>  
 <summary>其他杂项</summary>
-  
+
 ### 喜讯
-  
+
 在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
 ![](./img/trending.png)  
 
