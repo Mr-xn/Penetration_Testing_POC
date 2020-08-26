@@ -606,8 +606,21 @@
 > 1.此项目所有文章、代码部分来源于互联网，版权归原作者所有，转载留存的都会写上原著出处，如有遗漏，还请说明，谢谢！  
 > 2.此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！  
 > 3.如果项目中涉及到你的隐私或者需要删除的，请issue留言指名具体文件内容，附上你的证明，或者邮箱联系我，核实后即刻删除。  
+
+<details>  
+<summary>其他杂项</summary>
+  
 ### 喜讯
+  
 在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
 ![](./img/trending.png)  
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Mr-xn/Penetration_Testing_POC.svg)](https://starchart.cc/Mr-xn/Penetration_Testing_POC)
+
+</details>  
+
 ### 最后，选一个屁股吧！
+
 ![](https://ooo.0o0.ooo/2017/06/13/593fb9335fe9c.jpg)
