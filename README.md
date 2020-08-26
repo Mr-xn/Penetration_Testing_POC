@@ -597,6 +597,7 @@
 - [POSCMS(20200821)_任意 SQL 语句执行（需要登录后台）](./books/POSCMS_%E4%BB%BB%E6%84%8F%20SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%EF%BC%88%E9%9C%80%E8%A6%81%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0%EF%BC%89.pdf)-[原文地址](https://www.t00ls.net/thread-57551-1-1.html)|[POSCMS v3.2.0漏洞复现(getshell+前台SQL注入)](./books/POSCMS%20v3.2.0%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0(getshell+%E5%89%8D%E5%8F%B0SQL%E6%B3%A8%E5%85%A5).pdf)-[原文地址](https://xz.aliyun.com/t/4858)
 - [多线程+二分法的巧用——通达OA 2017 SQL盲注](./books/%E5%A4%9A%E7%BA%BF%E7%A8%8B+%E4%BA%8C%E5%88%86%E6%B3%95%E7%9A%84%E5%B7%A7%E7%94%A8%E2%80%94%E2%80%94%E9%80%9A%E8%BE%BEOA%20SQL%E7%9B%B2%E6%B3%A8.pdf)-[原文地址](https://mp.weixin.qq.com/s/zH13q6xBRc58ggHqfKKi_g)
 - [宝塔面板webshell隐藏小技巧](./books/宝塔面板webshell隐藏小技巧.pdf)-[原文地址](https://mp.weixin.qq.com/s/-8JE1ovWKOorNr6MCAgejg)
+- [配合隐写术远程动态加载 shellcode](./books/%E9%85%8D%E5%90%88%E9%9A%90%E5%86%99%E6%9C%AF%E8%BF%9C%E7%A8%8B%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%20shellcode.pdf)
 
 
 ## <span id="head9"> 说明</span>
