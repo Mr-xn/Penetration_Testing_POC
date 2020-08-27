@@ -599,6 +599,7 @@
 - [宝塔面板webshell隐藏小技巧](./books/宝塔面板webshell隐藏小技巧.pdf)-[原文地址](https://mp.weixin.qq.com/s/-8JE1ovWKOorNr6MCAgejg)
 - [配合隐写术远程动态加载 shellcode](./books/%E9%85%8D%E5%90%88%E9%9A%90%E5%86%99%E6%9C%AF%E8%BF%9C%E7%A8%8B%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%20shellcode.pdf)|[原文地址](https://www.t00ls.net/thread-57618-1-1.html)
 - [MySQL蜜罐获取攻击者微信ID](./books/MySQL蜜罐获取攻击者微信ID.pdf)-[原文地址](https://mp.weixin.qq.com/s/m4I_YDn98K_A2yGAhv67Gg)
+- [蓝天采集器 v2.3.1 后台getshell（需要管理员权限）](./books/蓝天采集器%20v2.3.1%20后台getshell（需要管理员权限）.pdf)
 
 
 ## <span id="head9"> 说明</span>
