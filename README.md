@@ -606,6 +606,7 @@
 - [实战-从社工客服拿到密码登录后台加SQL注入绕过安全狗写入webshell到提权进内网漫游](./books/实战-从社工客服拿到密码登录后台加SQL注入绕过安全狗写入webshell到提权进内网漫游.pdf)-[原文地址](https://mp.weixin.qq.com/s/JBspfEHTDZBiOXEyI14QKQ)
 - [0day安全_软件漏洞分析技术(第二版)](https://cloud.189.cn/t/7ziI3imqMzI3)
 - [安恒信息《渗透攻击红队百科全书》](https://cloud.189.cn/t/Jzeuuq3YFr2e)
+- [lcx端口转发(详解)](./books/lcx端口转发(详解).pdf)
 
 
 ## <span id="head9"> 说明</span>
