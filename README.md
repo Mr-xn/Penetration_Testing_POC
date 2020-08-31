@@ -180,6 +180,9 @@
 - [74CMS_v5.0.1后台RCE分析](./books/74CMS_v5.0.1后台RCE分析.pdf)
 - [CVE-2020-8163 - Remote code execution of user-provided local names in Rails](https://github.com/sh286/CVE-2020-8163)
 - [【0day RCE】Horde Groupware Webmail Edition RCE](./%E3%80%900day%20RCE%E3%80%91Horde%20Groupware%20Webmail%20Edition%20RCE.md)
+- [pulse-gosecure-rce-Tool to test for existence of CVE-2020-8218](https://github.com/withdk/pulse-gosecure-rce-poc)
+- [Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)](https://github.com/BishopFox/pwn-pulse)
+- [Zblog默认Theme_csrf+储存xss+getshell](./Zblog默认Theme_csrf+储存xss+getshell.md)
 
 ## <span id="head5"> 提权辅助相关</span>
 
