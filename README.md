@@ -433,7 +433,7 @@
 - [WMIHACKER-仅135端口免杀横向移动](https://github.com/360-Linton-Lab/WMIHACKER)|[使用方法以及介绍](./books/WMIHACKER（仅135端口免杀横向移动）.pdf)|[横向移动工具WMIHACKER](./books/横向移动工具WMIHACKER.pdf)|[原文链接](https://www.anquanke.com/post/id/209665)
 - [cloud-ranges-部分公有云IP地址范围](https://github.com/pry0cc/cloud-ranges)
 - [sqltools_ch-sqltools2.0汉化增强版](./ttools/sqltools_ch.rar)
-- [railgun-poc_1.0.1.7-多功能端口扫描/爆破/漏洞利用/编码转换等](./tools/railgun-poc_1.0.1.7.zip)
+- [railgun-poc_1.0.1.7-多功能端口扫描/爆破/漏洞利用/编码转换等](./tools/railgun-poc_1.0.1.7.zip)|[railgun作者更新到GitHub了，目前是1.2.8版本](https://github.com/lz520520/railgun)｜[railgun-v1.2.8.zip-存档](./tools/railgun.zip)
 - [dede_funcookie.php-DEDECMS伪随机漏洞分析 (三) 碰撞点(爆破，伪造管理员cookie登陆后台getshell](./tools/dede_funcookie.php)
 - [WAScan-一款功能强大的Web应用程序扫描工具【基于python开发的命令行扫描器】](https://github.com/m4ll0k/WAScan)
 - [Peinject_dll-CS插件之另类持久化方法-PE感染](https://github.com/m0ngo0se/Peinject_dll)
