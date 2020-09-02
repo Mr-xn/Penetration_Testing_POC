@@ -473,6 +473,7 @@
 - [adbsploit-一个基于Python3和ADB的安卓设备漏洞利用和管理工具](https://github.com/mesquidar/adbsploit)
 - [monsoon-一个用Go语言编写的目录扫描工具，类似于dirsearch](https://github.com/RedTeamPentesting/monsoon)
 - [【Android脱壳】Youpk-又一款基于ART的主动调用的脱壳机](https://github.com/Youlor/Youpk)
+- [【webshell免杀】php免杀D盾webshell生成工具](https://github.com/pureqh/webshell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
