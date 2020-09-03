@@ -474,6 +474,7 @@
 - [monsoon-一个用Go语言编写的目录扫描工具，类似于dirsearch](https://github.com/RedTeamPentesting/monsoon)
 - [【Android脱壳】Youpk-又一款基于ART的主动调用的脱壳机](https://github.com/Youlor/Youpk)
 - [【webshell免杀】php免杀D盾webshell生成工具](https://github.com/pureqh/webshell)
+- [Steganographer-一款能够帮助你在图片中隐藏文件或数据的Python隐写工具](https://github.com/priyansh-anand/steganographer)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
