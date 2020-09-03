@@ -613,6 +613,7 @@
 - [0day安全_软件漏洞分析技术(第二版)](https://cloud.189.cn/t/7ziI3imqMzI3)
 - [安恒信息《渗透攻击红队百科全书》](https://cloud.189.cn/t/Jzeuuq3YFr2e)
 - [lcx端口转发(详解)](./books/lcx端口转发(详解).pdf)
+-  [php_bugs-PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
 
 
 ## <span id="head9"> 说明</span>
