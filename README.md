@@ -321,7 +321,7 @@
 - [A script to scan for unsecured Laravel .env files](https://github.com/tismayil/laravelN00b)
 - [Struts2漏洞扫描Golang版-【特点:单文件、全平台支持、可在webshell下使用】](https://github.com/x51/STS2G)
 - [Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)|[Apache shiro <= 1.2.4 rememberMe 反序列化漏洞利用工具](https://github.com/acgbfull/Apache_Shiro_1.2.4_RCE)
-- [完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
+- [weblogicScanner-完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
 - [GitHub敏感信息泄露监控](https://github.com/FeeiCN/GSIL)
 - [Java安全相关的漏洞和技术demo](https://github.com/threedr3am/learnjavabug)
 - [在线扫描-网站基础信息获取|旁站|端口扫描|信息泄露](https://scan.top15.cn/web/)
@@ -615,6 +615,7 @@
 - [安恒信息《渗透攻击红队百科全书》](https://cloud.189.cn/t/Jzeuuq3YFr2e)
 - [lcx端口转发(详解)](./books/lcx端口转发(详解).pdf)
 -  [php_bugs-PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
+-  [深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）](./books/深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）.pdf)
 
 
 ## <span id="head9"> 说明</span>
