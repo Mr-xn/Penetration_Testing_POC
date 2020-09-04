@@ -615,7 +615,8 @@
 - [安恒信息《渗透攻击红队百科全书》](https://cloud.189.cn/t/Jzeuuq3YFr2e)
 - [lcx端口转发(详解)](./books/lcx端口转发(详解).pdf)
 -  [php_bugs-PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
--  [深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）](./books/深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）.pdf)
+-  [深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）](./books/深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（RCE）.pdf)-[原文地址](https://mp.weixin.qq.com/s/3TC7TRAFceBWgj_ANA2etQ)
+-  [深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（权限绕过）](./books/深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（权限绕过）.pdf)-[原文地址](https://mp.weixin.qq.com/s/4Z4QF-Wdq2PhqCkGKB8Q6Q)
 
 
 ## <span id="head9"> 说明</span>
