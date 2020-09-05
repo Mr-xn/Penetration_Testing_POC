@@ -475,6 +475,7 @@
 - [【Android脱壳】Youpk-又一款基于ART的主动调用的脱壳机](https://github.com/Youlor/Youpk)
 - [【webshell免杀】php免杀D盾webshell生成工具](https://github.com/pureqh/webshell)
 - [Steganographer-一款能够帮助你在图片中隐藏文件或数据的Python隐写工具](https://github.com/priyansh-anand/steganographer)
+- [AV_Evasion_Tool:掩日 - 免杀执行器生成工具](https://github.com/1y0n/AV_Evasion_Tool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
