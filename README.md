@@ -622,6 +622,7 @@
 -  [深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（权限绕过）](./books/深信服edr终端检测响应平台（<3.2.21）代码审计挖掘（权限绕过）.pdf)-[原文地址](https://mp.weixin.qq.com/s/4Z4QF-Wdq2PhqCkGKB8Q6Q)
 -  [Hook梦幻旅途之Frida](./books/Hook梦幻旅途之Frida.pdf)
 -  [简单的源码免杀过av](./books/简单的源码免杀过av.pdf)
+-  [duomicms代码审计](./books/duomicms代码审计.pdf)
 
 
 ## <span id="head9"> 说明</span>
