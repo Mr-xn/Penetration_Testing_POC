@@ -183,6 +183,7 @@
 - [pulse-gosecure-rce-Tool to test for existence of CVE-2020-8218](https://github.com/withdk/pulse-gosecure-rce-poc)
 - [Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)](https://github.com/BishopFox/pwn-pulse)
 - [Zblog默认Theme_csrf+储存xss+getshell](./Zblog默认Theme_csrf+储存xss+getshell.md)
+- [用友GRP-u8 注入+天融信TopApp-LB 负载均衡系统sql注入](https://mrxn.net/Infiltration/292.html)|[绿盟UTS综合威胁探针管理员任意登录复现](https://mrxn.net/Infiltration/276.html)|[HW弹药库之深信服EDR 3.2.21 任意代码执行漏洞分析](https://mrxn.net/jswz/267.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
