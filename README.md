@@ -322,7 +322,7 @@
 - [IP/IP段资产扫描-->扫描开放端口识别运行服务部署网站-->自动化整理扫描结果-->输出可视化报表+整理结果](https://github.com/LangziFun/LangNetworkTopology3)
 - [A script to scan for unsecured Laravel .env files](https://github.com/tismayil/laravelN00b)
 - [Struts2漏洞扫描Golang版-【特点:单文件、全平台支持、可在webshell下使用】](https://github.com/x51/STS2G)
-- [Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)|[Apache shiro <= 1.2.4 rememberMe 反序列化漏洞利用工具](https://github.com/acgbfull/Apache_Shiro_1.2.4_RCE)
+- [ShiroScan-Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)|[Apache shiro <= 1.2.4 rememberMe 反序列化漏洞利用工具](https://github.com/acgbfull/Apache_Shiro_1.2.4_RCE)
 - [weblogicScanner-完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
 - [GitHub敏感信息泄露监控](https://github.com/FeeiCN/GSIL)
 - [Java安全相关的漏洞和技术demo](https://github.com/threedr3am/learnjavabug)
