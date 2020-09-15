@@ -257,6 +257,7 @@
 - [CVE-2020-10713-GRUB2 本地代码执行漏洞](https://github.com/eclypsium/BootHole)
 - [CVE-2020-1313-Microsoft Windows Update Orchestrator Service权限提升漏洞，可用于Windows提权操作，支持新版的Windows server 2004](https://github.com/irsl/CVE-2020-1313)
 - [CVE-2020-1337-exploit-Windows 7/8/10上Print Spooler组件漏洞修复后的绕过](https://github.com/math1as/CVE-2020-1337-exploit/)|[cve-2020-1337-poc](https://github.com/sailay1996/cve-2020-1337-poc)
+- [CVE-2020-1472: NetLogon特权提升漏洞（接管域控制器）](https://github.com/VoidSec/CVE-2020-1472)|[同类型脚本](https://github.com/SecuraBV/CVE-2020-1472)|[同类型脚本二](https://github.com/dirkjanm/CVE-2020-1472)|[同类型脚本三](https://github.com/risksense/zerologon)|[同类型脚本4](https://github.com/bb00/zer0dump)
 
 
 ## <span id="head7"> tools-小工具集版本合</span>
