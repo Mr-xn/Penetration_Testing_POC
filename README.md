@@ -629,6 +629,7 @@
 -  [Hook梦幻旅途之Frida](./books/Hook梦幻旅途之Frida.pdf)
 -  [简单的源码免杀过av](./books/简单的源码免杀过av.pdf)
 -  [duomicms代码审计](./books/duomicms代码审计.pdf)
+-  [劫持got表绕过disable_functions](./books/劫持got表绕过disable_functions.pdf)-[原文地址](https://mp.weixin.qq.com/s/NDkDc7j5rFbcHWTM26zeGQ)
 
 
 ## <span id="head9"> 说明</span>
