@@ -631,6 +631,7 @@
 -  [duomicms代码审计](./books/duomicms代码审计.pdf)
 -  [劫持got表绕过disable_functions](./books/劫持got表绕过disable_functions.pdf)-[原文地址](https://mp.weixin.qq.com/s/NDkDc7j5rFbcHWTM26zeGQ)
 -  [【代码审计】xyhcms3.5后台任意文件读取](./books/[代码审计]xyhcms3.5后台任意文件读取.pdf)
+-  [CVE-2020-1472 域内提权完整利用](./books/CVE-2020-1472%20域内提权完整利用.pdf)
 
 
 ## <span id="head9"> 说明</span>
