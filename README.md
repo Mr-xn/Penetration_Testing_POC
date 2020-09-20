@@ -633,6 +633,7 @@
 -  [【代码审计】xyhcms3.5后台任意文件读取](./books/[代码审计]xyhcms3.5后台任意文件读取.pdf)-[原文地址](https://mp.weixin.qq.com/s/hQq7Owew2V_MyCJLKHnR4g)
 -  [CVE-2020-1472 域内提权完整利用](./books/CVE-2020-1472%20域内提权完整利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/RUkGMxM5GjFrEiKa8aH6JA)
 -  [CVE-2020-15148 Yii框架反序列化RCE利用链 exp](./books/CVE-2020-15148%20Yii框架反序列化RCE利用链%20exp.pdf)
+-  [Apache 的. htaccess 利用技巧](./books/Apache%20的.%20htaccess%20利用技巧.pdf)
 
 
 ## <span id="head9"> 说明</span>
