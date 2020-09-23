@@ -637,6 +637,7 @@
 -  [Yii框架反序列化RCE利用链分析](./books/Yii框架反序列化RCE利用链分析.pdf)-[原文链接](https://mp.weixin.qq.com/s/KNhKti5Kcl-She4pU3D-5g)|[Yii 框架反序列化 RCE 利用链 2(官方无补丁)](./books/Yii%20框架反序列化%20RCE%20利用链%202(官方无补丁).pdf)-[原文链接](https://mp.weixin.qq.com/s/h-mbaw3vfHwx2SAZhiDe5Q)|[怎样挖掘出属于自己的 php 反序列化链](./books/怎样挖掘出属于自己的%20php%20反序列化链.pdf)-[原文链接](https://xz.aliyun.com/t/8082)
 -  [Apache 的. htaccess 利用技巧](./books/Apache%20的.%20htaccess%20利用技巧.pdf)
 -  [fastadmin(V1.0.0.20200506_beta) 前台 getshell(文件上传解析) 漏洞分析](./books/fastadmin(V1.0.0.20200506_beta)%20前台%20getshell(文件上传解析)%20漏洞分析.pdf)
+-  [HW2020-0day总结](./books/HW2020-0day总结.pdf)
 
 
 ## <span id="head9"> 说明</span>
