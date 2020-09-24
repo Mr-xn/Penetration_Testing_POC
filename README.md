@@ -640,6 +640,7 @@
 -  [HW2020-0day总结](./books/HW2020-0day总结.pdf)
 -  [Ecshop 4.0 SQL（代码审计从Nday到0day ）](Ecshop%204.0%20SQL（代码审计从Nday到0day%20）.pdf)
 -  [Yii2框架Gii模块 RCE 分析](./books/Yii2框架Gii模块%20RCE%20分析.pdf)
+-  [Windows操作系统基线核查](./books/Windows操作系统基线核查.pdf)
 
 
 ## <span id="head9"> 说明</span>
