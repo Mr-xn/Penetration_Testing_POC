@@ -489,6 +489,7 @@
 - [Arsenal-CS直接生成payload插件免杀360和火绒](https://github.com/Cliov/Arsenal)
 - [abuse-ssl-bypass-waf-使用不同的ssl加密方式来寻找防火墙不支持但服务器支持的加密方式来绕过waf](https://github.com/LandGrey/abuse-ssl-bypass-waf)
 - [CrossC2 framework - 生成CobaltStrike的跨平台beacon](https://github.com/Mr-xn/CrossC2)
+- [csbruter-爆破Cobalt Strike的服务端密码](https://github.com/ryanohoro/csbruter)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
