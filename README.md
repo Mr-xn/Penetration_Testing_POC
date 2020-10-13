@@ -649,6 +649,7 @@
 -  [Windows操作系统基线核查](./books/Windows操作系统基线核查.pdf)
 -  [phpmyadmin getshell的五种方式](./books/phpmyadmin%20getshell的五种方式.pdf)
 -  [Adminer≤4.6.2任意文件读取漏洞](./books/Adminer≤4.6.2任意文件读取漏洞.pdf)-[原文地址](https://mp.weixin.qq.com/s/ZYGN8WceT2L-P4yF6Z8gyQ)
+-  [Ueditor最新版XML文件上传导致存储型XSS](./books/Ueditor最新版XML文件上传导致存储型XSS.pdf)
 
 
 ## <span id="head9"> 说明</span>
