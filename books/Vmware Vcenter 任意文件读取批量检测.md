@@ -1,12 +1,14 @@
 # Vmware Vcenter 任意文件读取批量检测
 
-早上看到很多大佬发了该漏洞的概况，目前还没有CVE编号
-**背景**
+早上看到很多大佬发了该漏洞的概况，目前还没有CVE编号  
+
+**背景**  
 VMware vCenterServer 提供了一个可伸缩、可扩展的平台，为 虚拟化管理奠定了基础。VMware vCenter Server（以前称为 VMware VirtualCenter），可集中管理 VMware vSphere 环境，与其他管理平台相比，极大地提高了 IT 管理员对虚拟环境的控制。VMware vCenter Server：提高在虚拟基础架构每个级别上的集中控制和可见性，通过主动管理发挥 vSphere 潜能，是一个具有广泛合作伙伴体系支持的可伸缩、可扩展平台。
 
 监测到twitter平台上，有人发出任意文件读取漏洞，目前暂未申请cve
 
-**影响范围**
+**影响范围**  
+
 6.5u1该漏洞被修复。
 
 **PoC**
