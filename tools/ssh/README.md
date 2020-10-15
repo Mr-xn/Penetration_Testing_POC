@@ -5,7 +5,7 @@
 ![show img](./fake_login_log.gif)
 ## USEAGE  
 > 首先下载到本地：
-> wget https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/ssh/fake_login_log.py  
+> wget https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/ssh/fake_login_log.py  
 > 没有 wget 的请自行下载 Debian/Ubuntu 使用 sudo apt install wget -y ; Centos 使用yum install wget -y ; 新版的系统一般都默认安装有。
 ### 删除日志  
 1. 删除utmp记录，将自己从w或者who输出中隐藏  
