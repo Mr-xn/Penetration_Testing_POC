@@ -493,6 +493,7 @@
 - [yjdirscan-御剑目录扫描专业版【仅支持windows】](https://github.com/foryujian/yjdirscan)
 - [Vmware Vcenter 任意文件读取批量检测](./books/Vmware%20Vcenter%20任意文件读取批量检测.md)
 - [CVE-2020-16898检测工具](https://github.com/advanced-threat-research/CVE-2020-16898)
+- [Nette框架远程代码执行(CVE-2020-15227)](https://github.com/hu4wufu/CVE-2020-15227)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
