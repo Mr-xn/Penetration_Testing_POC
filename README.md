@@ -657,6 +657,7 @@
 -  [Ueditor最新版XML文件上传导致存储型XSS](./books/Ueditor最新版XML文件上传导致存储型XSS.pdf)
 -  [Nette框架远程代码执行(CVE-2020-15227)-七月火mochazz师傅分析](./books/Nette框架远程代码执行(CVE-2020-15227).md)
 -  [红队技巧：隐藏windows服务](./books/红队技巧：隐藏windows服务.pdf)
+-  [VHAdmin虚拟主机提权实战案例](./books/VHAdmin虚拟主机提权实战案例.pdf)
 
 
 ## <span id="head9"> 说明</span>
