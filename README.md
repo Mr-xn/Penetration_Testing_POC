@@ -499,6 +499,7 @@
 - [【钓鱼】Mail-Probe-邮箱探针后台管理系统](https://github.com/r00tSe7en/Mail-Probe)
 - [momo-code-sec-inspector-java-IDEA静态代码安全审计及漏洞一键修复插件](https://github.com/momosecurity/momo-code-sec-inspector-java)
 - [pyrdp-RDP中间人攻击工具](https://github.com/GoSecure/pyrdp)
+- [【爆破】PortBrute-一款跨平台小巧的端口爆破工具，支持爆破FTP/SSH/SMB/MSSQL/MYSQL/POSTGRESQL/MONGOD](https://github.com/awake1t/PortBrute)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
