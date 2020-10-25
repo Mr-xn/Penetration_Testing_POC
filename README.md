@@ -667,6 +667,7 @@
 -  [VHAdmin虚拟主机提权实战案例](./books/VHAdmin虚拟主机提权实战案例.pdf)-[原文地址](https://mp.weixin.qq.com/s/LmXi6niSJ4s-Cmq3jWSjaQ)
 -  [移动安全-APP渗透进阶之AppCan本地文件解密](./books/移动安全-APP渗透进阶之AppCan本地文件解密.pdf)-[原文地址](https://mp.weixin.qq.com/s/ybaiTkHetbbbshH1KZXRaQ)
 -  [【建议收藏】CS学习笔记合集](./books/[建议收藏]CS学习笔记合集20%_20%Teams20%Six.pdf)
+-  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)
 
 
 ## <span id="head9"> 说明</span>
