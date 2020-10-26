@@ -501,6 +501,7 @@
 - [pyrdp-RDP中间人攻击工具](https://github.com/GoSecure/pyrdp)
 - [【爆破】PortBrute-一款跨平台小巧的端口爆破工具，支持爆破FTP/SSH/SMB/MSSQL/MYSQL/POSTGRESQL/MONGOD](https://github.com/awake1t/PortBrute)
 - [【威胁日志分析】DeepBlueCLI-通过Windows事件日志来搜寻威胁的powershell模块](https://github.com/sans-blue-team/DeepBlueCLI)
+- [Pentest-and-Development-Tips-三好学生大佬出品的有关渗透测试和开发的小技巧](https://github.com/3gstudent/Pentest-and-Development-Tips)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -667,7 +668,7 @@
 -  [VHAdmin虚拟主机提权实战案例](./books/VHAdmin虚拟主机提权实战案例.pdf)-[原文地址](https://mp.weixin.qq.com/s/LmXi6niSJ4s-Cmq3jWSjaQ)
 -  [移动安全-APP渗透进阶之AppCan本地文件解密](./books/移动安全-APP渗透进阶之AppCan本地文件解密.pdf)-[原文地址](https://mp.weixin.qq.com/s/ybaiTkHetbbbshH1KZXRaQ)
 -  [【建议收藏】CS学习笔记合集](./books/[建议收藏]CS学习笔记合集20%_20%Teams20%Six.pdf)
--  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)
+-  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)-[原文地址](https://ssooking.github.io/yu-shen-tou-zhi-ntml-hash/)
 
 
 ## <span id="head9"> 说明</span>
