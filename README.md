@@ -669,6 +669,7 @@
 -  [移动安全-APP渗透进阶之AppCan本地文件解密](./books/移动安全-APP渗透进阶之AppCan本地文件解密.pdf)-[原文地址](https://mp.weixin.qq.com/s/ybaiTkHetbbbshH1KZXRaQ)
 -  [【建议收藏】CS学习笔记合集](./books/[建议收藏]CS学习笔记合集20%_20%Teams20%Six.pdf)
 -  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)-[原文地址](https://ssooking.github.io/yu-shen-tou-zhi-ntml-hash/)
+-  [SQLite手工注入Getshell技巧](./books/SQLite手工注入Getshell技巧.pdf)
 
 
 ## <span id="head9"> 说明</span>
