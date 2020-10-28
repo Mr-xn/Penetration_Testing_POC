@@ -672,6 +672,7 @@
 -  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)-[原文地址](https://ssooking.github.io/yu-shen-tou-zhi-ntml-hash/)
 -  [SQLite手工注入Getshell技巧](./books/SQLite手工注入Getshell技巧.pdf)-[原文地址](https://fuping.site/2017/07/19/SQLite-Injection-Get-WebShell/)
 -  [CVE-2020-1472 NetLogon 特权提升漏洞环境+详细复现步骤](./books/CVE-2020-1472%20NetLogon%20特权提升漏洞.pdf)-[原文地址](https://www.svenbeast.com/post/fu-xian-cve-2020-1472-netlogon-te-quan-ti-sheng-lou-dong/)
+-  [猪哥的读书笔记-主要包括内网安全攻防-渗透测试指南&专注 APT 攻击与防御 - Micro8](https://github.com/zhutougg/book_notes)
 
 
 ## <span id="head9"> 说明</span>
