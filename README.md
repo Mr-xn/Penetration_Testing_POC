@@ -503,6 +503,7 @@
 - [【威胁日志分析】DeepBlueCLI-通过Windows事件日志来搜寻威胁的powershell模块](https://github.com/sans-blue-team/DeepBlueCLI)
 - [Pentest-and-Development-Tips-三好学生大佬出品的有关渗透测试和开发的小技巧](https://github.com/3gstudent/Pentest-and-Development-Tips)
 - [【免杀】ImgLoaderShellCode-将shellcode注入bmp图片文件](https://github.com/sv3nbeast/ImgLoaderShellCode)-[配合这个更佳](https://www.svenbeast.com/post/xue-xi-tu-pian-yin-xie-shellcode-jin-xing-yuan-cheng-jia-zai-guo-av/)
+- [LangNetworkTopologys-快速进行内网资产扫描，支持端口扫描，指纹识别，网站探测，结果支持图表展示](https://github.com/LangziFun/LangNetworkTopologys)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -673,7 +674,8 @@
 -  [SQLite手工注入Getshell技巧](./books/SQLite手工注入Getshell技巧.pdf)-[原文地址](https://fuping.site/2017/07/19/SQLite-Injection-Get-WebShell/)
 -  [CVE-2020-1472 NetLogon 特权提升漏洞环境+详细复现步骤](./books/CVE-2020-1472%20NetLogon%20特权提升漏洞.pdf)-[原文地址](https://www.svenbeast.com/post/fu-xian-cve-2020-1472-netlogon-te-quan-ti-sheng-lou-dong/)
 -  [猪哥的读书笔记-主要包括内网安全攻防-渗透测试指南&专注 APT 攻击与防御 - Micro8](https://github.com/zhutougg/book_notes)
--  [高版本AES-GCM模式加密的Shiro漏洞利用](./books/高版本AES-GCM模式加密的Shiro漏洞利用.pdf)
+-  [高版本AES-GCM模式加密的Shiro漏洞利用](./books/高版本AES-GCM模式加密的Shiro漏洞利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/otschvw7rJkNH-HsbKkqBA)
+-  
 
 
 ## <span id="head9"> 说明</span>
