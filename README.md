@@ -504,6 +504,7 @@
 - [Pentest-and-Development-Tips-三好学生大佬出品的有关渗透测试和开发的小技巧](https://github.com/3gstudent/Pentest-and-Development-Tips)
 - [【免杀】ImgLoaderShellCode-将shellcode注入bmp图片文件](https://github.com/sv3nbeast/ImgLoaderShellCode)-[配合这个更佳](https://www.svenbeast.com/post/xue-xi-tu-pian-yin-xie-shellcode-jin-xing-yuan-cheng-jia-zai-guo-av/)
 - [LangNetworkTopologys-快速进行内网资产扫描，支持端口扫描，指纹识别，网站探测，结果支持图表展示](https://github.com/LangziFun/LangNetworkTopologys)
+- [weblogic_exploit-weblogic漏洞利用工具【包括了weblogic常见高危漏洞的利用】](https://github.com/21superman/weblogic_exploit)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
