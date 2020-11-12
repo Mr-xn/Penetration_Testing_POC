@@ -505,6 +505,7 @@
 - [【威胁日志分析】DeepBlueCLI-通过Windows事件日志来搜寻威胁的powershell模块](https://github.com/sans-blue-team/DeepBlueCLI)
 - [Pentest-and-Development-Tips-三好学生大佬出品的有关渗透测试和开发的小技巧](https://github.com/3gstudent/Pentest-and-Development-Tips)
 - [【免杀】ImgLoaderShellCode-将shellcode注入bmp图片文件](https://github.com/sv3nbeast/ImgLoaderShellCode)-[配合这个更佳](https://www.svenbeast.com/post/xue-xi-tu-pian-yin-xie-shellcode-jin-xing-yuan-cheng-jia-zai-guo-av/)
+- [【免杀】DLL 代理转发与维权](./books/[免杀]DLL 代理转发与维权.pdf)-[原文地址](https://mp.weixin.qq.com/s/zUXrNsf9IsZWocrb7z3i1Q)
 - [LangNetworkTopologys-快速进行内网资产扫描，支持端口扫描，指纹识别，网站探测，结果支持图表展示](https://github.com/LangziFun/LangNetworkTopologys)
 - [weblogic_exploit-weblogic漏洞利用工具【包括了weblogic常见高危漏洞的利用】](https://github.com/21superman/weblogic_exploit)
 - [rsync_weakpass.py-rsync弱口令爆破脚本](https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py)
