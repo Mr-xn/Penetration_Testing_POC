@@ -510,6 +510,7 @@
 - [weblogic_exploit-weblogic漏洞利用工具【包括了weblogic常见高危漏洞的利用】](https://github.com/21superman/weblogic_exploit)
 - [rsync_weakpass.py-rsync弱口令爆破脚本](https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py)
 - [Findomain-跨平台的子域名爆破工具](https://github.com/Findomain/Findomain)
+- [wfuzz-web应用fuzz工具kali自带工具之一](https://github.com/xmendez/wfuzz)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
