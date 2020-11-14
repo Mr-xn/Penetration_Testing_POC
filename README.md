@@ -511,6 +511,7 @@
 - [rsync_weakpass.py-rsync弱口令爆破脚本](https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py)
 - [Findomain-跨平台的子域名爆破工具](https://github.com/Findomain/Findomain)
 - [wfuzz-web应用fuzz工具kali自带工具之一](https://github.com/xmendez/wfuzz)
+- [ffuf-基于go开发的快速fuzz工具](https://github.com/ffuf/ffuf)
 - [linglong-一款甲方资产巡航扫描系统,系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong)
 - [fscan-一键大保健（支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写私钥、计划任务反弹shell、读取win网卡信息等）](https://github.com/shadow1ng/fscan)
 
