@@ -687,6 +687,7 @@
 -  [猪哥的读书笔记-主要包括内网安全攻防-渗透测试指南&专注 APT 攻击与防御 - Micro8](https://github.com/zhutougg/book_notes)
 -  [高版本AES-GCM模式加密的Shiro漏洞利用](./books/高版本AES-GCM模式加密的Shiro漏洞利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/otschvw7rJkNH-HsbKkqBA)
 -  [[CVE-2020-14882_14883]WebLogioc console认证绕过+任意代码执行](./books/%5BCVE-2020-14882_14883%5DWebLogioc%20console认证绕过%2B任意代码执行.pdf)-[原文地址](https://mp.weixin.qq.com/s/u8cZEcku-uIbGAVAcos5Tw)
+-  [JNDI注入学习](./books/JNDI注入学习.pdf)
 
 
 ## <span id="head9"> 说明</span>
