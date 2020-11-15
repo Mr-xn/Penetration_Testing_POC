@@ -688,6 +688,7 @@
 -  [高版本AES-GCM模式加密的Shiro漏洞利用](./books/高版本AES-GCM模式加密的Shiro漏洞利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/otschvw7rJkNH-HsbKkqBA)
 -  [[CVE-2020-14882_14883]WebLogioc console认证绕过+任意代码执行](./books/%5BCVE-2020-14882_14883%5DWebLogioc%20console认证绕过%2B任意代码执行.pdf)-[原文地址](https://mp.weixin.qq.com/s/u8cZEcku-uIbGAVAcos5Tw)
 -  [JNDI注入学习](./books/JNDI注入学习.pdf)
+-  [绕过CDN查找真实IP方法总结](./books/绕过CDN查找真实IP方法总结.pdf)
 
 
 ## <span id="head9"> 说明</span>
