@@ -186,6 +186,8 @@
 - [Zblog默认Theme_csrf+储存xss+getshell](./Zblog默认Theme_csrf+储存xss+getshell.md)
 - [用友GRP-u8 注入+天融信TopApp-LB 负载均衡系统sql注入](https://mrxn.net/Infiltration/292.html)|[绿盟UTS综合威胁探针管理员任意登录复现](https://mrxn.net/Infiltration/276.html)|[HW弹药库之深信服EDR 3.2.21 任意代码执行漏洞分析](https://mrxn.net/jswz/267.html)
 - [CVE-2020-13935-Tomcat的WebSocket安全漏洞可导致拒绝服务攻击](https://github.com/RedTeamPentesting/CVE-2020-13935)
+- [Douphp 网站后台存储型XSS漏洞分析](./books/Douphp%20网站后台存储型XSS漏洞分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/dmFoMJaUH_ULnhu_T9jSGA)
+- [Adminer 简单的利用](./books/Adminer简单的利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/fgi4S-2vdvc-pSmFGGQzgw)
 
 ## <span id="head5"> 提权辅助相关</span>
 
