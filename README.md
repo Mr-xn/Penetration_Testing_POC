@@ -188,6 +188,7 @@
 - [CVE-2020-13935-Tomcat的WebSocket安全漏洞可导致拒绝服务攻击](https://github.com/RedTeamPentesting/CVE-2020-13935)
 - [Douphp 网站后台存储型XSS漏洞分析](./books/Douphp%20网站后台存储型XSS漏洞分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/dmFoMJaUH_ULnhu_T9jSGA)
 - [Adminer 简单的利用](./books/Adminer简单的利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/fgi4S-2vdvc-pSmFGGQzgw)
+- [骑士CMS assign_resume_tpl远程代码执行分析](./books/骑士CMS%20远程代码执行分析%20-%20Panda.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -373,7 +374,7 @@
 - [mssqli-duet-用于mssql的sql注入脚本,使用RID爆破,从Active Directory环境中提取域用户](https://github.com/Keramas/mssqli-duet)
 - [【Android 移动app渗透】之一键提取APP敏感信息](https://github.com/TheKingOfDuck/ApkAnalyser)
 - [【android 移动app渗透】apkleaks-扫描APK文件提取URL、终端和secret](https://github.com/dwisiswant0/apkleaks)
-- [Shiro系列漏洞检测GUI版本-ShiroExploit GUI版本](https://github.com/feihong-cs/ShiroExploit_GUI)
+- [ShiroExploit-Deprecated-Shiro系列漏洞检测GUI版本-ShiroExploit GUI版本](https://github.com/feihong-cs/ShiroExploit-Deprecated)
 - [通过phpinfo获取cookie突破httponly](./通过phpinfo获取cookie突破httponly.md)
 - [phpstudy RCE 利用工具 windows GUI版本](https://github.com/aimorc/phpstudyrce)
 - [WebAliveScan-根据端口快速扫描存活的WEB](https://github.com/broken5/WebAliveScan)
