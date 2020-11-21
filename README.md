@@ -188,7 +188,7 @@
 - [CVE-2020-13935-Tomcat的WebSocket安全漏洞可导致拒绝服务攻击](https://github.com/RedTeamPentesting/CVE-2020-13935)
 - [Douphp 网站后台存储型XSS漏洞分析](./books/Douphp%20网站后台存储型XSS漏洞分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/dmFoMJaUH_ULnhu_T9jSGA)
 - [Adminer 简单的利用](./books/Adminer简单的利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/fgi4S-2vdvc-pSmFGGQzgw)
-- [骑士CMS assign_resume_tpl远程代码执行分析](./books/骑士CMS%20远程代码执行分析%20-%20Panda.pdf)
+- [骑士CMS assign_resume_tpl远程代码执行分析](./books/骑士CMS%20远程代码执行分析%20-%20Panda.pdf)-[原文地址](https://www.cnpanda.net/codeaudit/827.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -696,6 +696,7 @@
 -  [JNDI注入学习](./books/JNDI注入学习.pdf)-[原文地址](https://www.redteaming.top/2020/08/24/JNDI-Injection/)
 -  [绕过CDN查找真实IP方法总结](./books/绕过CDN查找真实IP方法总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/aSD6kTTOdVgoZXJuqTSqDQ)
 -  [SQL注入简单总结——过滤逗号注入(附绕过tamper)](./books/SQL注入简单总结——过滤逗号注入.pdf)-[原地址](https://www.jianshu.com/p/d10785d22db2)
+-  []()
 
 
 ## <span id="head9"> 说明</span>
