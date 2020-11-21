@@ -522,6 +522,7 @@
 - [fscan-一键大保健（支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写私钥、计划任务反弹shell、读取win网卡信息等）](https://github.com/shadow1ng/fscan)
 - [anti-honeypot-一款可以检测WEB蜜罐并阻断请求的Chrome插件](https://github.com/cnrstar/anti-honeypot)
 - [myscan-又一款被动扫描工具](https://github.com/amcai/myscan)
+- [360SafeBrowsergetpass-一键辅助抓取360安全浏览器密码的Cobalt Strike脚本](https://github.com/hayasec/360SafeBrowsergetpass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
