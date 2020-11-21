@@ -521,6 +521,7 @@
 - [linglong-一款甲方资产巡航扫描系统,系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong)
 - [fscan-一键大保健（支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写私钥、计划任务反弹shell、读取win网卡信息等）](https://github.com/shadow1ng/fscan)
 - [anti-honeypot-一款可以检测WEB蜜罐并阻断请求的Chrome插件](https://github.com/cnrstar/anti-honeypot)
+- [myscan-又一款被动扫描工具](https://github.com/amcai/myscan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
