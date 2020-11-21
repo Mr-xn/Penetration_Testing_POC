@@ -288,6 +288,7 @@
 - [隐藏wifi-ssid获取 · theKingOfNight's Blog](./books/隐藏wifi-ssid获取%20·%20theKingOfNight's%20Blog.pdf)
 - [crt.sh证书/域名收集](./tools/crt.sh证书收集.py)
 - [TP漏洞集合利用工具py3版本-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/TPscan)
+- [TPScan.jar-Java编写的单文件版的TP漏洞扫描利用](./tools/TPScan.jar)-[源处](https://github.com/tangxiaofeng7/TPScan)
 - [Python2编写的struts2漏洞全版本检测和利用工具-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/struts-scan)
 - [sqlmap_bypass_D盾_tamper](./tools/sqlmap_bypass_D盾_tamper.py)
 - [sqlmap_bypass_安全狗_tamper](./tools/sqlmap_bypass_安全狗_tamper.py)
@@ -696,7 +697,7 @@
 -  [JNDI注入学习](./books/JNDI注入学习.pdf)-[原文地址](https://www.redteaming.top/2020/08/24/JNDI-Injection/)
 -  [绕过CDN查找真实IP方法总结](./books/绕过CDN查找真实IP方法总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/aSD6kTTOdVgoZXJuqTSqDQ)
 -  [SQL注入简单总结——过滤逗号注入(附绕过tamper)](./books/SQL注入简单总结——过滤逗号注入.pdf)-[原地址](https://www.jianshu.com/p/d10785d22db2)
--  []()
+-  [绕过WAF的另类webshell木马文件测试方法](./books/绕过WAF的另类webshell木马文件测试方法.pdf)-[源出](https://www.freebuf.com/articles/network/253803.html)
 
 
 ## <span id="head9"> 说明</span>
