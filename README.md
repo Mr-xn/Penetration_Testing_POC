@@ -524,6 +524,7 @@
 - [myscan-又一款被动扫描工具](https://github.com/amcai/myscan)
 - [360SafeBrowsergetpass-一键辅助抓取360安全浏览器密码的Cobalt Strike脚本](https://github.com/hayasec/360SafeBrowsergetpass)
 - [BrowserView-还原浏览器（支持国产主流浏览器）密码/历史记录/收藏夹/cookie](./tools/BrowserView.exe)-[原地址](http://www.liulanqicode.com/browserview.htm)
+- [OffensiveNim-简称Nim的跨平台shellcode加载执行器](https://github.com/byt3bl33d3r/OffensiveNim)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
