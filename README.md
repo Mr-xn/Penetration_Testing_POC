@@ -692,7 +692,7 @@
 -  [蓝队技巧：查找被隐藏的Windows服务项](./books/蓝队技巧：查找被隐藏的Windows服务项.pdf)
 -  [VHAdmin虚拟主机提权实战案例](./books/VHAdmin虚拟主机提权实战案例.pdf)-[原文地址](https://mp.weixin.qq.com/s/LmXi6niSJ4s-Cmq3jWSjaQ)
 -  [移动安全-APP渗透进阶之AppCan本地文件解密](./books/移动安全-APP渗透进阶之AppCan本地文件解密.pdf)-[原文地址](https://mp.weixin.qq.com/s/ybaiTkHetbbbshH1KZXRaQ)
--  [【建议收藏】Cobalt Strike学习笔记合集](./books/[建议收藏]CS学习笔记合集%20_%20Teams%20Six.pdf)
+-  [【建议收藏】Cobalt Strike学习笔记合集](./books/【建议收藏】CS学习笔记合集%20_%20Teams%20Six.pdf)
 -  [Cobalt_Strike_wiki-Cobalt Strike系列](https://github.com/aleenzz/Cobalt_Strike_wiki)
 -  [Cobalt Strike4.1系列在线手册](https://wbglil.gitbook.io/cobalt-strike/)
 -  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)-[原文地址](https://ssooking.github.io/yu-shen-tou-zhi-ntml-hash/)
@@ -706,6 +706,7 @@
 -  [SQL注入简单总结——过滤逗号注入(附绕过tamper)](./books/SQL注入简单总结——过滤逗号注入.pdf)-[原地址](https://www.jianshu.com/p/d10785d22db2)
 -  [绕过WAF的另类webshell木马文件测试方法](./books/绕过WAF的另类webshell木马文件测试方法.pdf)-[源出](https://www.freebuf.com/articles/network/253803.html)
 -  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)-[源处](https://xz.aliyun.com/t/7562)
+-  [一个由个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup](https://github.com/No-Github/1earn)-[在线版](https://ffffffff0x.gitbook.io/1earn/)
 
 
 ## <span id="head9"> 说明</span>
