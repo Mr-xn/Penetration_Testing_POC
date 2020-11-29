@@ -525,6 +525,7 @@
 - [360SafeBrowsergetpass-一键辅助抓取360安全浏览器密码的Cobalt Strike脚本](https://github.com/hayasec/360SafeBrowsergetpass)
 - [BrowserView-还原浏览器（支持国产主流浏览器）密码/历史记录/收藏夹/cookie](./tools/BrowserView.exe)-[原地址](http://www.liulanqicode.com/browserview.htm)
 - [OffensiveNim-简称Nim的跨平台shellcode加载执行器](https://github.com/byt3bl33d3r/OffensiveNim)
+- [gshark-GitHub敏感信息扫描收集管理工具](https://github.com/madneal/gshark)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -702,7 +703,7 @@
 -  [绕过CDN查找真实IP方法总结](./books/绕过CDN查找真实IP方法总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/aSD6kTTOdVgoZXJuqTSqDQ)
 -  [SQL注入简单总结——过滤逗号注入(附绕过tamper)](./books/SQL注入简单总结——过滤逗号注入.pdf)-[原地址](https://www.jianshu.com/p/d10785d22db2)
 -  [绕过WAF的另类webshell木马文件测试方法](./books/绕过WAF的另类webshell木马文件测试方法.pdf)-[源出](https://www.freebuf.com/articles/network/253803.html)
--  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)
+-  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)-[源处](https://xz.aliyun.com/t/7562)
 
 
 ## <span id="head9"> 说明</span>
