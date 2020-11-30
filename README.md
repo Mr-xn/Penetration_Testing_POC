@@ -528,6 +528,7 @@
 - [BrowserView-还原浏览器（支持国产主流浏览器）密码/历史记录/收藏夹/cookie](./tools/BrowserView.exe)-[原地址](http://www.liulanqicode.com/browserview.htm)
 - [OffensiveNim-简称Nim的跨平台shellcode加载执行器](https://github.com/byt3bl33d3r/OffensiveNim)
 - [gshark-GitHub敏感信息扫描收集管理工具](https://github.com/madneal/gshark)
+- [r0capture-安卓应用层抓包通杀脚本](https://github.com/r0ysue/r0capture)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
