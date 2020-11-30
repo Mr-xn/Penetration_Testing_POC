@@ -120,7 +120,7 @@
 - [CVE-2019-19781-Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway](https://github.com/projectzeroindia/CVE-2019-19781)
 - [CVE-2019-19781.nse---use Nmap check  Citrix ADC Remote Code Execution](https://github.com/cyberstruggle/DeltaGroup/tree/master/CVE-2019-19781)
 - [Mysql Client 任意文件读取攻击链拓展](https://paper.seebug.org/1112/)
-- [CVE-2020-5504-phpMyAdmin注入(需要登录)](https://xz.aliyun.com/t/7092)
+- [CVE-2020-5504-phpMyAdmin注入(需要登录)](https://xz.aliyun.com/t/7092)-[另一篇关于次漏洞的 复现](https://mp.weixin.qq.com/s/epQdTdy6E8QdQTqBbq_Edw)
 - [CVE-2020-5509-Car Rental Project 1.0版本中存在远程代码执行漏洞](https://github.com/FULLSHADE/CVE-2020-5509-POC)
 - [CryptoAPI PoC CVE-2020-0601](https://github.com/kudelskisecurity/chainoffools/blob/master/README.md)|[另一个PoC for CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
 - [New Weblogic RCE  (CVE-2020-2546、CVE-2020-2551) CVE-2020-2546](https://mp.weixin.qq.com/s/Q-ZtX-7vt0JnjNbBmyuG0w)|[WebLogic WLS核心组件RCE分析（CVE-2020-2551）](https://www.anquanke.com/post/id/199695)|[CVE-2020-2551-Weblogic IIOP 反序列化EXP](https://github.com/Y4er/CVE-2020-2551)
@@ -707,6 +707,7 @@
 -  [绕过WAF的另类webshell木马文件测试方法](./books/绕过WAF的另类webshell木马文件测试方法.pdf)-[源出](https://www.freebuf.com/articles/network/253803.html)
 -  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)-[源处](https://xz.aliyun.com/t/7562)
 -  [一个由个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup](https://github.com/No-Github/1earn)-[在线版](https://ffffffff0x.gitbook.io/1earn/)
+-  [domainNamePredictor-一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
 
 
 ## <span id="head9"> 说明</span>
