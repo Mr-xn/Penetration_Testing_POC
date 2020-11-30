@@ -230,7 +230,7 @@
 
 ## <span id="head6"> PC</span>
 
-- [ 微软RDP远程代码执行漏洞（CVE-2019-0708）](./BlueKeep)
+- [ 微软RDP远程代码执行漏洞（CVE-2019-0708）](./BlueKeep)-[CVE-2019-0708-EXP-Windows-CVE-2019-0708-EXP-Windows版单文件exe版,运行后直接在当前控制台反弹System权限Shell](https://github.com/cbwang505/CVE-2019-0708-EXP-Windows)
 - [CVE-2019-0708-python版](./BlueKeep/bluekeep-CVE-2019-0708-python)
 - [MS17-010-微软永恒之蓝漏洞](https://github.com/Mr-xn/MS17-010)
 - [macOS-Kernel-Exploit](./macOS-Kernel-Exploit)
