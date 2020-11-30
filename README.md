@@ -528,6 +528,7 @@
 - [BrowserView-还原浏览器（支持国产主流浏览器）密码/历史记录/收藏夹/cookie](./tools/BrowserView.exe)-[原地址](http://www.liulanqicode.com/browserview.htm)
 - [OffensiveNim-简称Nim的跨平台shellcode加载执行器](https://github.com/byt3bl33d3r/OffensiveNim)
 - [gshark-GitHub敏感信息扫描收集管理工具](https://github.com/madneal/gshark)
+- [domainNamePredictor-一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
 - [r0capture-安卓应用层抓包通杀脚本](https://github.com/r0ysue/r0capture)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
@@ -709,7 +710,7 @@
 -  [绕过WAF的另类webshell木马文件测试方法](./books/绕过WAF的另类webshell木马文件测试方法.pdf)-[源出](https://www.freebuf.com/articles/network/253803.html)
 -  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)-[源处](https://xz.aliyun.com/t/7562)
 -  [一个由个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup](https://github.com/No-Github/1earn)-[在线版](https://ffffffff0x.gitbook.io/1earn/)
--  [domainNamePredictor-一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
+-  [AndroidSecurityStudy-安卓应用安全学习(主要包括Frida&&FART系列)](https://github.com/r0ysue/AndroidSecurityStudy)
 
 
 ## <span id="head9"> 说明</span>
