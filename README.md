@@ -346,6 +346,7 @@
 - [【内网代理】pivotnacci-通过HTTP隧道将TCP流量代理出来或进去](https://github.com/blackarrowsec/pivotnacci)
 - [【内网代理】毒刺(pystinger)通过webshell实现**内网SOCK4代理**,**端口映射**.](https://github.com/FunnyWolf/pystinger)|[pystinger.zip-下载](./tools/pystinger.zip)
 - [【内网代理】php-proxy-app-一款代理访问网站的工具](https://github.com/Athlon1600/php-proxy-app)
+- [【内网代理】reDuh-通过http隧道搭建代理（比较远古，酌情使用）](https://github.com/sensepost/reDuh)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
 - [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
