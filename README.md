@@ -565,6 +565,7 @@
 - [Cobal_Strike_自定义OneLiner](./books/Cobal_Strike_自定义OneLiner_Evi1cg's_blog.pdf)
 - [cobalt strike 快速上手 [ 一 ]](./books/cobalt_strike_快速上手%5B%20一%20%5D.pdf)
 - [Cobalt strike3.0使用手册](./books/Cobalt_strike3.0使用手册.pdf)
+- [Awesome-CobaltStrike-cobaltstrike的相关资源汇总](https://github.com/zer0yu/Awesome-CobaltStrike)
 - [Cobalt_Strike_Spear_Phish_Cobalt Strike邮件钓鱼制作](./books/Cobalt_Strike_Spear_Phish_Evi1cg's%20blog%20%20CS邮件钓鱼制作.md)
 - [Remote NTLM relaying through Cobalt Strike](./books/Remote_NTLM_relaying_through_CS.pdf)
 - [渗透测试神器Cobalt Strike使用教程](./books/渗透测试神器Cobalt%20Strike使用教程.pdf)
