@@ -532,6 +532,7 @@
 - [gshark-GitHub敏感信息扫描收集管理工具](https://github.com/madneal/gshark)
 - [domainNamePredictor-一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
 - [r0capture-安卓应用层抓包通杀脚本](https://github.com/r0ysue/r0capture)
+- [py2exe-将python脚本转换为单文件版可执行的exe文件](https://github.com/py2exe/py2exe)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
