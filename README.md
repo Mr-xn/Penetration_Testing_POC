@@ -716,7 +716,7 @@
 -  [一个由个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup](https://github.com/No-Github/1earn)-[在线版](https://ffffffff0x.gitbook.io/1earn/)
 -  [AndroidSecurityStudy-安卓应用安全学习(主要包括Frida&&FART系列)](https://github.com/r0ysue/AndroidSecurityStudy)
 -  [Mysql注入总结](./books/Mysql注入总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/09VLJjbhKmLZhJdQnvtIvQ)
--  
+-  [ThinkAdmin未授权列目录_任意文件读取(CVE-2020-25540)漏洞复现](./books/ThinkAdmin未授权列目录_任意文件读取(CVE-2020-25540)漏洞复现.pdf)-[原文地址](https://mp.weixin.qq.com/s/ORM_6AXz-4jpg1wn82GrLg)
 
 
 ## <span id="head9"> 说明</span>
