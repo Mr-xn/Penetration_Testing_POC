@@ -715,6 +715,8 @@
 -  [Android 渗透测试 frida——Brida 插件加解密实战演示](./books/Android%20渗透测试%20frida——Brida%20插件加解密实战演示.pdf)-[源处](https://xz.aliyun.com/t/7562)
 -  [一个由个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup](https://github.com/No-Github/1earn)-[在线版](https://ffffffff0x.gitbook.io/1earn/)
 -  [AndroidSecurityStudy-安卓应用安全学习(主要包括Frida&&FART系列)](https://github.com/r0ysue/AndroidSecurityStudy)
+-  [Mysql注入总结](./books/Mysql注入总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/09VLJjbhKmLZhJdQnvtIvQ)
+-  
 
 
 ## <span id="head9"> 说明</span>
