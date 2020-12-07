@@ -611,6 +611,7 @@
 - [【Android脱壳】_腾讯加固动态脱壳（上篇）](./books/移动安全（九）_TengXun加固动态脱壳（上篇）.pdf)
 - [【Android脱壳】腾讯加固动态脱壳（下篇）](./books/移动安全（十）_TengXun加固动态脱壳（下篇）.pdf)
 - [【Android脱壳】记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务](./books/记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务.pdf)
+- [【Android脱壳】-免root脱腾讯御安全加固](./books/免root脱腾讯御安全加固.pdf)
 - [【Android抓包】记一次APP测试的爬坑经历.pdf](./books/记一次APP测试的爬坑经历.pdf)
 - [完整的内网域渗透-暗月培训之项目六](./books/完整的内网域渗透-暗月培训之项目六.pdf)
 - [Android APP渗透测试方法大全](./books/Android%20APP渗透测试方法大全.pdf)
