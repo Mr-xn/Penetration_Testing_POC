@@ -189,7 +189,8 @@
 - [Douphp 网站后台存储型XSS漏洞分析](./books/Douphp%20网站后台存储型XSS漏洞分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/dmFoMJaUH_ULnhu_T9jSGA)
 - [Adminer 简单的利用](./books/Adminer简单的利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/fgi4S-2vdvc-pSmFGGQzgw)
 - [骑士CMS assign_resume_tpl远程代码执行分析](./books/骑士CMS%20远程代码执行分析%20-%20Panda.pdf)-[原文地址](https://www.cnpanda.net/codeaudit/827.html)
-- [kibana由原型污染导致RCE的漏洞（CVE-2019-7609）](https://github.com/mpgn/CVE-2019-7609)
+- [kibana由原型污染导致RCE的漏洞（CVE-2019-7609）](https://github.com/mpgn/CVE-2019-7609)-[YouTube相关报告](https://www.youtube.com/watch?v=KVDOIFeRaPQ)
+- [cve-2019-17558-apache solr velocity 注入远程命令执行漏洞 ](https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool)
 
 ## <span id="head5"> 提权辅助相关</span>
 
