@@ -728,6 +728,7 @@
 -  [Linux后门N种姿势_fuckadmin](./books/Linux后门N种姿势_fuckadmin.pdf)
 -  [安全修复建议加固方案1.0](./books/安全修复建议加固方案1.0.pdf)
 -  [Web攻防之业务安全实战指南](./books/Web攻防之业务安全实战指南.pdf)
+-  [Linux基线加固方案V1.0](./books/Linux基线加固方案V1.0.pdf)
 
 
 ## <span id="head9"> 说明</span>
