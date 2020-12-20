@@ -707,6 +707,7 @@
 -  [【建议收藏】Cobalt Strike学习笔记合集](./books/【建议收藏】CS学习笔记合集%20_%20Teams%20Six.pdf)
 -  [Cobalt_Strike_wiki-Cobalt Strike系列](https://github.com/aleenzz/Cobalt_Strike_wiki)
 -  [Cobalt Strike4.1系列在线手册](https://wbglil.gitbook.io/cobalt-strike/)
+-  [Cobalt Strike 4.2 Manual（cs 4.2英文手册）](./books/Cobalt%20Strike%204.2%20Manual.pdf)
 -  [域渗透之NTML-Hash总结](./books/域渗透之NTML-Hash总结.pdf)-[原文地址](https://ssooking.github.io/yu-shen-tou-zhi-ntml-hash/)
 -  [SQLite手工注入Getshell技巧](./books/SQLite手工注入Getshell技巧.pdf)-[原文地址](https://fuping.site/2017/07/19/SQLite-Injection-Get-WebShell/)
 -  [CVE-2020-1472 NetLogon 特权提升漏洞环境+详细复现步骤](./books/CVE-2020-1472%20NetLogon%20特权提升漏洞.pdf)-[原文地址](https://www.svenbeast.com/post/fu-xian-cve-2020-1472-netlogon-te-quan-ti-sheng-lou-dong/)
