@@ -296,6 +296,7 @@
 - [Python2编写的struts2漏洞全版本检测和利用工具-来自奇安信大佬Lucifer1993](https://github.com/Mr-xn/struts-scan)
 - [sqlmap_bypass_D盾_tamper](./tools/sqlmap_bypass_D盾_tamper.py)
 - [sqlmap_bypass_安全狗_tamper](./tools/sqlmap_bypass_安全狗_tamper.py)
+- [sqlmap_bypass安全狗2tamper](./tools/sqlmap_bypass_安全狗2_tamper.py)
 - [sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper](./tools/sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper.py)
 - [sqlmap_bypass_云锁_tamper](./tools/sqlmap_bypass_云锁_tamper.py)
 - [sqlmap bypass云锁tamper（利用云锁的注释不拦截缺陷，来自t00ls师傅）](https://github.com/Hsly-Alexsel/Bypass)-[t00ls原文地址](https://www.t00ls.net/thread-57788-1-1.html)|[项目留存PDF版本](./books/10种方法绕过云锁以及tamper.pdf)
