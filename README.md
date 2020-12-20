@@ -726,6 +726,7 @@
 -  [Struts2 S2-061漏洞分析(CVE-2020-17530)](./books/Struts2%20S2-061漏洞分析(CVE-2020-17530).pdf)-[原文地址](https://mp.weixin.qq.com/s/RD2HTMn-jFxDIs4-X95u6g)
 -  [CVE-2020-10977-GitLab任意文件读取漏洞复现](./books/CVE-2020-10977-GitLab任意文件读取漏洞复现.pdf)-[原地址](https://mp.weixin.qq.com/s/ZmzXk0C-o0AnBLzVMAhRJg)
 -  [Linux后门N种姿势_fuckadmin](./books/Linux后门N种姿势_fuckadmin.pdf)
+-  [安全修复建议加固方案1.0](./books/安全修复建议加固方案1.0.pdf)
 
 
 ## <span id="head9"> 说明</span>
