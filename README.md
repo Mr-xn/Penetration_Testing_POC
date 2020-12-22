@@ -539,6 +539,7 @@
 - [Kunlun-Mirror 专注于安全研究员使用的代码审计辅助工具](https://github.com/LoRexxar/Kunlun-M)
 - [JsLoader-js免杀shellcode，绕过杀毒添加自启](https://github.com/Hzllaga/JsLoader)
 - [NoMSBuild-MSBuild without MSbuild.exe](https://github.com/rvrsh3ll/NoMSBuild)
+- [thinkphp-RCE-POC-Collection-thinkphp v5.x 远程代码执行漏洞-POC集合](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
