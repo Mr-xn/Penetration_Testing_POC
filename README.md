@@ -538,6 +538,7 @@
 - [【免杀】py2exe-将python脚本转换为单文件版可执行的exe文件](https://github.com/py2exe/py2exe)
 - [Kunlun-Mirror 专注于安全研究员使用的代码审计辅助工具](https://github.com/LoRexxar/Kunlun-M)
 - [JsLoader-js免杀shellcode，绕过杀毒添加自启](https://github.com/Hzllaga/JsLoader)
+- [NoMSBuild-MSBuild without MSbuild.exe](https://github.com/rvrsh3ll/NoMSBuild)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
