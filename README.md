@@ -542,6 +542,7 @@
 - [NoMSBuild-MSBuild without MSbuild.exe](https://github.com/rvrsh3ll/NoMSBuild)
 - [thinkphp-RCE-POC-Collection-thinkphp v5.x 远程代码执行漏洞-POC集合](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection)
 - [possessor-【过杀软行为检测】原理：在win10下创建一个第二桌面，模拟用户执行命令](https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor)
+- [MemProcFS-The Memory Process File System](https://github.com/ufrisk/MemProcFS)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
