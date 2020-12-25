@@ -738,6 +738,8 @@
 -  [Web攻防之业务安全实战指南](./books/Web攻防之业务安全实战指南.pdf)
 -  [Linux基线加固方案V1.0](./books/Linux基线加固方案V1.0.pdf)
 -  [php中函数禁用绕过的原理与利用](./books/php中函数禁用绕过的原理与利用.pdf)-[原文地址](https://mp.weixin.qq.com/s/_L379eq0kufu3CCHN1DdkA)
+-  [TP诸多限制条件下如何getshell](./books/TP诸多限制条件下如何getshell.pdf)-[原文地址](https://mp.weixin.qq.com/s/LaTNNjwDT1VzN6uA0Gq0-Q)
+-  
 
 
 ## <span id="head9"> 说明</span>
