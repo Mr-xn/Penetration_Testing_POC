@@ -541,6 +541,7 @@
 - [JsLoader-js免杀shellcode，绕过杀毒添加自启](https://github.com/Hzllaga/JsLoader)
 - [NoMSBuild-MSBuild without MSbuild.exe](https://github.com/rvrsh3ll/NoMSBuild)
 - [thinkphp-RCE-POC-Collection-thinkphp v5.x 远程代码执行漏洞-POC集合](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection)
+- [possessor-【过杀软行为检测】原理：在win10下创建一个第二桌面，模拟用户执行命令](https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
