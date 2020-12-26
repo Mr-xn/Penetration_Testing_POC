@@ -744,6 +744,8 @@
 -  [钓鱼那些事（初入Office宏攻击）](./books/钓鱼那些事（初入Office宏攻击）.pdf)-[原文地址](https://mp.weixin.qq.com/s/FEhpCV5wklOqLmRvMiv20g)
 -  [ZIP已知明文攻击深入利用](./books/ZIP已知明文攻击深入利用.pdf)-[原文地址](https://www.freebuf.com/articles/network/255145.html)
 -  [组件攻击链ThinkCMF高危漏洞分析与利用](./books/组件攻击链ThinkCMF高危漏洞分析与利用.pdf)-[原文地址](https://www.freebuf.com/articles/web/255184.html)
+-  [Struts2 s2-061 Poc分析](./books/Struts2%20s2-061%20Poc分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/skV6BsARvie33vV2R6SZKw)
+-  [内含 POC 丨漏洞复现之 S2-061(CVE-2020-17530)](./books/内含POC丨漏洞复现之S2-061(CVE-2020-17530).pdf)-[原文地址](https://mp.weixin.qq.com/s/uVybuJpkvGt3HCIbfYv1tw)
 
 
 ## <span id="head9"> 说明</span>
