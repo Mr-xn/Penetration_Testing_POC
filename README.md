@@ -543,6 +543,7 @@
 - [thinkphp-RCE-POC-Collection-thinkphp v5.x 远程代码执行漏洞-POC集合](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection)
 - [possessor-【过杀软行为检测】原理：在win10下创建一个第二桌面，模拟用户执行命令](https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor)
 - [MemProcFS-The Memory Process File System](https://github.com/ufrisk/MemProcFS)
+- [vulmap-Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能](https://github.com/zhzyker/vulmap)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
