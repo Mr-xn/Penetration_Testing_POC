@@ -548,6 +548,7 @@
 - [Ary 是一个集成类工具，主要用于调用各种安全工具，从而形成便捷的一键式渗透](https://github.com/TeraSecTeam/ary)
 - [AKtools-Java版的aliyun-accesskey-Tools](https://github.com/Moon3r/AKtools)-[aliyun-accesskey-Tools-此工具用于查询ALIYUN_ACCESSKEY的主机，并且远程执行命令](https://github.com/mrknow001/aliyun-accesskey-Tools)
 - [MDAT-一款用于数据库攻击的利用工具，集合了多种主流的数据库类型](https://github.com/SafeGroceryStore/MDAT)
+- [sqlmap-gtk-sqlmap的GUI界面实现](https://github.com/needle-wang/sqlmap-gtk)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
