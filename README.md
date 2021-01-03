@@ -501,6 +501,7 @@
 - [ServerScan-一款使用Golang开发的高并发网络扫描、服务探测工具](https://github.com/Adminisme/ServerScan)
 - [ShellcodeLoader-将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术](https://github.com/Hzllaga/ShellcodeLoader)
 - [shellcodeloader-Windows平台的shellcode免杀加载器](https://github.com/knownsec/shellcodeloader)
+- [FourEye-重明-又一款基于python开发的对shellcode和exe文件免杀的工具](https://github.com/lengjibo/FourEye)
 - [Invoke-CustomKatz.ps1-bypass AMSI 的Mimikatz PS脚本](./tools/Invoke-CustomKatz.ps1)-[原文地址](https://s3cur3th1ssh1t.github.io/Bypass-AMSI-by-manual-modification-part-II/)-[原gits链接](https://gist.github.com/S3cur3Th1sSh1t/b33b978ea62a4b0f6ef545f1378512a6)
 - [SimpleShellcodeInjector-shellcode加载器](https://github.com/DimopoulosElias/SimpleShellcodeInjector)
 - [Arsenal-Cobalt Strike直接生成payload插件免杀360和火绒](https://github.com/Cliov/Arsenal)
@@ -549,6 +550,7 @@
 - [AKtools-Java版的aliyun-accesskey-Tools](https://github.com/Moon3r/AKtools)-[aliyun-accesskey-Tools-此工具用于查询ALIYUN_ACCESSKEY的主机，并且远程执行命令](https://github.com/mrknow001/aliyun-accesskey-Tools)
 - [MDAT-一款用于数据库攻击的利用工具，集合了多种主流的数据库类型](https://github.com/SafeGroceryStore/MDAT)
 - [sqlmap-gtk-sqlmap的GUI界面实现](https://github.com/needle-wang/sqlmap-gtk)
+- [Web-Fuzzing-Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞](https://github.com/gh0stkey/Web-Fuzzing-Box)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
