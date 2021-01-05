@@ -553,6 +553,7 @@
 - [Viper-msf（metasploit-framework）图形界面](https://github.com/FunnyWolf/Viper)
 - [Web-Fuzzing-Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞](https://github.com/gh0stkey/Web-Fuzzing-Box)
 - [emp3r0r-Linux后渗透框架](https://github.com/jm33-m0/emp3r0r)
+- [dnstunnel-一款多会话的二进制DNS隧道远控](https://github.com/bigBestWay/dnstunnel)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
