@@ -551,6 +551,7 @@
 - [MDAT-一款用于数据库攻击的利用工具，集合了多种主流的数据库类型](https://github.com/SafeGroceryStore/MDAT)
 - [sqlmap-gtk-sqlmap的GUI界面实现](https://github.com/needle-wang/sqlmap-gtk)
 - [Web-Fuzzing-Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞](https://github.com/gh0stkey/Web-Fuzzing-Box)
+- [emp3r0r-Linux后渗透框架](https://github.com/jm33-m0/emp3r0r)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
