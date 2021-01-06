@@ -761,6 +761,7 @@
 -  [Kerberos相关攻击技巧(较全)](./books/Kerberos相关攻击技巧(较全)%20.pdf)-[原文地址](https://xz.aliyun.com/t/8690)
 -  [Intranet_Penetration_Tips-内网渗透TIPS](https://github.com/Ridter/Intranet_Penetration_Tips)
 -  [TimelineSec-2020年漏洞复现大全](https://github.com/TimelineSec/2020-Vulnerabilities)
+-  [Kerberos协议到票据伪造](./books/Kerberos协议到票据伪造.pdf)-[原文地址](https://www.zjun.info/2020/kerberos.html)
 
 
 ## <span id="head9"> 说明</span>
