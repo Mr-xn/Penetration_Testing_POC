@@ -557,6 +557,7 @@
 - [dnstunnel-一款多会话的二进制DNS隧道远控](https://github.com/bigBestWay/dnstunnel)
 - [CVE-2020-17519-Apache Flink 目录遍历漏洞批量检测](https://github.com/B1anda0/CVE-2020-17519)
 - [Internal-Monologue-通过 SSPI 调⽤ NTLM 身份验证，通过协商使⽤预定义 challenge 降级为 NetNTLMv1，获取到 NetNTLMv1 hash](https://github.com/eladshamir/Internal-Monologue)
+- [domainTools-内网域渗透小工具](https://github.com/SkewwG/domainTools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -765,7 +766,7 @@
 -  [TimelineSec-2020年漏洞复现大全](https://github.com/TimelineSec/2020-Vulnerabilities)
 -  [Kerberos协议到票据伪造](./books/Kerberos协议到票据伪造.pdf)-[原文地址](https://www.zjun.info/2020/kerberos.html)
 -  [抓取HASH的10001种方法](./books/抓取HASH的10001种方法.pdf)-[原文地址](https://mp.weixin.qq.com/s/6mwms9LtLE6cK0ukpoSMmg)
--  [C#免杀之自实现DNS服务器传输shellcode](./books/C#免杀之自实现DNS服务器传输shellcode.pdf)
+-  [C#免杀之自实现DNS服务器传输shellcode](./books/C#免杀之自实现DNS服务器传输shellcode.pdf)-[原文地址](https://xz.aliyun.com/t/8921)
 
 
 ## <span id="head9"> 说明</span>
