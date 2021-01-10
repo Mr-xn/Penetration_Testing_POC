@@ -558,6 +558,7 @@
 - [CVE-2020-17519-Apache Flink 目录遍历漏洞批量检测](https://github.com/B1anda0/CVE-2020-17519)
 - [Internal-Monologue-通过 SSPI 调⽤ NTLM 身份验证，通过协商使⽤预定义 challenge 降级为 NetNTLMv1，获取到 NetNTLMv1 hash](https://github.com/eladshamir/Internal-Monologue)
 - [domainTools-内网域渗透小工具](https://github.com/SkewwG/domainTools)
+- [HackTools(如当)-红队浏览器插件](https://github.com/s7ckTeam/HackTools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
