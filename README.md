@@ -559,6 +559,7 @@
 - [Internal-Monologue-通过 SSPI 调⽤ NTLM 身份验证，通过协商使⽤预定义 challenge 降级为 NetNTLMv1，获取到 NetNTLMv1 hash](https://github.com/eladshamir/Internal-Monologue)
 - [domainTools-内网域渗透小工具](https://github.com/SkewwG/domainTools)
 - [HackTools(如当)-红队浏览器插件](https://github.com/s7ckTeam/HackTools)
+- [CVE-2020-36179-Jackson-databind SSRF&RCE](https://github.com/Al1ex/CVE-2020-36179)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
