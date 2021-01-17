@@ -560,6 +560,7 @@
 - [domainTools-内网域渗透小工具](https://github.com/SkewwG/domainTools)
 - [HackTools(如当)-红队浏览器插件](https://github.com/s7ckTeam/HackTools)
 - [CVE-2020-36179-Jackson-databind SSRF&RCE](https://github.com/Al1ex/CVE-2020-36179)
+- [leaky-paths-一份有关major web CVEs, known juicy APIs, misconfigurations这类的特别应用路径字典收集](https://github.com/ayoubfathi/leaky-paths)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
