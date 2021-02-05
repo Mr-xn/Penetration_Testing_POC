@@ -779,7 +779,7 @@
 -  [exp-hub-漏洞复现、批量脚本](https://github.com/ybdt/exp-hub)
 -  [sign-逆向app的sign等参数的思路和体验, 安卓逆向, 安卓破解, 逆向app,爬虫解密](https://github.com/darbra/sign)
 -  [Report_Public-DVPNET 公开漏洞知识库](https://github.com/DVPNET/Report_Public)
--  [DolphinPHP 1.4.2（_1.4.5）后台 GetShell](./books/DolphinPHP%201.4.2（_1.4.5）后台%20GetShell.pdf)
+-  [DolphinPHP 1.4.2（_1.4.5）后台 GetShell](./books/DolphinPHP%201.4.2（_1.4.5）后台%20GetShell.pdf)-[原文地址](https://www.t00ls.net/thread-59636-1-1.html)
 
 
 ## <span id="head9"> 说明</span>
