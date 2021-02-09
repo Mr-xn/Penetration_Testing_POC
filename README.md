@@ -567,6 +567,7 @@
 - [leaky-paths-一份有关major web CVEs, known juicy APIs, misconfigurations这类的特别应用路径字典收集](https://github.com/ayoubfathi/leaky-paths)
 - [QuJing(曲境)-曲境是一个xposed模块，可实现在PC浏览器上动态监控（hook）函数调用和查看堆栈信息，及反射调用（invoke）等功能](https://github.com/Mocha-L/QuJing)
 - [r0tracer-安卓Java层多功能追踪脚本](https://github.com/r0ysue/r0tracer)
+- [TFirewall-防火墙出网探测工具,内网穿透型socks5代理](https://github.com/FunnyWolf/TFirewall)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
