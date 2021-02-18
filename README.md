@@ -392,6 +392,7 @@
 - [通过phpinfo获取cookie突破httponly](./通过phpinfo获取cookie突破httponly.md)
 - [phpstudy RCE 利用工具 windows GUI版本](https://github.com/aimorc/phpstudyrce)
 - [WebAliveScan-根据端口快速扫描存活的WEB](https://github.com/broken5/WebAliveScan)
+- [bscan-bscan的是一款强大、简单、实用、高效的HTTP扫描器。（WebAliveScan的升级版本）](https://github.com/broken5/bscan)
 - [扫描可写目录.aspx](./tools/扫描可写目录.aspx)
 - [PC客户端（C-S架构）渗透测试](https://github.com/theLSA/CS-checklist)
 - [wsltools-web扫描辅助python库](https://github.com/Symbo1/wsltools)
