@@ -193,6 +193,7 @@
 - [cve-2019-17558-apache solr velocity 注入远程命令执行漏洞 ](https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool)
 - [Weblogic Server（CVE-2021-2109 ）远程代码执行漏洞](./books/Weblogic%20Server（CVE-2021-2109%20）远程代码执行漏洞复现.pdf)-[原文地址](https://mp.weixin.qq.com/s/kEi1s3Ki-h7jjdO7gyDsaw)
 - [辰光PHP客服系统源码3.6 前台 getshell-0day](./books/辰光PHP客服系统源码3.620%前台20%getshell-0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/jWqhZYXuBQ2kfpvnWsfeXA)
+- [zzzcms(asp)前台Getshell](./zzzcms(asp)前台Getshell.md)
 
 ## <span id="head5"> 提权辅助相关</span>
 
