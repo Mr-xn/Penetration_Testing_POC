@@ -572,6 +572,7 @@
 - [r0tracer-安卓Java层多功能追踪脚本](https://github.com/r0ysue/r0tracer)
 - [TFirewall-防火墙出网探测工具,内网穿透型socks5代理](https://github.com/FunnyWolf/TFirewall)
 - [`Cooolis-ms`是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。](https://github.com/Rvn0xsy/Cooolis-ms)
+- [GScan-为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源](https://github.com/grayddq/GScan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
