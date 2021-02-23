@@ -195,6 +195,7 @@
 - [辰光PHP客服系统源码3.6 前台 getshell-0day](./books/辰光PHP客服系统源码3.620%前台20%getshell-0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/jWqhZYXuBQ2kfpvnWsfeXA)
 - [zzzcms(asp)前台Getshell](./zzzcms(asp)前台Getshell.md)
 - [wjdhcms前台Getshell(条件竞争)](./books/wjdhcms前台Getshell(条件竞争).pdf)-[原文地址](https://www.t00ls.net/articles-59727.html)
+- [glpi_cve-2020-11060](https://github.com/zeromirror/cve_2020-11060)-[相关文章](https://xz.aliyun.com/t/9144)
 
 ## <span id="head5"> 提权辅助相关</span>
 
