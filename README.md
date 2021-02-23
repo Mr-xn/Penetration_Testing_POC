@@ -34,6 +34,7 @@
 - [79款 Netgear 路由器遭远程接管0day](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2020.06.15-netgear/exploit.py)
 - [dlink-dir610-exploits-Exploits for CVE-2020-9376 and CVE-2020-9377](https://github.com/renatoalencar/dlink-dir610-exploits)
 - [wacker：一组脚本，可辅助对WPA3接入点执行在线词典攻击](https://github.com/blunderbuss-wctf/wacker)
+- [CVE-2020-24581 D-Link DSL-2888A 远程命令执行漏洞分析](./books/CVE-2020-24581%20D-Link%20DSL-2888A%20远程命令执行漏洞分析.pdf)-[原地址](https://www.anquanke.com/post/id/229323)
 
 ## <span id="head4">Web APP</span>
 
