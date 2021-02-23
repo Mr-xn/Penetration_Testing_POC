@@ -793,7 +793,8 @@
 -  [DolphinPHP 1.4.2（_1.4.5）后台 GetShell](./books/DolphinPHP%201.4.2（_1.4.5）后台%20GetShell.pdf)-[原文地址](https://www.t00ls.net/thread-59636-1-1.html)
 -  [使用ICMP传递shellcode](./books/使用ICMP传递shellcode.pdf)-[原文地址](https://blog.romanrii.com/using-icmp-to-deliver-shellcode)
 -  [红队技巧：绕过ESET_NOD32抓取密码](./books/红队技巧：绕过ESET_NOD32抓取密码.pdf)-[原文地址](https://mp.weixin.qq.com/s/FaiNEUX2wcscotkyAqUO2Q)
--  [路由器无限重启救砖之旅](./books/路由器无限重启救砖之旅.pdf)
+-  [路由器无限重启救砖之旅](./books/路由器无限重启救砖之旅.pdf)-[原文地址](https://www.anquanke.com/post/id/231493)
+-  [内网渗透测试：MySql的利用与提权思路总结](./books/内网渗透测试：MySql的利用与提权思路总结.pdf)-[原文地址](https://www.freebuf.com/articles/network/261917.html)
 
 
 ## <span id="head9"> 说明</span>
