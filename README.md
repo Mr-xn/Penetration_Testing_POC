@@ -274,7 +274,7 @@
 - [CVE-2020-1337-exploit-Windows 7/8/10上Print Spooler组件漏洞修复后的绕过](https://github.com/math1as/CVE-2020-1337-exploit/)|[cve-2020-1337-poc](https://github.com/sailay1996/cve-2020-1337-poc)
 - [CVE-2020-1472: NetLogon特权提升漏洞（接管域控制器）](https://github.com/VoidSec/CVE-2020-1472)|[CVE-2020-1472 .NET版本的，可以编译成独立EXE文件，可以尝试webshell执行](https://github.com/nccgroup/nccfsas/tree/main/Tools/SharpZeroLogon/SharpZeroLogon)|[同类型脚本](https://github.com/SecuraBV/CVE-2020-1472)|[同类型脚本二](https://github.com/dirkjanm/CVE-2020-1472)|[同类型脚本三](https://github.com/risksense/zerologon)|[同类型脚本4](https://github.com/bb00/zer0dump)
 - [awesome-browser-exploit-浏览器漏洞集合](https://github.com/Escapingbug/awesome-browser-exploit)
-- [【Linux提权】CVE-2021-3156-SUDO缓冲区溢出漏洞](https://github.com/mr-r3b00t/CVE-2021-3156)
+- [【Linux提权】CVE-2021-3156-SUDO缓冲区溢出漏洞](https://github.com/blasty/CVE-2021-3156)
 
 
 ## <span id="head7"> tools-小工具集版本合</span>
@@ -793,6 +793,7 @@
 -  [DolphinPHP 1.4.2（_1.4.5）后台 GetShell](./books/DolphinPHP%201.4.2（_1.4.5）后台%20GetShell.pdf)-[原文地址](https://www.t00ls.net/thread-59636-1-1.html)
 -  [使用ICMP传递shellcode](./books/使用ICMP传递shellcode.pdf)-[原文地址](https://blog.romanrii.com/using-icmp-to-deliver-shellcode)
 -  [红队技巧：绕过ESET_NOD32抓取密码](./books/红队技巧：绕过ESET_NOD32抓取密码.pdf)-[原文地址](https://mp.weixin.qq.com/s/FaiNEUX2wcscotkyAqUO2Q)
+-  [路由器无限重启救砖之旅](./books/路由器无限重启救砖之旅.pdf)
 
 
 ## <span id="head9"> 说明</span>
