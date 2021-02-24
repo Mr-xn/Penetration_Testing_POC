@@ -275,6 +275,7 @@
 - [CVE-2020-1472: NetLogon特权提升漏洞（接管域控制器）](https://github.com/VoidSec/CVE-2020-1472)|[CVE-2020-1472 .NET版本的，可以编译成独立EXE文件，可以尝试webshell执行](https://github.com/nccgroup/nccfsas/tree/main/Tools/SharpZeroLogon/SharpZeroLogon)|[同类型脚本](https://github.com/SecuraBV/CVE-2020-1472)|[同类型脚本二](https://github.com/dirkjanm/CVE-2020-1472)|[同类型脚本三](https://github.com/risksense/zerologon)|[同类型脚本4](https://github.com/bb00/zer0dump)
 - [awesome-browser-exploit-浏览器漏洞集合](https://github.com/Escapingbug/awesome-browser-exploit)
 - [【Linux提权】CVE-2021-3156-SUDO缓冲区溢出漏洞](https://github.com/blasty/CVE-2021-3156)
+- [CVE-2021-21972-vCenter-6.5-7.0-RCE-POC](https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC)
 
 
 ## <span id="head7"> tools-小工具集版本合</span>
@@ -577,6 +578,7 @@
 - [`Cooolis-ms`是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。](https://github.com/Rvn0xsy/Cooolis-ms)
 - [GScan-为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源](https://github.com/grayddq/GScan)
 - [Kscan-一款轻量级的资产发现工具，可针对IP/IP段或资产列表进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息](https://github.com/lcvvvv/kscan)
+- [【字典】Dictionary-Of-Pentesting-认证类、文件路径类、端口类、域名类、无线类、正则类](https://github.com/insightglacier/Dictionary-Of-Pentesting)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
