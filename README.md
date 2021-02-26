@@ -579,6 +579,7 @@
 - [GScan-为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源](https://github.com/grayddq/GScan)
 - [Kscan-一款轻量级的资产发现工具，可针对IP/IP段或资产列表进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息](https://github.com/lcvvvv/kscan)
 - [【字典】Dictionary-Of-Pentesting-认证类、文件路径类、端口类、域名类、无线类、正则类](https://github.com/insightglacier/Dictionary-Of-Pentesting)
+- [【免杀框架】*Veil*-Evasion是一个用python写的*免杀*框架](https://github.com/Veil-Framework/Veil)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
