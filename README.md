@@ -582,6 +582,7 @@
 - [【字典】Dictionary-Of-Pentesting-认证类、文件路径类、端口类、域名类、无线类、正则类](https://github.com/insightglacier/Dictionary-Of-Pentesting)
 - [【免杀框架】*Veil*-Evasion是一个用python写的*免杀*框架](https://github.com/Veil-Framework/Veil)
 - [Shellcoding-shellcode生成+shellcode混淆](https://github.com/Mr-Un1k0d3r/Shellcoding)
+- [【免杀】bypassAV-条件触发式远控](https://github.com/pureqh/bypassAV)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
