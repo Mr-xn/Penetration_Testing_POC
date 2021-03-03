@@ -583,6 +583,7 @@
 - [【免杀框架】*Veil*-Evasion是一个用python写的*免杀*框架](https://github.com/Veil-Framework/Veil)
 - [Shellcoding-shellcode生成+shellcode混淆](https://github.com/Mr-Un1k0d3r/Shellcoding)
 - [【免杀】bypassAV-条件触发式远控](https://github.com/pureqh/bypassAV)
+- [SystemToken-通过遍历所有进程来寻找一个以SYSTEM权限运行且所有者为 Administrators的进程后，以当前token新启一个SYSTEM权限的shell](https://github.com/yusufqk/SystemToken)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
