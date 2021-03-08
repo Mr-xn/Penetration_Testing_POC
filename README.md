@@ -587,6 +587,7 @@
 - [SystemToken-通过遍历所有进程来寻找一个以SYSTEM权限运行且所有者为 Administrators的进程后，以当前token新启一个SYSTEM权限的shell](https://github.com/yusufqk/SystemToken)
 - [通达OA综合利用工具_圈子社区专版](./tools/通达OA综合利用工具_圈子社区专版.jar)
 - [IoT-vulhub-IoT 固件漏洞复现环境](https://github.com/firmianay/IoT-vulhub)
+- [RedisWriteFile-通过 Redis 主从写出无损文件](https://github.com/r35tart/RedisWriteFile)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
