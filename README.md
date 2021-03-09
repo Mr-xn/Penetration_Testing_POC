@@ -590,6 +590,7 @@
 - [通达OA综合利用工具_圈子社区专版](./tools/通达OA综合利用工具_圈子社区专版.jar)
 - [IoT-vulhub-IoT 固件漏洞复现环境](https://github.com/firmianay/IoT-vulhub)
 - [RedisWriteFile-通过 Redis 主从写出无损文件](https://github.com/r35tart/RedisWriteFile)
+- [AWVS-13-SCAN-PLUS_一个基于Acunetix Web Vulnerability Scanner 13 （AWVS13）扫描引擎的辅助软件](https://github.com/x364e3ab6/AWVS-13-SCAN-PLUS)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
