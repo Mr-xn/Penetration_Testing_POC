@@ -809,6 +809,7 @@
 -  [路由器无限重启救砖之旅](./books/路由器无限重启救砖之旅.pdf)-[原文地址](https://www.anquanke.com/post/id/231493)
 -  [内网渗透测试：MySql的利用与提权思路总结](./books/内网渗透测试：MySql的利用与提权思路总结.pdf)-[原文地址](https://www.freebuf.com/articles/network/261917.html)
 -  [Windows后渗透之权限维持](./books/Windows后渗透之权限维持.pdf)-[原文地址](https://mp.weixin.qq.com/s/Yte_h5Ov_Atz_GHf7rcsIA)
+-  [hackerone-reports_有关hackerone上漏洞奖励前茅的地址，便于学习](https://github.com/reddelexc/hackerone-reports)
 
 
 ## <span id="head9"> 说明</span>
