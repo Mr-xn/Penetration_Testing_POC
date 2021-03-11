@@ -820,6 +820,7 @@
 -  [GetShell的姿势总结](./books/GetShell的姿势总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/LHWZLGW8SohoMDTDhk_cdA)
 -  [SharPyShell后渗透框架使用详解](./books/SharPyShell后渗透框架使用详解.pdf)-[原文地址](https://mp.weixin.qq.com/s/22DUmZUhrMLkAlUP5Sj6EQ)
 -  [向日葵软件在渗透测试中的应用](./books/向日葵软件在渗透测试中的应用.pdf)-[原文地址](https://mp.weixin.qq.com/s/5qzYynZI0bdaUnld0GhA4Q)
+-  [Exchange攻击链 CVE-2021-26855&CVE-2021-27065分析](./books/Exchange攻击链%20CVE-2021-26855&CVE-2021-27065分析.pdf)-[原文地址](https://paper.seebug.org/1501/)
 
 
 ## <span id="head9"> 说明</span>
