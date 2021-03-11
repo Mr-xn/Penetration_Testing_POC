@@ -716,6 +716,7 @@
 - [bolt_cms_V3.7.0_xss和远程代码执行漏洞](./books/bolt_cms_V3.7.0_xss和远程代码执行漏洞.pdf)
 - [关于Cobalt_Strike检测方法与去特征的思考](./books/关于Cobalt_Strike检测方法与去特征的思考.pdf)
 - [代码审计_PHPCMS_V9前台RCE挖掘分析](./books/代码审计_PHPCMS_V9前台RCE挖掘分析.pdf)
+- [PHPCMS_V9.2任意文件上传getshell漏洞分析](./books/PHPCMS_V9.2任意文件上传getshell漏洞分析.pdf)
 - [【免杀】C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)|[原文地址](https://mp.weixin.qq.com/s/0OB0yQAiOfsU4JqkCDUi7w)
 - [利用图片隐写术来远程动态加载shellcode](./books/利用图片隐写术来远程动态加载shellcode.pdf)|[原文地址](https://mp.weixin.qq.com/s/QZ5YlRZN47zne7vCzvUpJw)
 - [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
