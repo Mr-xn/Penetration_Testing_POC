@@ -817,7 +817,8 @@
 -  [Windows后渗透之权限维持](./books/Windows后渗透之权限维持.pdf)-[原文地址](https://mp.weixin.qq.com/s/Yte_h5Ov_Atz_GHf7rcsIA)
 -  [hackerone-reports_有关hackerone上漏洞奖励前茅的地址，便于学习](https://github.com/reddelexc/hackerone-reports)
 -  [redteam_vul-红队作战中比较常遇到的一些重点系统漏洞整理](https://github.com/r0eXpeR/redteam_vul)
--  [GetShell的姿势总结](./books/GetShell的姿势总结.pdf)
+-  [GetShell的姿势总结](./books/GetShell的姿势总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/LHWZLGW8SohoMDTDhk_cdA)
+-  [SharPyShell后渗透框架使用详解](./books/SharPyShell后渗透框架使用详解.pdf)-[原文地址](https://mp.weixin.qq.com/s/22DUmZUhrMLkAlUP5Sj6EQ)
 
 
 ## <span id="head9"> 说明</span>
