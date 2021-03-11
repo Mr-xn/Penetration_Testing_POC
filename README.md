@@ -199,6 +199,7 @@
 - [wjdhcms前台Getshell(条件竞争)](./books/wjdhcms前台Getshell(条件竞争).pdf)-[原文地址](https://www.t00ls.net/articles-59727.html)
 - [glpi_cve-2020-11060](https://github.com/zeromirror/cve_2020-11060)-[相关文章](https://xz.aliyun.com/t/9144)
 - [CVE-2021-21315-PoC-Node.js组件systeminformation代码注入漏洞](https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC)
+- [CVE-2021-23132-Joomla! 目录遍历导致 RCE 漏洞EXP](https://github.com/HoangKien1020/CVE-2021-23132)|[复现文章](./books/Joomla!%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E5%AF%BC%E8%87%B4RCE%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%EF%BC%88CVE-2021-23132%EF%BC%89.pdf)-[原文链接](https://mp.weixin.qq.com/s/rRTCG4Q2X310KoqZNvpuPA)
 
 ## <span id="head5"> 提权辅助相关</span>
 
