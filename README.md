@@ -716,7 +716,7 @@
 - [bolt_cms_V3.7.0_xss和远程代码执行漏洞](./books/bolt_cms_V3.7.0_xss和远程代码执行漏洞.pdf)
 - [关于Cobalt_Strike检测方法与去特征的思考](./books/关于Cobalt_Strike检测方法与去特征的思考.pdf)
 - [代码审计_PHPCMS_V9前台RCE挖掘分析](./books/代码审计_PHPCMS_V9前台RCE挖掘分析.pdf)
-- [PHPCMS_V9.2任意文件上传getshell漏洞分析](./books/PHPCMS_V9.2任意文件上传getshell漏洞分析.pdf)
+- [PHPCMS_V9.2任意文件上传getshell漏洞分析](./books/PHPCMS_V9.2任意文件上传getshell漏洞分析.pdf)-[原文地址](https://mp.weixin.qq.com/s/o_u_mFjFIq3hKgSvVFGcRg)
 - [【免杀】C++免杀项目推荐](./books/C++免杀项目推荐.pdf)-[附件下载](./tools/RefacterC.zip)|[原文地址](https://mp.weixin.qq.com/s/0OB0yQAiOfsU4JqkCDUi7w)
 - [利用图片隐写术来远程动态加载shellcode](./books/利用图片隐写术来远程动态加载shellcode.pdf)|[原文地址](https://mp.weixin.qq.com/s/QZ5YlRZN47zne7vCzvUpJw)
 - [[后渗透]Mimikatz使用大全](./books/[后渗透]Mimikatz使用大全.pdf)|[原文地址](https://www.cnblogs.com/-mo-/p/11890232.html)
@@ -817,6 +817,7 @@
 -  [Windows后渗透之权限维持](./books/Windows后渗透之权限维持.pdf)-[原文地址](https://mp.weixin.qq.com/s/Yte_h5Ov_Atz_GHf7rcsIA)
 -  [hackerone-reports_有关hackerone上漏洞奖励前茅的地址，便于学习](https://github.com/reddelexc/hackerone-reports)
 -  [redteam_vul-红队作战中比较常遇到的一些重点系统漏洞整理](https://github.com/r0eXpeR/redteam_vul)
+-  [GetShell的姿势总结](./books/GetShell的姿势总结.pdf)
 
 
 ## <span id="head9"> 说明</span>
