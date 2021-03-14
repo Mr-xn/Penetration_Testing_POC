@@ -597,6 +597,7 @@
 - [CSS-Exchange_微软自家出品的Exchange server检查工具](https://github.com/microsoft/CSS-Exchange)
 - [frpModify-修改frp支持域前置与配置文件自删除](https://github.com/uknowsec/frpModify)
 - [Vulfocus-一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用](https://github.com/fofapro/vulfocus)
+- [vulnReport-安服自动化脚本：包括 Nessus、天境主机漏洞扫描6.0、APPscan、awvs等漏洞报告的整理，Google翻译等](https://github.com/wysec2020/vulnReport)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
