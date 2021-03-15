@@ -827,6 +827,7 @@
 -  [向日葵软件在渗透测试中的应用](./books/向日葵软件在渗透测试中的应用.pdf)-[原文地址](https://mp.weixin.qq.com/s/5qzYynZI0bdaUnld0GhA4Q)
 -  [Exchange攻击链 CVE-2021-26855&CVE-2021-27065分析](./books/Exchange攻击链%20CVE-2021-26855&CVE-2021-27065分析.pdf)-[原文地址](https://paper.seebug.org/1501/)
 -  [【.Net代码审计】-.Net反序列化文章](https://github.com/Ivan1ee/NET-Deserialize)
+-  [记一次利用mssql上线(关键词：绕过360，远程下载)](./books/记一次利用mssql上线.pdf)
 
 
 ## <span id="head9"> 说明</span>
