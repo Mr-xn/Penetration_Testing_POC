@@ -594,6 +594,7 @@
 - [myscan-又一款被动扫描工具](https://github.com/amcai/myscan)
 - [360SafeBrowsergetpass-一键辅助抓取360安全浏览器密码的Cobalt Strike脚本](https://github.com/hayasec/360SafeBrowsergetpass)
 - [BrowserView-还原浏览器（支持国产主流浏览器）密码/历史记录/收藏夹/cookie](./tools/BrowserView.exe)-[原地址](http://www.liulanqicode.com/browserview.htm)
+- [HackBrowserData-是一个解密浏览器数据（密码|历史记录|Cookie|书签 | 信用卡 | 下载记录）的导出工具，支持全平台主流浏览器](https://github.com/moonD4rk/HackBrowserData)
 - [OffensiveNim-简称Nim的跨平台shellcode加载执行器](https://github.com/byt3bl33d3r/OffensiveNim)
 - [gshark-GitHub敏感信息扫描收集管理工具](https://github.com/madneal/gshark)
 - [domainNamePredictor-一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
@@ -643,6 +644,7 @@
 - [.NETWebShell-动态编译实现任意命令执行，Windows Defender 免杀](https://github.com/Ivan1ee/.NETWebShell)
 - [NetDLLSpy-.NET后渗透下的权限维持，附下载DLL](https://github.com/Ivan1ee/NetDLLSpy)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
+- 
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
