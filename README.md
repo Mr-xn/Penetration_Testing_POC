@@ -243,44 +243,85 @@
 ## <span id="head6"> PC</span>
 
 - [ 微软RDP远程代码执行漏洞（CVE-2019-0708）](./BlueKeep)-[CVE-2019-0708-EXP-Windows-CVE-2019-0708-EXP-Windows版单文件exe版,运行后直接在当前控制台反弹System权限Shell](https://github.com/cbwang505/CVE-2019-0708-EXP-Windows)
+
 - [CVE-2019-0708-python版](./BlueKeep/bluekeep-CVE-2019-0708-python)
+
 - [MS17-010-微软永恒之蓝漏洞](https://github.com/Mr-xn/MS17-010)
+
 - [macOS-Kernel-Exploit](./macOS-Kernel-Exploit)
+
 - [CVE-2019-1388 UAC提权 (nt authority\system)](https://github.com/jas502n/CVE-2019-1388)
+
 - [CVE-2019-1405和CVE-2019-1322：通过组合漏洞进行权限提升 Microsoft Windows 10 Build 1803 < 1903 - 'COMahawk' Local Privilege Escalation](https://github.com/apt69/COMahawk)
+
 - [CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708)
+
 - [Telegram(macOS v4.9.155353) 代码执行漏洞](https://github.com/Metnew/telegram-links-nsworkspace-open)
+
 - [Remote Desktop Gateway RCE bugs CVE-2020-0609 & CVE-2020-0610](https://www.kryptoslogic.com/blog/2020/01/rdp-to-rce-when-fragmentation-goes-wrong/)
+
 - [Microsoft SharePoint - Deserialization Remote Code Execution](https://github.com/Voulnet/desharialize/blob/master/desharialize.py)
+
 - [CVE-2020-0728-Windows Modules Installer Service 信息泄露漏洞](https://github.com/irsl/CVE-2020-0728/)
+
 - [CVE-2020-0618: 微软 SQL Server Reporting Services远程代码执行（RCE）漏洞](https://www.mdsec.co.uk/2020/02/cve-2020-0618-rce-in-sql-server-reporting-services-ssrs/)|[GitHub验证POC(其实前文的分析文章也有)](https://github.com/euphrat1ca/CVE-2020-0618)
+
 - [CVE-2020-0767Microsoft ChakraCore脚本引擎【Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分】安全漏洞](https://github.com/phoenhex/files/blob/master/pocs/cve-2020-0767.js)
+
 - [CVE-2020-0688：微软EXCHANGE服务的远程代码执行漏洞](https://github.com/random-robbie/cve-2020-0688)|[CVE-2020-0688_EXP---另一个漏洞检测利用脚本](https://github.com/Yt1g3r/CVE-2020-0688_EXP)|[又一个cve-2020-0688利用脚本](https://github.com/Ridter/cve-2020-0688)|[Exploit and detect tools for CVE-2020-0688](https://github.com/zcgonvh/CVE-2020-0688)
+
 - [CVE-2020-0674: Internet Explorer远程代码执行漏洞检测](https://github.com/binaryfigments/CVE-2020-0674)
+
 - [CVE-2020-8794: OpenSMTPD 远程命令执行漏洞](./CVE-2020-8794-OpenSMTPD%20远程命令执行漏洞.md)
+
 - [Linux平台-CVE-2020-8597: PPPD 远程代码执行漏洞](https://github.com/marcinguy/CVE-2020-8597)
+
 - [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)|[CVE-2020–0796检测与修复](CVE-2020-0796检测与修复.md)|[又一个CVE-2020-0796的检测工具-可导致目标系统崩溃重启](https://github.com/eerykitty/CVE-2020-0796-PoC)
+
 - [SMBGhost_RCE_PoC（CVE-2020-0796）](https://github.com/chompie1337/SMBGhost_RCE_PoC)
+
 - [WinRAR 代码执行漏洞 (CVE-2018-20250)-POC](https://github.com/Ridter/acefile)|[相关文章](https://research.checkpoint.com/2019/extracting-code-execution-from-winrar/)|[全网筛查 WinRAR 代码执行漏洞 (CVE-2018-20250)](https://xlab.tencent.com/cn/2019/02/22/investigating-winrar-code-execution-vulnerability-cve-2018-20250-at-internet-scale/)
+
 - [windows10相关漏洞EXP&POC](https://github.com/nu11secur1ty/Windows10Exploits)
+
 - [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
+
 - [CVE-2019-1458-Win32k中的特权提升漏洞【shell可用-Windows提取】](https://github.com/unamer/CVE-2019-1458)
+
 - [CVE-2019-1253-Windows权限提升漏洞-AppXSvc任意文件安全描述符覆盖EoP的另一种poc](https://github.com/sgabe/CVE-2019-1253)|[CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253)
+
 - [BypassAV【免杀】Cobalt Strike插件，用于快速生成免杀的可执行文件](https://github.com/hack2fun/BypassAV)
+
 - [CS-Loader-cobalt strike免杀生成](https://github.com/Gality369/CS-Loader)
+
 - [CVE-2020-0674：Internet Explorer UAF 漏洞exp【在64位的win7测试了IE 8, 9, 10, and 11】](https://github.com/maxpl0it/CVE-2020-0674-Exploit)
+
 - [SMBGhost_AutomateExploitation-SMBGhost (CVE-2020-0796) Automate Exploitation and Detection](https://github.com/Barriuso/SMBGhost_AutomateExploitation)
+
 - [MS Windows OLE 远程代码执行漏洞(CVE-2020-1281)](https://github.com/guhe120/Windows-EoP/tree/master/CVE-2020-1281)
+
 - [CVE-2020-1350-Windows的DNS服务器RCE检测的powershell脚本](https://github.com/T13nn3s/CVE-2020-1350)|[CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS)
+
 - [CVE-2020-1362-Microsoft Windows WalletService权限提升漏洞](https://github.com/Q4n/CVE-2020-1362)
+
 - [CVE-2020-10713-GRUB2 本地代码执行漏洞](https://github.com/eclypsium/BootHole)
+
 - [CVE-2020-1313-Microsoft Windows Update Orchestrator Service权限提升漏洞，可用于Windows提权操作，支持新版的Windows server 2004](https://github.com/irsl/CVE-2020-1313)
+
 - [CVE-2020-1337-exploit-Windows 7/8/10上Print Spooler组件漏洞修复后的绕过](https://github.com/math1as/CVE-2020-1337-exploit/)|[cve-2020-1337-poc](https://github.com/sailay1996/cve-2020-1337-poc)
+
 - [CVE-2020-1472: NetLogon特权提升漏洞（接管域控制器）](https://github.com/VoidSec/CVE-2020-1472)|[CVE-2020-1472 .NET版本的，可以编译成独立EXE文件，可以尝试webshell执行](https://github.com/nccgroup/nccfsas/tree/main/Tools/SharpZeroLogon/SharpZeroLogon)|[同类型脚本](https://github.com/SecuraBV/CVE-2020-1472)|[同类型脚本二](https://github.com/dirkjanm/CVE-2020-1472)|[同类型脚本三](https://github.com/risksense/zerologon)|[同类型脚本4](https://github.com/bb00/zer0dump)
+
 - [awesome-browser-exploit-浏览器漏洞集合](https://github.com/Escapingbug/awesome-browser-exploit)
+
 - [【Linux提权】CVE-2021-3156-SUDO缓冲区溢出漏洞](https://github.com/blasty/CVE-2021-3156)
+
 - [CVE-2021-21972-任意文件上传](https://github.com/NS-Sp4ce/CVE-2021-21972)|[CVE-2021-21972-vCenter-6.5-7.0-RCE-POC](https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC)|[CVE-2021-21972](https://github.com/yaunsky/CVE-2021-21972)
+
 - [CVE-2021-26855-ssrf通过golang实现，可读取邮件标题，id，FQND以及下载邮件功能](https://github.com/Mr-xn/CVE-2021-26855)|[针对CVE-2021-26855进行利用下载邮件的python脚本](https://github.com/Mr-xn/CVE-2021-26855-d)|[exchange-ssrf-rce-利用SSRF直接获取命令执行权限](https://github.com/jeningogo/exchange-ssrf-rce)
+
+    [exprolog-ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)](https://github.com/herwonowr/exprolog)
+
 - [CVE-2021-21978- VMware View Planner Harness 4.X 未授权任意文件上传至RCE](https://github.com/GreyOrder/CVE-2021-21978)
 
 
