@@ -280,7 +280,7 @@
 - [awesome-browser-exploit-浏览器漏洞集合](https://github.com/Escapingbug/awesome-browser-exploit)
 - [【Linux提权】CVE-2021-3156-SUDO缓冲区溢出漏洞](https://github.com/blasty/CVE-2021-3156)
 - [CVE-2021-21972-任意文件上传](https://github.com/NS-Sp4ce/CVE-2021-21972)|[CVE-2021-21972-vCenter-6.5-7.0-RCE-POC](https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC)|[CVE-2021-21972](https://github.com/yaunsky/CVE-2021-21972)
-- [CVE-2021-26855-ssrf通过golang实现，可读取邮件标题，id，FQND以及下载邮件功能](https://github.com/Mr-xn/CVE-2021-26855)|[针对CVE-2021-26855进行利用下载邮件的python脚本](https://github.com/Mr-xn/CVE-2021-26855-d)
+- [CVE-2021-26855-ssrf通过golang实现，可读取邮件标题，id，FQND以及下载邮件功能](https://github.com/Mr-xn/CVE-2021-26855)|[针对CVE-2021-26855进行利用下载邮件的python脚本](https://github.com/Mr-xn/CVE-2021-26855-d)|[exchange-ssrf-rce-利用SSRF直接获取命令执行权限](https://github.com/jeningogo/exchange-ssrf-rce)
 - [CVE-2021-21978- VMware View Planner Harness 4.X 未授权任意文件上传至RCE](https://github.com/GreyOrder/CVE-2021-21978)
 
 
