@@ -417,6 +417,7 @@
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
 - [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)
+- [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
 - [使用 sshLooterC 抓取 SSH 密码](https://github.com/mthbernardes/sshLooterC)|[相关文章](https://www.ch1ng.com/blog/208.html)|[本地版本](./books/使用sshLooterC抓取SSH密码.pdf)
