@@ -202,7 +202,7 @@
 - [CVE-2021-23132-Joomla! 目录遍历导致 RCE 漏洞EXP](https://github.com/HoangKien1020/CVE-2021-23132)|[复现文章](./books/Joomla!%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E5%AF%BC%E8%87%B4RCE%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%EF%BC%88CVE-2021-23132%EF%BC%89.pdf)-[原文链接](https://mp.weixin.qq.com/s/rRTCG4Q2X310KoqZNvpuPA)
 - [对ShirneCMS的一次审计思路-反序列化getshell](./books/对ShirneCMS的一次审计思路.pdf)-[原文地址](https://mp.weixin.qq.com/s/aps0k7O6BO-UQ0gXbTN3KQ)-[cms地址1](https://gitee.com/shirnecn/ShirneCMS)-[cms地址2](https://github.com/80027505/shirne)
 - [Apache Solr最新版任意文件读取0day](./books/Apache%20Solr最新版任意文件读取0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/HMtAz6_unM1PrjfAzfwCUQ)
-- [KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化)](./books/KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化).pdf)
+- [KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化)](./books/KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化).pdf)|[原文地址](https://mp.weixin.qq.com/s/ETm92MHTNksURjOPNqFgHg)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -876,6 +876,7 @@
 -  [【.Net代码审计】-.Net反序列化文章](https://github.com/Ivan1ee/NET-Deserialize)
 -  [记一次利用mssql上线(关键词：绕过360，远程下载)](./books/记一次利用mssql上线.pdf)
 -  [vuldebug-JAVA 漏洞调试项目，主要为复现、调试java相关的漏洞](https://github.com/0nise/vuldebug)
+-  [【红蓝对抗】SQL Server提权](./books/%E3%80%90%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E3%80%91SQL%20Server%E6%8F%90%E6%9D%83.pdf)-[原文地址](https://mp.weixin.qq.com/s/5LmC_-KK3SMjtxAGG-I4ag)
 
 
 ## <span id="head9"> 说明</span>
