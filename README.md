@@ -326,6 +326,7 @@
 
 - [CVE-2021-21978- VMware View Planner Harness 4.X 未授权任意文件上传至RCE](https://github.com/GreyOrder/CVE-2021-21978)
 
+- [VMware vCenter Server RCE_SSRF[CVE-2021-21972_3]](./books/VMware%20vCenter%20Server%20RCE_SSRF%5BCVE-2021-21972_3%5D.pdf)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
