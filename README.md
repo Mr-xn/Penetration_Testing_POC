@@ -647,7 +647,7 @@
 - [.NETWebShell-动态编译实现任意命令执行，Windows Defender 免杀](https://github.com/Ivan1ee/.NETWebShell)
 - [NetDLLSpy-.NET后渗透下的权限维持，附下载DLL](https://github.com/Ivan1ee/NetDLLSpy)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
-- 
+- [PocList-jar单文件版的各种poc利用工具](https://github.com/Yang0615777/PocList)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
