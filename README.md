@@ -203,6 +203,7 @@
 - [对ShirneCMS的一次审计思路-反序列化getshell](./books/对ShirneCMS的一次审计思路.pdf)-[原文地址](https://mp.weixin.qq.com/s/aps0k7O6BO-UQ0gXbTN3KQ)-[cms地址1](https://gitee.com/shirnecn/ShirneCMS)-[cms地址2](https://github.com/80027505/shirne)
 - [Apache Solr最新版任意文件读取0day](./books/Apache%20Solr最新版任意文件读取0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/HMtAz6_unM1PrjfAzfwCUQ)
 - [KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化)](./books/KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化).pdf)|[原文地址](https://mp.weixin.qq.com/s/ETm92MHTNksURjOPNqFgHg)
+- [CVE-2021-22986-F5 BIG-IP 远程代码执行漏洞EXP](https://github.com/S1xHcL/f5_rce_poc)
 
 ## <span id="head5"> 提权辅助相关</span>
 
