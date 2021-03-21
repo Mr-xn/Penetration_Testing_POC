@@ -879,11 +879,12 @@
 -  [记一次利用mssql上线(关键词：绕过360，远程下载)](./books/记一次利用mssql上线.pdf)
 -  [vuldebug-JAVA 漏洞调试项目，主要为复现、调试java相关的漏洞](https://github.com/0nise/vuldebug)
 -  [【红蓝对抗】SQL Server提权](./books/%E3%80%90%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E3%80%91SQL%20Server%E6%8F%90%E6%9D%83.pdf)-[原文地址](https://mp.weixin.qq.com/s/5LmC_-KK3SMjtxAGG-I4ag)
-
+-  [Apache Solr组件安全概览(历史漏洞集合)](./books/Apache%20Solr组件安全概览.pdf)
 
 ## <span id="head9"> 说明</span>
 
 ### 免责声明
+
 > 1.此项目所有文章、代码部分来源于互联网，版权归原作者所有，转载留存的都会写上原著出处，如有遗漏，还请说明，谢谢！  
 > 2.此项目仅供学习参考使用，严禁用于任何非法行为！使用即代表你同意自负责任！  
 > 3.如果项目中涉及到你的隐私或者需要删除的，请issue留言指名具体文件内容，附上你的证明，或者邮箱联系我，核实后即刻删除。  
