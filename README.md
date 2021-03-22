@@ -204,6 +204,7 @@
 - [Apache Solr最新版任意文件读取0day](./books/Apache%20Solr最新版任意文件读取0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/HMtAz6_unM1PrjfAzfwCUQ)
 - [KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化)](./books/KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化).pdf)|[原文地址](https://mp.weixin.qq.com/s/ETm92MHTNksURjOPNqFgHg)
 - [CVE-2021-22986-F5 BIG-IP 远程代码执行漏洞EXP](https://github.com/S1xHcL/f5_rce_poc)
+- [CNVD-2021-10543：MessageSolution 企业邮件归档管理系统 EEA 存在信息泄露漏洞](https://github.com/Henry4E36/CNVD-2021-10543)
 
 ## <span id="head5"> 提权辅助相关</span>
 
