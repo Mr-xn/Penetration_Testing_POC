@@ -569,6 +569,7 @@
 - [Invoke-CustomKatz.ps1-bypass AMSI 的Mimikatz PS脚本](./tools/Invoke-CustomKatz.ps1)-[原文地址](https://s3cur3th1ssh1t.github.io/Bypass-AMSI-by-manual-modification-part-II/)-[原gits链接](https://gist.github.com/S3cur3Th1sSh1t/b33b978ea62a4b0f6ef545f1378512a6)
 - [SimpleShellcodeInjector-shellcode加载器](https://github.com/DimopoulosElias/SimpleShellcodeInjector)
 - [Arsenal-Cobalt Strike直接生成payload插件免杀360和火绒](https://github.com/Cliov/Arsenal)
+- [ShellCodeFramework-【免杀框架】](https://github.com/mai1zhi2/ShellCodeFramework)
 - [abuse-ssl-bypass-waf-使用不同的ssl加密方式来寻找防火墙不支持但服务器支持的加密方式来绕过waf](https://github.com/LandGrey/abuse-ssl-bypass-waf)
 - [CrossC2 framework - 生成CobaltStrike的跨平台beacon](https://github.com/Mr-xn/CrossC2)
 - [csbruter-爆破Cobalt Strike的服务端密码](https://github.com/ryanohoro/csbruter)
