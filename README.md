@@ -650,6 +650,7 @@
 - [NetDLLSpy-.NET后渗透下的权限维持，附下载DLL](https://github.com/Ivan1ee/NetDLLSpy)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 - [PocList-jar单文件版的各种poc利用工具](https://github.com/Yang0615777/PocList)
+- [Swagger API Exploit-一个 Swagger REST API 信息泄露利用工具](https://github.com/lijiejie/swagger-exp)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
