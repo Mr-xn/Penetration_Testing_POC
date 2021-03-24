@@ -843,6 +843,7 @@
 -  [Mysql注入总结](./books/Mysql注入总结.pdf)-[原文地址](https://mp.weixin.qq.com/s/09VLJjbhKmLZhJdQnvtIvQ)
 -  [ThinkAdmin未授权列目录_任意文件读取(CVE-2020-25540)漏洞复现](./books/ThinkAdmin未授权列目录_任意文件读取(CVE-2020-25540)漏洞复现.pdf)-[原文地址](https://mp.weixin.qq.com/s/ORM_6AXz-4jpg1wn82GrLg)
 -  [【免杀技巧】利用加载器以及Python反序列化绕过AV-打造自动化免杀平台](./books/利用加载器以及Python反序列化绕过AV-打造自动化免杀平台.pdf)-[原文地址](https://mp.weixin.qq.com/s/sd73eL3-TnMm0zWLCC8cOQ)
+-  [bypass-av-note:免杀技术大杂烩---乱拳打死老师傅](https://github.com/Airboi/bypass-av-note)
 -  [Struts2 S2-061漏洞分析(CVE-2020-17530)](./books/Struts2%20S2-061漏洞分析(CVE-2020-17530).pdf)-[原文地址](https://mp.weixin.qq.com/s/RD2HTMn-jFxDIs4-X95u6g)
 -  [CVE-2020-10977-GitLab任意文件读取漏洞复现](./books/CVE-2020-10977-GitLab任意文件读取漏洞复现.pdf)-[原地址](https://mp.weixin.qq.com/s/ZmzXk0C-o0AnBLzVMAhRJg)
 -  [Linux后门N种姿势_fuckadmin](./books/Linux后门N种姿势_fuckadmin.pdf)
