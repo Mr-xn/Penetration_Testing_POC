@@ -654,6 +654,7 @@
 - [PocList-jar单文件版的各种poc利用工具](https://github.com/Yang0615777/PocList)
 - [Swagger API Exploit-一个 Swagger REST API 信息泄露利用工具](https://github.com/lijiejie/swagger-exp)
 - [weblogic-framework:weblogic漏洞检测框架](https://github.com/0nise/weblogic-framework)
+- [Finger-web指纹识别工具『质量根据规则库』](https://github.com/EASY233/Finger)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
