@@ -655,6 +655,7 @@
 - [Swagger API Exploit-一个 Swagger REST API 信息泄露利用工具](https://github.com/lijiejie/swagger-exp)
 - [weblogic-framework:weblogic漏洞检测框架](https://github.com/0nise/weblogic-framework)
 - [Finger-web指纹识别工具『质量根据规则库』](https://github.com/EASY233/Finger)
+- [Sunflower_get_Password-一款针对向日葵的识别码和验证码提取工具](https://github.com/wafinfo/Sunflower_get_Password)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
