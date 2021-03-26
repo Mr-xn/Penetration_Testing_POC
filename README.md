@@ -652,7 +652,7 @@
 - [NetDLLSpy-.NET后渗透下的权限维持，附下载DLL](https://github.com/Ivan1ee/NetDLLSpy)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 - [PocList-jar单文件版的各种poc利用工具](https://github.com/Yang0615777/PocList)
-- [Swagger API Exploit-一个 Swagger REST API 信息泄露利用工具](https://github.com/lijiejie/swagger-exp)
+- [swagger-hack:自动化爬取并自动测试所有swagger-ui.html显示的接口](https://github.com/jayus0821/swagger-hack)|[Swagger API Exploit-一个 Swagger REST API 信息泄露利用工具](https://github.com/lijiejie/swagger-exp)
 - [weblogic-framework:weblogic漏洞检测框架](https://github.com/0nise/weblogic-framework)
 - [Finger-web指纹识别工具『质量根据规则库』](https://github.com/EASY233/Finger)
 - [Sunflower_get_Password-一款针对向日葵的识别码和验证码提取工具](https://github.com/wafinfo/Sunflower_get_Password)
@@ -889,6 +889,7 @@
 -  [【红蓝对抗】SQL Server提权](./books/%E3%80%90%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E3%80%91SQL%20Server%E6%8F%90%E6%9D%83.pdf)-[原文地址](https://mp.weixin.qq.com/s/5LmC_-KK3SMjtxAGG-I4ag)
 -  [Apache Solr组件安全概览(历史漏洞集合)](./books/Apache%20Solr组件安全概览.pdf)-[原文地址](https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ)
 -  [Web安全服务渗透测试模板](./Web安全服务渗透测试模板.docx)
+-  [ThinkPHP v6.0.7 eval反序列化利用链](./books/ThinkPHP%20v6.0.7%20eval%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.pdf)-[原文地址](https://xz.aliyun.com/t/9310)
 
 ## <span id="head9"> 说明</span>
 
