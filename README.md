@@ -658,6 +658,7 @@
 - [Sunflower_get_Password-一款针对向日葵的识别码和验证码提取工具](https://github.com/wafinfo/Sunflower_get_Password)
 - [LaZagne:一键抓取目标机器上的所有明文密码（有点类似于mimikatz）](https://github.com/AlessandroZ/LaZagne)
 - [gitrecon-从gitlab或者github的提交记录和个人主页提取个人信息，如邮箱、公司、地址、twitter、blog等等](https://github.com/GONZOsint/gitrecon)
+- [SharpClipboard：用c#写的获取剪贴板内容的工具，也可用于cobalt strike中使用](https://github.com/slyd0g/SharpClipboard)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
