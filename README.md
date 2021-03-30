@@ -660,6 +660,8 @@
 - [gitrecon-从gitlab或者github的提交记录和个人主页提取个人信息，如邮箱、公司、地址、twitter、blog等等](https://github.com/GONZOsint/gitrecon)
 - [SharpClipboard：用c#写的获取剪贴板内容的工具，也可用于cobalt strike中使用](https://github.com/slyd0g/SharpClipboard)
 - [Limelighter-应用程序伪造签名](https://github.com/Tylous/Limelighter)
+- [aLIEz-java杀内存马工具](https://github.com/r00t4dm/aLIEz)
+- [weblogic_memshell-适用于weblogic的无shell的内存马](https://github.com/keven1z/weblogic_memshell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
