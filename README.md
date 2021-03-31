@@ -663,6 +663,7 @@
 - [aLIEz-java杀内存马工具](https://github.com/r00t4dm/aLIEz)
 - [weblogic_memshell-适用于weblogic的无shell的内存马](https://github.com/keven1z/weblogic_memshell)
 - [FofaSpider-Fofa爬虫支持高级查询语句批量爬取](https://github.com/KpLi0rn/FofaSpider)
+- [SpringBoot 持久化 WebShell](https://github.com/threedr3am/ZhouYu)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
