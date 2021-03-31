@@ -665,6 +665,7 @@
 - [FofaSpider-Fofa爬虫支持高级查询语句批量爬取](https://github.com/KpLi0rn/FofaSpider)
 - [SpringBoot 持久化 WebShell](https://github.com/threedr3am/ZhouYu)
 - [nuclei引擎的exp库](https://github.com/projectdiscovery/nuclei-templates)
+- [smarGate-内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式](https://github.com/lazy-luo/smarGate)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
