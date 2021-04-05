@@ -669,6 +669,7 @@
 - [200个shiro key 来自lscteam的分享](./shiro_keys_200.txt)
 - [shiro-exploit-Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload](https://github.com/Ares-X/shiro-exploit)|[备份下载](./tools/shiro_tool.zip)
 - [fastjson_rce_tool-fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP](https://github.com/wyzxxz/fastjson_rce_tool)|[备份下载](./tools/fastjson_tool.jar)
+- [Eeyes(棱眼)-快速筛选真实IP并整理为C段](https://github.com/EdgeSecurityTeam/Eeyes)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
