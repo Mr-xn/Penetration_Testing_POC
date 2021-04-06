@@ -671,6 +671,7 @@
 - [fastjson_rce_tool-fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP](https://github.com/wyzxxz/fastjson_rce_tool)|[备份下载](./tools/fastjson_tool.jar)
 - [Eeyes(棱眼)-快速筛选真实IP并整理为C段](https://github.com/EdgeSecurityTeam/Eeyes)
 - [EHole(棱洞)2.0 重构版-红队重点攻击系统指纹探测工具](https://github.com/EdgeSecurityTeam/EHole)
+- [ListRDPConnections-C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机](https://github.com/Heart-Sky/ListRDPConnections)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
