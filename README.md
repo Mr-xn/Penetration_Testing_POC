@@ -672,6 +672,7 @@
 - [Eeyes(棱眼)-快速筛选真实IP并整理为C段](https://github.com/EdgeSecurityTeam/Eeyes)
 - [EHole(棱洞)2.0 重构版-红队重点攻击系统指纹探测工具](https://github.com/EdgeSecurityTeam/EHole)
 - [ListRDPConnections-C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机](https://github.com/Heart-Sky/ListRDPConnections)
+- [PandaSniper-熊猫狙击手的Linux C2框架demo](https://github.com/QAX-A-Team/PandaSniper)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
