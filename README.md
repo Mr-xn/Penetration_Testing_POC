@@ -674,6 +674,7 @@
 - [ListRDPConnections-C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机](https://github.com/Heart-Sky/ListRDPConnections)
 - [PandaSniper-熊猫狙击手的Linux C2框架demo](https://github.com/QAX-A-Team/PandaSniper)
 - [CaptfEncoder是一款可扩展跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、非对称加密、特殊编码、杂项等工具，并聚合各类在线工具](https://github.com/guyoung/CaptfEncoder)
+- [Evasor - 自动化查找可执行文件的安全评估工具](https://github.com/cyberark/Evasor)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
