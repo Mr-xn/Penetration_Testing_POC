@@ -683,6 +683,7 @@
 - [PhishingLnk-windows钓鱼快捷方式link生成工具](https://github.com/qwqdanchun/PhishingLnk)
 - [paragon-Red Team互动平台，旨在统一简单UI后的进攻工具](https://github.com/KCarretto/paragon)
 - [vaf-非常先进的Web Fuzzer工具](https://github.com/d4rckh/vaf)
+- [nginxpwner-寻找常见Nginx错误配置和漏洞的简单工具](https://github.com/stark0de/nginxpwner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
