@@ -682,6 +682,7 @@
 - [DcRat-C#编写的简易远控工具](https://github.com/qwqdanchun/DcRat)
 - [PhishingLnk-windows钓鱼快捷方式link生成工具](https://github.com/qwqdanchun/PhishingLnk)
 - [paragon-Red Team互动平台，旨在统一简单UI后的进攻工具](https://github.com/KCarretto/paragon)
+- [vaf-非常先进的Web Fuzzer工具](https://github.com/d4rckh/vaf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
