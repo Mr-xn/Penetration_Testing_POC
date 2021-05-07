@@ -678,6 +678,7 @@
 - [Evasor - 自动化查找可执行文件的安全评估工具](https://github.com/cyberark/Evasor)
 - [jenkins-attack-framework-Jenkins攻击框架](https://github.com/Accenture/jenkins-attack-framework)
 - [MicroBackdoor-适用于Windows目标的小型便捷C2工具](https://github.com/Cr4sh/MicroBackdoor)
+- [puredns-子域爆破工具](https://github.com/d3mondev/puredns)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
