@@ -244,6 +244,7 @@
 - [【Windows提权】wesng-Windows提权辅助脚本](https://github.com/bitsadmin/wesng)
 - [【Windows提权】dazzleUP是一款用来帮助渗透测试人员进行权限提升的工具，可以在window系统中查找脆弱面进行攻击。工具包括两部分检查内容，exploit检查和错误配置检查。](https://github.com/hlldz/dazzleUP)
 - [【Windows提权】KernelHub-近二十年Windows权限提升集合](https://github.com/Ascotbe/KernelHub)
+- [【Windows提权】Priv2Admin-Windows提权工具](https://github.com/gtworek/Priv2Admin)
 
 ## <span id="head6"> PC</span>
 
