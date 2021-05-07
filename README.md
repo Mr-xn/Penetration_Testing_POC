@@ -676,6 +676,7 @@
 - [CaptfEncoder是一款可扩展跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、非对称加密、特殊编码、杂项等工具，并聚合各类在线工具](https://github.com/guyoung/CaptfEncoder)
 - [Evasor - 自动化查找可执行文件的安全评估工具](https://github.com/cyberark/Evasor)
 - [jenkins-attack-framework-Jenkins攻击框架](https://github.com/Accenture/jenkins-attack-framework)
+- [MicroBackdoor-适用于Windows目标的小型便捷C2工具](https://github.com/Cr4sh/MicroBackdoor)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
