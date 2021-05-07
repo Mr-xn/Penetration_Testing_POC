@@ -910,6 +910,7 @@
 -  [Apache Solr组件安全概览(历史漏洞集合)](./books/Apache%20Solr组件安全概览.pdf)-[原文地址](https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ)
 -  [Web安全服务渗透测试模板](./Web安全服务渗透测试模板.docx)
 -  [ThinkPHP v6.0.7 eval反序列化利用链](./books/ThinkPHP%20v6.0.7%20eval%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.pdf)-[原文地址](https://xz.aliyun.com/t/9310)
+-  [PwnWiki-免费、自由、人人可编辑的漏洞库](https://www.pwnwiki.org/)
 
 ## <span id="head9"> 说明</span>
 
