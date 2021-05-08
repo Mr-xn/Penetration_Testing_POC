@@ -685,6 +685,8 @@
 - [vaf-非常先进的Web Fuzzer工具](https://github.com/d4rckh/vaf)
 - [nginxpwner-寻找常见Nginx错误配置和漏洞的简单工具](https://github.com/stark0de/nginxpwner)
 - [pentest_lab：使用docker-compose搭建常见的几种靶机系统](https://github.com/oliverwiegers/pentest_lab)
+- [SharpWebServer：搭建HTTP和WebDAV服务器来捕获Net-NTLM哈希](https://github.com/mgeeky/SharpWebServer)
+- 
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
