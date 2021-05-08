@@ -686,7 +686,7 @@
 - [nginxpwner-寻找常见Nginx错误配置和漏洞的简单工具](https://github.com/stark0de/nginxpwner)
 - [pentest_lab：使用docker-compose搭建常见的几种靶机系统](https://github.com/oliverwiegers/pentest_lab)
 - [SharpWebServer：搭建HTTP和WebDAV服务器来捕获Net-NTLM哈希](https://github.com/mgeeky/SharpWebServer)
-- 
+- [interactsh：用于带外数据提取的开源解决方案，一种用于检测导致外部交互的错误的工具，例如：Blind SQLi，Blind CMDi，SSRF等](https://github.com/projectdiscovery/interactsh)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
