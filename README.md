@@ -688,6 +688,7 @@
 - [SharpWebServer：搭建HTTP和WebDAV服务器来捕获Net-NTLM哈希](https://github.com/mgeeky/SharpWebServer)
 - [interactsh：用于带外数据提取的开源解决方案，一种用于检测导致外部交互的错误的工具，例如：Blind SQLi，Blind CMDi，SSRF等](https://github.com/projectdiscovery/interactsh)
 - [Autoscanner-一款自动化扫描器，其功能主要是遍历所有子域名、及遍历主机所有端口寻找出所有http服务，并使用集成的工具(oneforall、masscan、nmap、crawlergo、dirsearch、xray、awvs、whatweb等)进行扫描，最后集成扫描报告](https://github.com/zongdeiqianxing/Autoscanner)
+- [Z1-AggressorScripts：适用于Cobalt Strike 3.x & 4.x 的插件](https://github.com/z1un/Z1-AggressorScripts)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
