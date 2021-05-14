@@ -691,6 +691,7 @@
 - [Autoscanner-一款自动化扫描器，其功能主要是遍历所有子域名、及遍历主机所有端口寻找出所有http服务，并使用集成的工具(oneforall、masscan、nmap、crawlergo、dirsearch、xray、awvs、whatweb等)进行扫描，最后集成扫描报告](https://github.com/zongdeiqianxing/Autoscanner)
 - [Z1-AggressorScripts：适用于Cobalt Strike 3.x & 4.x 的插件](https://github.com/z1un/Z1-AggressorScripts)
 - [TongdaOA-通达OA 11.7 任意用户登录](https://github.com/z1un/TongdaOA)
+- [charlotte：又一款免杀 C++ Shellcode加载器](https://github.com/9emin1/charlotte)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
