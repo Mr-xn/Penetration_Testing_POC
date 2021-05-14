@@ -926,6 +926,7 @@
 -  [ThinkPHP v6.0.7 eval反序列化利用链](./books/ThinkPHP%20v6.0.7%20eval%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.pdf)-[原文地址](https://xz.aliyun.com/t/9310)
 -  [PwnWiki-免费、自由、人人可编辑的漏洞库](https://www.pwnwiki.org/)
 -  [黑蚂蚁外贸网站系统SemCms代码审计思路分享](./books/黑蚂蚁外贸网站系统SemCms代码审计思路分享.pdf)
+-  [LightCMS全版本后台RCE 0day分析](./books/LightCMS全版本后台RCE%200day分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
