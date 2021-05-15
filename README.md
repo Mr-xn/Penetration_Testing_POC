@@ -934,6 +934,7 @@
 -  [LightCMS全版本后台RCE 0day分析](./books/LightCMS全版本后台RCE%200day分析.pdf)
 -  [全球鹰实验室技术文章沉淀](https://www.studysec.com/)
 -  [ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc](./books/ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc.pdf)
+-  [yii2 反序列化写shell方式利用](./books/yii2%20反序列化写shell方式利用.pdf)
 
 ## <span id="head9"> 说明</span>
 
