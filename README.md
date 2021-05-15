@@ -930,6 +930,7 @@
 -  [PwnWiki-免费、自由、人人可编辑的漏洞库](https://www.pwnwiki.org/)
 -  [黑蚂蚁外贸网站系统SemCms代码审计思路分享](./books/黑蚂蚁外贸网站系统SemCms代码审计思路分享.pdf)
 -  [LightCMS全版本后台RCE 0day分析](./books/LightCMS全版本后台RCE%200day分析.pdf)
+-  [全球鹰实验室技术文章沉淀](https://www.studysec.com/)
 
 ## <span id="head9"> 说明</span>
 
