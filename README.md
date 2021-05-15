@@ -935,6 +935,7 @@
 -  [全球鹰实验室技术文章沉淀](https://www.studysec.com/)
 -  [ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc](./books/ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc.pdf)
 -  [yii2 反序列化写shell方式利用](./books/yii2%20反序列化写shell方式利用.pdf)
+-  [如何制作冰蝎JSP免杀WebShell](./books/如何制作冰蝎JSP免杀WebShell.pdf)
 
 ## <span id="head9"> 说明</span>
 
