@@ -931,6 +931,7 @@
 -  [黑蚂蚁外贸网站系统SemCms代码审计思路分享](./books/黑蚂蚁外贸网站系统SemCms代码审计思路分享.pdf)
 -  [LightCMS全版本后台RCE 0day分析](./books/LightCMS全版本后台RCE%200day分析.pdf)
 -  [全球鹰实验室技术文章沉淀](https://www.studysec.com/)
+-  [ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc](./books/ThinkCmf文件包含漏洞fetch函数-过宝塔防火墙Poc.pdf)
 
 ## <span id="head9"> 说明</span>
 
