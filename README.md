@@ -334,6 +334,8 @@
 
 - [VMware vCenter Server RCE_SSRF[CVE-2021-21972_3]](./books/VMware%20vCenter%20Server%20RCE_SSRF%5BCVE-2021-21972_3%5D.pdf)-[原文地址](https://mp.weixin.qq.com/s/NoqpuklgwNOalJgAuFnlcA)
 
+- [CVE-2021-1732 Windows 本地权限提升漏洞](https://github.com/jessica0f0116/cve_2021_1732)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
