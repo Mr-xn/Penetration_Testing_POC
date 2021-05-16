@@ -940,6 +940,7 @@
 -  [Java代码执行漏洞中类动态加载的应用](./books/Java代码执行漏洞中类动态加载的应用.pdf)
 -  [记一次tp5.0.24 getshell](./books/记一次tp5.0.24%20getshell.pdf)-[原文地址](https://xz.aliyun.com/t/9112)
 -  [代码审计之youdiancms最新版getshell漏洞](./books/代码审计之youdiancms最新版getshell漏洞.pdf)
+-  [x微E-Cology WorkflowServiceXml RCE](./books/x微E-Cology%20WorkflowServiceXml%20RCE.pdf)
 
 ## <span id="head9"> 说明</span>
 
