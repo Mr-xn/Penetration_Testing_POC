@@ -695,6 +695,8 @@
 - [Z1-AggressorScripts：适用于Cobalt Strike 3.x & 4.x 的插件](https://github.com/z1un/Z1-AggressorScripts)
 - [TongdaOA-通达OA 11.7 任意用户登录](https://github.com/z1un/TongdaOA)
 - [charlotte：又一款免杀 C++ Shellcode加载器](https://github.com/9emin1/charlotte)
+- [Bytecode Viewer是一个高级的轻量级Java字节码查看器](https://github.com/Konloch/bytecode-viewer)
+- [go-crack：go 语言写的弱口令爆破工具](https://github.com/niudaii/go-crack)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
