@@ -945,6 +945,7 @@
 -  [x微E-Cology WorkflowServiceXml RCE](./books/x微E-Cology%20WorkflowServiceXml%20RCE.pdf)
 -  [某通用流程化管控平台编辑器SSRF到axis的RCE之旅](./books/某通用流程化管控平台编辑器SSRF到axis的RCE之旅.pdf)
 -  [手把手教你如何制作钓鱼软件反制红队](./books/手把手教你如何制作钓鱼软件反制红队.pdf)
+-  [记一次绕过火绒安全提权实战案例](./books/记一次绕过火绒安全提权实战案例.pdf)
 
 ## <span id="head9"> 说明</span>
 
