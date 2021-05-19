@@ -336,6 +336,8 @@
 
 - [CVE-2021-1732 Windows 本地权限提升漏洞](https://github.com/jessica0f0116/cve_2021_1732)
 
+- [CVE-2021-31166：HTTP协议栈远程代码执行漏洞](https://github.com/0vercl0k/CVE-2021-31166)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
