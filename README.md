@@ -948,6 +948,7 @@
 -  [某通用流程化管控平台编辑器SSRF到axis的RCE之旅](./books/某通用流程化管控平台编辑器SSRF到axis的RCE之旅.pdf)
 -  [手把手教你如何制作钓鱼软件反制红队](./books/手把手教你如何制作钓鱼软件反制红队.pdf)
 -  [记一次绕过火绒安全提权实战案例](./books/记一次绕过火绒安全提权实战案例.pdf)
+-  [Vulnerability-不定期从棱角社区对外进行公布的一些最新漏洞](https://github.com/EdgeSecurityTeam/Vulnerability)
 
 ## <span id="head9"> 说明</span>
 
