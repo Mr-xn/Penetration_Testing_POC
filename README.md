@@ -951,6 +951,7 @@
 -  [手把手教你如何制作钓鱼软件反制红队](./books/手把手教你如何制作钓鱼软件反制红队.pdf)
 -  [记一次绕过火绒安全提权实战案例](./books/记一次绕过火绒安全提权实战案例.pdf)
 -  [Vulnerability-不定期从棱角社区对外进行公布的一些最新漏洞](https://github.com/EdgeSecurityTeam/Vulnerability)
+-  [Webshell之全方位免杀技巧汇总](./books/Webshell之全方位免杀技巧汇总.pdf)
 
 ## <span id="head9"> 说明</span>
 
