@@ -952,6 +952,11 @@
 -  [记一次绕过火绒安全提权实战案例](./books/记一次绕过火绒安全提权实战案例.pdf)
 -  [Vulnerability-不定期从棱角社区对外进行公布的一些最新漏洞](https://github.com/EdgeSecurityTeam/Vulnerability)
 -  [Webshell之全方位免杀技巧汇总](./books/Webshell之全方位免杀技巧汇总.pdf)
+-  [Thinkphp 5.0.x_5.1.x 变量覆盖 RCE 漏洞分析](./books/Thinkphp%205.0.x_5.1.x%20变量覆盖%20RCE%20漏洞分析.pdf)
+-  [TP5.0.xRCE&5.0.24反序列化分析](./books/TP5.0.xRCE&5.0.24反序列化分析.pdf)
+-  [记一次有趣的tp5代码执行](./books/记一次有趣的tp5代码执行.pdf)
+-  [ThinkPHP 5.0.0_5.0.23 RCE 漏洞分析](./books/ThinkPHP%205.0.0_5.0.23%20RCE%20漏洞分析.pdf)
+-  [记一次tp5.0.24](./books/记一次tp5.0.24.pdf)
 
 ## <span id="head9"> 说明</span>
 
