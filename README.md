@@ -701,6 +701,7 @@
 - [go-crack：go 语言写的弱口令爆破工具](https://github.com/niudaii/go-crack)
 - [Metarget-一个脆弱基础设施自动化构建框架，主要用于快速、自动化搭建从简单到复杂的脆弱云原生靶机环境](https://github.com/brant-ruan/metarget)
 - [NessusToReport-nessus扫描报告自动化生成工具](https://github.com/Hypdncy/NessusToReport)
+- [cloudflare-bypass：使用Cloudflare Workers来绕过Cloudflare 的机器人验证](https://github.com/jychp/cloudflare-bypass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
