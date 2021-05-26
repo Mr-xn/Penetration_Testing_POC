@@ -961,6 +961,7 @@
 -  [ThinkPHP 5.0.0_5.0.23 RCE 漏洞分析](./books/ThinkPHP%205.0.0_5.0.23%20RCE%20漏洞分析.pdf)
 -  [记一次tp5.0.24](./books/记一次tp5.0.24.pdf)
 -  [权限维持_Windows内核_驱动断链隐藏技术](./books/权限维持_Windows内核_驱动断链隐藏技术.pdf)
+-  [某邮件系统后台管理员任意登录分析](./books/某邮件系统后台管理员任意登录分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
