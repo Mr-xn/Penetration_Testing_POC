@@ -703,6 +703,7 @@
 - [NessusToReport-nessus扫描报告自动化生成工具](https://github.com/Hypdncy/NessusToReport)
 - [cloudflare-bypass：使用Cloudflare Workers来绕过Cloudflare 的机器人验证](https://github.com/jychp/cloudflare-bypass)
 - [安全测试工具集:在学习和渗透测试过程中自己写的一些小脚本、小工具和一些常用字典、木马](https://github.com/echohun/tools)
+- [php_code_analysis：python编写的代码审计脚本（关键词匹配，类似于seay代码审计）](https://github.com/kira2040k/php_code_analysis)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
