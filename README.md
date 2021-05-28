@@ -415,7 +415,7 @@
 - [bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统](https://github.com/CTF-MissFeng/bayonet)
 - [SharpToolsAggressor-内网渗透中常用的c#程序整合成cs脚本，直接内存加载](https://github.com/uknowsec/SharpToolsAggressor)
 - [【漏洞库】又一个各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
-- [【内网代理】内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|**相关文章:**[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
+- [【内网代理】内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)|相关文章:[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)|[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)|[内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)|[reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
 - [【内网代理】Neo-reGeorg重构的reGeorg ](https://github.com/L-codes/Neo-reGeorg)
 - [【内网代理】Tunna-通过http隧道将TCP流量代理出来](https://github.com/SECFORCE/Tunna)
 - [【内网代理】proxy.php-单文件版的php代理](https://github.com/mcnemesis/proxy.php)
@@ -485,7 +485,7 @@
 - [luject：可以将动态库静态注入到指定应用程序包的工具，目前支持Android/iPhonsOS/Windows/macOS/Linux](https://github.com/lanoox/luject)|[相关文章](https://tboox.org/cn/2020/04/26/luject/)
 - [CursedChrome：Chrome扩展植入程序，可将受害Chrome浏览器转变为功能齐全的HTTP代理，使你能够以受害人身份浏览网站](https://github.com/mandatoryprogrammer/CursedChrome)
 - [pivotnacci：通过HTTP隧道进行Socks连接](https://github.com/blackarrowsec/pivotnacci)
-- [PHPFuck-一款适用于php7以上版本的代码混淆](https://github.com/splitline/PHPFuck)|[[PHPFuck在线版本](https://splitline.github.io/PHPFuck/)
+- [PHPFuck-一款适用于php7以上版本的代码混淆](https://github.com/splitline/PHPFuck)|[PHPFuck在线版本](https://splitline.github.io/PHPFuck/)
 - [冰蝎 bypass open_basedir 的马](./tools/冰蝎bypass_open_basedir_shell.md)
 - [goproxy heroku 一键部署套装，把heroku变为免费的http(s)\socks5代理](https://github.com/snail007/goproxy-heroku)
 - [xFTP6密码解密](./tools/xFTP6密码解密.md)
@@ -964,6 +964,7 @@
 -  [记一次tp5.0.24](./books/记一次tp5.0.24.pdf)
 -  [权限维持_Windows内核_驱动断链隐藏技术](./books/权限维持_Windows内核_驱动断链隐藏技术.pdf)
 -  [某邮件系统后台管理员任意登录分析](./books/某邮件系统后台管理员任意登录分析.pdf)
+-  [隐藏CS源IP，提高溯源难度的几种方案](./books/隐藏CS源IP，提高溯源难度的几种方案.pdf)
 
 ## <span id="head9"> 说明</span>
 
