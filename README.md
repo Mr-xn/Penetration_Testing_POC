@@ -707,6 +707,7 @@
 - [php_code_analysis：python编写的代码审计脚本（关键词匹配，类似于seay代码审计）](https://github.com/kira2040k/php_code_analysis)
 - [schemeflood：基于Schemeflood技术实现对已安装的软件进行探测](https://github.com/TomAPU/schemeflood)
 - [pocscan：指纹识别后，进行漏洞精准扫描](https://github.com/DSO-Lab/pocscan)
+- [DNSLog-Platform-Golang：一键搭建Dnslog平台的golang版本](https://github.com/yumusb/DNSLog-Platform-Golang)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
