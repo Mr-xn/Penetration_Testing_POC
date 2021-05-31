@@ -107,7 +107,7 @@
 - [apache_solr_rce](./solr_rce.md)
 - [CVE-2019-7580 thinkcmf-5.0.190111后台任意文件写入导致的代码执行](CVE-2019-7580%20thinkcmf-5.0.190111后台任意文件写入导致的代码执行.md)
 - [Apache Flink任意Jar包上传导致远程代码执行](https://github.com/LandGrey/flink-unauth-rce)
-- [用于检测JSON接口令牌安全性测试](https://github.com/ticarpi/jwt_tool)
+- [Jwt_Tool - 用于验证、伪造、扫描和篡改 JWT（JSON Web 令牌）](https://github.com/ticarpi/jwt_tool)
 - [cve-2019-17424 nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC](cve-2019-17424%20nipper-ng_0.11.10-Remote_Buffer_Overflow远程缓冲区溢出附PoC.md)
 - [CVE-2019-12409_Apache_Solr RCE](https://github.com/jas502n/CVE-2019-12409)
 - [Shiro RCE (Padding Oracle Attack)](https://github.com/wuppp/shiro_rce_exp)
@@ -708,6 +708,7 @@
 - [schemeflood：基于Schemeflood技术实现对已安装的软件进行探测](https://github.com/TomAPU/schemeflood)
 - [pocscan：指纹识别后，进行漏洞精准扫描](https://github.com/DSO-Lab/pocscan)
 - [DNSLog-Platform-Golang：一键搭建Dnslog平台的golang版本](https://github.com/yumusb/DNSLog-Platform-Golang)
+- [WinAPI-Tricks：恶意软件使用或滥用的各种 WINAPI 技巧/功能的集合](https://github.com/vxunderground/WinAPI-Tricks)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
