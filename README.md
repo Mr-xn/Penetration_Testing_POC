@@ -710,6 +710,7 @@
 - [DNSLog-Platform-Golang：一键搭建Dnslog平台的golang版本](https://github.com/yumusb/DNSLog-Platform-Golang)
 - [WinAPI-Tricks：恶意软件使用或滥用的各种 WINAPI 技巧/功能的集合](https://github.com/vxunderground/WinAPI-Tricks)
 - [go_meterpreter：Golang实现的x86下的Meterpreter reverse tcp](https://github.com/insightglacier/go_meterpreter)
+- [sharpwmi：一个基于rpc的横向移动工具，具有上传文件和执行命令功能](https://github.com/QAX-A-Team/sharpwmi)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
