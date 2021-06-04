@@ -562,6 +562,7 @@
 - [【爆破字典】自己收集整理的端口、子域、账号密码、其他杂七杂八字典，用于自己使用](https://github.com/cwkiller/Pentest_Dic)
 - [【爆破字典】基于实战沉淀下的各种弱口令字典](https://github.com/Mr-xn/SuperWordlist)
 - [【爆破字典整合推荐】PentesterSpecialDict-该项目对 [ fuzzDicts | fuzzdb | Dict ] 等其他网上字典开源项目进行整合精简化和去重处理](https://github.com/ppbibo/PentesterSpecialDict)
+- [可能是目前最全面的开源模糊测试字典集合了](https://github.com/salmonx/dictionaries)
 - [PowerUpSQL：为攻击SQLServer而设计的具有攻击性的PowerShell脚本](https://github.com/NetSPI/PowerUpSQL)|[利用PowerUpSQL攻击SQL Server实例](./books/%E5%88%A9%E7%94%A8PowerUpSQL%E6%94%BB%E5%87%BBSQL%20Server%E5%AE%9E%E4%BE%8B.pdf)
 - [adbsploit-一个基于Python3和ADB的安卓设备漏洞利用和管理工具](https://github.com/mesquidar/adbsploit)
 - [monsoon-一个用Go语言编写的目录扫描工具，类似于dirsearch](https://github.com/RedTeamPentesting/monsoon)
