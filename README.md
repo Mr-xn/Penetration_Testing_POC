@@ -975,6 +975,7 @@
 -  [go免杀初探](./books/go免杀初探.pdf)
 -  [记一次绕过防火墙反弹转发姿势小结](./books/记一次绕过防火墙反弹转发姿势小结.pdf)
 -  [内网渗透中如何离线解密 RDP 保存的密码](./books/内网渗透中如何离线解密%20RDP%20保存的密码.pdf)
+-  [Gadgets：Java反序列化漏洞利用链补全计划，仅用于个人归纳总结](https://github.com/0range228/Gadgets)
 
 ## <span id="head9"> 说明</span>
 
