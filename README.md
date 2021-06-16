@@ -725,6 +725,7 @@
 - [图形化漏洞利用Demo-JavaFX版:ExpDemo-JavaFX ](https://github.com/yhy0/ExpDemo-JavaFX)
 - [Security_Product:开源安全产品源码](https://github.com/birdhan/Security_Product)
 - [flask_memory_shell:Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
+- [SourceDetector:用于发现源码文件(*.map)的chrome插件](https://github.com/SunHuawei/SourceDetector)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
