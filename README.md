@@ -36,6 +36,7 @@
 - [wacker：一组脚本，可辅助对WPA3接入点执行在线词典攻击](https://github.com/blunderbuss-wctf/wacker)
 - [CVE-2020-24581 D-Link DSL-2888A 远程命令执行漏洞分析](./books/CVE-2020-24581%20D-Link%20DSL-2888A%20远程命令执行漏洞分析.pdf)-[原地址](https://www.anquanke.com/post/id/229323)
 - [CNVD-2021-14536_锐捷RG-UAC统一上网行为管理审计系统账号密码信息泄露漏洞](./CNVD-2021-14536_锐捷RG-UAC统一上网行为管理审计系统账号密码信息泄露漏洞.md)
+- [CNVD-2021-14544:Hikvision 海康威视流媒体管理服务器任意文件读取](https://github.com/Henry4E36/Hikvision)
 
 ## <span id="head4">Web APP</span>
 
