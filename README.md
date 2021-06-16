@@ -339,7 +339,7 @@
 
 - [CVE-2021-31166：HTTP协议栈远程代码执行漏洞](https://github.com/0vercl0k/CVE-2021-31166)
 
-- [CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)
+- [Windows本地提权漏洞：CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)
 
 - [【Linux提权】CVE-2021-3560 Local PrivEsc Exploit](https://github.com/swapravo/polkadots)
 
@@ -720,6 +720,7 @@
 - [sharpwmi：一个基于rpc的横向移动工具，具有上传文件和执行命令功能](https://github.com/QAX-A-Team/sharpwmi)
 - [RedWarden：灵活的配置C2反向代理来隐藏自己的CS](https://github.com/mgeeky/RedWarden)
 - [MemoryShellLearn:java内存马的学习记录以及demo](https://github.com/bitterzzZZ/MemoryShellLearn)
+- [图形化漏洞利用Demo-JavaFX版:ExpDemo-JavaFX ](https://github.com/yhy0/ExpDemo-JavaFX)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
