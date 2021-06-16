@@ -726,6 +726,7 @@
 - [Security_Product:开源安全产品源码](https://github.com/birdhan/Security_Product)
 - [flask_memory_shell:Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
 - [SourceDetector:用于发现源码文件(*.map)的chrome插件](https://github.com/SunHuawei/SourceDetector)
+- [CrossNet-Beta:红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件](https://github.com/dr0op/CrossNet-Beta)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
