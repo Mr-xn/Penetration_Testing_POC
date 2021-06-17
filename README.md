@@ -413,7 +413,7 @@
 - [A script to scan for unsecured Laravel .env files](https://github.com/tismayil/laravelN00b)
 - [STS2G-Struts2漏洞扫描Golang版-【特点:单文件、全平台支持、可在webshell下使用】](https://github.com/x51/STS2G)|[编译好的Windows版本](./tools/ST2G.exe)｜[Linux版本](./tools/ST2SG_linux)
 - [Struts2_Chek_BypassWAF.jar-struts2全版本漏洞测试工具17-6过WAF版 by:ABC_123 仅供天融信内部使用,勿用于非法用途](./tools/Struts2_Chek_BypassWAF.jar)
-- [ShiroScan-Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)|[Apache shiro <= 1.2.4 rememberMe 反序列化漏洞利用工具](https://github.com/acgbfull/Apache_Shiro_1.2.4_RCE)|[ShiroScan-Shiro RememberMe 1.2.4 反序列化漏洞图形化检测工具(Shiro-550)](https://github.com/fupinglee/ShiroScan)|[shiro_attack-shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马,支持shiro > 1.4.2 ）](https://github.com/j1anFen/shiro_attack)-[shiro_attack_1.5.zip下载](./tools/shiro_attack_1.5.zip)
+- [ShiroScan-Shiro<=1.2.4反序列化，一键检测工具](https://github.com/sv3nbeast/ShiroScan)|[Apache shiro <= 1.2.4 rememberMe 反序列化漏洞利用工具](https://github.com/acgbfull/Apache_Shiro_1.2.4_RCE)|[ShiroScan-Shiro RememberMe 1.2.4 反序列化漏洞图形化检测工具(Shiro-550)](https://github.com/fupinglee/ShiroScan)|[shiro_attack-shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马,支持shiro > 1.4.2 ）](https://github.com/j1anFen/shiro_attack)-[shiro_attack_1.5.zip下载](./tools/shiro_attack_1.5.zip)|[又一个Shiro反序列化利用工具](https://github.com/LWZXS/JavaTools)
 - [weblogicScanner-完整weblogic 漏洞扫描工具修复版](https://github.com/0xn0ne/weblogicScanner)
 - [GitHub敏感信息泄露监控](https://github.com/FeeiCN/GSIL)
 - [Java安全相关的漏洞和技术demo](https://github.com/threedr3am/learnjavabug)
@@ -727,6 +727,7 @@
 - [flask_memory_shell:Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
 - [SourceDetector:用于发现源码文件(*.map)的chrome插件](https://github.com/SunHuawei/SourceDetector)
 - [CrossNet-Beta:红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件](https://github.com/dr0op/CrossNet-Beta)
+- [slopShell：一款功能强大的PHP Webshell](https://github.com/oldkingcone/slopShell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
