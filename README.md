@@ -383,6 +383,7 @@
 - [使用powershell或CMD直接运行命令反弹shell](https://github.com/ZHacker13/ReverseTCPShell)
 - [GitHack-.git泄露利用脚本](https://github.com/lijiejie/GitHack)
 - [GitHacker---比GitHack更好用的git泄露利用脚本](https://github.com/WangYihang/GitHacker)
+- [git-dumper:一款优秀的.git泄漏文件dump工具](https://github.com/arthaud/git-dumper)
 - [SVN源代码泄露全版本Dump源码](https://github.com/admintony/svnExploit)
 - [dumpall-多种泄漏形式，一种利用方式【支持.git源代码泄漏.svn源代码泄漏.DS_Store信息泄漏目录列出信息泄漏】](https://github.com/0xHJK/dumpall)
 - [多进程批量网站备份文件扫描](https://github.com/sry309/ihoneyBakFileScan)
