@@ -729,6 +729,7 @@
 - [CrossNet-Beta:红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件](https://github.com/dr0op/CrossNet-Beta)
 - [slopShell：一款功能强大的PHP Webshell](https://github.com/oldkingcone/slopShell)
 - [rustcat:netcat的代替品](https://github.com/robiot/rustcat)
+- [Backstab:通过加载恶意的驱动文件干掉杀软](https://github.com/Yaxser/Backstab)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
