@@ -994,6 +994,8 @@
 -  [内网渗透中如何离线解密 RDP 保存的密码](./books/内网渗透中如何离线解密%20RDP%20保存的密码.pdf)
 -  [Gadgets：Java反序列化漏洞利用链补全计划，仅用于个人归纳总结](https://github.com/0range228/Gadgets)
 -  [Java-Rce-Echo：Java RCE 回显测试代码](https://github.com/feihong-cs/Java-Rce-Echo)
+-  [利用heroku隐藏C2服务器](./books/利用heroku隐藏C2服务器.pdf)
+-  [SQL注入基础整理及Tricks总结](./books/SQL注入基础整理及Tricks总结.pdf)
 
 ## <span id="head9"> 说明</span>
 
