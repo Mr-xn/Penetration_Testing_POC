@@ -996,6 +996,7 @@
 -  [Java-Rce-Echo：Java RCE 回显测试代码](https://github.com/feihong-cs/Java-Rce-Echo)
 -  [利用heroku隐藏C2服务器](./books/利用heroku隐藏C2服务器.pdf)
 -  [SQL注入基础整理及Tricks总结](./books/SQL注入基础整理及Tricks总结.pdf)
+-  [利用netplwiz.exe Bypass UAC](./books/利用netplwiz.exe_Bypass_UAC.pdf)
 
 ## <span id="head9"> 说明</span>
 
