@@ -732,6 +732,7 @@
 - [slopShell：一款功能强大的PHP Webshell](https://github.com/oldkingcone/slopShell)
 - [rustcat:netcat的代替品](https://github.com/robiot/rustcat)
 - [Backstab:通过加载恶意的驱动文件干掉杀软](https://github.com/Yaxser/Backstab)
+- [ncDecode：用友nc数据库密码解密工具](https://github.com/jas502n/ncDecode)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
