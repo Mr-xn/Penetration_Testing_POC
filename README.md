@@ -733,6 +733,8 @@
 - [rustcat:netcat的代替品](https://github.com/robiot/rustcat)
 - [Backstab:通过加载恶意的驱动文件干掉杀软](https://github.com/Yaxser/Backstab)
 - [ncDecode：用友nc数据库密码解密工具](https://github.com/jas502n/ncDecode)
+- [JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具](https://github.com/Threezh1/JSFinder)|[JSFinder的油猴脚本版本](https://github.com/Threezh1/Deconstruct/tree/main/DevTools_JSFinder)
+- [Packer-Fuzzer：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具](https://github.com/rtcatc/Packer-Fuzzer)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
