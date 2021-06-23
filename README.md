@@ -1003,6 +1003,7 @@
 -  [利用heroku隐藏C2服务器](./books/利用heroku隐藏C2服务器.pdf)
 -  [SQL注入基础整理及Tricks总结](./books/SQL注入基础整理及Tricks总结.pdf)
 -  [利用netplwiz.exe Bypass UAC](./books/利用netplwiz.exe_Bypass_UAC.pdf)
+-  [dscmsV2.0二次注入及任意文件删除漏洞分析](./books/dscmsV2.0二次注入及任意文件删除漏洞分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
