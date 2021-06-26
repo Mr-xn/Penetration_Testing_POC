@@ -1005,6 +1005,7 @@
 -  [SQL注入基础整理及Tricks总结](./books/SQL注入基础整理及Tricks总结.pdf)
 -  [利用netplwiz.exe Bypass UAC](./books/利用netplwiz.exe_Bypass_UAC.pdf)
 -  [dscmsV2.0二次注入及任意文件删除漏洞分析](./books/dscmsV2.0二次注入及任意文件删除漏洞分析.pdf)
+-  [脏牛提权复现以及如何得到一个完全交互的shell](./books/脏牛提权复现以及如何得到一个完全交互的shell.pdf)
 
 ## <span id="head9"> 说明</span>
 
