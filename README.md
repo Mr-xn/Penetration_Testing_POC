@@ -1006,6 +1006,7 @@
 -  [利用netplwiz.exe Bypass UAC](./books/利用netplwiz.exe_Bypass_UAC.pdf)
 -  [dscmsV2.0二次注入及任意文件删除漏洞分析](./books/dscmsV2.0二次注入及任意文件删除漏洞分析.pdf)
 -  [脏牛提权复现以及如何得到一个完全交互的shell](./books/脏牛提权复现以及如何得到一个完全交互的shell.pdf)
+-  [在没有执行和写入权限下注入shellcode-Process Injection without Write_Execute Permission](./books/Process20%Injection20%without20%Write_Execute20%Permission20%_20%Ret2Pwn.pdf)
 
 ## <span id="head9"> 说明</span>
 
