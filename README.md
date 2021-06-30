@@ -345,6 +345,8 @@
 
 - [【Linux提权】CVE-2021-3560 Local PrivEsc Exploit](https://github.com/swapravo/polkadots)
 
+- [CVE-2021-1675 Windows Print Spooler远程代码执行漏洞](./CVE-2021-1675.md)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
