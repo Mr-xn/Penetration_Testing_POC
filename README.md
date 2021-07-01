@@ -1010,6 +1010,7 @@
 -  [脏牛提权复现以及如何得到一个完全交互的shell](./books/脏牛提权复现以及如何得到一个完全交互的shell.pdf)
 -  [在没有执行和写入权限下注入shellcode-Process Injection without Write_Execute Permission](./books/Process20%Injection20%without20%Write_Execute20%Permission20%_20%Ret2Pwn.pdf)
 -  [利用PHAR协议进行PHP反序列化攻击](./books/利用PHAR协议进行PHP反序列化攻击.pdf)
+-  [Seacms代码审计小结(后台多处getshell)](./books/Seacms代码审计小结(后台多处getshell).pdf)-[原文地址](https://xz.aliyun.com/t/9777)
 
 ## <span id="head9"> 说明</span>
 
