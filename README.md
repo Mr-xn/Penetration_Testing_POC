@@ -738,6 +738,7 @@
 - [JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具](https://github.com/Threezh1/JSFinder)|[JSFinder的油猴脚本版本](https://github.com/Threezh1/Deconstruct/tree/main/DevTools_JSFinder)
 - [Packer-Fuzzer：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具](https://github.com/rtcatc/Packer-Fuzzer)
 - [post-hub：内网仓库：远控、提权、免杀、代理、横向、清理](https://github.com/ybdt/post-hub)
+- [FridaHooker：Android 图形化Frida管理器](https://github.com/wrlu/FridaHooker)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
