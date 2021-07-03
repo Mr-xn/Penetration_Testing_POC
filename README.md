@@ -739,6 +739,7 @@
 - [Packer-Fuzzer：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具](https://github.com/rtcatc/Packer-Fuzzer)
 - [post-hub：内网仓库：远控、提权、免杀、代理、横向、清理](https://github.com/ybdt/post-hub)
 - [FridaHooker：Android 图形化Frida管理器](https://github.com/wrlu/FridaHooker)
+- [firefox浏览器密码dump工具之.net版](https://github.com/gourk/FirePwd.Net)|[firepwd：firefox密码dump解密工具python版](https://github.com/lclevy/firepwd)|[FireFox-Thief：又一个解密firefox浏览器密码的工具-windows版本](https://github.com/LimerBoy/FireFox-Thief)|[chrome>80的密码解密提取工具-windows版本](https://github.com/LimerBoy/Adamantium-Thief)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
