@@ -1015,6 +1015,7 @@
 -  [利用PHAR协议进行PHP反序列化攻击](./books/利用PHAR协议进行PHP反序列化攻击.pdf)
 -  [Seacms代码审计小结(后台多处getshell)](./books/Seacms代码审计小结(后台多处getshell).pdf)-[原文地址](https://xz.aliyun.com/t/9777)
 -  [基于某开源系统的Java代码审计](./books/基于某开源系统的Java代码审计.pdf)-[原文地址](https://xz.aliyun.com/t/9799)
+-  [盘企LCMS的代码审计『CNVD-2021-28469』](./books/盘企LCMS的代码审计『CNVD-2021-28469』.pdf)-[原文地址](https://xz.aliyun.com/t/9800)
 
 ## <span id="head9"> 说明</span>
 
