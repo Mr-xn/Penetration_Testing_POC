@@ -1014,8 +1014,9 @@
 -  [在没有执行和写入权限下注入shellcode-Process Injection without Write_Execute Permission](./books/Process20%Injection20%without20%Write_Execute20%Permission20%_20%Ret2Pwn.pdf)
 -  [利用PHAR协议进行PHP反序列化攻击](./books/利用PHAR协议进行PHP反序列化攻击.pdf)
 -  [Seacms代码审计小结(后台多处getshell)](./books/Seacms代码审计小结(后台多处getshell).pdf)-[原文地址](https://xz.aliyun.com/t/9777)
--  [基于某开源系统的Java代码审计](./books/基于某开源系统的Java代码审计.pdf)-[原文地址](https://xz.aliyun.com/t/9799)
+-  [SpringBoot 框架华夏 ERP 源码审计『java代码审计』](./books/SpringBoot20%框架华夏20%ERP20%源码审计.pdf)
 -  [盘企LCMS的代码审计『CNVD-2021-28469』](./books/盘企LCMS的代码审计『CNVD-2021-28469』.pdf)-[原文地址](https://xz.aliyun.com/t/9800)
+-  [科迈 RAS4.0 审计分析](./books/科迈20%RAS4.020%审计分析.pdf)-[原文地址](https://xz.aliyun.com/t/9809)
 
 ## <span id="head9"> 说明</span>
 
