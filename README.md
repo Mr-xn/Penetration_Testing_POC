@@ -741,6 +741,8 @@
 - [FridaHooker：Android 图形化Frida管理器](https://github.com/wrlu/FridaHooker)
 - [firefox浏览器密码dump工具之.net版](https://github.com/gourk/FirePwd.Net)|[firepwd：firefox密码dump解密工具python版](https://github.com/lclevy/firepwd)|[FireFox-Thief：又一个解密firefox浏览器密码的工具-windows版本](https://github.com/LimerBoy/FireFox-Thief)|[chrome>80的密码解密提取工具-windows版本](https://github.com/LimerBoy/Adamantium-Thief)
 - [Noah-golang版本的批量高速获取单IP 或 C段 title 工具『可指定端口和线程，支持文本批量的单IP或IP段』](https://github.com/ody5sey/Noah)
+- [bmc-tools：从RDP连接的缓存文件中还原图片](https://github.com/ANSSI-FR/bmc-tools)|[RdpCacheStitcher：协助拼图还原RDP缓存图像的工具，和前面的是好搭档](https://github.com/BSI-Bund/RdpCacheStitcher)
+- [phpshell：php大马|php一句话](https://github.com/weepsafe/phpshell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
