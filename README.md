@@ -743,6 +743,7 @@
 - [Noah-golang版本的批量高速获取单IP 或 C段 title 工具『可指定端口和线程，支持文本批量的单IP或IP段』](https://github.com/ody5sey/Noah)
 - [bmc-tools：从RDP连接的缓存文件中还原图片](https://github.com/ANSSI-FR/bmc-tools)|[RdpCacheStitcher：协助拼图还原RDP缓存图像的工具，和前面的是好搭档](https://github.com/BSI-Bund/RdpCacheStitcher)
 - [phpshell：php大马|php一句话](https://github.com/weepsafe/phpshell)
+- [goShellCodeByPassVT：通过线程注入及-race参数免杀全部VT](https://github.com/fcre1938/goShellCodeByPassVT)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
