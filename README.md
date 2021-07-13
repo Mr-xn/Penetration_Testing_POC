@@ -746,6 +746,7 @@
 - [phpshell：php大马|php一句话](https://github.com/weepsafe/phpshell)
 - [goShellCodeByPassVT：通过线程注入及-race参数免杀全部VT](https://github.com/fcre1938/goShellCodeByPassVT)
 - [NGLite-基于区块链网络的匿名跨平台远控程序](https://github.com/Maka8ka/NGLite)-[相关文章](./books/NGLite-基于区块链网络的匿名跨平台远控程序%20_%20Maka8ka's%20Garden.pdf)
+- [SocksOverRDP:通过RDP连接开一个socks代理](https://github.com/nccgroup/SocksOverRDP)-[SharpRDP:通过RDP执行命令](https://github.com/0xthirteen/SharpRDP)-[rdpcmd:通过RDP执行命令](https://github.com/kost/rdpcmd)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
