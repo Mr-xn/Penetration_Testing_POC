@@ -745,6 +745,7 @@
 - [bmc-tools：从RDP连接的缓存文件中还原图片](https://github.com/ANSSI-FR/bmc-tools)|[RdpCacheStitcher：协助拼图还原RDP缓存图像的工具，和前面的是好搭档](https://github.com/BSI-Bund/RdpCacheStitcher)
 - [phpshell：php大马|php一句话](https://github.com/weepsafe/phpshell)
 - [goShellCodeByPassVT：通过线程注入及-race参数免杀全部VT](https://github.com/fcre1938/goShellCodeByPassVT)
+- [NGLite-基于区块链网络的匿名跨平台远控程序](https://github.com/Maka8ka/NGLite)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
