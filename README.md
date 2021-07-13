@@ -209,6 +209,7 @@
 - [CNVD-2021-10543：MessageSolution 企业邮件归档管理系统 EEA 存在信息泄露漏洞](https://github.com/Henry4E36/CNVD-2021-10543)
 - [CVE-2021-26295-POC](https://github.com/yumusb/CVE-2021-26295-POC)
 - [eyouRCE：（CNVD-2021-26422）亿邮电子邮件系统 远程命令执行漏洞 python版本](https://github.com/Henry4E36/eyouRCE)|[EYouMailRCE：jar单文件版本](https://github.com/Tas9er/EYouMailRCE)
+- [ThinkPHP3.2.x RCE漏洞](./books/ThinkPHP3.2.x%20RCE漏洞通报.pdf)
 
 ## <span id="head5"> 提权辅助相关</span>
 
