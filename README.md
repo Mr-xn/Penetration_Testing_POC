@@ -1023,6 +1023,7 @@
 -  [SpringBoot 框架华夏 ERP 源码审计『java代码审计』](./books/SpringBoot20%框架华夏20%ERP20%源码审计.pdf)|[华夏ERP_v2.3.1最新版SQL与RCE的审计过程](./books/华夏ERP_v2.3.1最新版SQL与RCE的审计过程.pdf)
 -  [盘企LCMS的代码审计『CNVD-2021-28469』](./books/盘企LCMS的代码审计『CNVD-2021-28469』.pdf)-[原文地址](https://xz.aliyun.com/t/9800)
 -  [科迈 RAS4.0 审计分析](./books/科迈20%RAS4.020%审计分析.pdf)-[原文地址](https://xz.aliyun.com/t/9809)
+-  [vulnerability-paper：渗透测试、PTE、免杀、靶场复现、hw、内网后渗透、oscp、等收集文章](https://github.com/MrWQ/vulnerability-paper)
 
 ## <span id="head9"> 说明</span>
 
