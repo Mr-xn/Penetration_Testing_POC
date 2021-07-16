@@ -346,7 +346,9 @@
 
 - [【Linux提权】CVE-2021-3560 Local PrivEsc Exploit](https://github.com/swapravo/polkadots)
 
-- [CVE-2021-1675 Windows Print Spooler远程代码执行漏洞](./CVE-2021-1675.md)
+- [【windows提权】CVE-2021-1675 Windows Print Spooler远程代码执行漏洞](./CVE-2021-1675.md)
+
+- [【Linux提权】CVE-2021-22555: Linux Netfilter本地权限提升漏洞](./CVE-2021-22555.md)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -747,6 +749,7 @@
 - [goShellCodeByPassVT：通过线程注入及-race参数免杀全部VT](https://github.com/fcre1938/goShellCodeByPassVT)
 - [NGLite-基于区块链网络的匿名跨平台远控程序](https://github.com/Maka8ka/NGLite)-[相关文章](./books/NGLite-基于区块链网络的匿名跨平台远控程序%20_%20Maka8ka's%20Garden.pdf)
 - [SocksOverRDP:通过RDP连接开一个socks代理](https://github.com/nccgroup/SocksOverRDP)-[SharpRDP:通过RDP执行命令](https://github.com/0xthirteen/SharpRDP)-[rdpcmd:通过RDP执行命令](https://github.com/kost/rdpcmd)
+- [wpscvn：供渗透测试人员、网站所有者测试他们的网站是否有一些易受攻击的插件或主题的工具](https://github.com/sabersebri/wpscvn)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
