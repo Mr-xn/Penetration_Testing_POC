@@ -750,6 +750,7 @@
 - [NGLite-基于区块链网络的匿名跨平台远控程序](https://github.com/Maka8ka/NGLite)-[相关文章](./books/NGLite-基于区块链网络的匿名跨平台远控程序%20_%20Maka8ka's%20Garden.pdf)
 - [SocksOverRDP:通过RDP连接开一个socks代理](https://github.com/nccgroup/SocksOverRDP)-[SharpRDP:通过RDP执行命令](https://github.com/0xthirteen/SharpRDP)-[rdpcmd:通过RDP执行命令](https://github.com/kost/rdpcmd)
 - [wpscvn：供渗透测试人员、网站所有者测试他们的网站是否有一些易受攻击的插件或主题的工具](https://github.com/sabersebri/wpscvn)
+- [xjar：Spring Boot JAR 安全加密运行工具，支持的原生JAR](https://github.com/core-lib/xjar)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
