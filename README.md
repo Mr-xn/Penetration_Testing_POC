@@ -751,6 +751,7 @@
 - [SocksOverRDP:通过RDP连接开一个socks代理](https://github.com/nccgroup/SocksOverRDP)-[SharpRDP:通过RDP执行命令](https://github.com/0xthirteen/SharpRDP)-[rdpcmd:通过RDP执行命令](https://github.com/kost/rdpcmd)
 - [wpscvn：供渗透测试人员、网站所有者测试他们的网站是否有一些易受攻击的插件或主题的工具](https://github.com/sabersebri/wpscvn)
 - [xjar：Spring Boot JAR 安全加密运行工具，支持的原生JAR](https://github.com/core-lib/xjar)
+- [process_ghosting：Windows上通过篡改内存中的可执行文件映射达到绕过杀软的行为查杀](https://github.com/hasherezade/process_ghosting)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
