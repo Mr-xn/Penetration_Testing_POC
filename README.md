@@ -1029,6 +1029,7 @@
 -  [盘企LCMS的代码审计『CNVD-2021-28469』](./books/盘企LCMS的代码审计『CNVD-2021-28469』.pdf)-[原文地址](https://xz.aliyun.com/t/9800)
 -  [科迈 RAS4.0 审计分析](./books/科迈20%RAS4.020%审计分析.pdf)-[原文地址](https://xz.aliyun.com/t/9809)
 -  [vulnerability-paper：渗透测试、PTE、免杀、靶场复现、hw、内网后渗透、oscp、等收集文章](https://github.com/MrWQ/vulnerability-paper)
+-  [IoT安全教程系列](https://github.com/G4rb3n/IoT_Sec_Tutorial)
 
 ## <span id="head9"> 说明</span>
 
