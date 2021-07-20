@@ -752,6 +752,7 @@
 - [wpscvn：供渗透测试人员、网站所有者测试他们的网站是否有一些易受攻击的插件或主题的工具](https://github.com/sabersebri/wpscvn)
 - [xjar：Spring Boot JAR 安全加密运行工具，支持的原生JAR](https://github.com/core-lib/xjar)
 - [process_ghosting：Windows上通过篡改内存中的可执行文件映射达到绕过杀软的行为查杀](https://github.com/hasherezade/process_ghosting)
+- [kali-whoami: 隐私工具, 旨在让您在 Kali Linux 上保持最高级别的匿名性](https://github.com/omer-dogan/kali-whoami)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
