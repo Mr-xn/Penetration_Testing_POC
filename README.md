@@ -350,6 +350,8 @@
 
 - [【Linux提权】CVE-2021-22555: Linux Netfilter本地权限提升漏洞](./CVE-2021-22555.md)
 
+- [【Linux提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/Liang2580/CVE-2021-33909)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
