@@ -1035,6 +1035,7 @@
 -  [Discuz渗透总结](./books/Discuz渗透总结.pdf)
 -  [攻击工具分析：哥斯拉(Godzilla)](./books/攻击工具分析：哥斯拉(Godzilla).pdf)
 -  [干货｜CS免杀和使用](./books/干货｜CS免杀和使用.pdf)
+-  [代码审计之彩虹代刷网系统](./books/代码审计之彩虹代刷网系统.pdf)
 
 ## <span id="head9"> 说明</span>
 
