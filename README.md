@@ -1031,6 +1031,10 @@
 -  [科迈 RAS4.0 审计分析](./books/科迈20%RAS4.020%审计分析.pdf)-[原文地址](https://xz.aliyun.com/t/9809)
 -  [vulnerability-paper：渗透测试、PTE、免杀、靶场复现、hw、内网后渗透、oscp、等收集文章](https://github.com/MrWQ/vulnerability-paper)
 -  [IoT安全教程系列](https://github.com/G4rb3n/IoT_Sec_Tutorial)
+-  [关于file_put_contents的一些小测试](./books/关于file_put_contents的一些小测试.pdf)
+-  [Discuz渗透总结](./books/Discuz渗透总结.pdf)
+-  [攻击工具分析：哥斯拉(Godzilla)](./books/攻击工具分析：哥斯拉(Godzilla).pdf)
+-  [干货｜CS免杀和使用](./books/干货｜CS免杀和使用.pdf)
 
 ## <span id="head9"> 说明</span>
 
