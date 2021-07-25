@@ -755,6 +755,7 @@
 - [xjar：Spring Boot JAR 安全加密运行工具，支持的原生JAR](https://github.com/core-lib/xjar)
 - [process_ghosting：Windows上通过篡改内存中的可执行文件映射达到绕过杀软的行为查杀](https://github.com/hasherezade/process_ghosting)
 - [kali-whoami: 隐私工具, 旨在让您在 Kali Linux 上保持最高级别的匿名性](https://github.com/omer-dogan/kali-whoami)
+- [goon：一款基于golang开发的扫描及爆破工具](https://github.com/i11us0ry/goon)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1038,6 +1039,7 @@
 -  [攻击工具分析：哥斯拉(Godzilla)](./books/攻击工具分析：哥斯拉(Godzilla).pdf)
 -  [干货｜CS免杀和使用](./books/干货｜CS免杀和使用.pdf)
 -  [代码审计之彩虹代刷网系统](./books/代码审计之彩虹代刷网系统.pdf)
+-  [Redis常见漏洞利用方法总结](./books/Redis常见漏洞利用方法总结.pdf)|[Redis系列漏洞总结](./books/Redis系列漏洞总结.pdf)
 
 ## <span id="head9"> 说明</span>
 
