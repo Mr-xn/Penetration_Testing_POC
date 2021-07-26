@@ -756,6 +756,7 @@
 - [process_ghosting：Windows上通过篡改内存中的可执行文件映射达到绕过杀软的行为查杀](https://github.com/hasherezade/process_ghosting)
 - [kali-whoami: 隐私工具, 旨在让您在 Kali Linux 上保持最高级别的匿名性](https://github.com/omer-dogan/kali-whoami)
 - [goon：一款基于golang开发的扫描及爆破工具](https://github.com/i11us0ry/goon)
+- [OXID：通过windows的DCOM接口进行网卡进行信息枚举，无需认证，只要目标的135端口开放即可获得信息](https://github.com/canc3s/OXID)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
