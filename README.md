@@ -352,6 +352,8 @@
 
 - [【Linux提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/Liang2580/CVE-2021-33909)
 
+- [CVE-2021-36934：Windows 特权提升漏洞](./books/CVE-2021-36934：Windows提权漏洞.pdf)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1041,6 +1043,7 @@
 -  [干货｜CS免杀和使用](./books/干货｜CS免杀和使用.pdf)
 -  [代码审计之彩虹代刷网系统](./books/代码审计之彩虹代刷网系统.pdf)
 -  [Redis常见漏洞利用方法总结](./books/Redis常见漏洞利用方法总结.pdf)|[Redis系列漏洞总结](./books/Redis系列漏洞总结.pdf)
+-  [加密固件之依据老固件进行解密](./books/加密固件之依据老固件进行解密.pdf)
 
 ## <span id="head9"> 说明</span>
 
