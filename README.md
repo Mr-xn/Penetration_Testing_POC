@@ -352,7 +352,9 @@
 
 - [【Linux提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/Liang2580/CVE-2021-33909)
 
-- [CVE-2021-36934：Windows 特权提升漏洞](./books/CVE-2021-36934：Windows提权漏洞.pdf)|[CVE-2021-36934 POC](https://github.com/cube0x0/CVE-2021-36934)
+- [【windows提权】CVE-2021-36934：Windows 特权提升漏洞](./books/CVE-2021-36934：Windows提权漏洞.pdf)|[CVE-2021-36934 POC](https://github.com/cube0x0/CVE-2021-36934)
+
+- [【Linux提权】CVE-2021-3490：Linux kernel 缓冲区错误漏洞](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
