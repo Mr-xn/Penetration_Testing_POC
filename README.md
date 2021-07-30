@@ -822,6 +822,7 @@
 - [redis未授权个人总结-Mature](./books/redis未授权个人总结-Mature.pdf)
 - [NTLM中继攻击的新方法](https://www.secureauth.com/blog/what-old-new-again-relay-attack)
 - [PbootCMS审计](./books/PbootCMS审计.pdf)
+- [PbootCMS 3.0.4 SQL注入漏洞复现](./books/PbootCMS%203.0.4%20SQL注入漏洞复现.pdf)
 - [De1CTF2020系列文章](https://github.com/De1ta-team/De1CTF2020)
 - [xss-demo-超级简单版本的XSS练习demo](https://github.com/haozi/xss-demo)
 - [空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透](./books/空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透.pdf)
