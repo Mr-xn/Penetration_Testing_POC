@@ -1049,6 +1049,7 @@
 -  [代码审计之彩虹代刷网系统](./books/代码审计之彩虹代刷网系统.pdf)
 -  [Redis常见漏洞利用方法总结](./books/Redis常见漏洞利用方法总结.pdf)|[Redis系列漏洞总结](./books/Redis系列漏洞总结.pdf)
 -  [加密固件之依据老固件进行解密](./books/加密固件之依据老固件进行解密.pdf)
+-  [Bypass Disable Functions 总结](./books/Bypass%20Disable%20Functions%20总结.pdf)
 
 ## <span id="head9"> 说明</span>
 
