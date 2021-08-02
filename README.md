@@ -763,6 +763,7 @@
 - [OXID：通过windows的DCOM接口进行网卡进行信息枚举，无需认证，只要目标的135端口开放即可获得信息](https://github.com/canc3s/OXID)
 - [gnc：golang 版本的 nc ，支持平时使用的大部分功能，并增加了流量rc4加密](https://github.com/canc3s/gnc)
 - [post-attack：内网渗透：远控、免杀、代理、横向，专注于打点后的内网渗透中涉及到的各类技术](https://github.com/ybdt/post-attack)
+- [jndiat：专为测试Weblogic T3协议安全的工具](https://github.com/quentinhardy/jndiat)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
