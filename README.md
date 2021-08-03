@@ -1051,6 +1051,7 @@
 -  [Redis常见漏洞利用方法总结](./books/Redis常见漏洞利用方法总结.pdf)|[Redis系列漏洞总结](./books/Redis系列漏洞总结.pdf)
 -  [加密固件之依据老固件进行解密](./books/加密固件之依据老固件进行解密.pdf)
 -  [Bypass Disable Functions 总结](./books/Bypass%20Disable%20Functions%20总结.pdf)
+-  [施耐德充电桩漏洞挖掘之旅【IOT设备漏洞挖掘】](./books/施耐德充电桩漏洞挖掘之旅.pdf)
 
 ## <span id="head9"> 说明</span>
 
