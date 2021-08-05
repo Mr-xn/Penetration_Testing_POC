@@ -1058,6 +1058,8 @@
 -  [施耐德充电桩漏洞挖掘之旅【IOT设备漏洞挖掘】](./books/施耐德充电桩漏洞挖掘之旅.pdf)
 -  [微擎最新版前台某处无回显SSRF漏洞](./books/微擎最新版前台某处无回显SSRF漏洞.pdf)
 -  [SpringMVC配合Fastjson的内存马利用与分析](./books/SpringMVC配合Fastjson的内存马利用与分析.pdf)
+-  [php反序列化逃逸](./books/php反序列化逃逸.pdf)
+-  [手把手教你Windows提权【翻译文章】](./books/手把手教你Windows提权【翻译文章】.pdf)
 
 ## <span id="head9"> 说明</span>
 
