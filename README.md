@@ -173,6 +173,8 @@
 - [CVE-2020-5410 Spring Cloud Config目录穿越漏洞](https://xz.aliyun.com/t/7877)
 - [NewZhan CMS 全版本 SQL注入（0day）](./books/NewZhan%20CMS%20全版本%20SQL注入（0day）.pdf)
 - [盲注 or 联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）](./books/盲注%20or%20联合？记一次遇见的奇葩注入点之SEMCMS3.9（0day）.pdf)
+- [记一次SEMCMS代码审计](./books/记一次SEMCMS代码审计.pdf)
+- [对 SEMCMS 再一次审计](./books/对SEMCMS再一次审计.pdf)
 - [从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过](./books/从PbootCMS(2.0.3&2.0.7前台RCE+2.0.8后台RCE)审计到某狗绕过.pdf)
 - [CVE-2020-1948 : Apache Dubbo 远程代码执行漏洞](https://github.com/ctlyz123/CVE-2020-1948)
 - [CVE-2020-5902-F5 BIG-IP 远程代代码执行（RCE）&任意文件包含读取](https://github.com/jas502n/CVE-2020-5902)|[CVE-2020-5902又一EXP加测试docker文件](https://github.com/superzerosec/cve-2020-5902)
@@ -1055,6 +1057,7 @@
 -  [Bypass Disable Functions 总结](./books/Bypass%20Disable%20Functions%20总结.pdf)
 -  [施耐德充电桩漏洞挖掘之旅【IOT设备漏洞挖掘】](./books/施耐德充电桩漏洞挖掘之旅.pdf)
 -  [微擎最新版前台某处无回显SSRF漏洞](./books/微擎最新版前台某处无回显SSRF漏洞.pdf)
+-  [SpringMVC配合Fastjson的内存马利用与分析](./books/SpringMVC配合Fastjson的内存马利用与分析.pdf)
 
 ## <span id="head9"> 说明</span>
 
