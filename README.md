@@ -772,6 +772,7 @@
 - [Cobaltstrike_4.3源码](https://github.com/nice0e3/Cobaltstrike_4.3_Source)
 - [Beaconator：CS becaon 生成](https://github.com/capt-meelo/Beaconator)
 - [MicrosoftWontFixList-微软的设计缺陷导致的提权漏洞列表](https://github.com/cfalta/MicrosoftWontFixList)
+- [unfuck: Python 2.7 字节码反混淆器](https://github.com/landaire/unfuck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
