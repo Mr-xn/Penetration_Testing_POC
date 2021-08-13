@@ -620,6 +620,7 @@
 - [【免杀】ImgLoaderShellCode-将shellcode注入bmp图片文件](https://github.com/sv3nbeast/ImgLoaderShellCode)-[配合这个更佳](https://www.svenbeast.com/post/xue-xi-tu-pian-yin-xie-shellcode-jin-xing-yuan-cheng-jia-zai-guo-av/)
 - [【免杀】DLL 代理转发与维权](./books/%E3%80%90%E5%85%8D%E6%9D%80%E3%80%91DLL%20%E4%BB%A3%E7%90%86%E8%BD%AC%E5%8F%91%E4%B8%8E%E7%BB%B4%E6%9D%83.pdf)-[原文地址](https://mp.weixin.qq.com/s/zUXrNsf9IsZWocrb7z3i1Q)
 - [【免杀】使用nim语言进行shellcode加载](https://github.com/M-Kings/BypassAv-web)
+- [【免杀】bypassAV：借助Win-PS2EXE项目编写cna脚本方便快速生成免杀可执行文件](https://github.com/cseroad/bypassAV)
 - [LangNetworkTopologys-快速进行内网资产扫描，支持端口扫描，指纹识别，网站探测，结果支持图表展示](https://github.com/LangziFun/LangNetworkTopologys)
 - [weblogic_exploit-weblogic漏洞利用工具【包括了weblogic常见高危漏洞的利用】](https://github.com/21superman/weblogic_exploit)
 - [rsync_weakpass.py-rsync弱口令爆破脚本](https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py)
@@ -768,6 +769,9 @@
 - [jndiat：专为测试Weblogic T3协议安全的工具](https://github.com/quentinhardy/jndiat)
 - [RabR：Redis-Attack By Replication (通过主从复制攻击Redis)](https://github.com/0671/RabR)
 - [hysteria：恶劣网络环境下的双边加速工具](https://github.com/HyNetwork/hysteria)
+- [Cobaltstrike_4.3源码](https://github.com/nice0e3/Cobaltstrike_4.3_Source)
+- [Beaconator：CS becaon 生成](https://github.com/capt-meelo/Beaconator)
+- [MicrosoftWontFixList-微软的设计缺陷导致的提权漏洞列表](https://github.com/cfalta/MicrosoftWontFixList)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
