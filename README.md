@@ -774,6 +774,7 @@
 - [MicrosoftWontFixList-微软的设计缺陷导致的提权漏洞列表](https://github.com/cfalta/MicrosoftWontFixList)
 - [unfuck: Python 2.7 字节码反混淆器](https://github.com/landaire/unfuck)
 - [Mimikore: .NET 5 单文件应用程序. Mimikatz 或任何 Base64 PE 加载程序](https://github.com/secdev-01/Mimikore)
+- [kinject: 内核Shellcode注入器](https://github.com/w1u0u1/kinject)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
