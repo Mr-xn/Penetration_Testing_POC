@@ -1067,6 +1067,7 @@
 -  [SpringMVC配合Fastjson的内存马利用与分析](./books/SpringMVC配合Fastjson的内存马利用与分析.pdf)
 -  [php反序列化逃逸](./books/php反序列化逃逸.pdf)
 -  [手把手教你Windows提权【翻译文章】](./books/手把手教你Windows提权【翻译文章】.pdf)
+-  [免杀转储lsass进程技巧](./books/免杀转储lsass进程技巧.pdf)
 
 ## <span id="head9"> 说明</span>
 
