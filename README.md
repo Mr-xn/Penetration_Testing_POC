@@ -1069,6 +1069,7 @@
 -  [手把手教你Windows提权【翻译文章】](./books/手把手教你Windows提权【翻译文章】.pdf)
 -  [免杀转储lsass进程技巧](./books/免杀转储lsass进程技巧.pdf)
 -  [Java内存攻击技术漫谈](./books/Java内存攻击技术漫谈.pdf)
+-  [内网域渗透-WMI 横向移动](./books/内网域渗透-WMI%20横向移动.pdf)
 
 ## <span id="head9"> 说明</span>
 
