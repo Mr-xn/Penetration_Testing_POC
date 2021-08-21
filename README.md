@@ -445,6 +445,7 @@
 - [【内网代理】php-proxy-app-一款代理访问网站的工具](https://github.com/Athlon1600/php-proxy-app)
 - [【内网代理】reDuh-通过http隧道搭建代理（比较远古，酌情使用）](https://github.com/sensepost/reDuh)
 - [【内网代理】chisel：一款快速稳定的隧道工具(通过HTTP传输使用SSH加密)](https://github.com/jpillora/chisel) - [相关文章介绍](https://www.anquanke.com/post/id/234771)
+- [【内网代理】Ecloud是一款基于http/1.1协议传输TCP流量的工具，适用于内网不出网时通过web代理脚本转发tcp流量，以达到socket5隧道、内网cs等程序上线、反弹虚拟终端等功能](https://github.com/CTF-MissFeng/Ecloud)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
 - [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
