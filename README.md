@@ -777,6 +777,8 @@
 - [Mimikore: .NET 5 单文件应用程序. Mimikatz 或任何 Base64 PE 加载程序](https://github.com/secdev-01/Mimikore)
 - [kinject: 内核Shellcode注入器](https://github.com/w1u0u1/kinject)
 - [Tiny-XSS-Payloads：超级精简的XSS payload](https://github.com/terjanq/Tiny-XSS-Payloads)
+- [domhttpx：用python开发的 google搜索 工具](https://github.com/naufalardhani/domhttpx)
+- [NSE-scripts：nmap检测脚本（CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST, CVE-2021-21972, proxyshell, CVE-2021-34473）](https://github.com/psc4re/NSE-scripts)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
