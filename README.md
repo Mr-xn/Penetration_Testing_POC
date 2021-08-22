@@ -358,7 +358,7 @@
 
 - [【Linux提权】CVE-2021-3490：Linux kernel 缓冲区错误漏洞](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)
 
-- [CVE-2021-34473：Microsoft Exchange Server Remote Code Execution](https://github.com/phamphuqui1998/CVE-2021-34473)
+- [CVE-2021-34473：Microsoft Exchange Server Remote Code Execution](https://github.com/phamphuqui1998/CVE-2021-34473)|[proxyshell-auto：自动化的ProxyShell漏洞利用](https://github.com/Udyz/proxyshell-auto)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
