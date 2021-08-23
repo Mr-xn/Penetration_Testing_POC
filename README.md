@@ -1077,6 +1077,11 @@
 -  [免杀转储lsass进程技巧](./books/免杀转储lsass进程技巧.pdf)
 -  [Java内存攻击技术漫谈](./books/Java内存攻击技术漫谈.pdf)
 -  [内网域渗透-WMI 横向移动](./books/内网域渗透-WMI%20横向移动.pdf)
+-  [零起飞CRM管理系统（07FLY-CRM）-代码审计（任意文件删除+RCE+任意文件上传+SQL注入）](./books/%E9%9B%B6%E8%B5%B7%E9%A3%9ECRM%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%8807FLY-CRM%EF%BC%89-%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%EF%BC%88%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4+RCE+%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0+SQL%E6%B3%A8%E5%85%A5%EF%BC%89.pdf)
+-  [盘企-LCMS代码审计（vv2021.0521152900+v2021.0528154955）](./books/%E7%9B%98%E4%BC%81-LCMS%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%EF%BC%88vv2021.0521152900+v2021.0528154955%EF%BC%89.pdf)
+-  [zzcms2020代码审计](./books/zzcms2020代码审计.pdf)
+-  [Spring渗透合集](./books/Spring渗透合集.pdf)
+-  [Jboss渗透合集](./books/Jboss渗透合集.pdf)
 
 ## <span id="head9"> 说明</span>
 
