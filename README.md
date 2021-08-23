@@ -782,6 +782,7 @@
 - [domhttpx：用python开发的 google搜索 工具](https://github.com/naufalardhani/domhttpx)
 - [NSE-scripts：nmap检测脚本（CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST, CVE-2021-21972, proxyshell, CVE-2021-34473）](https://github.com/psc4re/NSE-scripts)
 - [vscan：开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)](https://github.com/veo/vscan)
+- [evilzip：制作恶意的zip压缩包工具](https://github.com/TheKingOfDuck/evilzip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
