@@ -1086,6 +1086,7 @@
 -  [Jboss渗透合集](./books/Jboss渗透合集.pdf)
 -  [使用DCOM进行横向渗透](./books/使用DCOM进行横向渗透.pdf)
 -  [Invoke-Obfuscation-Bypass + PS2EXE 绕过主流杀软](./books/Invoke-Obfuscation-Bypass%20+%20PS2EXE%20%E7%BB%95%E8%BF%87%E4%B8%BB%E6%B5%81%E6%9D%80%E8%BD%AF.pdf)
+-  [python反序列化-分离免杀](./books/python反序列化-分离免杀.pdf)
 
 ## <span id="head9"> 说明</span>
 
