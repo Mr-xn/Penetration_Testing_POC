@@ -785,6 +785,7 @@
 - [evilzip：制作恶意的zip压缩包工具](https://github.com/TheKingOfDuck/evilzip)
 - [oFx-漏洞批量扫描框架，0Day/1Day全网概念验证](https://github.com/bigblackhat/oFx)
 - [shiro rememberMe 在线加解密工具](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode)
+- [tp_scan：thinkphp 一键化扫描工具 优化版](https://github.com/cqkenuo/tp_scan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
