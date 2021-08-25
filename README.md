@@ -784,6 +784,7 @@
 - [vscan：开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)](https://github.com/veo/vscan)
 - [evilzip：制作恶意的zip压缩包工具](https://github.com/TheKingOfDuck/evilzip)
 - [oFx-漏洞批量扫描框架，0Day/1Day全网概念验证](https://github.com/bigblackhat/oFx)
+- [shiro rememberMe 在线加解密工具](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1087,6 +1088,7 @@
 -  [使用DCOM进行横向渗透](./books/使用DCOM进行横向渗透.pdf)
 -  [Invoke-Obfuscation-Bypass + PS2EXE 绕过主流杀软](./books/Invoke-Obfuscation-Bypass%20+%20PS2EXE%20%E7%BB%95%E8%BF%87%E4%B8%BB%E6%B5%81%E6%9D%80%E8%BD%AF.pdf)
 -  [python反序列化-分离免杀](./books/python反序列化-分离免杀.pdf)
+-  [JWT安全(总结得很全面)](./books/JWT安全(总结得很全面).pdf)
 
 ## <span id="head9"> 说明</span>
 
