@@ -786,6 +786,7 @@
 - [oFx-漏洞批量扫描框架，0Day/1Day全网概念验证](https://github.com/bigblackhat/oFx)
 - [shiro rememberMe 在线加解密工具](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode)
 - [tp_scan：thinkphp 一键化扫描工具 优化版](https://github.com/cqkenuo/tp_scan)
+- [apitool：Windows Api调用【添加用户，添加用户到组，更改用户密码，删除用户，列出计算机上所有用户，列出计算机上所有组】](https://github.com/M-Kings/apitool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
