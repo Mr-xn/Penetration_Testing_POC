@@ -787,6 +787,7 @@
 - [shiro rememberMe 在线加解密工具](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode)
 - [tp_scan：thinkphp 一键化扫描工具 优化版](https://github.com/cqkenuo/tp_scan)
 - [apitool：Windows Api调用【添加用户，添加用户到组，更改用户密码，删除用户，列出计算机上所有用户，列出计算机上所有组】](https://github.com/M-Kings/apitool)
+- [spring-boot-upload-file-lead-to-rce-tricks：spring boot Fat Jar 任意写文件漏洞到稳定 RCE 利用技巧](https://github.com/LandGrey/spring-boot-upload-file-lead-to-rce-tricks)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
