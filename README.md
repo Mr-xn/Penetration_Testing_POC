@@ -159,7 +159,7 @@
 - [通达OA前台任意用户伪造登录漏洞批量检测](./通达OA前台任意用户伪造登录漏洞批量检测.md)
 - [CVE-2020-11890 JoomlaRCE <3.9.17  远程命令执行漏洞(需要有效的账号密码)](https://github.com/HoangKien1020/CVE-2020-11890)
 - [CVE-2020-10238【JoomlaRCE <= 3.9.15 远程命令执行漏洞(需要有效的账号密码)】&CVE-2020-10239【JoomlaRCE 3.7.0 to 3.9.15 远程命令执行漏洞(需要有效的账号密码)】](https://github.com/HoangKien1020/CVE-2020-10238)
-- [CVE-2020-2546，CVE-2020-2915 CVE-2020-2801 CVE-2020-2798 CVE-2020-2883 CVE-2020-2884 CVE-2020-2950 WebLogic T3 payload exploit poc python3](https://github.com/hktalent/CVE_2020_2546)|[CVE-2020-2883-Weblogic coherence.jar RCE](https://github.com/Y4er/CVE-2020-2883)|[WebLogic-Shiro-shell-WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell](https://github.com/Y4er/WebLogic-Shiro-shell)
+- [CVE-2020-2546，CVE-2020-2915 CVE-2020-2801 CVE-2020-2798 CVE-2020-2883 CVE-2020-2884 CVE-2020-2950 WebLogic T3 payload exploit poc python3](https://github.com/hktalent/CVE_2020_2546)|[CVE-2020-2883-Weblogic coherence.jar RCE](https://github.com/Y4er/CVE-2020-2883)|[WebLogic-Shiro-shell-WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell](https://github.com/Y4er/WebLogic-Shiro-shell)|[shiro_rce_tool：可能是最好用的shiro利用工具](https://github.com/wyzxxz/shiro_rce_tool)
 - [tongda_oa_rce-通达oa 越权登录+文件上传getshell](https://github.com/clm123321/tongda_oa_rce)
 - [CVE-2020-11651-SaltStack Proof of Concept【认证绕过RCE漏洞】](https://github.com/0xc0d/CVE-2020-11651)|[CVE-2020-11651&&CVE-2020-11652 EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP)
 - [showdoc的api_page存在任意文件上传getshell](./showdoc的api_page存在任意文件上传getshell.md)
@@ -791,6 +791,7 @@
 - [Frog-Fp：批量深度指纹识别框架](https://github.com/timwhitez/Frog-Fp)
 - [AlliN：python单文件，无依赖的快速打点的综合工具](https://github.com/P1-Team/AlliN)
 - [Troy：更高级的免杀webshell生成工具](https://github.com/pureqh/Troy)
+- [aksk_tool：AK利用工具，阿里云/腾讯云 AccessKey AccessKeySecret，利用AK获取资源信息和操作资源，ECS/CVM操作，OSS/COS管理，RDS管理，域名管理，添加RAM账号等](https://github.com/wyzxxz/aksk_tool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
