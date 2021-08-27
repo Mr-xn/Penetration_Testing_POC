@@ -789,6 +789,7 @@
 - [apitool：Windows Api调用【添加用户，添加用户到组，更改用户密码，删除用户，列出计算机上所有用户，列出计算机上所有组】](https://github.com/M-Kings/apitool)
 - [spring-boot-upload-file-lead-to-rce-tricks：spring boot Fat Jar 任意写文件漏洞到稳定 RCE 利用技巧](https://github.com/LandGrey/spring-boot-upload-file-lead-to-rce-tricks)
 - [Frog-Fp：批量深度指纹识别框架](https://github.com/timwhitez/Frog-Fp)
+- [AlliN：python单文件，无依赖的快速打点的综合工具](https://github.com/P1-Team/AlliN)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
