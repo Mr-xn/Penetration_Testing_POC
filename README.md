@@ -792,6 +792,7 @@
 - [AlliN：python单文件，无依赖的快速打点的综合工具](https://github.com/P1-Team/AlliN)
 - [Troy：更高级的免杀webshell生成工具](https://github.com/pureqh/Troy)
 - [aksk_tool：AK利用工具，阿里云/腾讯云 AccessKey AccessKeySecret，利用AK获取资源信息和操作资源，ECS/CVM操作，OSS/COS管理，RDS管理，域名管理，添加RAM账号等](https://github.com/wyzxxz/aksk_tool)
+- [heapdump_tool：heapdump敏感信息查询工具，例如查找 spring heapdump中的密码明文，AK,SK等](https://github.com/wyzxxz/heapdump_tool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
