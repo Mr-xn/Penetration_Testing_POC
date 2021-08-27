@@ -1097,6 +1097,7 @@
 -  [Invoke-Obfuscation-Bypass + PS2EXE 绕过主流杀软](./books/Invoke-Obfuscation-Bypass%20+%20PS2EXE%20%E7%BB%95%E8%BF%87%E4%B8%BB%E6%B5%81%E6%9D%80%E8%BD%AF.pdf)
 -  [python反序列化-分离免杀](./books/python反序列化-分离免杀.pdf)
 -  [JWT安全(总结得很全面)](./books/JWT安全(总结得很全面).pdf)
+-  [Active Directory 证书服务(一)](./books/Active%20Directory%20证书服务(一).pdf)
 
 ## <span id="head9"> 说明</span>
 
