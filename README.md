@@ -790,6 +790,7 @@
 - [spring-boot-upload-file-lead-to-rce-tricks：spring boot Fat Jar 任意写文件漏洞到稳定 RCE 利用技巧](https://github.com/LandGrey/spring-boot-upload-file-lead-to-rce-tricks)
 - [Frog-Fp：批量深度指纹识别框架](https://github.com/timwhitez/Frog-Fp)
 - [AlliN：python单文件，无依赖的快速打点的综合工具](https://github.com/P1-Team/AlliN)
+- [Troy：更高级的免杀webshell生成工具](https://github.com/pureqh/Troy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
