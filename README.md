@@ -1099,6 +1099,10 @@
 -  [python反序列化-分离免杀](./books/python反序列化-分离免杀.pdf)
 -  [JWT安全(总结得很全面)](./books/JWT安全(总结得很全面).pdf)
 -  [Active Directory 证书服务(一)](./books/Active%20Directory%20证书服务(一).pdf)
+-  [CS4.4原版使用手册-csmanual44](./books/csmanual44.pdf)
+-  [tomcat漏洞大杂烩](./books/tomcat漏洞大杂烩.pdf)
+-  [linux suid权限维持速查表](./books/linux%20suid权限维持速查表.pdf)
+-  [从0学习bypass open_basedir姿势](./books/从0学习bypass%20open_basedir姿势.pdf)
 
 ## <span id="head9"> 说明</span>
 
