@@ -860,6 +860,7 @@
 - [SillyRAT：跨平台、多功能远控](https://github.com/hash3liZer/SillyRAT)
 - [HandleKatz: 使用 Lsass 的克隆句柄来创建相同的混淆内存转储](https://github.com/codewhitesec/HandleKatz)
 - [HTTPUploadExfil: 用于渗透数据/文件的简易 HTTP 服务器](https://github.com/IngoKl/HTTPUploadExfil)
+- [CSAgent：CobaltStrike 4.x通用白嫖及汉化加载器](https://github.com/Twi1ight/CSAgent)|[备份下载](./tools/CSAgent.zip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
