@@ -1104,6 +1104,7 @@
 -  [tomcat漏洞大杂烩](./books/tomcat漏洞大杂烩.pdf)
 -  [linux suid权限维持速查表](./books/linux%20suid权限维持速查表.pdf)
 -  [从0学习bypass open_basedir姿势](./books/从0学习bypass%20open_basedir姿势.pdf)
+-  [HackerOneReports：hacker历年公开的漏洞报告](https://github.com/aldaor/HackerOneReports)
 
 ## <span id="head9"> 说明</span>
 
