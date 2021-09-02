@@ -1106,6 +1106,7 @@
 -  [从0学习bypass open_basedir姿势](./books/从0学习bypass%20open_basedir姿势.pdf)
 -  [HackerOneReports：hacker历年公开的漏洞报告](https://github.com/aldaor/HackerOneReports)
 -  [从JDBC到h2 database任意命令执行](./books/从JDBC到h2%20database任意命令执行.pdf)
+-  [Confluence Servers RCE 漏洞(CVE-2021-26084)分析](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
 
 ## <span id="head9"> 说明</span>
 
