@@ -797,6 +797,7 @@
 - [SharpBeacon：CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能](https://github.com/mai1zhi2/SharpBeacon)
 - [RocB：Java代码审计IDEA插件 SAST](https://github.com/XianYanTechnology/RocB)
 - [sx：快速易用的现代化网络扫描工具](https://github.com/v-byte-cpu/sx)
+- [【内网】RestrictedAdmin：远程启用受限管理员模式](https://github.com/GhostPack/RestrictedAdmin)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
