@@ -798,6 +798,7 @@
 - [RocB：Java代码审计IDEA插件 SAST](https://github.com/XianYanTechnology/RocB)
 - [sx：快速易用的现代化网络扫描工具](https://github.com/v-byte-cpu/sx)
 - [【内网】RestrictedAdmin：远程启用受限管理员模式](https://github.com/GhostPack/RestrictedAdmin)
+- [NewNtdllBypassInlineHook_CSharp：通过文件映射加载 ntdll.dll 的新副本以绕过 API 内联hook](https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
