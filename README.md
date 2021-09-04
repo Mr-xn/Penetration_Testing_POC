@@ -795,6 +795,8 @@
 - [heapdump_tool：heapdump敏感信息查询工具，例如查找 spring heapdump中的密码明文，AK,SK等](https://github.com/wyzxxz/heapdump_tool)-[备份下载](./tools/heapdump_tool.jar)
 - [ShuiZe_0x727：水泽-信息收集自动化工具](https://github.com/0x727/ShuiZe_0x727)
 - [SharpBeacon：CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能](https://github.com/mai1zhi2/SharpBeacon)
+- [RocB：Java代码审计IDEA插件 SAST](https://github.com/XianYanTechnology/RocB)
+- [sx：快速易用的现代化网络扫描工具](https://github.com/v-byte-cpu/sx)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1107,6 +1109,7 @@
 -  [HackerOneReports：hacker历年公开的漏洞报告](https://github.com/aldaor/HackerOneReports)
 -  [从JDBC到h2 database任意命令执行](./books/从JDBC到h2%20database任意命令执行.pdf)
 -  [Confluence Servers RCE 漏洞(CVE-2021-26084)分析](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
+-  [secguide：面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide)
 
 ## <span id="head9"> 说明</span>
 
