@@ -360,6 +360,8 @@
 
 - [CVE-2021-34473：Microsoft Exchange Server Remote Code Execution](https://github.com/phamphuqui1998/CVE-2021-34473)|[proxyshell-auto：自动化的ProxyShell漏洞利用](https://github.com/Udyz/proxyshell-auto)
 
+- [【Linux 提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/ChrisTheCoolHut/CVE-2021-33909)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
