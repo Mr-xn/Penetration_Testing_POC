@@ -802,6 +802,7 @@
 - [【内网】RestrictedAdmin：远程启用受限管理员模式](https://github.com/GhostPack/RestrictedAdmin)
 - [NewNtdllBypassInlineHook_CSharp：通过文件映射加载 ntdll.dll 的新副本以绕过 API 内联hook](https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp)
 - [spp：简单强大的多协议双向代理工具 A simple and powerful proxy](https://github.com/esrrhs/spp)
+- [AVByPass：一款Web在线自动免杀工具（利用 Python 反序列化免杀）](https://github.com/yhy0/AVByPass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
