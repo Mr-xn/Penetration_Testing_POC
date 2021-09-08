@@ -804,6 +804,7 @@
 - [spp：简单强大的多协议双向代理工具 A simple and powerful proxy](https://github.com/esrrhs/spp)
 - [【免杀】AVByPass：一款Web在线自动免杀工具（利用 Python 反序列化免杀）](https://github.com/yhy0/AVByPass)
 - [【免杀】ZheTian：免杀shellcode加载框架](https://github.com/yqcs/ZheTian)
+- [LSTAR：CobaltStrike 综合后渗透插件](https://github.com/lintstar/LSTAR)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
