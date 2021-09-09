@@ -1118,6 +1118,7 @@
 -  [从JDBC到h2 database任意命令执行](./books/从JDBC到h2%20database任意命令执行.pdf)
 -  [Confluence Servers RCE 漏洞(CVE-2021-26084)分析](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
 -  [secguide：面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide)
+-  [JDBC-Attack：当 JDBC Connection URL 可控的情况下，可以做那些攻击](https://github.com/su18/JDBC-Attack)
 
 ## <span id="head9"> 说明</span>
 
