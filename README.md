@@ -805,6 +805,7 @@
 - [【免杀】AVByPass：一款Web在线自动免杀工具（利用 Python 反序列化免杀）](https://github.com/yhy0/AVByPass)
 - [【免杀】ZheTian：免杀shellcode加载框架](https://github.com/yqcs/ZheTian)
 - [LSTAR：CobaltStrike 综合后渗透插件](https://github.com/lintstar/LSTAR)
+- [SharpSQLTools：有了 sqlserver 权限后，可用来上传下载文件，xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作](https://github.com/uknowsec/SharpSQLTools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
