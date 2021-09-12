@@ -362,6 +362,8 @@
 
 - [【Linux 提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/ChrisTheCoolHut/CVE-2021-33909)
 
+- [CVE-2021-40444：Windows MSHTML 0day漏洞](https://github.com/lockedbyte/CVE-2021-40444)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
