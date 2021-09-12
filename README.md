@@ -808,6 +808,7 @@
 - [SharpSQLTools：有了 sqlserver 权限后，可用来上传下载文件，xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作](https://github.com/uknowsec/SharpSQLTools)
 - [spring-boot-webshell：但文件版 spring-boot webshell环境](https://github.com/durkworf/spring-boot-webshell)|[SpringBootWebshell：Springboot的一个webshell](https://github.com/fupinglee/SpringBootWebshell)
 - [java-object-searcher：java内存对象搜索辅助工具](https://github.com/c0ny1/java-object-searcher)
+- [GTFOBins：通过Linux 系统中错误的配置来提升权限](https://gtfobins.github.io/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
