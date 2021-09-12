@@ -1122,6 +1122,7 @@
 -  [Confluence Servers RCE 漏洞(CVE-2021-26084)分析](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
 -  [secguide：面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide)
 -  [JDBC-Attack：当 JDBC Connection URL 可控的情况下，可以做那些攻击](https://github.com/su18/JDBC-Attack)
+-  [从ByteCTF到bypass_disable_function](./books/从ByteCTF到bypass_disable_function.pdf)
 
 ## <span id="head9"> 说明</span>
 
