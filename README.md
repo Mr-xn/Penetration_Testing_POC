@@ -212,6 +212,7 @@
 - [CVE-2021-26295-POC](https://github.com/yumusb/CVE-2021-26295-POC)
 - [eyouRCE：（CNVD-2021-26422）亿邮电子邮件系统 远程命令执行漏洞 python版本](https://github.com/Henry4E36/eyouRCE)|[EYouMailRCE：jar单文件版本](https://github.com/Tas9er/EYouMailRCE)
 - [ThinkPHP3.2.x RCE漏洞](./books/ThinkPHP3.2.x%20RCE漏洞通报.pdf)
+- [Apache Solr SSRF(CVE-2021-27905)](https://github.com/Henry4E36/Solr-SSRF)
 
 ## <span id="head5"> 提权辅助相关</span>
 
