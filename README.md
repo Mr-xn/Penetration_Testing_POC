@@ -812,6 +812,7 @@
 - [spring-boot-webshell：但文件版 spring-boot webshell环境](https://github.com/durkworf/spring-boot-webshell)|[SpringBootWebshell：Springboot的一个webshell](https://github.com/fupinglee/SpringBootWebshell)
 - [java-object-searcher：java内存对象搜索辅助工具](https://github.com/c0ny1/java-object-searcher)
 - [GTFOBins：通过Linux 系统中错误的配置来提升权限](https://gtfobins.github.io/)
+- [QueenSono: 使用 ICMP 协议进行数据渗透](https://github.com/ariary/QueenSono)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
