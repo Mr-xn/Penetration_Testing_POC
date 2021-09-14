@@ -814,6 +814,7 @@
 - [GTFOBins：通过Linux 系统中错误的配置来提升权限](https://gtfobins.github.io/)
 - [QueenSono: 使用 ICMP 协议进行数据渗透](https://github.com/ariary/QueenSono)
 - [Pollenisator: 具有高度可定制工具的协作渗透测试工具](https://github.com/AlgoSecure/Pollenisator)
+- [arsenal：常用黑客程序的命令补全快速启动工具](https://github.com/Orange-Cyberdefense/arsenal)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
