@@ -1131,6 +1131,7 @@
 -  [JDBC-Attack：当 JDBC Connection URL 可控的情况下，可以做那些攻击](https://github.com/su18/JDBC-Attack)
 -  [从ByteCTF到bypass_disable_function](./books/从ByteCTF到bypass_disable_function.pdf)
 -  [利用安全描述符隐藏服务后门进行权限维持](./books/利用安全描述符隐藏服务后门进行权限维持.pdf)
+-  [理解 Windows 域渗透-Understanding_Windows_Lateral_Movements](./books/理解%20Windows%20域渗透-Understanding_Windows_Lateral_Movements.pdf)
 
 ## <span id="head9"> 说明</span>
 
