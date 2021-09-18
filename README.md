@@ -42,6 +42,7 @@
 - [ios-nehelper-wifi-info-0day](https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day)
 - [ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day)
 - [iOS 15.0.1 RCE PoC](https://github.com/jonathandata1/ios_15_rce)
+- [CVE-2021-36260：海康威视产品命令注入漏洞](https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html)
 
 ## <span id="head4">Web APP</span>
 
