@@ -821,6 +821,7 @@
 - [AllatoriCrack：破解 Java 混淆工具 Allatori](https://github.com/lqs1848/AllatoriCrack)
 - [CuiRi：一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马](https://github.com/NyDubh3/CuiRi)
 - [Xjar_tips：Spring Boot JAR 安全加密运行工具, 同时支持的原生JAR](https://github.com/jas502n/Xjar_tips)
+- [druid_sessions：提取 Druid 的 session 工具](https://github.com/yuyan-sec/druid_sessions)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
