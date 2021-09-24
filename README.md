@@ -823,6 +823,7 @@
 - [Xjar_tips：Spring Boot JAR 安全加密运行工具, 同时支持的原生JAR](https://github.com/jas502n/Xjar_tips)
 - [druid_sessions：提取 Druid 的 session 工具](https://github.com/yuyan-sec/druid_sessions)
 - [xmap：快速网络扫描器, 专为执行互联网范围内的 IPv6 和IPv4 网络研究扫描而设计](https://github.com/idealeer/xmap)
+- [WAF-bypass-xss-payloads：一直更新的 bypass waf 的 XSS payload 仓库](https://github.com/Walidhossain010/WAF-bypass-xss-payloads)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
