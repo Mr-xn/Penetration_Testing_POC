@@ -827,6 +827,7 @@
 - [vshell：基于蚁剑控制台编写的rat，使用蚁剑远程控制主机](https://github.com/veo/vshell)
 - [CVE-2021-21985：VMware vCenter Server远程代码执行漏洞](https://github.com/testanull/Project_CVE-2021-21985_PoC)|[可回显的POC](https://github.com/r0ckysec/CVE-2021-21985)
 - [FuckAV：python写的一款免杀工具（shellcode加载器）BypassAV](https://github.com/iframepm/FuckAV)
+- [【免杀】avcleaner：通过分析抽象语法树的方式进行字符串混淆并重写系统调用来隐藏API函数的使用，使其绕过杀软的静态文件扫描和动态的API函数行为检测](https://github.com/scrt/avcleaner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
