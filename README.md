@@ -1146,6 +1146,7 @@
 -  [利用安全描述符隐藏服务后门进行权限维持](./books/利用安全描述符隐藏服务后门进行权限维持.pdf)
 -  [理解 Windows 域渗透-Understanding_Windows_Lateral_Movements](./books/理解%20Windows%20域渗透-Understanding_Windows_Lateral_Movements.pdf)
 -  [DLL劫持快速挖掘教程](./books/DLL劫持快速挖掘教程.pdf)
+-  [Bypass_AV - Windows Defender](./books/Bypass_AV%20-%20Windows%20Defender.pdf)
 
 ## <span id="head9"> 说明</span>
 
