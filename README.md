@@ -831,6 +831,7 @@
 - [cDogScan：又一款多服务口令爆破、内网常见服务未授权访问探测，端口扫描工具](https://github.com/fuzz7j/cDogScan)
 - [henggeFish：自动化批量发送钓鱼邮件](https://github.com/SkewwG/henggeFish)
 - [EXOCET-AV-Evasion：可绕过杀软的 Payload 投递工具](https://github.com/tanc7/EXOCET-AV-Evasion)
+- [DNSlog-GO：DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面](https://github.com/lanyi1998/DNSlog-GO)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
