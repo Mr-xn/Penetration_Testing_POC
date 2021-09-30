@@ -832,6 +832,9 @@
 - [henggeFish：自动化批量发送钓鱼邮件](https://github.com/SkewwG/henggeFish)
 - [EXOCET-AV-Evasion：可绕过杀软的 Payload 投递工具](https://github.com/tanc7/EXOCET-AV-Evasion)
 - [DNSlog-GO：DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面](https://github.com/lanyi1998/DNSlog-GO)
+- [SCFProxy：一个利用腾讯云函数服务做 HTTP 代理、SOCKS5 代理、反弹 shell、C2 域名隐藏的工具](https://github.com/shimmeris/SCFProxy)
+- [firezone：通过 web 界面来管理 wireguard ](https://github.com/firezone/firezone)
+- [Atlas：帮助你快速筛选测试能够绕过 waf 的 sqlmap tamper](https://github.com/m4ll0k/Atlas)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
