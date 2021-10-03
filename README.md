@@ -838,6 +838,7 @@
 - [cobaltstrike-bof-toolset：在cobaltstrike中使用的bof工具集，收集整理验证好用的bof](https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset)
 - [domainNamePredictor：一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
 - [GoScan：采用Golang语言编写的一款分布式综合资产管理系统，适合红队、SRC等使用](https://github.com/CTF-MissFeng/GoScan)
+- [Finger：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具](https://github.com/EASY233/Finger)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
