@@ -839,6 +839,7 @@
 - [domainNamePredictor：一个简单的现代化公司域名使用规律预测及生成工具](https://github.com/LandGrey/domainNamePredictor)
 - [GoScan：采用Golang语言编写的一款分布式综合资产管理系统，适合红队、SRC等使用](https://github.com/CTF-MissFeng/GoScan)
 - [Finger：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具](https://github.com/EASY233/Finger)
+- [ast-hook-for-js-RE：浏览器内存漫游解决方案（JS逆向）](https://github.com/CC11001100/ast-hook-for-js-RE)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
