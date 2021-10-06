@@ -38,6 +38,9 @@
 - [CNVD-2021-14536_锐捷RG-UAC统一上网行为管理审计系统账号密码信息泄露漏洞](./CNVD-2021-14536_锐捷RG-UAC统一上网行为管理审计系统账号密码信息泄露漏洞.md)
 - [CNVD-2021-14544:Hikvision 海康威视流媒体管理服务器任意文件读取](https://github.com/Henry4E36/Hikvision)
 - [CNVD-2020-25078:D-link 敏感信息泄漏，可以直接获取账户密码查看监控](https://github.com/Henry4E36/D-link-information)
+- [ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)
+- [ios-nehelper-wifi-info-0day](https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day)
+- [ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day)
 
 ## <span id="head4">Web APP</span>
 
