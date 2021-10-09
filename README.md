@@ -218,6 +218,7 @@
 - [ThinkPHP3.2.x RCE漏洞](./books/ThinkPHP3.2.x%20RCE漏洞通报.pdf)
 - [Apache Solr SSRF(CVE-2021-27905)](https://github.com/Henry4E36/Solr-SSRF)
 - [Coremail任意文件上传漏洞POC,支持单个或者批量检测](https://github.com/jimoyong/CoreMailUploadRce)
+- [CVE-2021-26086 ：Atlassian Jira Server/Data Center 8.4.0 File Read 漏洞](https://github.com/ColdFusionX/CVE-2021-26086)
 
 ## <span id="head5"> 提权辅助相关</span>
 
