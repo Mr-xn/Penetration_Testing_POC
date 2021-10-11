@@ -220,6 +220,7 @@
 - [Coremail任意文件上传漏洞POC,支持单个或者批量检测](https://github.com/jimoyong/CoreMailUploadRce)
 - [CVE-2021-26086 ：Atlassian Jira Server/Data Center 8.4.0 File Read 漏洞](https://github.com/ColdFusionX/CVE-2021-26086)
 - [CVE-2021-41773 CVE-2021-42013漏洞批量检测工具：Apache 2.4.49 和 2.4.50版本任意文件读取和命令执行漏洞绕过利用工具](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)
+- [CVE-2021-24499：Workreap Theme 小于2.2.1 未授权任意文件上传导致 RCE](https://github.com/RyouYoo/CVE-2021-24499)
 
 ## <span id="head5"> 提权辅助相关</span>
 
