@@ -853,6 +853,7 @@
 - [ast-hook-for-js-RE：浏览器内存漫游解决方案（JS逆向）](https://github.com/CC11001100/ast-hook-for-js-RE)
 - [SharpOXID-Find：OXID_Find by Csharp（多线程） 通过OXID解析器获取Windows远程主机上网卡地址](https://github.com/uknowsec/SharpOXID-Find)
 - [yak gRPC Client GUI - 集成化单兵工具平台](https://github.com/yaklang/yakit)
+- [reFlutter：辅助逆向Flutter生成的APP](https://github.com/ptswarm/reFlutter)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
