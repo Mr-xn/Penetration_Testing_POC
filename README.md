@@ -221,6 +221,7 @@
 - [CVE-2021-26086 ：Atlassian Jira Server/Data Center 8.4.0 File Read 漏洞](https://github.com/ColdFusionX/CVE-2021-26086)
 - [CVE-2021-41773 CVE-2021-42013漏洞批量检测工具：Apache 2.4.49 和 2.4.50版本任意文件读取和命令执行漏洞绕过利用工具](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)
 - [CVE-2021-24499：Workreap Theme 小于2.2.1 未授权任意文件上传导致 RCE](https://github.com/RyouYoo/CVE-2021-24499)
+- [CVE-2021-30632：chrome V8越界写入漏洞可至内存损坏](https://github.com/Phuong39/PoC-CVE-2021-30632)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -374,6 +375,8 @@
 - [CVE-2021-40444：Windows MSHTML 0day漏洞](https://github.com/lockedbyte/CVE-2021-40444)
 
 - [PrintNightmare：CVE-2021-1675 / CVE-2021-34527 exploit](https://github.com/outflanknl/PrintNightmare)
+
+- [CVE-2021-40444：MSHTML代码执行漏洞 RCE](https://github.com/lockedbyte/CVE-2021-40444)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
