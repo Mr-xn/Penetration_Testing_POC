@@ -43,6 +43,7 @@
 - [ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day)
 - [iOS 15.0.1 RCE PoC](https://github.com/jonathandata1/ios_15_rce)
 - [CVE-2021-36260：海康威视产品命令注入漏洞](https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html)
+- [CVE-2021-33044、CVE-2021-33045 大华摄像头POC](https://github.com/mcw0/DahuaConsole)|[相关分析](https://github.com/mcw0/PoC/blob/master/Dahua%20authentication%20bypass.txt)
 
 ## <span id="head4">Web APP</span>
 
@@ -1176,6 +1177,7 @@
 -  [DLL劫持快速挖掘教程](./books/DLL劫持快速挖掘教程.pdf)
 -  [Bypass_AV - Windows Defender](./books/Bypass_AV%20-%20Windows%20Defender.pdf)
 -  [Chasing a Dream-Pre-authenticated Remote Code Execution in Dedecms](./books/Chasing%20a%20Dream-Pre-authenticated%20Remote%20Code%20Execution%20in%20Dedecms.pdf)
+-  [RMI反序列化及相关工具反制浅析](./books/RMI反序列化及相关工具反制浅析.pdf)
 
 ## <span id="head9"> 说明</span>
 
