@@ -857,6 +857,7 @@
 - [SharpOXID-Find：OXID_Find by Csharp（多线程） 通过OXID解析器获取Windows远程主机上网卡地址](https://github.com/uknowsec/SharpOXID-Find)
 - [yak gRPC Client GUI - 集成化单兵工具平台](https://github.com/yaklang/yakit)
 - [reFlutter：辅助逆向Flutter生成的APP](https://github.com/ptswarm/reFlutter)
+- [SillyRAT：跨平台、多功能远控](https://github.com/hash3liZer/SillyRAT)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
