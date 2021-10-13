@@ -859,6 +859,7 @@
 - [reFlutter：辅助逆向Flutter生成的APP](https://github.com/ptswarm/reFlutter)
 - [SillyRAT：跨平台、多功能远控](https://github.com/hash3liZer/SillyRAT)
 - [HandleKatz: 使用 Lsass 的克隆句柄来创建相同的混淆内存转储](https://github.com/codewhitesec/HandleKatz)
+- [HTTPUploadExfil: 用于渗透数据/文件的简易 HTTP 服务器](https://github.com/IngoKl/HTTPUploadExfil)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
