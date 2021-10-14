@@ -1182,6 +1182,7 @@
 -  [Chasing a Dream-Pre-authenticated Remote Code Execution in Dedecms](./books/Chasing%20a%20Dream-Pre-authenticated%20Remote%20Code%20Execution%20in%20Dedecms.pdf)
 -  [RMI反序列化及相关工具反制浅析](./books/RMI反序列化及相关工具反制浅析.pdf)
 -  [waf绕过之标签绕过](./books/waf绕过之标签绕过.pdf)
+-  [oracle注入绕狗](./books/oracle注入绕狗.pdf)
 
 ## <span id="head9"> 说明</span>
 
