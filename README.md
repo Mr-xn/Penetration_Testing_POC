@@ -225,6 +225,7 @@
 - [CVE-2021-24499：Workreap Theme 小于2.2.1 未授权任意文件上传导致 RCE](https://github.com/RyouYoo/CVE-2021-24499)
 - [CVE-2021-30632：chrome V8越界写入漏洞可至内存损坏](https://github.com/Phuong39/PoC-CVE-2021-30632)
 - [laravel-exploits：Exploit for CVE-2021-3129](https://github.com/ambionics/laravel-exploits)
+- [CVE-2021-21234：Spring Boot 目录遍历](https://github.com/xiaojiangxl/CVE-2021-21234)
 
 ## <span id="head5"> 提权辅助相关</span>
 
