@@ -384,6 +384,8 @@
 
 - [CVE-2021-37980：Google Chrome 沙箱漏洞 POC](https://github.com/ZeusBox/CVE-2021-37980)
 
+- [CVE-2021-40449 EXP about windows 10 14393 LPE](https://github.com/KaLendsi/CVE-2021-40449-Exploit)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
