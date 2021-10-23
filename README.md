@@ -868,6 +868,7 @@
 - [nemo_go：用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率](https://github.com/hanc00l/nemo_go)
 - [SpringBootExploit：根据Spring Boot Vulnerability Exploit Check List清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛](https://github.com/0x727/SpringBootExploit)|[备份下载](./tools/SpringBootExploit-1.1-SNAPSHOT-all.jar)
 - [WiFiDuck：一款通过无线键盘来注入攻击的近源渗透攻击](https://github.com/SpacehuhnTech/WiFiDuck)
+- [AggressorScripts_0x727：Cobalt Strike AggressorScripts For Red Team](https://github.com/0x727/AggressorScripts_0x727)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
