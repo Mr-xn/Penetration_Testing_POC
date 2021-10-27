@@ -1195,6 +1195,7 @@
 -  [RMI反序列化及相关工具反制浅析](./books/RMI反序列化及相关工具反制浅析.pdf)
 -  [waf绕过之标签绕过](./books/waf绕过之标签绕过.pdf)
 -  [oracle注入绕狗](./books/oracle注入绕狗.pdf)
+-  [内网学习笔记合集_TeamsSix.pdf](./books/内网学习笔记合集_TeamsSix.pdf.7z)
 
 ## <span id="head9"> 说明</span>
 
