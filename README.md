@@ -226,6 +226,7 @@
 - [CVE-2021-30632：chrome V8越界写入漏洞可至内存损坏](https://github.com/Phuong39/PoC-CVE-2021-30632)
 - [laravel-exploits：Exploit for CVE-2021-3129](https://github.com/ambionics/laravel-exploits)
 - [CVE-2021-21234：Spring Boot 目录遍历](https://github.com/xiaojiangxl/CVE-2021-21234)
+- [CVE-2021-22205：gitlab ce 文件上传 ExifTool导致命令执行 的 RCE 漏洞](https://github.com/RedTeamWing/CVE-2021-22205)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -872,6 +873,8 @@
 - [WiFiDuck：一款通过无线键盘来注入攻击的近源渗透攻击](https://github.com/SpacehuhnTech/WiFiDuck)
 - [AggressorScripts_0x727：Cobalt Strike AggressorScripts For Red Team](https://github.com/0x727/AggressorScripts_0x727)
 - [android_virtual_cam：xposed安卓虚拟摄像头-可绕过部分人脸检测](https://github.com/w2016561536/android_virtual_cam)
+- [X-WebScan：Vulcan2.0|分布式扫描器|漏洞扫描|指纹识别](https://github.com/RedTeamWing/X-WebScan)
+- [Taie-AutoPhishing：剑指钓鱼基建快速部署自动化](https://github.com/taielab/Taie-AutoPhishing)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
