@@ -876,6 +876,8 @@
 - [X-WebScan：Vulcan2.0|分布式扫描器|漏洞扫描|指纹识别](https://github.com/RedTeamWing/X-WebScan)
 - [Taie-AutoPhishing：剑指钓鱼基建快速部署自动化](https://github.com/taielab/Taie-AutoPhishing)
 - [rotateproxy：利用fofa搜索socks5开放代理进行代理池轮切的工具](https://github.com/akkuman/rotateproxy)
+- [PassDecode-jar：帆软/致远密码解密工具](https://github.com/Rvn0xsy/PassDecode-jar)
+- [pwcrack-framework：是一个用Ruby编写的密码自动破解框架，目前提供了 25 个在线破解和 25 个离线破解接口，支持 48 种算法破解](https://github.com/L-codes/pwcrack-framework)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
