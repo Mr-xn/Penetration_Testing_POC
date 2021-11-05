@@ -234,7 +234,7 @@
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
-- [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)
+- [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)|[linux_dirty：更改后的脏牛提权代码，可以往任意文件写入任意内容，去除交互过程](https://github.com/Rvn0xsy/linux_dirty)
 - [远控免杀从入门到实践之白名单（113个）](https://github.com/TideSec/BypassAntiVirus)|[远控免杀从入门到实践之白名单（113个）总结篇.pdf](./books/远控免杀从入门到实践之白名单（113个）总结篇.pdf)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
