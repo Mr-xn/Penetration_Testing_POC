@@ -878,6 +878,8 @@
 - [rotateproxy：利用fofa搜索socks5开放代理进行代理池轮切的工具](https://github.com/akkuman/rotateproxy)
 - [PassDecode-jar：帆软/致远密码解密工具](https://github.com/Rvn0xsy/PassDecode-jar)
 - [pwcrack-framework：是一个用Ruby编写的密码自动破解框架，目前提供了 25 个在线破解和 25 个离线破解接口，支持 48 种算法破解](https://github.com/L-codes/pwcrack-framework)
+- [通过编写 CS 的信标文件(BOF)来进行shellcode 注入、执行等操作](https://github.com/boku7/HOLLOW)
+- [CS-Situational-Awareness-BOF：大量已经编译好的 CS 信标文件](https://github.com/trustedsec/CS-Situational-Awareness-BOF)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
