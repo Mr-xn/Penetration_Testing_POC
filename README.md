@@ -1206,6 +1206,8 @@
 -  [oracle注入绕狗](./books/oracle注入绕狗.pdf)
 -  [内网学习笔记合集_TeamsSix.pdf](./books/内网学习笔记合集_TeamsSix.pdf.7z)
 -  [CobaltStrike_RedTeam_CheatSheet：一些实战中CS常用的小技巧](https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet)
+-  [CmsEasy代码审计](./books/CmsEasy代码审计.pdf)
+-  [AppCMS_v2.0_代码审计](./books/AppCMS_v2.0_代码审计.pdf)
 
 ## <span id="head9"> 说明</span>
 
