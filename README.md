@@ -482,7 +482,7 @@
 - [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
 - [社会工程学密码生成器，是一个利用个人信息生成密码的工具](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)
 - [云业CMS(yunyecms)的多处SQL注入审计分析](./books/云业CMS(yunyecms)的多处SQL注入审计分析.pdf)|[原文地址](https://xz.aliyun.com/t/7302)|[官网下载地址](http://www.yunyecms.com/index.php?m=version&c=index&a=index)|[sqlmap_yunyecms_front_sqli_tamp.py](./tools/sqlmap_yunyecms_front_sqli_tamp.py)
-- [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)
+- [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)|[Flash-Pop：flash 钓鱼弹窗优化版](https://github.com/r00tSe7en/Flash-Pop)|[Flash-Pop2：Flash-Pop升级版](https://github.com/chroblert/Flash-Pop2)
 - [织梦dedecms全版本漏洞扫描](https://github.com/Mr-xn/dedecmscan)
 - [CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)
 - [Dirble -快速目录扫描和爬取工具【比dirsearch和dirb更快】](https://github.com/nccgroup/dirble)
@@ -1208,6 +1208,7 @@
 -  [CobaltStrike_RedTeam_CheatSheet：一些实战中CS常用的小技巧](https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet)
 -  [CmsEasy代码审计](./books/CmsEasy代码审计.pdf)
 -  [AppCMS_v2.0_代码审计](./books/AppCMS_v2.0_代码审计.pdf)
+-  [记一次曲折的WAF绕过](./books/记一次曲折的WAF绕过.pdf)
 
 ## <span id="head9"> 说明</span>
 
