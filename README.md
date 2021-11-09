@@ -389,6 +389,8 @@
 
 - [CVE-2021-22005：VMware vCenter Server任意文件上传漏洞](https://github.com/r0ckysec/CVE-2021-22005)
 
+- [CVE-2021-40539：ManageEngine ADManager Plus 未授权访问RCE](https://github.com/synacktiv/CVE-2021-40539)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
