@@ -887,6 +887,7 @@
 - [自动化Host碰撞工具，帮助红队快速扩展网络边界，获取更多目标点](https://github.com/cckuailong/hostscan)
 - [JSPHorse：结合反射调用、Javac动态编译、ScriptEngine调用JS技术和各种代码混淆技巧的一款免杀JSP Webshell生成工具，已支持蚁剑免杀](https://github.com/EmYiQing/JSPHorse)
 - [gitlab-version-nse：用于gitlab 版本探测以及漏洞信息检索的 Nmap 脚本](https://github.com/righel/gitlab-version-nse)
+- [natpass：新一代NAT内网穿透+shell+vnc工具](https://github.com/lwch/natpass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
