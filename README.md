@@ -883,6 +883,8 @@
 - [通过编写 CS 的信标文件(BOF)来进行shellcode 注入、执行等操作](https://github.com/boku7/HOLLOW)
 - [CS-Situational-Awareness-BOF：大量已经编译好的 CS 信标文件](https://github.com/trustedsec/CS-Situational-Awareness-BOF)
 - [HostCollision：用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统](https://github.com/pmiaowu/HostCollision)
+- [Hosts_scan：用于IP和域名碰撞匹配访问的小工具，旨意用来匹配出渗透过程中需要绑定hosts才能访问的弱主机或内部系统](https://github.com/fofapro/Hosts_scan)
+- [自动化Host碰撞工具，帮助红队快速扩展网络边界，获取更多目标点](https://github.com/cckuailong/hostscan)
 - [JSPHorse：结合反射调用、Javac动态编译、ScriptEngine调用JS技术和各种代码混淆技巧的一款免杀JSP Webshell生成工具，已支持蚁剑免杀](https://github.com/EmYiQing/JSPHorse)
 - [gitlab-version-nse：用于gitlab 版本探测以及漏洞信息检索的 Nmap 脚本](https://github.com/righel/gitlab-version-nse)
 
