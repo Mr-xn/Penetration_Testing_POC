@@ -1218,6 +1218,7 @@
 -  [AppCMS_v2.0_代码审计](./books/AppCMS_v2.0_代码审计.pdf)
 -  [记一次曲折的WAF绕过](./books/记一次曲折的WAF绕过.pdf)
 -  [flask_memory_shell：Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
+-  [Telegram下的C2创建过程](./books/Telegram下的C2创建过程.pdf)
 
 ## <span id="head9"> 说明</span>
 
