@@ -1221,6 +1221,7 @@
 -  [Telegram下的C2创建过程](./books/Telegram下的C2创建过程.pdf)
 -  [PbootCms-3.04前台RCE挖掘过](./books/PbootCms-3.04前台RCE挖掘过.pdf)
 -  [pBootCMS 3.0.4 前台注入漏洞复现](./books/pBootCMS%203.0.4%20前台注入漏洞复现.pdf)
+-  [记一次授权测试到顺手挖一个0day(pBootCMS)](./books/记一次授权测试到顺手挖一个0day(pBootCMS).pdf)
 
 ## <span id="head9"> 说明</span>
 
