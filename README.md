@@ -889,6 +889,7 @@
 - [gitlab-version-nse：用于gitlab 版本探测以及漏洞信息检索的 Nmap 脚本](https://github.com/righel/gitlab-version-nse)
 - [natpass：新一代NAT内网穿透+shell+vnc工具](https://github.com/lwch/natpass)
 - [rs_shellcode：rust 语言编写的 shellcode 加载器](https://github.com/b1tg/rs_shellcode)
+- [Web-Attack-Cheat-Sheet：web 攻击清单](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
