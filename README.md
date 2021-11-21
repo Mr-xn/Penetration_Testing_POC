@@ -1225,6 +1225,10 @@
 -  [PbootCms-3.04前台RCE挖掘过](./books/PbootCms-3.04前台RCE挖掘过.pdf)
 -  [pBootCMS 3.0.4 前台注入漏洞复现](./books/pBootCMS%203.0.4%20前台注入漏洞复现.pdf)
 -  [记一次授权测试到顺手挖一个0day(pBootCMS)](./books/记一次授权测试到顺手挖一个0day(pBootCMS).pdf)
+-  [CobaltStrike4.X之去除CheckSum8特征](./books/CobaltStrike4.X之去除CheckSum8特征.pdf)
+-  [JBoss中间件漏洞总结](./books/JBoss中间件漏洞总结.pdf)
+-  [一篇文章带你入门Oracle注入](./books/一篇文章带你入门Oracle注入.pdf)
+-  [DNS Over HTTPS for Cobalt Strike(将 DoH 与 Cobalt Strike 结合使用, 无需第三方帐户或基础设施设置, 使用有效的 SSL 证书加密流量, 并将流量发送到信誉良好的域名)](./books/DNS%20Over%20HTTPS%20for%20Cobalt%20Strike(将%20DoH%20与%20Cobalt%20Strike%20结合使用,%20无需第三方帐户或基础设施设置,%20使用有效的%20SSL%20证书加密流量,%20并将流量发送到信誉良好的域名).pdf)
 
 ## <span id="head9"> 说明</span>
 
