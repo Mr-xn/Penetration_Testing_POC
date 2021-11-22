@@ -898,6 +898,7 @@
 - [awvs13_batch_py3：针对 AWVS扫描器开发的批量扫描脚本，支持联动xray、burp、w13scan等被动批量](https://github.com/test502git/awvs13_batch_py3)
 - [Jira-Lens：一款专门扫描 jira 漏洞的工具](https://github.com/MayankPandey01/Jira-Lens)
 - [Sec-Tools：一款基于Python-Django的多功能Web安全渗透测试工具，包含漏洞扫描，端口扫描，指纹识别，目录扫描，旁站扫描，域名扫描等功能](https://github.com/jwt1399/Sec-Tools)
+- [Fvuln：漏洞批量扫描集合工具(闭源)](https://github.com/d3ckx1/Fvuln)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
