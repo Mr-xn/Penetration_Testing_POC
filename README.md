@@ -899,6 +899,8 @@
 - [Jira-Lens：一款专门扫描 jira 漏洞的工具](https://github.com/MayankPandey01/Jira-Lens)
 - [Sec-Tools：一款基于Python-Django的多功能Web安全渗透测试工具，包含漏洞扫描，端口扫描，指纹识别，目录扫描，旁站扫描，域名扫描等功能](https://github.com/jwt1399/Sec-Tools)
 - [Fvuln：漏洞批量扫描集合工具(闭源)](https://github.com/d3ckx1/Fvuln)
+- [MySQL_Fake_Server：用于渗透测试过程中的假MySQL服务器，纯原生python3实现，不依赖其它包](https://github.com/fnmsd/MySQL_Fake_Server)
+- [ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架，可动态配置具备不同执行效果的Java反序列化利用链payload，以应对不同场景下的反序列化利用](https://github.com/wh1t3p1g/ysomap)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
