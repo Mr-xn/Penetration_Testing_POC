@@ -227,6 +227,10 @@
 - [laravel-exploits：Exploit for CVE-2021-3129](https://github.com/ambionics/laravel-exploits)
 - [CVE-2021-21234：Spring Boot 目录遍历](https://github.com/xiaojiangxl/CVE-2021-21234)
 - [CVE-2021-22205：gitlab ce 文件上传 ExifTool导致命令执行 的 RCE 漏洞](https://github.com/RedTeamWing/CVE-2021-22205)
+- [Hadoop Yarn RPC未授权RCE](https://github.com/cckuailong/YarnRpcRCE)
+- [CVE-2021-41277：Metabase 敏感信息泄露](https://github.com/Seals6/CVE-2021-41277)
+- [Alibaba Sentinel 前台 SSRF](https://github.com/alibaba/Sentinel/issues/2451)
+- [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
 
 ## <span id="head5"> 提权辅助相关</span>
 
