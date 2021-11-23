@@ -44,6 +44,7 @@
 - [iOS 15.0.1 RCE PoC](https://github.com/jonathandata1/ios_15_rce)
 - [CVE-2021-36260：海康威视产品命令注入漏洞](https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html)
 - [CVE-2021-33044、CVE-2021-33045 大华摄像头POC](https://github.com/mcw0/DahuaConsole)|[相关分析](https://github.com/mcw0/PoC/blob/master/Dahua%20authentication%20bypass.txt)|[登录绕过chrome 插件](https://github.com/bp2008/DahuaLoginBypass)
+- [CVE-2021-36260：海康威视命令注入漏洞](https://github.com/rabbitsafe/CVE-2021-36260)
 
 ## <span id="head4">Web APP</span>
 
@@ -904,6 +905,7 @@
 - [Fvuln：漏洞批量扫描集合工具(闭源)](https://github.com/d3ckx1/Fvuln)
 - [MySQL_Fake_Server：用于渗透测试过程中的假MySQL服务器，纯原生python3实现，不依赖其它包](https://github.com/fnmsd/MySQL_Fake_Server)
 - [ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架，可动态配置具备不同执行效果的Java反序列化利用链payload，以应对不同场景下的反序列化利用](https://github.com/wh1t3p1g/ysomap)
+- [CobaltStrike_CNA：使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等(CVE-2020-0796+CVE-2020-0787)](https://github.com/yanghaoi/CobaltStrike_CNA)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
