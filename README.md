@@ -1244,6 +1244,7 @@
 -  [JBoss中间件漏洞总结](./books/JBoss中间件漏洞总结.pdf)
 -  [一篇文章带你入门Oracle注入](./books/一篇文章带你入门Oracle注入.pdf)
 -  [DNS Over HTTPS for Cobalt Strike(将 DoH 与 Cobalt Strike 结合使用, 无需第三方帐户或基础设施设置, 使用有效的 SSL 证书加密流量, 并将流量发送到信誉良好的域名)](./books/DNS%20Over%20HTTPS%20for%20Cobalt%20Strike(将%20DoH%20与%20Cobalt%20Strike%20结合使用,%20无需第三方帐户或基础设施设置,%20使用有效的%20SSL%20证书加密流量,%20并将流量发送到信誉良好的域名).pdf)
+-  [鱼跃CMS审计-后台多处文件上传](./books/鱼跃CMS审计-后台多处文件上传.pdf)
 
 ## <span id="head9"> 说明</span>
 
