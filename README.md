@@ -907,6 +907,7 @@
 - [ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架，可动态配置具备不同执行效果的Java反序列化利用链payload，以应对不同场景下的反序列化利用](https://github.com/wh1t3p1g/ysomap)
 - [CobaltStrike_CNA：使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等(CVE-2020-0796+CVE-2020-0787)](https://github.com/yanghaoi/CobaltStrike_CNA)
 - [webshell-bypassed-human：过人 webshell 的生成工具](https://github.com/Macr0phag3/webshell-bypassed-human)
+- [BlueShell：一个Go语言编写的持续远控工具，拿下靶机后，根据操作系统版本下载部署对应的bsClient，其会每隔固定时间向指定的C&C地址发起反弹连接尝试，在C&C端运行bsServer即可连接bsClient，从而实现对靶机的持续控制](https://github.com/whitehatnote/BlueShell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1256,7 +1257,6 @@
 
 <details>  
 <summary>其他杂项</summary>  
-
 ### 喜讯
 
 在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
