@@ -912,6 +912,7 @@
 - [SimpleRemoter：基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、桌面管理、文件管理、语音管理、视频管理、服务管理、注册表管理等功能](https://github.com/yuanyuanxiang/SimpleRemoter)
 - [Caesar：全新的敏感文件发现工具](https://github.com/SafeGroceryStore/Caesar)
 - [LinuxFlaw：Linux 平台的漏洞 PoC、Writeup 收集](https://github.com/mudongliang/LinuxFlaw)
+- [fuso：扶桑一款RUST 编写的快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具](https://github.com/editso/fuso)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
