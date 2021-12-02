@@ -914,6 +914,7 @@
 - [LinuxFlaw：Linux 平台的漏洞 PoC、Writeup 收集](https://github.com/mudongliang/LinuxFlaw)
 - [fuso：扶桑一款RUST 编写的快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具](https://github.com/editso/fuso)
 - [SpringMemShell：Spring内存马检测和隐形马研究](https://github.com/EmYiQing/SpringMemShell)
+- [SharpMemshell：.NET写的内存shell](https://github.com/A-D-Team/SharpMemshell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
