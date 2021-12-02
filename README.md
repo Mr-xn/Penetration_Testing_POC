@@ -400,6 +400,8 @@
 
 - [CVE-2021-42321:微软Exchange Server远程代码执行漏洞(需要省份验证)](https://github.com/DarkSprings/CVE-2021-42321)
 
+- [VMware_vCenter：VMware vCenter版本小于7.0.2.00100的未授权任意文件读取+SSRF+XSS](https://github.com/l0ggg/VMware_vCenter)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
