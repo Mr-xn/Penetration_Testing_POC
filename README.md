@@ -233,6 +233,7 @@
 - [CVE-2021-41277：Metabase 敏感信息泄露](https://github.com/Seals6/CVE-2021-41277)
 - [Alibaba Sentinel 前台 SSRF](https://github.com/alibaba/Sentinel/issues/2451)
 - [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
+- [log4j2_rce](https://github.com/dbgee/log4j2_rce)|[apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)|[CVE-2021-44228：Log4j2](https://github.com/jas502n/Log4j2-CVE-2021-44228)
 
 ## <span id="head5"> 提权辅助相关</span>
 
