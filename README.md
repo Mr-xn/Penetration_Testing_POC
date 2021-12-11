@@ -233,7 +233,7 @@
 - [CVE-2021-41277：Metabase 敏感信息泄露](https://github.com/Seals6/CVE-2021-41277)
 - [Alibaba Sentinel 前台 SSRF](https://github.com/alibaba/Sentinel/issues/2451)
 - [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
-- [log4j2_rce](https://github.com/dbgee/log4j2_rce)|[apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)|[CVE-2021-44228：Log4j2](https://github.com/jas502n/Log4j2-CVE-2021-44228)
+- [log4j2_rce](https://github.com/dbgee/log4j2_rce)|[apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)|[CVE-2021-44228：Log4j2](https://github.com/jas502n/Log4j2-CVE-2021-44228)|[log4shell-vulnerable-app:又一个 log4j 练习 APP](https://github.com/christophetd/log4shell-vulnerable-app)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -539,7 +539,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
