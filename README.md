@@ -403,7 +403,7 @@
 
 - [VMware_vCenter：VMware vCenter版本小于7.0.2.00100的未授权任意文件读取+SSRF+XSS](https://github.com/l0ggg/VMware_vCenter)
 
-- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter](https://github.com/cube0x0/noPac)
+- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -921,6 +921,7 @@
 - [SpringMemShell：Spring内存马检测和隐形马研究](https://github.com/EmYiQing/SpringMemShell)
 - [SharpMemshell：.NET写的内存shell](https://github.com/A-D-Team/SharpMemshell)
 - [jsForward：解决web及移动端H5数据加密Burp调试问题](https://github.com/CTF-MissFeng/jsForward)|[JS-Forward：原版](https://github.com/G-Security-Team/JS-Forward)
+- [Command2API：将执行命令的结果返回到Web API上](https://github.com/gh0stkey/Command2API)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
