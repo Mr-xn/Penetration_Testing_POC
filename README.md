@@ -541,7 +541,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
@@ -922,6 +922,8 @@
 - [SharpMemshell：.NET写的内存shell](https://github.com/A-D-Team/SharpMemshell)
 - [jsForward：解决web及移动端H5数据加密Burp调试问题](https://github.com/CTF-MissFeng/jsForward)|[JS-Forward：原版](https://github.com/G-Security-Team/JS-Forward)
 - [Command2API：将执行命令的结果返回到Web API上](https://github.com/gh0stkey/Command2API)
+- [ProxyAgent：在有 root 权限的手机上安装代理以方便使用 burpsuite 代理流量](https://github.com/GovTech-CSG/ProxyAgent)
+- [reapoc：开源POC的收集和漏洞验证环境](https://github.com/cckuailong/reapoc)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
