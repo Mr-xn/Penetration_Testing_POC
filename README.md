@@ -924,6 +924,7 @@
 - [Command2API：将执行命令的结果返回到Web API上](https://github.com/gh0stkey/Command2API)
 - [ProxyAgent：在有 root 权限的手机上安装代理以方便使用 burpsuite 代理流量](https://github.com/GovTech-CSG/ProxyAgent)
 - [reapoc：开源POC的收集和漏洞验证环境](https://github.com/cckuailong/reapoc)
+- [yaml-payload-for-ruoyi：若依 snakeyaml 反序列化漏洞注入内存马](https://github.com/lz2y/yaml-payload-for-ruoyi)|[yaml-payload：可生成命令执行的 jar 包](https://github.com/artsploit/yaml-payload)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
