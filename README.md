@@ -541,7 +541,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
