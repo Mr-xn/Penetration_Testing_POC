@@ -926,6 +926,7 @@
 - [reapoc：开源POC的收集和漏洞验证环境](https://github.com/cckuailong/reapoc)
 - [yaml-payload-for-ruoyi：若依 snakeyaml 反序列化漏洞注入内存马](https://github.com/lz2y/yaml-payload-for-ruoyi)|[yaml-payload：可生成命令执行的 jar 包](https://github.com/artsploit/yaml-payload)
 - [goHashDumper：用于Dump指定进程的内存,主要利用静默退出机制(SilentProcessExit)和Windows API(MiniDumpW)实现](https://github.com/crisprss/goHashDumper)
+- [wxappUnpacker：小程序反编译(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
