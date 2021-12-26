@@ -395,7 +395,7 @@
 
 - [CVE-2021-40449 EXP about windows 10 14393 LPE](https://github.com/KaLendsi/CVE-2021-40449-Exploit)
 
-- [CVE-2021-22005：VMware vCenter Server任意文件上传漏洞](https://github.com/r0ckysec/CVE-2021-22005)
+- [CVE-2021-22005：VMware vCenter Server任意文件上传漏洞](https://github.com/r0ckysec/CVE-2021-22005)|[又一个 cve-2021-22005利用工具（仅支持 Linux 版本的vCenter）](https://github.com/shmilylty/cve-2021-22005-exp)
 
 - [CVE-2021-40539：ManageEngine ADManager Plus 未授权访问RCE](https://github.com/synacktiv/CVE-2021-40539)
 
