@@ -927,6 +927,7 @@
 - [yaml-payload-for-ruoyi：若依 snakeyaml 反序列化漏洞注入内存马](https://github.com/lz2y/yaml-payload-for-ruoyi)|[yaml-payload：可生成命令执行的 jar 包](https://github.com/artsploit/yaml-payload)
 - [goHashDumper：用于Dump指定进程的内存,主要利用静默退出机制(SilentProcessExit)和Windows API(MiniDumpW)实现](https://github.com/crisprss/goHashDumper)
 - [wxappUnpacker：小程序反编译(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
+- [MyFuzzAll：fuzz、爆破字典](https://github.com/yyhuni/MyFuzzAll)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1267,6 +1268,7 @@
 - [鱼跃CMS审计-后台多处文件上传](./books/鱼跃CMS审计-后台多处文件上传.pdf)
 - [learning-codeql:CodeQL Java 全网最全的中文学习资料](https://github.com/SummerSec/learning-codeql)
 - [taocms审计](./books/taocms审计.pdf)
+- [shiroMemshell：利用shiro反序列化注入冰蝎内存马](https://github.com/yyhuni/shiroMemshell)
 
 ## <span id="head9"> 说明</span>
 
