@@ -928,6 +928,7 @@
 - [goHashDumper：用于Dump指定进程的内存,主要利用静默退出机制(SilentProcessExit)和Windows API(MiniDumpW)实现](https://github.com/crisprss/goHashDumper)
 - [wxappUnpacker：小程序反编译(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
 - [MyFuzzAll：fuzz、爆破字典](https://github.com/yyhuni/MyFuzzAll)
+- [NPPSpy：获取Windows明文密码的小工具](https://github.com/gtworek/PSBits/tree/master/PasswordStealing/NPPSpy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
