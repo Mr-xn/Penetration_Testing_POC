@@ -1271,6 +1271,8 @@
 - [learning-codeql:CodeQL Java 全网最全的中文学习资料](https://github.com/SummerSec/learning-codeql)
 - [taocms审计](./books/taocms审计.pdf)
 - [shiroMemshell：利用shiro反序列化注入冰蝎内存马](https://github.com/yyhuni/shiroMemshell)
+- [浅谈Windows环境下的命令混淆](./books/浅谈Windows环境下的命令混淆.pdf)
+- [Dump内存得到TeamViewer账号密码](./books/Dump内存得到TeamViewer账号密码.pdf)
 
 ## <span id="head9"> 说明</span>
 
