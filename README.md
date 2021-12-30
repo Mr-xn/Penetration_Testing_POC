@@ -234,6 +234,7 @@
 - [Alibaba Sentinel 前台 SSRF](https://github.com/alibaba/Sentinel/issues/2451)
 - [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
 - [log4j2_rce](https://github.com/dbgee/log4j2_rce)|[apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)|[CVE-2021-44228：Log4j2](https://github.com/jas502n/Log4j2-CVE-2021-44228)|[log4shell-vulnerable-app:又一个 log4j 练习 APP](https://github.com/christophetd/log4shell-vulnerable-app)
+- [cve-2021-45232-exp：Apache apisix dashboard unauthcation rce](https://github.com/wuppp/cve-2021-45232-exp)
 
 ## <span id="head5"> 提权辅助相关</span>
 
