@@ -646,6 +646,7 @@
 - [ServerScan-一款使用Golang开发的高并发网络扫描、服务探测工具](https://github.com/Adminisme/ServerScan)
 - [ShellcodeLoader-将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术](https://github.com/Hzllaga/ShellcodeLoader)
 - [shellcodeloader-Windows平台的shellcode免杀加载器](https://github.com/knownsec/shellcodeloader)
+- [Go_Bypass：一个golang 编写的免杀生成器模板，目前可以过国内主流杀毒](https://github.com/Arks7/Go_Bypass)
 - [FourEye-重明-又一款基于python开发的对shellcode和exe文件免杀的工具](https://github.com/lengjibo/FourEye)
 - [Invoke-CustomKatz.ps1-bypass AMSI 的Mimikatz PS脚本](./tools/Invoke-CustomKatz.ps1)-[原文地址](https://s3cur3th1ssh1t.github.io/Bypass-AMSI-by-manual-modification-part-II/)-[原gits链接](https://gist.github.com/S3cur3Th1sSh1t/b33b978ea62a4b0f6ef545f1378512a6)
 - [SimpleShellcodeInjector-shellcode加载器](https://github.com/DimopoulosElias/SimpleShellcodeInjector)
