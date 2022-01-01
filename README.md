@@ -1276,6 +1276,7 @@
 - [shiroMemshell：利用shiro反序列化注入冰蝎内存马](https://github.com/yyhuni/shiroMemshell)
 - [浅谈Windows环境下的命令混淆](./books/浅谈Windows环境下的命令混淆.pdf)
 - [Dump内存得到TeamViewer账号密码](./books/Dump内存得到TeamViewer账号密码.pdf)
+- [打破基于OpenResty的WEB安全防护（CVE-2018-9230）](./books/打破基于OpenResty的WEB安全防护（CVE-2018-9230）.pdf)
 
 ## <span id="head9"> 说明</span>
 
