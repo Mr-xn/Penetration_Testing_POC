@@ -933,6 +933,7 @@
 - [NPPSpy：获取Windows明文密码的小工具](https://github.com/gtworek/PSBits/tree/master/PasswordStealing/NPPSpy)|[CMPSpy：改进版本](https://github.com/fengwenhua/CMPSpy)
 - [PoC-in-GitHub：收录 github 上公开的 POC 按照年份排列](https://github.com/nomi-sec/PoC-in-GitHub)
 - [icp-domains：输入一个域名，输出ICP备案所有关联域名](https://github.com/1in9e/icp-domains)
+- [netspy：一款快速探测内网可达网段工具](https://github.com/shmilylty/netspy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
