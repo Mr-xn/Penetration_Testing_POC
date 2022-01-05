@@ -936,6 +936,7 @@
 - [netspy：一款快速探测内网可达网段工具](https://github.com/shmilylty/netspy)
 - [rathole：一个用 rust 编写，功能类似 FRP 和 NGROK的内网代理穿透工具](https://github.com/rapiz1/rathole)
 - [CodeAnalysis：腾讯开源的静态代码扫描器](https://github.com/Tencent/CodeAnalysis)
+- [GetOut360：管理员权限下强制关闭360](https://github.com/Yihsiwei/GetOut360)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
