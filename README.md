@@ -937,6 +937,7 @@
 - [rathole：一个用 rust 编写，功能类似 FRP 和 NGROK的内网代理穿透工具](https://github.com/rapiz1/rathole)
 - [CodeAnalysis：腾讯开源的静态代码扫描器](https://github.com/Tencent/CodeAnalysis)
 - [GetOut360：管理员权限下强制关闭360](https://github.com/Yihsiwei/GetOut360)
+- [goby_poc：分享goby最新网络安全漏洞检测或利用代码](https://github.com/aetkrad/goby_poc)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
