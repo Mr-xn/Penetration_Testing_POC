@@ -939,6 +939,7 @@
 - [GetOut360：管理员权限下强制关闭360](https://github.com/Yihsiwei/GetOut360)
 - [goby_poc：分享goby最新网络安全漏洞检测或利用代码](https://github.com/aetkrad/goby_poc)
 - [Fiora：漏洞PoC框架的图形版，快捷搜索PoC、一键运行Nuclei](https://github.com/bit4woo/Fiora)
+- [BypassUserAdd：通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化](https://github.com/crisprss/BypassUserAdd)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
