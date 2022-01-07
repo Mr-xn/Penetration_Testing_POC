@@ -235,6 +235,7 @@
 - [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
 - [log4j2_rce](https://github.com/dbgee/log4j2_rce)|[apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)|[CVE-2021-44228：Log4j2](https://github.com/jas502n/Log4j2-CVE-2021-44228)|[log4shell-vulnerable-app:又一个 log4j 练习 APP](https://github.com/christophetd/log4shell-vulnerable-app)
 - [cve-2021-45232-exp：Apache apisix dashboard unauthcation rce](https://github.com/wuppp/cve-2021-45232-exp)
+- [Spring Boot + H2数据库JNDI注入](./books/Spring%20Boot%20+%20H2数据库JNDI注入.html)|[原文地址](https://mp.weixin.qq.com/s/Yn5U8WHGJZbTJsxwUU3UiQ)
 
 ## <span id="head5"> 提权辅助相关</span>
 
