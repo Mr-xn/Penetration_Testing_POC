@@ -1287,6 +1287,7 @@
 - [浅谈Windows环境下的命令混淆](./books/浅谈Windows环境下的命令混淆.pdf)
 - [Dump内存得到TeamViewer账号密码](./books/Dump内存得到TeamViewer账号密码.pdf)
 - [打破基于OpenResty的WEB安全防护（CVE-2018-9230）](./books/打破基于OpenResty的WEB安全防护（CVE-2018-9230）.pdf)
+- [Advanced-SQL-Injection-Cheatsheet：一个有关 SQL 注入的检查 payload 清单](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 
 ## <span id="head9"> 说明</span>
 
