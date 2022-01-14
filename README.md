@@ -946,6 +946,7 @@
 - [SMBeagle：一款功能强大的SMB文件共享安全审计工具](https://github.com/punk-security/SMBeagle)
 - [wJa：java闭源项目的自动化白盒+黑盒测试工具](https://github.com/Wker666/wJa)
 - [Poc-Exp：有关OA、中间件、框架、路由器等应用的漏洞搜集](https://github.com/pen4uin/Poc-Exp)
+- [GoTokenTheft：用 golang 写的进程token 窃取工具](https://github.com/Aquilao/GoTokenTheft)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
