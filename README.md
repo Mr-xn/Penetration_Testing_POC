@@ -1294,6 +1294,8 @@
 - [打破基于OpenResty的WEB安全防护（CVE-2018-9230）](./books/打破基于OpenResty的WEB安全防护（CVE-2018-9230）.pdf)
 - [Advanced-SQL-Injection-Cheatsheet：一个有关 SQL 注入的检查 payload 清单](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 - [MeterSphere PluginController Pre-auth RCE(MeterSphere 匿名接口远程命令执行漏洞分析)](./books/MeterSphere%20PluginController%20Pre-auth%20RCE(MeterSphere%20匿名接口远程命令执行漏洞分析).pdf)
+- [ClassCMS 2.4代码审计](./books/ClassCMS%202.4代码审计.pdf)
+- [phpyun人才招聘系统最新版v5.1.5漏洞挖掘](./books/phpyun人才招聘系统最新版v5.1.5漏洞挖掘.pdf)
 
 ## <span id="head9"> 说明</span>
 
