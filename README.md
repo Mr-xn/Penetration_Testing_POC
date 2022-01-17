@@ -407,6 +407,8 @@
 
 - [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)
 
+- [CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本](https://github.com/mauricelambert/CVE-2022-21907)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
