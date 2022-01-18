@@ -407,7 +407,7 @@
 
 - [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)
 
-- [CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
+- [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -951,6 +951,7 @@
 - [GoTokenTheft：用 golang 写的进程token 窃取工具](https://github.com/Aquilao/GoTokenTheft)
 - [pwncat：功能强大的反向Shell&BindShell处理工具](https://github.com/calebstewart/pwncat)
 - [ReverseRDP_RCE：反向 RCE 连接 RDP 的客户端](https://github.com/klinix5/ReverseRDP_RCE)
+- [Urldns：通过 Urldns 链来探测是否存在某个类，以便针对性的使用攻击链](https://github.com/kezibei/Urldns)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
