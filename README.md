@@ -969,6 +969,7 @@
 - [ServiceMove-BOF：New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution](https://github.com/netero1010/ServiceMove-BOF)
 - [TrustedPath-UACBypass-BOF：Beacon object file implementation for trusted path UAC bypass](https://github.com/netero1010/TrustedPath-UACBypass-BOF)
 - [Quser-BOF：Cobalt Strike BOF for quser.exe implementation using Windows API](https://github.com/netero1010/Quser-BOF)
+- [SharpGhosting：C#写的创建幽灵进程的工具](https://github.com/Wra7h/SharpGhosting)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
