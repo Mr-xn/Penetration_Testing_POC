@@ -952,6 +952,23 @@
 - [pwncat：功能强大的反向Shell&BindShell处理工具](https://github.com/calebstewart/pwncat)
 - [ReverseRDP_RCE：反向 RCE 连接 RDP 的客户端](https://github.com/klinix5/ReverseRDP_RCE)
 - [Urldns：通过 Urldns 链来探测是否存在某个类，以便针对性的使用攻击链](https://github.com/kezibei/Urldns)
+- [COFFLoader2：Load and execute COFF files and Cobalt Strike BOFs in-memory](https://github.com/Yaxser/COFFLoader2)
+- [Cobalt-Clip：Cobaltstrike addons to interact with clipboard](https://github.com/DallasFR/Cobalt-Clip)
+- [Invoke-Bof：Load any Beacon Object File using Powershell](https://github.com/airbus-cert/Invoke-Bof)
+- [InlineWhispers2：Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF) via Syswhispers2](https://github.com/Sh0ckFR/InlineWhispers2)
+- [Geacon：Using Go to implement CobaltStrike's Beacon](https://github.com/DongHuangT1/Geacon)
+- [DLL-Hijack-Search-Order-BOF：DLL Hijack Search Order Enumeration BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF)
+- [PortBender：TCP Port Redirection Utility](https://github.com/praetorian-inc/PortBender)
+- [winrmdll：C++ WinRM API via Reflective DLL](https://github.com/mez-0/winrmdll)
+- [Readfile_BoF：read file contents to beacon output](https://github.com/trainr3kt/Readfile_BoF)
+- [BokuLoader：Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities](https://github.com/boku7/BokuLoader)
+- [HOLLOW：EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode](https://github.com/boku7/HOLLOW)
+- [MemReader_BoF：search and extract specific strings from a target process memory and return what is found to the beacon output](https://github.com/trainr3kt/MemReader_BoF)
+- [secinject：Section Mapping Process Injection (secinject): Cobalt Strike BOF](https://github.com/apokryptein/secinject)
+- [BOF-Builder：C# .Net 5.0 project to build BOF (Beacon Object Files) in mass](https://github.com/ceramicskate0/BOF-Builder)
+- [ServiceMove-BOF：New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution](https://github.com/netero1010/ServiceMove-BOF)
+- [TrustedPath-UACBypass-BOF：Beacon object file implementation for trusted path UAC bypass](https://github.com/netero1010/TrustedPath-UACBypass-BOF)
+- [Quser-BOF：Cobalt Strike BOF for quser.exe implementation using Windows API](https://github.com/netero1010/Quser-BOF)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
