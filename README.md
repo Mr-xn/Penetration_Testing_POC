@@ -971,6 +971,7 @@
 - [TrustedPath-UACBypass-BOF：Beacon object file implementation for trusted path UAC bypass](https://github.com/netero1010/TrustedPath-UACBypass-BOF)
 - [Quser-BOF：Cobalt Strike BOF for quser.exe implementation using Windows API](https://github.com/netero1010/Quser-BOF)
 - [SharpGhosting：C#写的创建幽灵进程的工具](https://github.com/Wra7h/SharpGhosting)
+- [Pentesting-Active-Directory-CN：域渗透脑图中文翻译版](https://github.com/NyDubh3/Pentesting-Active-Directory-CN)|[英文原版](https://github.com/Orange-Cyberdefense/arsenal/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
