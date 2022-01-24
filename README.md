@@ -972,6 +972,9 @@
 - [Quser-BOF：Cobalt Strike BOF for quser.exe implementation using Windows API](https://github.com/netero1010/Quser-BOF)
 - [SharpGhosting：C#写的创建幽灵进程的工具](https://github.com/Wra7h/SharpGhosting)
 - [Pentesting-Active-Directory-CN：域渗透脑图中文翻译版](https://github.com/NyDubh3/Pentesting-Active-Directory-CN)|[英文原版](https://github.com/Orange-Cyberdefense/arsenal/)
+- [fuzzware：针对固件的自动化、自配置的 Fuzzing 工具](https://github.com/fuzzware-fuzzer/fuzzware)
+- [python-codext：Python 编码/解码库, 扩展了原生的 codecs 库, 提供 120 多个新编解码器](https://github.com/dhondta/python-codext)
+- [chrome-bandit：在 Mac 上通过 chrome 自动填充获取保存的密码](https://github.com/masasron/chrome-bandit)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
