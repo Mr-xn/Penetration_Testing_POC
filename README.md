@@ -279,7 +279,8 @@
 - [【Windows提权】Priv2Admin-Windows提权工具](https://github.com/gtworek/Priv2Admin)
 - [【windows提权】利用有漏洞的技嘉驱动程序来加载恶意的驱动程序提升权限或干掉驱动级保护的杀软](https://github.com/alxbrn/gdrv-loader)|[备份地址](https://github.com/Mr-xn/gdrv-loader)
 - [【windows提权】byeintegrity-uac：通过劫持位于本机映像缓存中的DLL绕过UAC](https://github.com/AzAgarampur/byeintegrity-uac)
-- [InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
+- [【Windows 提取】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
+- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)
 
 ## <span id="head6"> PC</span>
 
