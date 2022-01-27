@@ -281,6 +281,7 @@
 - [【windows提权】byeintegrity-uac：通过劫持位于本机映像缓存中的DLL绕过UAC](https://github.com/AzAgarampur/byeintegrity-uac)
 - [【Windows 提取】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
 - [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)
+- [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
 
 ## <span id="head6"> PC</span>
 
