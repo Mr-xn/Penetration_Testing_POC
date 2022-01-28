@@ -979,6 +979,7 @@
 - [python-codext：Python 编码/解码库, 扩展了原生的 codecs 库, 提供 120 多个新编解码器](https://github.com/dhondta/python-codext)
 - [chrome-bandit：在 Mac 上通过 chrome 自动填充获取保存的密码](https://github.com/masasron/chrome-bandit)
 - [GoBypass：Golang免杀生成工具](https://github.com/EmYiQing/GoBypass)
+- [sliver：一个通用的跨平台的支持多种连接形式的远控框架](https://github.com/BishopFox/sliver)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
