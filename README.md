@@ -1334,6 +1334,7 @@
 - [ClassCMS 2.4代码审计](./books/ClassCMS%202.4代码审计.pdf)
 - [phpyun人才招聘系统最新版v5.1.5漏洞挖掘](./books/phpyun人才招聘系统最新版v5.1.5漏洞挖掘.pdf)
 - [CTF中几种通用的sql盲注手法和注入的一些tips](./books/CTF中几种通用的sql盲注手法和注入的一些tips.pdf)
+- [Source-and-Fuzzing：一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试](https://github.com/lcatro/Source-and-Fuzzing)
 
 ## <span id="head9"> 说明</span>
 
