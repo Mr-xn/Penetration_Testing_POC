@@ -238,6 +238,7 @@
 - [Spring Boot + H2数据库JNDI注入](./books/Spring%20Boot%20+%20H2数据库JNDI注入.html)|[原文地址](https://mp.weixin.qq.com/s/Yn5U8WHGJZbTJsxwUU3UiQ)
 - [CVE-2021-43297：Apache Dubbo Hessian2异常处理时的反序列化](https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297)
 - [CVE-2022-21371：Oracle WebLogic Server LFI](https://github.com/Mr-xn/CVE-2022-21371)
+- [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
 
 ## <span id="head5"> 提权辅助相关</span>
 
