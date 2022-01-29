@@ -239,6 +239,7 @@
 - [CVE-2021-43297：Apache Dubbo Hessian2异常处理时的反序列化](https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297)
 - [CVE-2022-21371：Oracle WebLogic Server LFI](https://github.com/Mr-xn/CVE-2022-21371)
 - [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
+- [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
 
 ## <span id="head5"> 提权辅助相关</span>
 
