@@ -982,6 +982,9 @@
 - [chrome-bandit：在 Mac 上通过 chrome 自动填充获取保存的密码](https://github.com/masasron/chrome-bandit)
 - [GoBypass：Golang免杀生成工具](https://github.com/EmYiQing/GoBypass)
 - [sliver：一个通用的跨平台的支持多种连接形式的远控框架](https://github.com/BishopFox/sliver)
+- [ripgen：根据子域名生成新的相关子域名](https://github.com/resyncgg/ripgen)
+- [GUI_Tools：一个由各种图形化渗透工具组成的工具集](https://github.com/ghealer/GUI_Tools)
+- [MDUT：一款中文的数据库跨平台利用工具，基于前人 SQLTOOLS 的基础开发了这套程序](https://github.com/SafeGroceryStore/MDUT)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
