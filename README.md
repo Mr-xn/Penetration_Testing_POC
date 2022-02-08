@@ -989,6 +989,7 @@
 - [DynWin32-ReverseShell.ps1：通过 PowerShell 来获得反弹shell](https://gist.github.com/qtc-de/a87b2c97fd9e0330ad2dc67789a62ba5)
 - [pentest-book：渗透测试有关的脚本、信息和知识总结](https://github.com/six2dez/pentest-book)
 - [My-Shodan-Scripts：shodan搜索脚本集合](https://github.com/random-robbie/My-Shodan-Scripts)
+- [rebeyond-Mode：修改版冰蝎](https://github.com/angels520/rebeyond-Mode)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
