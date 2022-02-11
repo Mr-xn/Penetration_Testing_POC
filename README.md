@@ -1341,6 +1341,7 @@
 - [CTF中几种通用的sql盲注手法和注入的一些tips](./books/CTF中几种通用的sql盲注手法和注入的一些tips.pdf)
 - [Source-and-Fuzzing：一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试](https://github.com/lcatro/Source-and-Fuzzing)
 - [SSRF的那些问题](./books/SSRF的那些问题.pdf)
+- [SSRF Tricks小结](./books/SSRF%20Tricks小结.pdf)
 
 ## <span id="head9"> 说明</span>
 
