@@ -990,6 +990,7 @@
 - [pentest-book：渗透测试有关的脚本、信息和知识总结](https://github.com/six2dez/pentest-book)
 - [My-Shodan-Scripts：shodan搜索脚本集合](https://github.com/random-robbie/My-Shodan-Scripts)
 - [rebeyond-Mode：修改版冰蝎](https://github.com/angels520/rebeyond-Mode)
+- [vulnerability-lab：OA/中间件/框架/路由器相关漏洞](https://github.com/pen4uin/vulnerability-lab)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
