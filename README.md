@@ -993,6 +993,7 @@
 - [rebeyond-Mode：修改版冰蝎](https://github.com/angels520/rebeyond-Mode)
 - [vulnerability-lab：OA/中间件/框架/路由器相关漏洞](https://github.com/pen4uin/vulnerability-lab)
 - [Exploits_and_Advisories：由项目作者自己跟踪或者是发现的一些公开的漏洞和利用](https://github.com/rdomanski/Exploits_and_Advisories)
+- [dll-merger：将dll和32位的exe文件进行合并，区别于传统的LoadLibrary方式，通过在exe的pe结构中添加.dlls和.ldr段，实现自动加载dll](https://github.com/ytk2128/dll-merger)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
