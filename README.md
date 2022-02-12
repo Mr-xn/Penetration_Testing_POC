@@ -284,6 +284,7 @@
 - [【Windows 提取】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
 - [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
+- [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 
 ## <span id="head6"> PC</span>
 
