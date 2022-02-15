@@ -995,6 +995,8 @@
 - [Exploits_and_Advisories：由项目作者自己跟踪或者是发现的一些公开的漏洞和利用](https://github.com/rdomanski/Exploits_and_Advisories)
 - [dll-merger：将dll和32位的exe文件进行合并，区别于传统的LoadLibrary方式，通过在exe的pe结构中添加.dlls和.ldr段，实现自动加载dll](https://github.com/ytk2128/dll-merger)
 - [hvcs：资产信息整理与脆弱性检测工具（类似与 kscan）](https://github.com/yqcs/hvcs)
+- [garble：Obfuscate Go builds(go 编译混淆)](https://github.com/burrowers/garble)
+- [ihoneyBakFileScan_Modify：批量网站备份文件泄露扫描工具](https://github.com/VMsec/ihoneyBakFileScan_Modify)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
