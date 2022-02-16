@@ -997,6 +997,7 @@
 - [hvcs：资产信息整理与脆弱性检测工具（类似与 kscan）](https://github.com/yqcs/hvcs)
 - [garble：Obfuscate Go builds(go 编译混淆)](https://github.com/burrowers/garble)
 - [ihoneyBakFileScan_Modify：批量网站备份文件泄露扫描工具](https://github.com/VMsec/ihoneyBakFileScan_Modify)
+- [Sylas：数据库综合利用工具](https://github.com/Ryze-T/Sylas)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
