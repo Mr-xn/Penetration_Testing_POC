@@ -412,7 +412,7 @@
 
 - [VMware_vCenter：VMware vCenter版本小于7.0.2.00100的未授权任意文件读取+SSRF+XSS](https://github.com/l0ggg/VMware_vCenter)
 
-- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)
+- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)|[NoPacScan：又一个 Python 的CVE-2021-42287/CVE-2021-42278扫描工具](https://github.com/knightswd/NoPacScan)
 
 - [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
 
