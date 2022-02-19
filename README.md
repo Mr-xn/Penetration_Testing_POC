@@ -240,6 +240,7 @@
 - [CVE-2022-21371：Oracle WebLogic Server LFI](https://github.com/Mr-xn/CVE-2022-21371)
 - [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
 - [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
+- [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -415,6 +416,8 @@
 - [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)|[NoPacScan：又一个 Python 的CVE-2021-42287/CVE-2021-42278扫描工具](https://github.com/knightswd/NoPacScan)
 
 - [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
+
+- [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
