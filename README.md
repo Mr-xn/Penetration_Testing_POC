@@ -1352,6 +1352,7 @@
 - [SSRF Tricks小结](./books/SSRF%20Tricks小结.pdf)
 - [windows-protocol：针对内网渗透的常见协议(如kerberos,ntlm,smb,ldap,netbios等)进行分析，介绍相关漏洞分析以及漏洞工具分析利用文章集合](https://daiker.gitbook.io/windows-protocol/)
 - [Parallels Desktop虚拟机逃逸](./books/Parallels%20Desktop虚拟机逃逸.pdf)|[源处](https://dawnslab.jd.com/pd-exploit-blog1/)
+- [Zabbix攻击面挖掘与利用](./books/Zabbix攻击面挖掘与利用.pdf)
 
 ## <span id="head9"> 说明</span>
 
