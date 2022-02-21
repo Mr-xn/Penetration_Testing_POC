@@ -1001,6 +1001,7 @@
 - [garble：Obfuscate Go builds(go 编译混淆)](https://github.com/burrowers/garble)
 - [ihoneyBakFileScan_Modify：批量网站备份文件泄露扫描工具](https://github.com/VMsec/ihoneyBakFileScan_Modify)
 - [Sylas：数据库综合利用工具](https://github.com/Ryze-T/Sylas)
+- [Space_view：一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件](https://github.com/0x727/Space_view)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
