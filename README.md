@@ -73,6 +73,7 @@
 - [S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号](S-CMS企业建站系统PHP版v3.0后台存在CSRF可添加管理员权限账号.md)
 - [S-CMS PHP v3.0存在SQL注入漏洞](S-CMS%20PHP%20v3.0存在SQL注入漏洞.md)
 - [MetInfoCMS 5.X版本GETSHELL漏洞合集](MetInfoCMS%205.X版本GETSHELL漏洞合集.md)
+- [MetInfo7.5.0代码审计(后台SQL注入+md5弱类型比较).pdf](./books/MetInfo7.5.0代码审计(后台SQL注入+md5弱类型比较).pdf)
 - [discuz ml RCE 漏洞检测工具](discuz-ml-rce/README.md)
 - [thinkphp5框架缺陷导致远程代码执行](thinkphp5框架缺陷导致远程代码执行.md)
 - [FineCMS_v5.0.8两处getshell](FineCMS_v5.0.8两处getshell.md)
@@ -1361,6 +1362,7 @@
 - [windows-protocol：针对内网渗透的常见协议(如kerberos,ntlm,smb,ldap,netbios等)进行分析，介绍相关漏洞分析以及漏洞工具分析利用文章集合](https://daiker.gitbook.io/windows-protocol/)
 - [Parallels Desktop虚拟机逃逸](./books/Parallels%20Desktop虚拟机逃逸.pdf)|[源处](https://dawnslab.jd.com/pd-exploit-blog1/)
 - [Zabbix攻击面挖掘与利用](./books/Zabbix攻击面挖掘与利用.pdf)
+- [2020-2021年长亭技术文章合集](./books/2020-2021年长亭技术文章合集.pdf)
 
 ## <span id="head9"> 说明</span>
 
