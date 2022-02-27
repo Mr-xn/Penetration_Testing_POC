@@ -1007,6 +1007,7 @@
 - [DongTai：火线-洞态IAST，一款开源的被动式交互式安全测试(IAST)产品](https://github.com/HXSecurity/DongTai)
 - [transfer：集合多个API的大文件传输工具（go 编写跨平台，适合渗透测试传输文件出网）](https://github.com/Mikubill/transfer)
 - [SharpXDecrypt：Xshell全版本密码恢复工具（截至目前最新7.1版本）](https://github.com/JDArmy/SharpXDecrypt)
+- [pocV：一个兼容xray V2 poc和nuclei的poc扫描框架](https://github.com/WAY29/pocV)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
