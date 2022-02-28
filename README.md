@@ -1009,6 +1009,8 @@
 - [transfer：集合多个API的大文件传输工具（go 编写跨平台，适合渗透测试传输文件出网）](https://github.com/Mikubill/transfer)
 - [SharpXDecrypt：Xshell全版本密码恢复工具（截至目前最新7.1版本）](https://github.com/JDArmy/SharpXDecrypt)
 - [pocV：一个兼容xray V2 poc和nuclei的poc扫描框架](https://github.com/WAY29/pocV)
+- [ClassHound：利用任意文件下载漏洞循环下载反编译 Class 文件获得网站 Java 源代码](https://github.com/LandGrey/ClassHound)
+- [blueming：备份文件扫描，并自动进行下载](https://github.com/bufsnake/blueming)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
