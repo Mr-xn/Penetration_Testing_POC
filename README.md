@@ -462,6 +462,7 @@
 - [GitHackTool：号称Git信息泄露唯一可用工具](https://github.com/safesword/GitHackTool)
 - [SVN源代码泄露全版本Dump源码](https://github.com/admintony/svnExploit)
 - [dumpall-多种泄漏形式，一种利用方式【支持.git源代码泄漏.svn源代码泄漏.DS_Store信息泄漏目录列出信息泄漏】](https://github.com/0xHJK/dumpall)
+- [ds_store_exp：.DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地](https://github.com/lijiejie/ds_store_exp)
 - [多进程批量网站备份文件扫描](https://github.com/sry309/ihoneyBakFileScan)
 - [Empire](https://github.com/BC-SECURITY/Empire/)|相关文章:[后渗透测试神器Empire详解](https://mp.weixin.qq.com/s/xCtkoIwVomx5f8hVSoGKpA)
 - [FOFA Pro view 是一款FOFA Pro 资产展示浏览器插件，目前兼容 Chrome、Firefox、Opera](https://github.com/0nise/fofa_view)
