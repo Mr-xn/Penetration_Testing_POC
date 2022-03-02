@@ -242,6 +242,7 @@
 - [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
 - [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
 - [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
+- [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)
 
 ## <span id="head5"> 提权辅助相关</span>
 
