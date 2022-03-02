@@ -1369,6 +1369,7 @@
 - [Parallels Desktop虚拟机逃逸](./books/Parallels%20Desktop虚拟机逃逸.pdf)|[源处](https://dawnslab.jd.com/pd-exploit-blog1/)
 - [Zabbix攻击面挖掘与利用](./books/Zabbix攻击面挖掘与利用.pdf)
 - [2020-2021年长亭技术文章合集](./books/2020-2021年长亭技术文章合集.pdf)
+- [涉及漏洞、代码审计、内网渗透相关的笔记仓库](https://github.com/nbxiglk0/Note)
 
 ## <span id="head9"> 说明</span>
 
