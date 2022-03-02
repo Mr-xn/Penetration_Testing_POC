@@ -1013,6 +1013,7 @@
 - [ClassHound：利用任意文件下载漏洞循环下载反编译 Class 文件获得网站 Java 源代码](https://github.com/LandGrey/ClassHound)
 - [blueming：备份文件扫描，并自动进行下载](https://github.com/bufsnake/blueming)
 - [CamOver：摄像头漏洞利用工具](https://github.com/EntySec/CamOver)
+- [JDumpSpider：HeapDump敏感信息提取工具](https://github.com/whwlsfb/JDumpSpider)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
