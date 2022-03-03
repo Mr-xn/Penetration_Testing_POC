@@ -1373,6 +1373,7 @@
 - [涉及漏洞、代码审计、内网渗透相关的笔记仓库](https://github.com/nbxiglk0/Note)
 - [cscms代码审计-SSRF和文件覆盖 GETSHELL](./books/cscms代码审计-SSRF和文件覆盖%20GETSHELL.pdf)|[源处](https://xz.aliyun.com/t/10929)
 - [ActiveMQ系列漏洞汇总复现-截止20220303](./books/ActiveMQ系列漏洞汇总复现-截止20220303.pdf)|[源处](https://mp.weixin.qq.com/s/5U7v22q2WeLmCnkq7mfr8w)
+- [pentest-note：渗透测试☞经验/思路/想法/总结/笔记](https://github.com/pen4uin/pentest-note)
 
 ## <span id="head9"> 说明</span>
 
