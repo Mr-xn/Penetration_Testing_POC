@@ -1371,7 +1371,8 @@
 - [Zabbix攻击面挖掘与利用](./books/Zabbix攻击面挖掘与利用.pdf)
 - [2020-2021年长亭技术文章合集](./books/2020-2021年长亭技术文章合集.pdf)
 - [涉及漏洞、代码审计、内网渗透相关的笔记仓库](https://github.com/nbxiglk0/Note)
-- [cscms代码审计-SSRF和文件覆盖 GETSHELL](./books/cscms代码审计-SSRF和文件覆盖%20GETSHELL.pdf)
+- [cscms代码审计-SSRF和文件覆盖 GETSHELL](./books/cscms代码审计-SSRF和文件覆盖%20GETSHELL.pdf)|[源处](https://xz.aliyun.com/t/10929)
+- [ActiveMQ系列漏洞汇总复现-截止20220303](./books/ActiveMQ系列漏洞汇总复现-截止20220303.pdf)|[源处](https://mp.weixin.qq.com/s/5U7v22q2WeLmCnkq7mfr8w)
 
 ## <span id="head9"> 说明</span>
 
@@ -1382,12 +1383,11 @@
 > 3.如果项目中涉及到你的隐私或者需要删除的，请issue留言指名具体文件内容，附上你的证明，或者邮箱联系我，核实后即刻删除。  
 
 <details>  
-<summary>其他杂项</summary>
-### 喜讯
+<summary>其他杂项</summary>  
 
+  在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
 
-在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
-![](./img/trending.png)  
+  ![trending](./img/trending.png)  
 
 </details>
 
