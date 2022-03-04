@@ -1014,6 +1014,7 @@
 - [blueming：备份文件扫描，并自动进行下载](https://github.com/bufsnake/blueming)
 - [CamOver：摄像头漏洞利用工具](https://github.com/EntySec/CamOver)
 - [JDumpSpider：HeapDump敏感信息提取工具](https://github.com/whwlsfb/JDumpSpider)
+- [sgn-html：MSF 的Shikata Ga Nai编码器web 端使用](https://github.com/akkuman/sgn-html)|[相关文章：将Shikata ga nai带到前端](https://mp.weixin.qq.com/s/KtX8hMg1V0R752U60jkfVQ)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
