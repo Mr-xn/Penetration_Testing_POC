@@ -1016,6 +1016,7 @@
 - [JDumpSpider：HeapDump敏感信息提取工具](https://github.com/whwlsfb/JDumpSpider)
 - [sgn-html：MSF 的Shikata Ga Nai编码器web 端使用](https://github.com/akkuman/sgn-html)|[相关文章：将Shikata ga nai带到前端](https://mp.weixin.qq.com/s/KtX8hMg1V0R752U60jkfVQ)
 - [net2nimv2：nim快速免杀.net exe程序](https://github.com/yougar0/net2nimv2)
+- [InjectJDBC：注入JVM进程 动态获取目标进程连接的数据库](https://github.com/BeichenDream/InjectJDBC)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
