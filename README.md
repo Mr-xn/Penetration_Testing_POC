@@ -1020,6 +1020,7 @@
 - [net2nimv2：nim快速免杀.net exe程序](https://github.com/yougar0/net2nimv2)
 - [InjectJDBC：注入JVM进程 动态获取目标进程连接的数据库](https://github.com/BeichenDream/InjectJDBC)
 - [LinuxEelvation：Linux 提权漏洞集合](https://github.com/Al1ex/LinuxEelvation)
+- [CDK：一款为容器环境定制的渗透测试工具，在已攻陷的容器内部提供零依赖的常用命令及PoC/EXP](https://github.com/cdk-team/CDK)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
