@@ -421,6 +421,8 @@
 
 - [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 
+- [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1017,6 +1019,7 @@
 - [sgn-html：MSF 的Shikata Ga Nai编码器web 端使用](https://github.com/akkuman/sgn-html)|[相关文章：将Shikata ga nai带到前端](https://mp.weixin.qq.com/s/KtX8hMg1V0R752U60jkfVQ)
 - [net2nimv2：nim快速免杀.net exe程序](https://github.com/yougar0/net2nimv2)
 - [InjectJDBC：注入JVM进程 动态获取目标进程连接的数据库](https://github.com/BeichenDream/InjectJDBC)
+- [LinuxEelvation：Linux 提权漏洞集合](https://github.com/Al1ex/LinuxEelvation)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
