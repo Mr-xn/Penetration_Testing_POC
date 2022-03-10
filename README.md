@@ -560,7 +560,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/feihong-cs/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)|[FastjsonExploit：fastjson漏洞快速利用框架](https://github.com/c0ny1/FastjsonExploit)|[fastjsonScan：fastjson漏洞burp插件](https://github.com/zilong3033/fastjsonScan)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
@@ -1022,6 +1022,7 @@
 - [LinuxEelvation：Linux 提权漏洞集合](https://github.com/Al1ex/LinuxEelvation)
 - [CDK：一款为容器环境定制的渗透测试工具，在已攻陷的容器内部提供零依赖的常用命令及PoC/EXP](https://github.com/cdk-team/CDK)
 - [PentestDB：各种数据库的利用姿势](https://github.com/safe6Sec/PentestDB)
+- [gadgetinspector：一个利用ASM对字节码进行污点传播分析的静态代码审计应用（添加了大量代码注释，适合大家进行源码学习）。也加入了挖掘Fastjson反序列化gadget chains和SQLInject（JdbcTemplate、MyBatis、JPA、Hibernate、原生jdbc等）静态检测功能。并且加入了很多功能以方便进行漏洞自动化挖掘](https://github.com/threedr3am/gadgetinspector)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
