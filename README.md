@@ -1023,6 +1023,8 @@
 - [CDK：一款为容器环境定制的渗透测试工具，在已攻陷的容器内部提供零依赖的常用命令及PoC/EXP](https://github.com/cdk-team/CDK)
 - [PentestDB：各种数据库的利用姿势](https://github.com/safe6Sec/PentestDB)
 - [gadgetinspector：一个利用ASM对字节码进行污点传播分析的静态代码审计应用（添加了大量代码注释，适合大家进行源码学习）。也加入了挖掘Fastjson反序列化gadget chains和SQLInject（JdbcTemplate、MyBatis、JPA、Hibernate、原生jdbc等）静态检测功能。并且加入了很多功能以方便进行漏洞自动化挖掘](https://github.com/threedr3am/gadgetinspector)
+- [Safe-development：全国dns解析识别cdn,图形化ip反查域名,自动化输入验证码](https://github.com/gubeihc/Safe-development)
+- [ast_tools：ast基础框架-基于babel](https://github.com/sml2h3/ast_tools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
