@@ -1026,6 +1026,8 @@
 - [Safe-development：全国dns解析识别cdn,图形化ip反查域名,自动化输入验证码](https://github.com/gubeihc/Safe-development)
 - [ast_tools：ast基础框架-基于babel](https://github.com/sml2h3/ast_tools)
 - [AM：bypass amsi resurrection whit code payload link](https://github.com/3xploit666/AM)
+- [QingScan：一个批量漏洞挖掘工具，黏合各种好用的扫描器](https://github.com/78778443/QingScan)
+- [exploitalert：漏洞搜索网站](https://www.exploitalert.com/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
