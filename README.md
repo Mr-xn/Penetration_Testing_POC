@@ -423,6 +423,8 @@
 
 - [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
 
+- [CVE-2022-0543：Redis Lua沙盒绕过命令执行](https://github.com/vulhub/vulhub/tree/master/redis/CVE-2022-0543)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
