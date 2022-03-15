@@ -1030,6 +1030,7 @@
 - [AM：bypass amsi resurrection whit code payload link](https://github.com/3xploit666/AM)
 - [QingScan：一个批量漏洞挖掘工具，黏合各种好用的扫描器](https://github.com/78778443/QingScan)
 - [exploitalert：漏洞搜索网站](https://www.exploitalert.com/)
+- [zscan：Zscan是一个开源的内网端口扫描器、爆破工具和其他实用工具的集合体可以称为工具包](https://github.com/zyylhn/zscan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
