@@ -425,6 +425,8 @@
 
 - [CVE-2022-0543：Redis Lua沙盒绕过命令执行](https://github.com/vulhub/vulhub/tree/master/redis/CVE-2022-0543)
 
+- [CVE-2022-24122的验证型 payload](https://github.com/meowmeowxw/CVE-2022-24122)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1033,6 +1035,7 @@
 - [zscan：Zscan是一个开源的内网端口扫描器、爆破工具和其他实用工具的集合体可以称为工具包](https://github.com/zyylhn/zscan)
 - [redis-rce：redis主从复制rce的go版本，可独立编译使用【支持执行命令+上传文件】](https://github.com/zyylhn/redis-rce)
 - [Fastjson-Gadgets-Automatic-Scanner：Python 编写的扫码 jar 包里的 fastjson 利用链](https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner)
+- [AgentInjectTool：改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能](https://github.com/SummerSec/AgentInjectTool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
