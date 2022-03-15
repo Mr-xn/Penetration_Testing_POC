@@ -1032,6 +1032,7 @@
 - [exploitalert：漏洞搜索网站](https://www.exploitalert.com/)
 - [zscan：Zscan是一个开源的内网端口扫描器、爆破工具和其他实用工具的集合体可以称为工具包](https://github.com/zyylhn/zscan)
 - [redis-rce：redis主从复制rce的go版本，可独立编译使用【支持执行命令+上传文件】](https://github.com/zyylhn/redis-rce)
+- [Fastjson-Gadgets-Automatic-Scanner：Python 编写的扫码 jar 包里的 fastjson 利用链](https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
