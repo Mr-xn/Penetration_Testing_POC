@@ -427,6 +427,8 @@
 
 - [CVE-2022-24122的验证型 payload](https://github.com/meowmeowxw/CVE-2022-24122)
 
+- [CVE-2022-25636：Linux kernel越界写入漏洞](https://github.com/Bonfee/CVE-2022-25636)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
