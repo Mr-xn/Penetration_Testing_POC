@@ -1039,6 +1039,8 @@
 - [ByPassBehinder4J：冰蝎Java WebShell免杀生成](https://github.com/Tas9er/ByPassBehinder4J)
 - [ecapture：通过 hook ebpf 技术，无需CA证书，进行HTTPS的明文通讯抓包、bash 命令捕获和 MySQL query 等数据库审计](https://github.com/ehids/ecapture)
 - [udpme：从协议层面借助 EDNS0 过滤掉有问题的 UDP 报文](https://github.com/IrineSistiana/udpme)
+- [FirmWire：支持三星和联发科的全系统基带固件分析平台](https://github.com/FirmWire/FirmWire)
+- [apache-afl：使用 AFL++ 对 Apache httpd 进行 Fuzz 的自动化配置](https://github.com/0xbigshaq/apache-afl)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
