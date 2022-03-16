@@ -1036,6 +1036,8 @@
 - [redis-rce：redis主从复制rce的go版本，可独立编译使用【支持执行命令+上传文件】](https://github.com/zyylhn/redis-rce)
 - [Fastjson-Gadgets-Automatic-Scanner：Python 编写的扫码 jar 包里的 fastjson 利用链](https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner)
 - [AgentInjectTool：改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能](https://github.com/SummerSec/AgentInjectTool)
+- [ByPassBehinder4J：冰蝎Java WebShell免杀生成](https://github.com/Tas9er/ByPassBehinder4J)
+- [ecapture：通过 hook ebpf 技术，无需CA证书，进行HTTPS的明文通讯抓包、bash 命令捕获和 MySQL query 等数据库审计](https://github.com/ehids/ecapture)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
