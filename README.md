@@ -429,6 +429,8 @@
 
 - [CVE-2022-25636：Linux kernel越界写入漏洞](https://github.com/Bonfee/CVE-2022-25636)
 
+- [CVE-2022-0778：openssh DOS 漏洞](https://github.com/drago-96/CVE-2022-0778)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
