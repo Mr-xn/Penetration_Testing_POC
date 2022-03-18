@@ -1046,6 +1046,7 @@
 - [FirmWire：支持三星和联发科的全系统基带固件分析平台](https://github.com/FirmWire/FirmWire)
 - [apache-afl：使用 AFL++ 对 Apache httpd 进行 Fuzz 的自动化配置](https://github.com/0xbigshaq/apache-afl)
 - [container-escape-check：容器逃逸检测脚本](https://github.com/teamssix/container-escape-check)
+- [EvilSelenium：将Selenium 武器化以攻击 Chrome 的工具](https://github.com/mrd0x/EvilSelenium)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
