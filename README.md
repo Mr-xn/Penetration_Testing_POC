@@ -1017,7 +1017,7 @@
 - [Space_view：一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件](https://github.com/0x727/Space_view)
 - [goShellCodeByPassVT：通过线程注入及-race参数免杀全部VT](https://github.com/ort4u/goShellCodeByPassVT)
 - [DongTai：火线-洞态IAST，一款开源的被动式交互式安全测试(IAST)产品](https://github.com/HXSecurity/DongTai)
-- [transfer：集合多个API的大文件传输工具（go 编写跨平台，适合渗透测试传输文件出网）](https://github.com/Mikubill/transfer)
+- [transfer：集合多个API的大文件传输工具（go 编写跨平台，适合渗透测试传输文件上传出网）](https://github.com/Mikubill/transfer)
 - [SharpXDecrypt：Xshell全版本密码恢复工具（截至目前最新7.1版本）](https://github.com/JDArmy/SharpXDecrypt)
 - [pocV：一个兼容xray V2 poc和nuclei的poc扫描框架](https://github.com/WAY29/pocV)
 - [ClassHound：利用任意文件下载漏洞循环下载反编译 Class 文件获得网站 Java 源代码](https://github.com/LandGrey/ClassHound)
@@ -1037,7 +1037,7 @@
 - [QingScan：一个批量漏洞挖掘工具，黏合各种好用的扫描器](https://github.com/78778443/QingScan)
 - [exploitalert：漏洞搜索网站](https://www.exploitalert.com/)
 - [zscan：Zscan是一个开源的内网端口扫描器、爆破工具和其他实用工具的集合体可以称为工具包](https://github.com/zyylhn/zscan)
-- [redis-rce：redis主从复制rce的go版本，可独立编译使用【支持执行命令+上传文件】](https://github.com/zyylhn/redis-rce)
+- [redis-rce：redis主从复制rce的go版本，可独立编译使用【支持执行命令+上传文件】](https://github.com/zyylhn/redis_rce)
 - [Fastjson-Gadgets-Automatic-Scanner：Python 编写的扫码 jar 包里的 fastjson 利用链](https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner)
 - [AgentInjectTool：改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能](https://github.com/SummerSec/AgentInjectTool)
 - [ByPassBehinder4J：冰蝎Java WebShell免杀生成](https://github.com/Tas9er/ByPassBehinder4J)
@@ -1407,6 +1407,7 @@
 - [cscms代码审计-SSRF和文件覆盖 GETSHELL](./books/cscms代码审计-SSRF和文件覆盖%20GETSHELL.pdf)|[源处](https://xz.aliyun.com/t/10929)
 - [ActiveMQ系列漏洞汇总复现-截止20220303](./books/ActiveMQ系列漏洞汇总复现-截止20220303.pdf)|[源处](https://mp.weixin.qq.com/s/5U7v22q2WeLmCnkq7mfr8w)
 - [pentest-note：渗透测试☞经验/思路/想法/总结/笔记](https://github.com/pen4uin/pentest-note)
+- [CodeQL：深入理解CodeQL](https://github.com/ASTTeam/CodeQL)
 
 ## <span id="head9"> 说明</span>
 
