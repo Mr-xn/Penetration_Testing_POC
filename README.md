@@ -1048,6 +1048,7 @@
 - [container-escape-check：容器逃逸检测脚本](https://github.com/teamssix/container-escape-check)
 - [EvilSelenium：将Selenium 武器化以攻击 Chrome 的工具](https://github.com/mrd0x/EvilSelenium)
 - [PHPGGC：PHP 反序列化工具](https://github.com/ambionics/phpggc)
+- [GBByPass：冰蝎 哥斯拉 WebShell bypass](https://github.com/czz1233/GBByPass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
