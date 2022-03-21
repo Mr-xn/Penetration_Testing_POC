@@ -1413,6 +1413,7 @@
 - [ActiveMQ系列漏洞汇总复现-截止20220303](./books/ActiveMQ系列漏洞汇总复现-截止20220303.pdf)|[源处](https://mp.weixin.qq.com/s/5U7v22q2WeLmCnkq7mfr8w)
 - [pentest-note：渗透测试☞经验/思路/想法/总结/笔记](https://github.com/pen4uin/pentest-note)
 - [CodeQL：深入理解CodeQL](https://github.com/ASTTeam/CodeQL)
+- [CodeqlNote：Codeql学习笔记](https://github.com/safe6Sec/CodeqlNote)
 
 ## <span id="head9"> 说明</span>
 
