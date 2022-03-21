@@ -1051,6 +1051,7 @@
 - [GBByPass：冰蝎 哥斯拉 WebShell bypass](https://github.com/czz1233/GBByPass)
 - [AtlasC2：C#写的C2远控工具](https://github.com/Gr1mmie/AtlasC2)
 - [GoBypass：Golang免杀生成工具](https://github.com/Sec-Fork/GoBypass)
+- [GolangBypassAV：研究利用golang各种姿势bypassAV](https://github.com/safe6Sec/GolangBypassAV)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
