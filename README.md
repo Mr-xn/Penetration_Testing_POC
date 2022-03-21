@@ -1049,6 +1049,8 @@
 - [EvilSelenium：将Selenium 武器化以攻击 Chrome 的工具](https://github.com/mrd0x/EvilSelenium)
 - [PHPGGC：PHP 反序列化工具](https://github.com/ambionics/phpggc)
 - [GBByPass：冰蝎 哥斯拉 WebShell bypass](https://github.com/czz1233/GBByPass)
+- [AtlasC2：C#写的C2远控工具](https://github.com/Gr1mmie/AtlasC2)
+- [GoBypass：Golang免杀生成工具](https://github.com/Sec-Fork/GoBypass)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
