@@ -423,7 +423,7 @@
 
 - [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
 
-- [CVE-2022-0543：Redis Lua沙盒绕过命令执行](https://github.com/vulhub/vulhub/tree/master/redis/CVE-2022-0543)
+- [CVE-2022-0543：Redis Lua沙盒绕过命令执行](https://github.com/vulhub/vulhub/tree/master/redis/CVE-2022-0543)|[REDIS-CVE-2022-0543：golang 写的利用工具](https://github.com/Newbee740/REDIS-CVE-2022-0543)
 
 - [CVE-2022-24122的验证型 payload](https://github.com/meowmeowxw/CVE-2022-24122)
 
@@ -1052,6 +1052,8 @@
 - [AtlasC2：C#写的C2远控工具](https://github.com/Gr1mmie/AtlasC2)
 - [GoBypass：Golang免杀生成工具](https://github.com/Sec-Fork/GoBypass)
 - [GolangBypassAV：研究利用golang各种姿势bypassAV](https://github.com/safe6Sec/GolangBypassAV)
+- [YouMayPasser](https://github.com/waldo-irc/YouMayPasser)
+- [Java-Shellcode-Loader：基于Java实现的Shellcode加载器](https://github.com/yzddmr6/Java-Shellcode-Loader)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
