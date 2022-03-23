@@ -1054,6 +1054,8 @@
 - [GolangBypassAV：研究利用golang各种姿势bypassAV](https://github.com/safe6Sec/GolangBypassAV)
 - [YouMayPasser](https://github.com/waldo-irc/YouMayPasser)
 - [Java-Shellcode-Loader：基于Java实现的Shellcode加载器](https://github.com/yzddmr6/Java-Shellcode-Loader)
+- [xss-payload-list：XSS payload](https://github.com/payloadbox/xss-payload-list)
+- [owa_info：获取Exchange信息的小工具](https://github.com/Ridter/owa_info)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
