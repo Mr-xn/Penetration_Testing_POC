@@ -1060,6 +1060,8 @@
 - [cdn-proxy：克隆目标网站并禁用CDN+WAF](https://github.com/RyanJarv/cdn-proxy)
 - [Cronos-Rootkit：适用于 Windows10和11的进程保护、隐藏和权限提升工具](https://github.com/XaFF-XaFF/Cronos-Rootkit)
 - [RPCSCAN：RPC未授权远程主机信息获取工具](https://github.com/JDArmy/RPCSCAN)
+- [CandyPotato：烂土豆提权，增加自动化利用](https://github.com/klezVirus/CandyPotato)
+- [PasswordDecrypts：密码解密相关，目前支持 VNC 解密](https://github.com/frizb/PasswordDecrypts)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
