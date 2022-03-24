@@ -1057,6 +1057,8 @@
 - [xss-payload-list：XSS payload](https://github.com/payloadbox/xss-payload-list)
 - [owa_info：获取Exchange信息的小工具](https://github.com/Ridter/owa_info)
 - [cdb-wds：利用白名单文件 cdb.exe 执行 shellcode](https://github.com/Ryze-T/cdb-wds)
+- [cdn-proxy：克隆目标网站并禁用CDN+WAF](https://github.com/RyanJarv/cdn-proxy)
+- [Cronos-Rootkit：适用于 Windows10和11的进程保护、隐藏和权限提升工具](https://github.com/XaFF-XaFF/Cronos-Rootkit)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
