@@ -1064,6 +1064,7 @@
 - [PasswordDecrypts：密码解密相关，目前支持 VNC 解密](https://github.com/frizb/PasswordDecrypts)
 - [tetanus：用 rust 开发的一款针对 Windows 和Linux 的 C2 工具](https://github.com/MythicAgents/tetanus)
 - [mortar：可有效规避安全产品的检测 shellcode 加载器](https://github.com/0xsp-SRD/mortar)
+- [go-mitmproxy：用 Golang 实现的中间人攻击，，解析、监测、篡改 HTTP/HTTPS 流量](https://github.com/lqqyt2423/go-mitmproxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
