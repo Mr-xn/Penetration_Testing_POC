@@ -1062,6 +1062,7 @@
 - [RPCSCAN：RPC未授权远程主机信息获取工具](https://github.com/JDArmy/RPCSCAN)
 - [CandyPotato：烂土豆提权，增加自动化利用](https://github.com/klezVirus/CandyPotato)
 - [PasswordDecrypts：密码解密相关，目前支持 VNC 解密](https://github.com/frizb/PasswordDecrypts)
+- [tetanus：用 rust 开发的一款针对 Windows 和Linux 的 C2 工具](https://github.com/MythicAgents/tetanus)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
