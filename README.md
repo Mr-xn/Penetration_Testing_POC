@@ -1074,6 +1074,7 @@
 - [PSSW100AVB：bypass AV 的 PowerShell 脚本](https://github.com/tihanyin/PSSW100AVB)
 - [JavaShellcodeInjector：JAVA shellcode 注入工具](https://github.com/xxDark/JavaShellcodeInjector)
 - [Java-Shellcode-Loader：基于Java实现的Shellcode加载器](https://github.com/yzddmr6/Java-Shellcode-Loader)
+- [shellcode-factory：shellcode 生成框架](https://github.com/lainswork/shellcode-factory)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
