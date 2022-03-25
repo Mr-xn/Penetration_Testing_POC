@@ -1070,6 +1070,7 @@
 - [GetMail：利用NTLM Hash读取Exchange邮件](https://github.com/b0bac/GetMail)
 - [xss2png：把 XSS 写入PNG 图片IDAT区域](https://github.com/vavkamil/xss2png)
 - [Hello-Java-Sec：Java漏洞平台，结合漏洞代码和安全编码](https://github.com/j3ers3/Hello-Java-Sec)
+- [PSSW100AVB：bypass AV 的 PowerShell 脚本](https://github.com/tihanyin/PSSW100AVB)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
