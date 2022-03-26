@@ -432,6 +432,10 @@
 
 - [CVE-2022-0778：openssh DOS 漏洞](https://github.com/drago-96/CVE-2022-0778)
 
+- [CVE-2019-13272：Linux 4.10 < 5.1.17 PTRACE_TRACEME local root](https://github.com/jas502n/CVE-2019-13272)
+
+- [CVE-2021-3493：Ubuntu OverlayFS Local Privesc](https://github.com/briskets/CVE-2021-3493)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1075,6 +1079,10 @@
 - [JavaShellcodeInjector：JAVA shellcode 注入工具](https://github.com/xxDark/JavaShellcodeInjector)
 - [Java-Shellcode-Loader：基于Java实现的Shellcode加载器](https://github.com/yzddmr6/Java-Shellcode-Loader)
 - [shellcode-factory：shellcode 生成框架](https://github.com/lainswork/shellcode-factory)
+- [BcryptCrack_Jenkins：针对于Jenkins控制台用户的暴力破解工具](https://github.com/rabbitmask/BcryptCrack_Jenkins)
+- [SB-Actuator：Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
+- [csOnvps：CobaltStrike4.4 一键部署脚本](https://github.com/AlphabugX/csOnvps)
+- [GoFileBinder：golang免杀捆绑器](https://github.com/Yihsiwei/GoFileBinder)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
