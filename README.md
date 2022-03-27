@@ -703,6 +703,7 @@
 - [【免杀】DLL 代理转发与维权](./books/%E3%80%90%E5%85%8D%E6%9D%80%E3%80%91DLL%20%E4%BB%A3%E7%90%86%E8%BD%AC%E5%8F%91%E4%B8%8E%E7%BB%B4%E6%9D%83.pdf)-[原文地址](https://mp.weixin.qq.com/s/zUXrNsf9IsZWocrb7z3i1Q)
 - [【免杀】使用nim语言进行shellcode加载](https://github.com/M-Kings/BypassAv-web)
 - [【免杀】bypassAV：借助Win-PS2EXE项目编写cna脚本方便快速生成免杀可执行文件](https://github.com/cseroad/bypassAV)
+- [【免杀】FuckThatPacker：混淆加密 PowerShell 脚本免杀 Windows defender的 py 脚本工具](https://github.com/Unknow101/FuckThatPacker)
 - [LangNetworkTopologys-快速进行内网资产扫描，支持端口扫描，指纹识别，网站探测，结果支持图表展示](https://github.com/LangziFun/LangNetworkTopologys)
 - [weblogic_exploit-weblogic漏洞利用工具【包括了weblogic常见高危漏洞的利用】](https://github.com/21superman/weblogic_exploit)
 - [rsync_weakpass.py-rsync弱口令爆破脚本](https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py)
