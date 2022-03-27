@@ -1451,6 +1451,7 @@
 - [CodeQL：深入理解CodeQL](https://github.com/ASTTeam/CodeQL)
 - [CodeqlNote：Codeql学习笔记](https://github.com/safe6Sec/CodeqlNote)
 - [Fastjson：Fastjson姿势技巧集合](https://github.com/safe6Sec/Fastjson)
+- [command：红队常用命令速查](https://github.com/safe6Sec/command)
 
 ## <span id="head9"> 说明</span>
 
