@@ -1056,7 +1056,7 @@
 - [PHPGGC：PHP 反序列化工具](https://github.com/ambionics/phpggc)
 - [GBByPass：冰蝎 哥斯拉 WebShell bypass](https://github.com/czz1233/GBByPass)
 - [AtlasC2：C#写的C2远控工具](https://github.com/Gr1mmie/AtlasC2)
-- [GoBypass：Golang免杀生成工具](https://github.com/Sec-Fork/GoBypass)
+- [【免杀】GoBypass：Golang免杀生成工具](https://github.com/Sec-Fork/GoBypass)
 - [GolangBypassAV：研究利用golang各种姿势bypassAV](https://github.com/safe6Sec/GolangBypassAV)
 - [YouMayPasser](https://github.com/waldo-irc/YouMayPasser)
 - [Java-Shellcode-Loader：基于Java实现的Shellcode加载器](https://github.com/yzddmr6/Java-Shellcode-Loader)
@@ -1450,6 +1450,7 @@
 - [pentest-note：渗透测试☞经验/思路/想法/总结/笔记](https://github.com/pen4uin/pentest-note)
 - [CodeQL：深入理解CodeQL](https://github.com/ASTTeam/CodeQL)
 - [CodeqlNote：Codeql学习笔记](https://github.com/safe6Sec/CodeqlNote)
+- [Fastjson：Fastjson姿势技巧集合](https://github.com/safe6Sec/Fastjson)
 
 ## <span id="head9"> 说明</span>
 
