@@ -244,6 +244,7 @@
 - [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
 - [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
 - [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)|[CVE-2022-22947：golang 版本](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)
+- [spring-cloud-function-SpEL-RCE：Spring Cloud Function SpEL RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)|[相关文章](https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1452,6 +1453,8 @@
 - [CodeqlNote：Codeql学习笔记](https://github.com/safe6Sec/CodeqlNote)
 - [Fastjson：Fastjson姿势技巧集合](https://github.com/safe6Sec/Fastjson)
 - [command：红队常用命令速查](https://github.com/safe6Sec/command)
+- [shiro_key：shiro key 收集 目前 1k+](https://github.com/yanm1e/shiro_key)
+- [IoT-CTF-2021：2021 西湖论剑 IoT-CTF 赛题仓库](https://github.com/DasSecurity-HatLab/IoT-CTF-2021)
 
 ## <span id="head9"> 说明</span>
 
