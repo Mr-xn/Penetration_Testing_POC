@@ -1086,6 +1086,7 @@
 - [GoFileBinder：golang免杀捆绑器](https://github.com/Yihsiwei/GoFileBinder)
 - [byeintegrity2-uac：利用 Windows IE 浏览器加载安装程序 bypass UAC](https://github.com/AzAgarampur/byeintegrity2-uac)
 - [LeakedHandlesFinder：查找泄露的 Windows 进程句柄](https://github.com/lab52io/LeakedHandlesFinder)
+- [nim-loader：nim 编写的 shellcode 加载器](https://github.com/adamsvoboda/nim-loader)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
