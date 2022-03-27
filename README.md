@@ -1084,6 +1084,7 @@
 - [SB-Actuator：Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
 - [csOnvps：CobaltStrike4.4 一键部署脚本](https://github.com/AlphabugX/csOnvps)
 - [GoFileBinder：golang免杀捆绑器](https://github.com/Yihsiwei/GoFileBinder)
+- [byeintegrity2-uac：利用 Windows IE 浏览器加载安装程序 bypass UAC](https://github.com/AzAgarampur/byeintegrity2-uac)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
