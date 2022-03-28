@@ -1091,6 +1091,7 @@
 - [LeakedHandlesFinder：查找泄露的 Windows 进程句柄](https://github.com/lab52io/LeakedHandlesFinder)
 - [nim-loader：nim 编写的 shellcode 加载器](https://github.com/adamsvoboda/nim-loader)
 - [session_enum：通过NetSessionEnum获取域内机器对应用户](https://github.com/n0thing0x01/session_enum)
+- [httpfinger：Http指纹管理工具](https://github.com/lcvvvv/httpfinger)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
