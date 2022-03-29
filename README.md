@@ -1093,6 +1093,7 @@
 - [session_enum：通过NetSessionEnum获取域内机器对应用户](https://github.com/n0thing0x01/session_enum)
 - [httpfinger：Http指纹管理工具](https://github.com/lcvvvv/httpfinger)
 - [dwm-screen-shot：将shellcode注入dwm.exe以进行屏幕截取](https://github.com/lainswork/dwm-screen-shot)
+- [XY-AASTools-1.7：一款交互的免杀工具](https://github.com/liusuxyds-only/XY-AASTools-1.7)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
