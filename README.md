@@ -1102,6 +1102,7 @@
 - [ImpulsiveDLLHijack：用 c#编写的工具来查找 dll劫持](https://github.com/knight0x07/ImpulsiveDLLHijack)
 - [golang-RCE-0day-POC](https://github.com/hktalent/golang-RCE-0day-POC)
 - [Atlassian（Jira、Confluence、Bitbucket）产品和 Jenkins、Solr、Nexus 的 PoC 集合](https://github.com/shadowsock5/Poc)
+- [SharPyShell：适用于 c# web 应用的经过asp.net混淆的webshell](https://github.com/antonioCoco/SharPyShell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
