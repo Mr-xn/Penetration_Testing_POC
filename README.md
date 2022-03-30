@@ -1103,6 +1103,7 @@
 - [golang-RCE-0day-POC](https://github.com/hktalent/golang-RCE-0day-POC)
 - [Atlassian（Jira、Confluence、Bitbucket）产品和 Jenkins、Solr、Nexus 的 PoC 集合](https://github.com/shadowsock5/Poc)
 - [SharPyShell：适用于 c# web 应用的经过asp.net混淆的webshell](https://github.com/antonioCoco/SharPyShell)
+- [RunPE：使用 c#反射加载二进制文件](https://github.com/nettitude/RunPE)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
