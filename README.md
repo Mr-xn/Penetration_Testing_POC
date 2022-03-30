@@ -1470,6 +1470,8 @@
 - [command：红队常用命令速查](https://github.com/safe6Sec/command)
 - [shiro_key：shiro key 收集 目前 1k+](https://github.com/yanm1e/shiro_key)
 - [IoT-CTF-2021：2021 西湖论剑 IoT-CTF 赛题仓库](https://github.com/DasSecurity-HatLab/IoT-CTF-2021)
+- [CodeQLRule：个人使用CodeQL编写的一些规则](https://github.com/ice-doom/CodeQLRule)
+- [ReZeroBypassAV：从零开始学免杀](https://github.com/luckyfuture0177/ReZeroBypassAV)
 
 ## <span id="head9"> 说明</span>
 
