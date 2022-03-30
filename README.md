@@ -1100,6 +1100,7 @@
 - [DLLirant：对指定二进制文件进行自动 dll 劫持检测](https://github.com/Sh0ckFR/DLLirant)
 - [DLLHijackTest：通过 powershell 脚本查找 dll 劫持](https://github.com/slyd0g/DLLHijackTest)
 - [ImpulsiveDLLHijack：用 c#编写的工具来查找 dll劫持](https://github.com/knight0x07/ImpulsiveDLLHijack)
+- [golang-RCE-0day-POC](https://github.com/hktalent/golang-RCE-0day-POC)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
