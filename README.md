@@ -1104,6 +1104,10 @@
 - [Atlassian（Jira、Confluence、Bitbucket）产品和 Jenkins、Solr、Nexus 的 PoC 集合](https://github.com/shadowsock5/Poc)
 - [SharPyShell：适用于 c# web 应用的经过asp.net混淆的webshell](https://github.com/antonioCoco/SharPyShell)
 - [RunPE：使用 c#反射加载二进制文件](https://github.com/nettitude/RunPE)
+- [0day：各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新](https://github.com/helloexp/0day)
+- [poc-collection：对 github 上公开的 PoC 进行收集的一个项目](https://github.com/TeraSecTeam/poc-collection)
+- [sec-note：记录安全方面的笔记/工具/漏洞合集](https://github.com/reidmu/sec-note)
+- [POChouse：POC&EXP仓库、hvv弹药库、Nday、1day](https://github.com/DawnFlame/POChouse)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
