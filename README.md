@@ -245,6 +245,8 @@
 - [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
 - [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)|[CVE-2022-22947：golang 版本](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)
 - [spring-cloud-function-SpEL-RCE：Spring Cloud Function SpEL RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)|[相关文章](https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
+- [CVE-2022-22963：Spring-cloud-function-SpEL-RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
+- [CVE-2022-22965：spring mvc RCE 的分析](https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/)
 
 ## <span id="head5"> 提权辅助相关</span>
 
