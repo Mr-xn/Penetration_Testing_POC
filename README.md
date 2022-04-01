@@ -1110,6 +1110,8 @@
 - [poc-collection：对 github 上公开的 PoC 进行收集的一个项目](https://github.com/TeraSecTeam/poc-collection)
 - [sec-note：记录安全方面的笔记/工具/漏洞合集](https://github.com/reidmu/sec-note)
 - [POChouse：POC&EXP仓库、hvv弹药库、Nday、1day](https://github.com/DawnFlame/POChouse)
+- [eyes.sh：基于bugscan dnslog 优化版](https://github.com/lijiejie/eyes.sh)
+- [CVE-2022-22965-POC：CVE-2022-22965 spring-core批量检测脚本](https://github.com/chaosec2021/CVE-2022-22965-POC)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
