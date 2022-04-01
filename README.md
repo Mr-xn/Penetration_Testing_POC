@@ -1112,7 +1112,8 @@
 - [POChouse：POC&EXP仓库、hvv弹药库、Nday、1day](https://github.com/DawnFlame/POChouse)
 - [eyes.sh：基于bugscan dnslog 优化版](https://github.com/lijiejie/eyes.sh)
 - [CVE-2022-22965-POC：CVE-2022-22965 spring-core批量检测脚本](https://github.com/chaosec2021/CVE-2022-22965-POC)
-- [ConPtyShell：适用于 Windows  的反向交互式 shell工具](https://github.com/antonioCoco/ConPtyShell)
+- [ConPtyShell：适用于 Windows  的反弹互式 shell工具](https://github.com/antonioCoco/ConPtyShell)
+- [RemotePotato0：Windows 提取工具，从普通用户提前至域管理员](https://github.com/antonioCoco/RemotePotato0)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
