@@ -1111,9 +1111,10 @@
 - [sec-note：记录安全方面的笔记/工具/漏洞合集](https://github.com/reidmu/sec-note)
 - [POChouse：POC&EXP仓库、hvv弹药库、Nday、1day](https://github.com/DawnFlame/POChouse)
 - [eyes.sh：基于bugscan dnslog 优化版](https://github.com/lijiejie/eyes.sh)
-- [CVE-2022-22965-POC：CVE-2022-22965 spring-core批量检测脚本](https://github.com/chaosec2021/CVE-2022-22965-POC)
+- [CVE-2022-22965-POC：CVE-2022-22965 spring-core批量检测脚本](https://github.com/chaosec2021/CVE-2022-22965-POC)|[漏洞环境：tomcat 的 war 包](https://github.com/fengguangbin/spring-rce-war)|[漏洞环境：docker 版](https://github.com/lunasec-io/Spring4Shell-POC)|[支持注入冰蝎内存马和解决持续追加问题](https://github.com/liangyueliangyue/spring-core-rce)
 - [ConPtyShell：适用于 Windows  的反弹互式 shell工具](https://github.com/antonioCoco/ConPtyShell)
 - [RemotePotato0：Windows 提取工具，从普通用户提前至域管理员](https://github.com/antonioCoco/RemotePotato0)
+- [jfscan：masscan和 nmap 联合的端口扫描脚本](https://github.com/nullt3r/jfscan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
