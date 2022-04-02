@@ -1115,6 +1115,7 @@
 - [ConPtyShell：适用于 Windows  的反弹互式 shell工具](https://github.com/antonioCoco/ConPtyShell)
 - [RemotePotato0：Windows 提取工具，从普通用户提前至域管理员](https://github.com/antonioCoco/RemotePotato0)
 - [jfscan：masscan和 nmap 联合的端口扫描脚本](https://github.com/nullt3r/jfscan)
+- [NativePayload_CBT：通过回调函数加载代码执行](https://github.com/DamonMohammadbagher/NativePayload_CBT)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
