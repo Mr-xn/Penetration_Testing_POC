@@ -1484,6 +1484,7 @@
 - [IoT-CTF-2021：2021 西湖论剑 IoT-CTF 赛题仓库](https://github.com/DasSecurity-HatLab/IoT-CTF-2021)
 - [CodeQLRule：个人使用CodeQL编写的一些规则](https://github.com/ice-doom/CodeQLRule)
 - [ReZeroBypassAV：从零开始学免杀](https://github.com/luckyfuture0177/ReZeroBypassAV)
+- [struts2绕过waf读写文件及另类方式执行命令](./books/struts2绕过waf读写文件及另类方式执行命令.pdf)
 
 ## <span id="head9"> 说明</span>
 
