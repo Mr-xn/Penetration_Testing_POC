@@ -443,6 +443,8 @@
 
 - [CVE-2022-27666：Linux local privilege escalation](https://github.com/plummm/CVE-2022-27666)
 
+- [CVE-2022-22639：MAC 权限提升漏洞](https://github.com/jhftss/CVE-2022-22639)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
