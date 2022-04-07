@@ -1124,6 +1124,7 @@
 - [gadgetinspector：利用链、漏洞检测工具](https://github.com/5wimming/gadgetinspector)
 - [LinuxMirrors：GNU/Linux 一键更换国内软件源](https://github.com/SuperManito/LinuxMirrors)
 - [AnonymousSMBServer：一个红队脚本，可以快速对指定文件夹开启和关闭匿名SMB共享，适合搭配 PrintNightmare 漏洞使用](https://github.com/NyDubh3/AnonymousSMBServer)
+- [CMSCheck：可以对多个网站进行批量CMS识别，寻找网站指纹，进行漏洞利用](https://github.com/wwl012345/CMSCheck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
