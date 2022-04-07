@@ -1126,6 +1126,7 @@
 - [AnonymousSMBServer：一个红队脚本，可以快速对指定文件夹开启和关闭匿名SMB共享，适合搭配 PrintNightmare 漏洞使用](https://github.com/NyDubh3/AnonymousSMBServer)
 - [CMSCheck：可以对多个网站进行批量CMS识别，寻找网站指纹，进行漏洞利用](https://github.com/wwl012345/CMSCheck)
 - [cobaltstrike-beacon-data：Open Dataset of Cobalt Strike Beacon metadata (2018-2022)](https://github.com/fox-it/cobaltstrike-beacon-data)
+- [Banli：一款简单好用的高危资产和高危漏洞扫描工具](https://github.com/Goqi/Banli)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
