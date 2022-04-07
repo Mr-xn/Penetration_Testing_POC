@@ -1122,6 +1122,7 @@
 - [NativePayload_CBT：通过回调函数加载代码执行](https://github.com/DamonMohammadbagher/NativePayload_CBT)
 - [RPCDump：通过RP来 dump 信息](https://github.com/csandker/RPCDump)
 - [gadgetinspector：利用链、漏洞检测工具](https://github.com/5wimming/gadgetinspector)
+- [LinuxMirrors：GNU/Linux 一键更换国内软件源](https://github.com/SuperManito/LinuxMirrors)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
