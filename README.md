@@ -1497,6 +1497,7 @@
 - [CodeQLRule：个人使用CodeQL编写的一些规则](https://github.com/ice-doom/CodeQLRule)
 - [ReZeroBypassAV：从零开始学免杀](https://github.com/luckyfuture0177/ReZeroBypassAV)
 - [struts2绕过waf读写文件及另类方式执行命令](./books/struts2绕过waf读写文件及另类方式执行命令.pdf)
+- [sqlps替代powershell](./books/sqlps替代powershell.pdf)
 
 ## <span id="head9"> 说明</span>
 
