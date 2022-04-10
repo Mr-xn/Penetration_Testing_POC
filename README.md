@@ -1131,6 +1131,7 @@
 - [SqlKnife_0x727：适合在命令行中使用的轻巧的SQL Server数据库安全检测工具](https://github.com/0x727/SqlKnife_0x727)
 - [decodeObfuscator：免安装一键还原Obfuscator混淆过的代码](https://github.com/Tsaiboss/decodeObfuscator)
 - [v_jstools：模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码](https://github.com/cilame/v_jstools)
+- [Java_agent_without_file：Java agent without file 无文件的Java agent](https://github.com/xiaopan233/Java_agent_without_file)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
