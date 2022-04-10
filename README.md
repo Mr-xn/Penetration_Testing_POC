@@ -1129,6 +1129,7 @@
 - [Banli：一款简单好用的高危资产和高危漏洞扫描工具](https://github.com/Goqi/Banli)
 - [spring4shell-scan：Spring4Shell and Spring Cloud RCE 漏洞检测脚本](https://github.com/fullhunt/spring4shell-scan)
 - [SqlKnife_0x727：适合在命令行中使用的轻巧的SQL Server数据库安全检测工具](https://github.com/0x727/SqlKnife_0x727)
+- [decodeObfuscator：免安装一键还原Obfuscator混淆过的代码](https://github.com/Tsaiboss/decodeObfuscator)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
