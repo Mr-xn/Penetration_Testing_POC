@@ -1130,6 +1130,7 @@
 - [spring4shell-scan：Spring4Shell and Spring Cloud RCE 漏洞检测脚本](https://github.com/fullhunt/spring4shell-scan)
 - [SqlKnife_0x727：适合在命令行中使用的轻巧的SQL Server数据库安全检测工具](https://github.com/0x727/SqlKnife_0x727)
 - [decodeObfuscator：免安装一键还原Obfuscator混淆过的代码](https://github.com/Tsaiboss/decodeObfuscator)
+- [v_jstools：模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码](https://github.com/cilame/v_jstools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
