@@ -1133,6 +1133,7 @@
 - [v_jstools：模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码](https://github.com/cilame/v_jstools)
 - [Java_agent_without_file：Java agent without file 无文件的Java agent](https://github.com/xiaopan233/Java_agent_without_file)
 - [mullet：梭鱼扫描器，Python 编写支持主动扫描和被动扫描](https://github.com/Ciyfly/mullet)
+- [SpringInspector：Java自动代码审计工具](https://github.com/4ra1n/SpringInspector)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
