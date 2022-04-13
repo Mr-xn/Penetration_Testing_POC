@@ -1140,6 +1140,7 @@
 - [SharpDecryptPwd：解密工具，支持Navicat、Xmanager、TeamViewer、FileZilla、Foxmail、TortoiseSVN、WinSCP、Chrome、RDCMan、SunLogin](https://github.com/RowTeam/SharpDecryptPwd)
 - [CcRemote：一个基于gh0st远程控制的项目](https://github.com/Cc28256/CcRemote)
 - [H：一款强大的资产收集管理平台](https://github.com/SiJiDo/H)
+- [Anti-Virus-PHP：【随机动态生成】php免杀webshell](https://github.com/JZY-nuist/Anti-Virus-PHP)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
