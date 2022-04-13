@@ -1138,6 +1138,7 @@
 - [PrintSpoofer：PrintSpoofer的反射dll实现，结合Cobalt Strike使用](https://github.com/crisprss/PrintSpoofer)
 - [ntlmquic：POC tools for exploring SMB over QUIC protocol](https://github.com/xpn/ntlmquic)
 - [SharpDecryptPwd：解密工具，支持Navicat、Xmanager、TeamViewer、FileZilla、Foxmail、TortoiseSVN、WinSCP、Chrome、RDCMan、SunLogin](https://github.com/RowTeam/SharpDecryptPwd)
+- [CcRemote：一个基于gh0st远程控制的项目](https://github.com/Cc28256/CcRemote)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
