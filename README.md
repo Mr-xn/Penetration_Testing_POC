@@ -1141,6 +1141,7 @@
 - [CcRemote：一个基于gh0st远程控制的项目](https://github.com/Cc28256/CcRemote)
 - [H：一款强大的资产收集管理平台](https://github.com/SiJiDo/H)
 - [Anti-Virus-PHP：【随机动态生成】php免杀webshell](https://github.com/JZY-nuist/Anti-Virus-PHP)
+- [DarkEye：渗透测试情报收集工具](https://github.com/b1gcat/DarkEye)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
