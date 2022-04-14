@@ -1142,6 +1142,7 @@
 - [H：一款强大的资产收集管理平台](https://github.com/SiJiDo/H)
 - [Anti-Virus-PHP：【随机动态生成】php免杀webshell](https://github.com/JZY-nuist/Anti-Virus-PHP)
 - [DarkEye：渗透测试情报收集工具](https://github.com/b1gcat/DarkEye)
+- [Ortau：一个用于隐藏C2的、开箱即用的反向代理服务器](https://github.com/ort4u/Ortau)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
