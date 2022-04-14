@@ -1144,6 +1144,7 @@
 - [DarkEye：渗透测试情报收集工具](https://github.com/b1gcat/DarkEye)
 - [Ortau：一个用于隐藏C2的、开箱即用的反向代理服务器](https://github.com/ort4u/Ortau)
 - [Shack2ToolsWithoutBackdoor：去掉获取系统信息回传到www.shack2.org的工具](https://github.com/NS-Sp4ce/Shack2ToolsWithoutBackdoor)
+- [theHarvester：邮件、子域和雇员、开放端口等信息](https://github.com/laramies/theHarvester)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
