@@ -448,6 +448,8 @@
 
 - [CVE-2022-1015：Linux 权限提升漏洞](https://github.com/pqlx/CVE-2022-1015)
 
+- [CVE-2022-26809：Windows RPC远程代码执行漏洞](https://github.com/genieyou/CVE-2022-26809-RCE)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
