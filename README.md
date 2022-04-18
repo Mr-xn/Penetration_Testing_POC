@@ -1148,6 +1148,7 @@
 - [theHarvester：邮件、子域和雇员、开放端口等信息](https://github.com/laramies/theHarvester)
 - [PowerRemoteDesktop：通过PowerShell连接远程桌面](https://github.com/DarkCoderSc/PowerRemoteDesktop)
 - [Auto_proxy：利用IP地址池进行自动切换Http代理，防止IP封禁](https://github.com/Mustard404/Auto_proxy)
+- [snakeyaml-memshell：springboot跨线程注入内存马](https://github.com/passer-W/snakeyaml-memshell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
