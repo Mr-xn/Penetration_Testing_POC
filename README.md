@@ -1156,6 +1156,8 @@
 - [Diamorphine：LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)](https://github.com/m0nad/Diamorphine)
 - [Gobypass：golang 加载器免杀](https://github.com/huadema/Gobypass)
 - [frp-modify：frp0.38.1 支持域前置、远程加载配置文件、配置文件自删除、流量特征修改](https://github.com/atsud0/frp-modify)
+- [Ruoyi-All：若依后台定时任务一键利用](https://github.com/passer-W/Ruoyi-All)
+- 
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
