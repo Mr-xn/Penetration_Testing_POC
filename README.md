@@ -1524,6 +1524,7 @@
 - [sqlps替代powershell](./books/sqlps替代powershell.pdf)
 - [go-sec-code：Go相关的安全研究](https://github.com/leveryd/go-sec-code)
 - [Awesome-RedTeam-Cheatsheet：Active Directory & Red-Team Cheat-Sheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
+- [HackJava：Java安全](https://github.com/HackJava/HackJava)
 
 ## <span id="head9"> 说明</span>
 
