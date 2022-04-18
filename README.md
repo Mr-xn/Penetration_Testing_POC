@@ -1151,6 +1151,7 @@
 - [Auto_proxy：利用IP地址池进行自动切换Http代理，防止IP封禁](https://github.com/Mustard404/Auto_proxy)
 - [snakeyaml-memshell：springboot跨线程注入内存马](https://github.com/passer-W/snakeyaml-memshell)
 - [fastjson-c3p0：fastjson不出网利用、c3p0](https://github.com/depycode/fastjson-c3p0)
+- [awsKeyTools：aws云平台 accessKey 泄漏利用工具](https://github.com/Aabyss-Team/awsKeyTools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
