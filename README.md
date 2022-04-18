@@ -1152,6 +1152,7 @@
 - [snakeyaml-memshell：springboot跨线程注入内存马](https://github.com/passer-W/snakeyaml-memshell)
 - [fastjson-c3p0：fastjson不出网利用、c3p0](https://github.com/depycode/fastjson-c3p0)
 - [awsKeyTools：aws云平台 accessKey 泄漏利用工具](https://github.com/Aabyss-Team/awsKeyTools)
+- [goqifrp：frp的修改版-去除特征流量免杀信息隐藏](https://github.com/Goqi/goqifrp)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
