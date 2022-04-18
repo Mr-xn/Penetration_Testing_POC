@@ -247,7 +247,7 @@
 - [spring-cloud-function-SpEL-RCE：Spring Cloud Function SpEL RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)|[相关文章](https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 - [CVE-2022-22963：Spring-cloud-function-SpEL-RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
 - [CVE-2022-22965：spring mvc RCE 的分析](https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/)|[CVE-2022-22965：Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)](https://github.com/alt3kx/CVE-2022-22965)|[CVE-2022-22965:Spring4Shell的golang 版本检测实现](https://github.com/zer0yu/CVE-2022-22965)
-- [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)
+- [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)|[VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
 
 ## <span id="head5"> 提权辅助相关</span>
@@ -1155,6 +1155,7 @@
 - [goqifrp：frp的修改版-去除特征流量免杀信息隐藏](https://github.com/Goqi/goqifrp)
 - [Diamorphine：LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)](https://github.com/m0nad/Diamorphine)
 - [Gobypass：golang 加载器免杀](https://github.com/huadema/Gobypass)
+- [frp-modify：frp0.38.1 支持域前置、远程加载配置文件、配置文件自删除、流量特征修改](https://github.com/atsud0/frp-modify)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
