@@ -294,6 +294,7 @@
 - [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
+- [【Windows 提取】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
 
 ## <span id="head6"> PC</span>
 
@@ -1521,6 +1522,7 @@
 - [struts2绕过waf读写文件及另类方式执行命令](./books/struts2绕过waf读写文件及另类方式执行命令.pdf)
 - [sqlps替代powershell](./books/sqlps替代powershell.pdf)
 - [go-sec-code：Go相关的安全研究](https://github.com/leveryd/go-sec-code)
+- [Awesome-RedTeam-Cheatsheet：Active Directory & Red-Team Cheat-Sheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
 
 ## <span id="head9"> 说明</span>
 
