@@ -1153,6 +1153,7 @@
 - [fastjson-c3p0：fastjson不出网利用、c3p0](https://github.com/depycode/fastjson-c3p0)
 - [awsKeyTools：aws云平台 accessKey 泄漏利用工具](https://github.com/Aabyss-Team/awsKeyTools)
 - [goqifrp：frp的修改版-去除特征流量免杀信息隐藏](https://github.com/Goqi/goqifrp)
+- [Diamorphine：LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)](https://github.com/m0nad/Diamorphine)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
