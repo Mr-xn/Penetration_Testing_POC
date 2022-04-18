@@ -1157,7 +1157,7 @@
 - [Gobypass：golang 加载器免杀](https://github.com/huadema/Gobypass)
 - [frp-modify：frp0.38.1 支持域前置、远程加载配置文件、配置文件自删除、流量特征修改](https://github.com/atsud0/frp-modify)
 - [Ruoyi-All：若依后台定时任务一键利用](https://github.com/passer-W/Ruoyi-All)
-- 
+- [VulScanner：一款适合在渗透测试中随时记录和保存的漏洞检测工具](https://github.com/passer-W/VulScanner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
