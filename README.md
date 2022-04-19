@@ -1532,6 +1532,7 @@
 - [go-sec-code：Go相关的安全研究](https://github.com/leveryd/go-sec-code)
 - [Awesome-RedTeam-Cheatsheet：Active Directory & Red-Team Cheat-Sheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
 - [HackJava：Java安全](https://github.com/HackJava/HackJava)
+- [code-review-lab：代码审计☞Go/PHP/Python/.NET](https://github.com/pen4uin/code-review-lab)
 
 ## <span id="head9"> 说明</span>
 
