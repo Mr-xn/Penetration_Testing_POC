@@ -249,6 +249,7 @@
 - [CVE-2022-22965：spring mvc RCE 的分析](https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/)|[CVE-2022-22965：Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)](https://github.com/alt3kx/CVE-2022-22965)|[CVE-2022-22965:Spring4Shell的golang 版本检测实现](https://github.com/zer0yu/CVE-2022-22965)
 - [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)|[VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
+- [YonyouNC_Tip：用友NC历史漏洞](https://github.com/j2ekim/YonyouNC_Tip)
 
 ## <span id="head5"> 提权辅助相关</span>
 
