@@ -296,6 +296,7 @@
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 - [【Windows 提取】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
+- [PEASS-ng：提权检测工具，支持 Windows 和 Linux](https://github.com/carlospolop/PEASS-ng)
 
 ## <span id="head6"> PC</span>
 
