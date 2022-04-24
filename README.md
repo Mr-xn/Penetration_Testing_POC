@@ -1161,6 +1161,7 @@
 - [VulScanner：一款适合在渗透测试中随时记录和保存的漏洞检测工具](https://github.com/passer-W/VulScanner)
 - [FinalShell-Decoder：FinallShell 密码解密GUI工具](https://github.com/passer-W/FinalShell-Decoder)
 - [Decrypt_Weblogic_Password：绝大部分weblogic解密方式](https://github.com/TideSec/Decrypt_Weblogic_Password)
+- [SpringExploit：spring 系列漏洞检测工具](https://github.com/SummerSec/SpringExploit)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
