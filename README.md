@@ -1163,6 +1163,7 @@
 - [FinalShell-Decoder：FinallShell 密码解密GUI工具](https://github.com/passer-W/FinalShell-Decoder)
 - [Decrypt_Weblogic_Password：绝大部分weblogic解密方式](https://github.com/TideSec/Decrypt_Weblogic_Password)
 - [SpringExploit：spring 系列漏洞检测工具](https://github.com/SummerSec/SpringExploit)
+- [nanodump：A crappy LSASS dumper with no ASCII art](https://github.com/helpsystems/nanodump)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
