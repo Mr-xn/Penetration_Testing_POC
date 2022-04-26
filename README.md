@@ -1165,6 +1165,7 @@
 - [SpringExploit：spring 系列漏洞检测工具](https://github.com/SummerSec/SpringExploit)
 - [nanodump：A crappy LSASS dumper with no ASCII art](https://github.com/helpsystems/nanodump)
 - [dynascan：动态敏感文件扫描器，实现动态字典渲染、动态结果判断、自动命中记录、的敏感文件扫描器](https://github.com/winezer0/dynascan)
+- [ExploitDepository：一个花里胡哨的Exploit运行框架](https://github.com/ca3tie1/ExploitDepository)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
