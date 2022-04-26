@@ -1539,6 +1539,7 @@
 - [Awesome-RedTeam-Cheatsheet：Active Directory & Red-Team Cheat-Sheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
 - [HackJava：Java安全](https://github.com/HackJava/HackJava)
 - [code-review-lab：代码审计☞Go/PHP/Python/.NET](https://github.com/pen4uin/code-review-lab)
+- [RedTeamNotes：红对笔记，记录日常红对项目遇到的问题以及解决方案](https://github.com/biggerduck/RedTeamNotes)
 
 ## <span id="head9"> 说明</span>
 
