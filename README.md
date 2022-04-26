@@ -1542,6 +1542,7 @@
 - [code-review-lab：代码审计☞Go/PHP/Python/.NET](https://github.com/pen4uin/code-review-lab)
 - [RedTeamNotes：红对笔记，记录日常红对项目遇到的问题以及解决方案](https://github.com/biggerduck/RedTeamNotes)
 - [sec-note：记录各语言、框架中危险的sink](https://github.com/haby0/sec-note)
+- [JavaVulnSummary：Java漏洞分析汇合](https://github.com/R17a-17/JavaVulnSummary)
 
 ## <span id="head9"> 说明</span>
 
