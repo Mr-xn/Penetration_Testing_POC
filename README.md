@@ -1167,6 +1167,8 @@
 - [dynascan：动态敏感文件扫描器，实现动态字典渲染、动态结果判断、自动命中记录、的敏感文件扫描器](https://github.com/winezer0/dynascan)
 - [ExploitDepository：一个花里胡哨的Exploit运行框架](https://github.com/ca3tie1/ExploitDepository)
 - [collision-webshell：制作相同 MD5的 webshell 文件绕过基于缓存文件 webshell 检测](https://github.com/phith0n/collision-webshell)
+- [KDStab：a Beacon Object File combined implementation of Yaxser's Backstab and pwn1sher's KillDefender for use with Cobalt Strike](https://github.com/Octoberfest7/KDStab)
+- [DumpSMBShare：通过 SMB 共享下载文件和文件夹](https://github.com/p0dalirius/DumpSMBShare)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
