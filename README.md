@@ -1170,6 +1170,7 @@
 - [KDStab：a Beacon Object File combined implementation of Yaxser's Backstab and pwn1sher's KillDefender for use with Cobalt Strike](https://github.com/Octoberfest7/KDStab)
 - [DumpSMBShare：通过 SMB 共享下载文件和文件夹](https://github.com/p0dalirius/DumpSMBShare)
 - [stunner：a tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner)
+- [Aopo：内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破](https://github.com/ExpLangcn/Aopo)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
