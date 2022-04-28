@@ -295,8 +295,9 @@
 - [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
-- [【Windows 提取】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
+- [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
 - [PEASS-ng：提权检测工具，支持 Windows 和 Linux](https://github.com/carlospolop/PEASS-ng)
+- [【Windows 提权】sam-the-admin：CVE-2021-42278 and CVE-2021-42287域内提权](https://github.com/WazeHell/sam-the-admin)
 
 ## <span id="head6"> PC</span>
 
