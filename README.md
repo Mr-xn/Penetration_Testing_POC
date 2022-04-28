@@ -1172,6 +1172,7 @@
 - [stunner：a tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner)
 - [Aopo：内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破](https://github.com/ExpLangcn/Aopo)
 - [commix：命令注入自动化检测工具](https://github.com/commixproject/commix)
+- [awesome-cloud-security：收集一些国内外不错的云安全资源，主要是国内](https://github.com/teamssix/awesome-cloud-security)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
