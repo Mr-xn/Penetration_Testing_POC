@@ -243,7 +243,7 @@
 - [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
 - [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
 - [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
-- [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)|[CVE-2022-22947：golang 版本](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)
+- [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)|[CVE-2022-22947：golang 版本](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)|[cve-2022-22947-godzilla-memshell：CVE-2022-22947 注入Godzilla内存马](https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell)
 - [spring-cloud-function-SpEL-RCE：Spring Cloud Function SpEL RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)|[相关文章](https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 - [CVE-2022-22963：Spring-cloud-function-SpEL-RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
 - [CVE-2022-22965：spring mvc RCE 的分析](https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/)|[CVE-2022-22965：Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)](https://github.com/alt3kx/CVE-2022-22965)|[CVE-2022-22965:Spring4Shell的golang 版本检测实现](https://github.com/zer0yu/CVE-2022-22965)
