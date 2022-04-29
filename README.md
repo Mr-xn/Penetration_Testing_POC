@@ -1176,6 +1176,7 @@
 - [awesome-cloud-security：收集一些国内外不错的云安全资源，主要是国内](https://github.com/teamssix/awesome-cloud-security)
 - [JavaFileDict：Java应用的一些配置文件字典，来源于公开的字典与平时收集](https://github.com/f0ng/JavaFileDict)
 - [RedisEXP：Redis 漏洞利用工具](https://github.com/yuyan-sec/RedisEXP/tree/5e61d700eb389c65436fb95fd8baad9943352bbe)
+- [reverse-shell-generator：各种反弹 shell 格式在线生成](https://github.com/0dayCTF/reverse-shell-generator)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
