@@ -298,6 +298,7 @@
 - [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
 - [PEASS-ng：提权检测工具，支持 Windows 和 Linux](https://github.com/carlospolop/PEASS-ng)
 - [【Windows 提权】sam-the-admin：CVE-2021-42278 and CVE-2021-42287域内提权](https://github.com/WazeHell/sam-the-admin)
+- [【Windows 提权】KrbRelayUp：域内提权](https://github.com/Dec0ne/KrbRelayUp)
 
 ## <span id="head6"> PC</span>
 
