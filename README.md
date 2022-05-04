@@ -299,6 +299,7 @@
 - [PEASS-ng：提权检测工具，支持 Windows 和 Linux](https://github.com/carlospolop/PEASS-ng)
 - [【Windows 提权】sam-the-admin：CVE-2021-42278 and CVE-2021-42287域内提权](https://github.com/WazeHell/sam-the-admin)
 - [【Windows 提权】KrbRelayUp：域内提权](https://github.com/Dec0ne/KrbRelayUp)
+- [【Windows 提权】Auto-Elevate：通过bypass UAC 和令牌模拟提权到 system权限](https://github.com/FULLSHADE/Auto-Elevate)
 
 ## <span id="head6"> PC</span>
 
