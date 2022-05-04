@@ -1181,6 +1181,7 @@
 - [reverse-shell-generator：各种反弹 shell 格式在线生成](https://github.com/0dayCTF/reverse-shell-generator)
 - [another-tmp-mailbox：部署在线匿名邮箱服务](https://github.com/rev1si0n/another-tmp-mailbox)
 - [ELFLoader：在内存中加载或者运行 ELF 对象的通用工具](https://github.com/trustedsec/ELFLoader)
+- [DInjector：shellcode 注入技术集合](https://github.com/snovvcrash/DInjector)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
