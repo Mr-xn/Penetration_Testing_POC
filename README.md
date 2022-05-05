@@ -1185,6 +1185,7 @@
 - [CS-Remote-OPs-BOF：通过CS 的远程BOF 文件来实现各种实用功能](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 - [shiro-framework：shiro 漏洞检测利用工具](https://github.com/dream0x01/shiro-framework)
 - [weblogic-framework：weblogic漏洞检测利用工具](https://github.com/dream0x01/weblogic-framework)
+- [GoRottenTomato：Go实现部分Rubeus功能，可执行asktgt, asktgs, s4u, describe ticket, renew ticket, asreproast等](https://github.com/1ight-2020/GoRottenTomato)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
