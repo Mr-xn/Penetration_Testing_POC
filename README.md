@@ -1184,6 +1184,7 @@
 - [DInjector：shellcode 注入技术集合](https://github.com/snovvcrash/DInjector)
 - [CS-Remote-OPs-BOF：通过CS 的远程BOF 文件来实现各种实用功能](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 - [shiro-framework：shiro 漏洞检测利用工具](https://github.com/dream0x01/shiro-framework)
+- [shiro_killer：shiro 漏洞批量检测工具](https://github.com/Peony2022/shiro_killer)
 - [weblogic-framework：weblogic漏洞检测利用工具](https://github.com/dream0x01/weblogic-framework)
 - [GoRottenTomato：Go实现部分Rubeus功能，可执行asktgt, asktgs, s4u, describe ticket, renew ticket, asreproast等](https://github.com/1ight-2020/GoRottenTomato)
 - [Struts2Scanner：一款Golang编写的Struts2漏洞检测和利用工具，支持并发批量检测](https://github.com/1ight-2020/Struts2Scanner)
