@@ -1182,6 +1182,9 @@
 - [another-tmp-mailbox：部署在线匿名邮箱服务](https://github.com/rev1si0n/another-tmp-mailbox)
 - [ELFLoader：在内存中加载或者运行 ELF 对象的通用工具](https://github.com/trustedsec/ELFLoader)
 - [DInjector：shellcode 注入技术集合](https://github.com/snovvcrash/DInjector)
+- [CS-Remote-OPs-BOF：通过CS 的远程BOF 文件来实现各种实用功能](https://github.com/trustedsec/CS-Remote-OPs-BOF)
+- [shiro-framework：shiro 漏洞检测利用工具](https://github.com/dream0x01/shiro-framework)
+- [weblogic-framework：weblogic漏洞检测利用工具](https://github.com/dream0x01/weblogic-framework)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
