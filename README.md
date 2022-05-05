@@ -1186,6 +1186,7 @@
 - [shiro-framework：shiro 漏洞检测利用工具](https://github.com/dream0x01/shiro-framework)
 - [weblogic-framework：weblogic漏洞检测利用工具](https://github.com/dream0x01/weblogic-framework)
 - [GoRottenTomato：Go实现部分Rubeus功能，可执行asktgt, asktgs, s4u, describe ticket, renew ticket, asreproast等](https://github.com/1ight-2020/GoRottenTomato)
+- [Struts2Scanner：一款Golang编写的Struts2漏洞检测和利用工具，支持并发批量检测](https://github.com/1ight-2020/Struts2Scanner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
