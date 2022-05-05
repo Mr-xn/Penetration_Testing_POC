@@ -1188,6 +1188,8 @@
 - [GoRottenTomato：Go实现部分Rubeus功能，可执行asktgt, asktgs, s4u, describe ticket, renew ticket, asreproast等](https://github.com/1ight-2020/GoRottenTomato)
 - [Struts2Scanner：一款Golang编写的Struts2漏洞检测和利用工具，支持并发批量检测](https://github.com/1ight-2020/Struts2Scanner)
 - [RuijieRCE：锐捷Ruijie Networks RCE漏洞检测工具，可批量检测上菜刀、冰蝎、哥斯拉](https://github.com/1ight-2020/RuijieRCE)
+- [natpass：支持web vnc和web shell的远程管理工具](https://github.com/jkstack/natpass)
+- [SigFlip：修改已经签名的PE文件且不破坏签名的工具](https://github.com/med0x2e/SigFlip)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
