@@ -1193,6 +1193,7 @@
 - [SigFlip：修改已经签名的PE文件且不破坏签名的工具](https://github.com/med0x2e/SigFlip)
 - [supplier：主流供应商的一些攻击性漏洞汇总](https://github.com/r0eXpeR/supplier)
 - [PPLDump_BOF：PPLdump项目的BOF 移植，dump 指定进程](https://github.com/EspressoCake/PPLDump_BOF)
+- [SharpWSUS：通过 Windows 升级服务来进行横向移动的CSharp工具](https://github.com/nettitude/SharpWSUS)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
