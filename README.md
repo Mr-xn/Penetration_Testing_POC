@@ -1194,6 +1194,9 @@
 - [supplier：主流供应商的一些攻击性漏洞汇总](https://github.com/r0eXpeR/supplier)
 - [PPLDump_BOF：PPLdump项目的BOF 移植，dump 指定进程](https://github.com/EspressoCake/PPLDump_BOF)
 - [SharpWSUS：通过 Windows 升级服务来进行横向移动的CSharp工具](https://github.com/nettitude/SharpWSUS)
+- [NSNGFW-RCE-POC_EXP：NSNGFW网康下一代防火墙RCE 漏洞批量检测&利用&批量getshell](https://github.com/S0por/NSNGFW-RCE-POC_EXP)
+- [A-collection-of-configuration-file-paths：国内各种软件的配置文件目录](https://github.com/testfdasfsdff/A-collection-of-configuration-file-paths)
+- [nosferatu：Windows NTLM验证后门](https://github.com/kindtime/nosferatu)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1571,6 +1574,7 @@
 - [RedTeamNotes：红对笔记，记录日常红对项目遇到的问题以及解决方案](https://github.com/biggerduck/RedTeamNotes)
 - [sec-note：记录各语言、框架中危险的sink](https://github.com/haby0/sec-note)
 - [JavaVulnSummary：Java漏洞分析汇合](https://github.com/R17a-17/JavaVulnSummary)
+- [GetDomainAdmin：获取域控权限的几种方式](https://github.com/JDArmy/GetDomainAdmin)
 
 ## <span id="head9"> 说明</span>
 
