@@ -1197,6 +1197,8 @@
 - [NSNGFW-RCE-POC_EXP：NSNGFW网康下一代防火墙RCE 漏洞批量检测&利用&批量getshell](https://github.com/S0por/NSNGFW-RCE-POC_EXP)
 - [A-collection-of-configuration-file-paths：国内各种软件的配置文件目录](https://github.com/testfdasfsdff/A-collection-of-configuration-file-paths)
 - [nosferatu：Windows NTLM验证后门](https://github.com/kindtime/nosferatu)
+- [takeover：子域名接管漏洞扫描工具](https://github.com/m4ll0k/takeover)
+- [subdomain-takeover：子域名接管扫描工具](https://github.com/antichown/subdomain-takeover)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
