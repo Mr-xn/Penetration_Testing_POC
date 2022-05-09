@@ -217,7 +217,7 @@
 - [对ShirneCMS的一次审计思路-反序列化getshell](./books/对ShirneCMS的一次审计思路.pdf)-[原文地址](https://mp.weixin.qq.com/s/aps0k7O6BO-UQ0gXbTN3KQ)-[cms地址1](https://gitee.com/shirnecn/ShirneCMS)-[cms地址2](https://github.com/80027505/shirne)
 - [Apache Solr最新版任意文件读取0day](./books/Apache%20Solr最新版任意文件读取0day.pdf)|[原文地址](https://mp.weixin.qq.com/s/HMtAz6_unM1PrjfAzfwCUQ)
 - [KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化)](./books/KiteCMS的漏洞挖掘之旅(任意文件写入、任意文件读取和反序列化).pdf)|[原文地址](https://mp.weixin.qq.com/s/ETm92MHTNksURjOPNqFgHg)
-- [CVE-2021-22986-F5 BIG-IP 远程代码执行漏洞EXP](https://github.com/S1xHcL/f5_rce_poc)
+- [CVE-2021-22986-F5 BIG-IP 远程代码执行漏洞EXP](https://github.com/S1xHcL/f5_rce_poc)|[CVE-2021-22986批量检测](https://github.com/Al1ex/CVE-2021-22986)
 - [CNVD-2021-10543：MessageSolution 企业邮件归档管理系统 EEA 存在信息泄露漏洞](https://github.com/Henry4E36/CNVD-2021-10543)
 - [CVE-2021-26295-POC](https://github.com/yumusb/CVE-2021-26295-POC)
 - [eyouRCE：（CNVD-2021-26422）亿邮电子邮件系统 远程命令执行漏洞 python版本](https://github.com/Henry4E36/eyouRCE)|[EYouMailRCE：jar单文件版本](https://github.com/Tas9er/EYouMailRCE)
@@ -250,6 +250,7 @@
 - [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)|[VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
 - [YonyouNC_Tip：用友NC历史漏洞](https://github.com/j2ekim/YonyouNC_Tip)
+- [CVE-2022-1388-EXP：CVE-2022-1388 F5 BIG-IP RCE 批量检测](https://github.com/bytecaps/CVE-2022-1388-EXP)
 
 ## <span id="head5"> 提权辅助相关</span>
 
