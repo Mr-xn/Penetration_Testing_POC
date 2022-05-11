@@ -251,6 +251,7 @@
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
 - [YonyouNC_Tip：用友NC历史漏洞](https://github.com/j2ekim/YonyouNC_Tip)
 - [CVE-2022-1388-EXP：CVE-2022-1388 F5 BIG-IP RCE 批量检测](https://github.com/bytecaps/CVE-2022-1388-EXP)|[CVE-2022-1388 nuclei 模板](https://github.com/numanturle/CVE-2022-1388)|[CVE-2022-1388：另一个扫描脚本](https://github.com/0xf4n9x/CVE-2022-1388)
+- [CVE-2022-24734： MyBB论坛后台 RCE](https://github.com/Altelus1/CVE-2022-24734)
 
 ## <span id="head5"> 提权辅助相关</span>
 
