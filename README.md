@@ -250,7 +250,7 @@
 - [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)|[VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
 - [YonyouNC_Tip：用友NC历史漏洞](https://github.com/j2ekim/YonyouNC_Tip)
-- [CVE-2022-1388-EXP：CVE-2022-1388 F5 BIG-IP RCE 批量检测](https://github.com/bytecaps/CVE-2022-1388-EXP)
+- [CVE-2022-1388-EXP：CVE-2022-1388 F5 BIG-IP RCE 批量检测](https://github.com/bytecaps/CVE-2022-1388-EXP)|[CVE-2022-1388 nuclei 模板](https://github.com/numanturle/CVE-2022-1388)|[CVE-2022-1388：另一个扫描脚本](https://github.com/0xf4n9x/CVE-2022-1388)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1200,6 +1200,7 @@
 - [nosferatu：Windows NTLM验证后门](https://github.com/kindtime/nosferatu)
 - [takeover：子域名接管漏洞扫描工具](https://github.com/m4ll0k/takeover)
 - [subdomain-takeover：子域名接管扫描工具](https://github.com/antichown/subdomain-takeover)
+- [Chunk-Proxy：通过 http chunk 传输代理](https://github.com/BeichenDream/Chunk-Proxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
