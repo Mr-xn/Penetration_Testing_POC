@@ -1202,6 +1202,7 @@
 - [takeover：子域名接管漏洞扫描工具](https://github.com/m4ll0k/takeover)
 - [subdomain-takeover：子域名接管扫描工具](https://github.com/antichown/subdomain-takeover)
 - [Chunk-Proxy：通过 http chunk 传输代理（类似 reGeorg）](https://github.com/BeichenDream/Chunk-Proxy)
+- [NtCreateUserProcess：通过NtCreateUserProcess() APi 创建进程](https://github.com/capt-meelo/NtCreateUserProcess)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
