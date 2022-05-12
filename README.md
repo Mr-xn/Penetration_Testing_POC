@@ -594,7 +594,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)|[MYJNDIExploit：一款用于 `JNDI注入` 利用的工具，大量参考/引用了 `Rogue JNDI` 项目的代码，支持直接`植入内存shell`，并集成了常见的`bypass 高版本JDK`的方式，适用于与自动化工具配合使用](https://github.com/achuna33/MYJNDIExploit)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)|[FastjsonExploit：fastjson漏洞快速利用框架](https://github.com/c0ny1/FastjsonExploit)|[fastjsonScan：fastjson漏洞burp插件](https://github.com/zilong3033/fastjsonScan)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
@@ -1201,7 +1201,7 @@
 - [nosferatu：Windows NTLM验证后门](https://github.com/kindtime/nosferatu)
 - [takeover：子域名接管漏洞扫描工具](https://github.com/m4ll0k/takeover)
 - [subdomain-takeover：子域名接管扫描工具](https://github.com/antichown/subdomain-takeover)
-- [Chunk-Proxy：通过 http chunk 传输代理](https://github.com/BeichenDream/Chunk-Proxy)
+- [Chunk-Proxy：通过 http chunk 传输代理（类似 reGeorg）](https://github.com/BeichenDream/Chunk-Proxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
