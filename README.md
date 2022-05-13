@@ -521,7 +521,7 @@
 - [一个简单探测jboss漏洞的工具](https://github.com/GGyao/jbossScan)
 - [一款lcx在golang下的实现-适合内网代理流量到公网,比如阿里云的机器代理到你的公网机器](https://github.com/cw1997/NATBypass)
 - [Cobalt Strike Aggressor 插件包](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
-- [Erebus-Cobalt Strike后渗透测试插件,包括了信息收集、权限获取、密码获取、痕迹清除等等常见的脚本插件](https://github.com/DeEpinGh0st/Erebus)
+- [Erebus-Cobalt Strike后渗透测试插件,包括了信息收集、权限获取、密码获取、痕迹清除等等常见的脚本插件](https://github.com/DeEpinGh0st/Erebus)|[Aggressor：巨龙拉冬集成的 cobaltstrike 插件](https://github.com/k8gege/Aggressor)
 - [cobaltstrike后渗透插件，偏向内网常用工具（目前包含1.定位域管理员2.信息收集(采用ADfind)3.权限维持(增加了万能密码,以及白银票据)4.内网扫描(nbtscan(linux/windows通用))5.dump数据库hash(支持mysql/mssql(快速获取数据库的hash值))）](https://github.com/wafinfo/cobaltstrike)
 - [AggressorScripts-适用于Cobalt Strike 3.x & 4.x 的插件【信息搜集/提权/定位域管/读取密码/内网扫描/RDP相关/添加用户/内网穿透/权限维持/日志清除/辅助模块/】](https://github.com/z1un/Z1-AggressorScripts)
 - [IP/IP段资产扫描-->扫描开放端口识别运行服务部署网站-->自动化整理扫描结果-->输出可视化报表+整理结果](https://github.com/LangziFun/LangNetworkTopology3)
@@ -1203,6 +1203,7 @@
 - [subdomain-takeover：子域名接管扫描工具](https://github.com/antichown/subdomain-takeover)
 - [Chunk-Proxy：通过 http chunk 传输代理（类似 reGeorg）](https://github.com/BeichenDream/Chunk-Proxy)
 - [NtCreateUserProcess：通过NtCreateUserProcess() APi 创建进程](https://github.com/capt-meelo/NtCreateUserProcess)
+- [shiro-550-with-NoCC： Shiro-550 不依赖CC链利用工具](https://github.com/dr0op/shiro-550-with-NoCC)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
