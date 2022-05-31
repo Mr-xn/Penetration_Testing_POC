@@ -1211,6 +1211,7 @@
 - [Chunk-Proxy：通过 http chunk 传输代理（类似 reGeorg）](https://github.com/BeichenDream/Chunk-Proxy)
 - [NtCreateUserProcess：通过NtCreateUserProcess() APi 创建进程](https://github.com/capt-meelo/NtCreateUserProcess)
 - [shiro-550-with-NoCC： Shiro-550 不依赖CC链利用工具](https://github.com/dr0op/shiro-550-with-NoCC)
+- [14Finger：基于vue3+django前后端分离，功能齐全的Web指纹扫描和分享平台](https://github.com/b1ackc4t/14Finger)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
