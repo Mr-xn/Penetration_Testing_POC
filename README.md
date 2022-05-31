@@ -461,6 +461,8 @@
 
 - [CVE-2022-25372：Local Privilege Escalation In Pritunl VPN Client](https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2022-25372)
 
+- [CVE-2022-22972：VMware 身份验证绕过漏洞](https://github.com/horizon3ai/CVE-2022-22972)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
