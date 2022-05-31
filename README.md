@@ -255,6 +255,7 @@
 - [CVE-2022-0540：Atlassian Jira Seraph Authentication Bypass RCE](https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE)
 - [CVE-2022-25237：Bonitasoft Platform 从认证绕过到RCE](https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2022-25237)|[CVE-2022-25237 Bonitasoft Platform 从认证绕过到未公开反序列化漏洞发现之旅](./books/CVE-2022-25237%20Bonitasoft%20Platform%20从认证绕过到未公开反序列化漏洞发现之旅.pdf)
 - [CVE-2022-22978：Spring Security身份认证绕过漏洞](https://github.com/XuCcc/VulEnv/tree/master/springboot/cve_2022_22978)|[相关分析](https://bbs.huaweicloud.com/blogs/355165)
+- [FastjsonPoc：Fastjson 1.2.80 反序列化代码 Demo 以及环境](https://github.com/YoungBear/FastjsonPoc)
 
 ## <span id="head5"> 提权辅助相关</span>
 
