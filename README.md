@@ -467,6 +467,8 @@
 
 - [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
 
+- [CVE-2022-30190：Microsoft Office Word Rce ](https://github.com/bytecaps/CVE-2022-30190)|[CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190)|[follina.py：CVE-2022-30190 检测工具](https://github.com/chvancooten/follina.py)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
