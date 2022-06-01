@@ -1215,6 +1215,7 @@
 - [NtCreateUserProcess：通过NtCreateUserProcess() APi 创建进程](https://github.com/capt-meelo/NtCreateUserProcess)
 - [shiro-550-with-NoCC： Shiro-550 不依赖CC链利用工具](https://github.com/dr0op/shiro-550-with-NoCC)
 - [14Finger：基于vue3+django前后端分离，功能齐全的Web指纹扫描和分享平台](https://github.com/b1ackc4t/14Finger)
+- [rotateproxy：利用fofa搜索socks5开放代理进行代理池轮切的工具](https://github.com/akkuman/rotateproxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
