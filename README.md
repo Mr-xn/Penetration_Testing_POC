@@ -1593,6 +1593,7 @@
 - [sec-note：记录各语言、框架中危险的sink](https://github.com/haby0/sec-note)
 - [JavaVulnSummary：Java漏洞分析汇合](https://github.com/R17a-17/JavaVulnSummary)
 - [GetDomainAdmin：获取域控权限的几种方式](https://github.com/JDArmy/GetDomainAdmin)
+- [my-re0-k8s-security：整理过去的分享，从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 
 ## <span id="head9"> 说明</span>
 
