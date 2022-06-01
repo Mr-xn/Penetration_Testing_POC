@@ -465,6 +465,8 @@
 
 - [CVE-2022-22972：VMware 身份验证绕过漏洞](https://github.com/horizon3ai/CVE-2022-22972)
 
+- [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
