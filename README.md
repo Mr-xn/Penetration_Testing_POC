@@ -1223,6 +1223,7 @@
 - [MS17010_AllInOne：MS7010 利用工具，功能包括自动探测主机系统类型 -> 选择合适的EXP并利用 -> 植入后门 -> 创建后门自启服务 -> 创建系统账号 -> 开放后门监听端口](https://github.com/weizn11/MS17010_AllInOne)
 - [All-Defense-Tool：优秀开源攻防项目集合](https://github.com/guchangan1/All-Defense-Tool)
 - [RedGuard：一款C2设施前置流量控制技术的衍生作品](https://github.com/wikiZ/RedGuard)
+- [gomasscan：gomasscan是一个纯go编写的masscan扫描库](https://github.com/lcvvvv/gomasscan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
