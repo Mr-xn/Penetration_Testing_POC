@@ -1219,6 +1219,7 @@
 - [shiro-550-with-NoCC： Shiro-550 不依赖CC链利用工具](https://github.com/dr0op/shiro-550-with-NoCC)
 - [14Finger：基于vue3+django前后端分离，功能齐全的Web指纹扫描和分享平台](https://github.com/b1ackc4t/14Finger)
 - [rotateproxy：利用fofa搜索socks5开放代理进行代理池轮切的工具](https://github.com/akkuman/rotateproxy)
+- [Auto_proxy：利用IP地址池进行自动切换Http代理，防止IP封禁](https://github.com/Mustard404/Auto_proxy)
 - [Aazhen-v3.1：自研JavaFX图形化漏洞扫描工具，支持ThinkPHP 2.x RCE，Thinkphp5 5.0.22/5.1.29RCE，ThinkPHP5 5.0.23RCE和ThinkPHP5 SQL注入漏洞和敏感信息泄露漏洞的漏洞检测，以及命令执行的功能](https://github.com/zangcc/Aazhen-v3.1)
 - [MS17010_AllInOne：MS7010 利用工具，功能包括自动探测主机系统类型 -> 选择合适的EXP并利用 -> 植入后门 -> 创建后门自启服务 -> 创建系统账号 -> 开放后门监听端口](https://github.com/weizn11/MS17010_AllInOne)
 - [All-Defense-Tool：优秀开源攻防项目集合](https://github.com/guchangan1/All-Defense-Tool)
