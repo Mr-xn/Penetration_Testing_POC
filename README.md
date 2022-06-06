@@ -1225,6 +1225,7 @@
 - [All-Defense-Tool：优秀开源攻防项目集合](https://github.com/guchangan1/All-Defense-Tool)
 - [RedGuard：一款C2设施前置流量控制技术的衍生作品](https://github.com/wikiZ/RedGuard)
 - [gomasscan：gomasscan是一个纯go编写的masscan扫描库](https://github.com/lcvvvv/gomasscan)
+- [cdnlookup：一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具](https://github.com/burpheart/cdnlookup)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
