@@ -257,6 +257,7 @@
 - [CVE-2022-22978：Spring Security身份认证绕过漏洞](https://github.com/XuCcc/VulEnv/tree/master/springboot/cve_2022_22978)|[相关分析](https://bbs.huaweicloud.com/blogs/355165)
 - [FastjsonPoc：Fastjson 1.2.80 反序列化代码 Demo 以及环境](https://github.com/YoungBear/FastjsonPoc)
 - [CVE-2022-26133：Atlassian Bitbucket Data Center 反序列化漏洞批量验证和利用](https://github.com/Trhackno/CVE-2022-26133)
+- [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)
 
 ## <span id="head5"> 提权辅助相关</span>
 
