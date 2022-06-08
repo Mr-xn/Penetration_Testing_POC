@@ -309,6 +309,8 @@
 - [【Windows 提权】sam-the-admin：CVE-2021-42278 and CVE-2021-42287域内提权](https://github.com/WazeHell/sam-the-admin)
 - [【Windows 提权】KrbRelayUp：域内提权](https://github.com/Dec0ne/KrbRelayUp)
 - [【Windows 提权】Auto-Elevate：通过bypass UAC 和令牌模拟提权到 system权限](https://github.com/FULLSHADE/Auto-Elevate)
+- [【Linux 提权】CVE-2021-4204：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2021-4204)
+- [【Linux 提权】CVE-2022-23222：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2022-23222)
 
 ## <span id="head6"> PC</span>
 
