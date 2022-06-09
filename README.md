@@ -1236,6 +1236,7 @@
 - [BlastWithCaptcha：验证码识别 爆破 本地ocr 多线程爆破](https://github.com/AbelChe/BlastWithCaptcha)
 - [python-shellcode-loader：python免杀shellcode加载器 加密混淆](https://github.com/HZzz2/python-shellcode-loader)
 - [go-shellcode-loader：GO免杀shellcode加载器混淆AES加密](https://github.com/HZzz2/go-shellcode-loader)
+- [ThinkphpGUI：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell和日志泄露检查](https://github.com/Lotus6/ThinkphpGUI)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
