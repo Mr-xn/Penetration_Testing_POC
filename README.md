@@ -1240,6 +1240,7 @@
 - [webprobe：一款快速探测web存活并获取title的工具](https://github.com/damit5/webprobe)
 - [CHAOS：开源远控管理工具](https://github.com/tiagorlampert/CHAOS)
 - [gitdorks_go：一款在github上发现敏感信息的自动化收集工具](https://github.com/damit5/gitdorks_go)
+- [ScareCrow：一款为bypass EDR的框架](https://github.com/optiv/ScareCrow)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
