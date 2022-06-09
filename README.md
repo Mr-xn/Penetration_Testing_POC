@@ -1239,6 +1239,7 @@
 - [ThinkphpGUI：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell和日志泄露检查](https://github.com/Lotus6/ThinkphpGUI)
 - [webprobe：一款快速探测web存活并获取title的工具](https://github.com/damit5/webprobe)
 - [CHAOS：开源远控管理工具](https://github.com/tiagorlampert/CHAOS)
+- [gitdorks_go：一款在github上发现敏感信息的自动化收集工具](https://github.com/damit5/gitdorks_go)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
