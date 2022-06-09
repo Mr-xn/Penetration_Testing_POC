@@ -1243,6 +1243,7 @@
 - [ScareCrow：一款为bypass EDR的框架](https://github.com/optiv/ScareCrow)
 - [InCloud：运行于GitHub Actions 的仓库中自动化、自定义和执行软件开发工作流程，定制好十种针对网段和域名的不同场景的信息收集与漏洞扫描流程](https://github.com/inbug-team/InCloud)
 - [Log4j_RCE_Tool：Log4j 多线程批量检测利用工具](https://github.com/inbug-team/Log4j_RCE_Tool)
+- [np：解析、去重和查询多个端口扫描的工具](https://github.com/leesoh/np)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
