@@ -1234,6 +1234,8 @@
 - [riskscanner：开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公(私)有云资源的安全合规扫描和漏洞扫描](https://github.com/riskscanner/riskscanner)
 - [Mythic：一个协作、多平台、红队的框架](https://github.com/its-a-feature/Mythic)
 - [BlastWithCaptcha：验证码识别 爆破 本地ocr 多线程爆破](https://github.com/AbelChe/BlastWithCaptcha)
+- [python-shellcode-loader：python免杀shellcode加载器 加密混淆](https://github.com/HZzz2/python-shellcode-loader)
+- [go-shellcode-loader：GO免杀shellcode加载器混淆AES加密](https://github.com/HZzz2/go-shellcode-loader)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
