@@ -1237,6 +1237,7 @@
 - [python-shellcode-loader：python免杀shellcode加载器 加密混淆](https://github.com/HZzz2/python-shellcode-loader)
 - [go-shellcode-loader：GO免杀shellcode加载器混淆AES加密](https://github.com/HZzz2/go-shellcode-loader)
 - [ThinkphpGUI：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell和日志泄露检查](https://github.com/Lotus6/ThinkphpGUI)
+- [webprobe：一款快速探测web存活并获取title的工具](https://github.com/damit5/webprobe)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
