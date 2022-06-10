@@ -1245,6 +1245,8 @@
 - [Log4j_RCE_Tool：Log4j 多线程批量检测利用工具](https://github.com/inbug-team/Log4j_RCE_Tool)
 - [np：解析、去重和查询多个端口扫描的工具](https://github.com/leesoh/np)
 - [Nidhogg：一款适用于红队的一体化简单易用的 rootkit](https://github.com/Idov31/Nidhogg)
+- [KillDefender：通过删除其令牌特权并降低令牌完整性来杀掉defender](https://github.com/pwn1sher/KillDefender)
+- [KillDefender_BOF：KillDefender的BOF 实现](https://github.com/Octoberfest7/KillDefender_BOF)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
