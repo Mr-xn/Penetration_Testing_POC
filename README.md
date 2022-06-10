@@ -1247,6 +1247,8 @@
 - [Nidhogg：一款适用于红队的一体化简单易用的 rootkit](https://github.com/Idov31/Nidhogg)
 - [KillDefender：通过删除其令牌特权并降低令牌完整性来杀掉defender](https://github.com/pwn1sher/KillDefender)
 - [KillDefender_BOF：KillDefender的BOF 实现](https://github.com/Octoberfest7/KillDefender_BOF)
+- [fscan-POC：强化fscan的漏扫POC库](https://github.com/chaosec2021/fscan-POC)
+- [Krakatau：Java 反编译器、汇编器和反汇编器](https://github.com/Storyyeller/Krakatau)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
