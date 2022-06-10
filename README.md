@@ -259,6 +259,7 @@
 - [CVE-2022-26133：Atlassian Bitbucket Data Center 反序列化漏洞批量验证和利用](https://github.com/Trhackno/CVE-2022-26133)
 - [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)
 - [CVE-2022-32275：GRAFANA 8.4.3 DASHBOARD 目录遍历](https://github.com/BrotherOfJhonny/grafana)|[CVE-2022-32276：未授权绕过漏洞](https://github.com/BrotherOfJhonny/grafana)
+- [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
 
 ## <span id="head5"> 提权辅助相关</span>
 
