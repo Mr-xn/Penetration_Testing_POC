@@ -1250,6 +1250,7 @@
 - [KillDefender_BOF：KillDefender的BOF 实现](https://github.com/Octoberfest7/KillDefender_BOF)
 - [fscan-POC：强化fscan的漏扫POC库](https://github.com/chaosec2021/fscan-POC)
 - [Krakatau：Java 反编译器、汇编器和反汇编器](https://github.com/Storyyeller/Krakatau)
+- [heartsk_community：Hearts K-企业资产发现与脆弱性检查工具，自动化资产信息收集与漏洞扫描](https://github.com/yqcs/heartsk_community)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
