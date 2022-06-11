@@ -1256,6 +1256,7 @@
 - [Memoryshell-JavaALL：收集内存马打入方式](https://github.com/achuna33/Memoryshell-JavaALL)
 - [codeql_compile：自动反编译闭源应用，创建codeql数据库](https://github.com/ice-doom/codeql_compile)
 - [SerializationDumper：一种以更易读的形式转储 Java 序列化流的工具](https://github.com/NickstaDB/SerializationDumperc)
+- [ThunderSearch：闪电搜索器，GUI图形化渗透测试信息搜集工具](https://github.com/xzajyjs/ThunderSearch)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
