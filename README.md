@@ -1637,6 +1637,7 @@
 - [GetDomainAdmin：获取域控权限的几种方式](https://github.com/JDArmy/GetDomainAdmin)
 - [my-re0-k8s-security：整理过去的分享，从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 - [PHPAuditGuideBook：PHP代码审计入门指南](https://github.com/burpheart/PHPAuditGuideBook)
+- [awesome-java-security：Java安全☞代码审计/漏洞分析/武器化](https://github.com/pen4uin/awesome-java-security)
 
 ## <span id="head9"> 说明</span>
 
