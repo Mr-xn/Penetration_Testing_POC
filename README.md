@@ -312,6 +312,7 @@
 - [【Windows 提权】Auto-Elevate：通过bypass UAC 和令牌模拟提权到 system权限](https://github.com/FULLSHADE/Auto-Elevate)
 - [【Linux 提权】CVE-2021-4204：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2021-4204)
 - [【Linux 提权】CVE-2022-23222：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2022-23222)
+- [【Windows 提权】PrivExchange：通过滥用Exchange将您的权限交换为域管理权限](https://github.com/dirkjanm/PrivExchange)
 
 ## <span id="head6"> PC</span>
 
