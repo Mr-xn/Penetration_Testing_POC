@@ -260,6 +260,7 @@
 - [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)
 - [CVE-2022-32275：GRAFANA 8.4.3 DASHBOARD 目录遍历](https://github.com/BrotherOfJhonny/grafana)|[CVE-2022-32276：未授权绕过漏洞](https://github.com/BrotherOfJhonny/grafana)
 - [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
+- [CVE-2022-28346：DjangoSQL注入QuerySet.annotate(), aggregate(), and extra()环境](https://github.com/YouGina/CVE-2022-28346)|[另一个CVE-2022-28346环境](https://github.com/DeEpinGh0st/CVE-2022-28346)|[CVE-2022-28346相关文章分析](https://www.freebuf.com/vuls/332893.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
