@@ -47,6 +47,7 @@
 - [CVE-2021-36260：海康威视命令注入漏洞](https://github.com/rabbitsafe/CVE-2021-36260)
 - [CVE-2021-41653：TP-Link TL-WR840N V5(EU) - RCE ](./books/TP-Link%20TL-WR840N%20V5(EU)%20-%20RCE%20-%20CVE-2021-41653.pdf)
 - [DirtyPipe-Android：Dirty Pipe root exploit for Android](https://github.com/polygraphene/DirtyPipe-Android)
+- [CVE-2022-30075：Tp-Link Archer AX50 Authenticated RCE](https://github.com/aaronsvk/CVE-2022-30075)
 
 ## <span id="head4">Web APP</span>
 
