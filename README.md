@@ -1262,6 +1262,8 @@
 - [TerminalController：windows/linux 远程管理：屏幕监控、键盘记录、文件管理、命令执行、内网穿透、socks5](https://github.com/mycve/TerminalController)
 - [bypassAV：免杀 defender 360 cobalstrike shellcode](https://github.com/mycve/bypassAV)
 - [steganography：golang 编写的图片隐写工具库](https://github.com/auyer/steganography)
+- [des.hex-encodefile：Golang:采用随机deskey和hex进行文件加密，常用于加密shellcode](https://github.com/TryHello/des.hex-encodefile)
+- [go-shellcode-webimg-load：golang shellcode loader 远程图片隐写加载执行 无文件落地](https://github.com/TryHello/go-shellcode-webimg-load)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
