@@ -1264,6 +1264,7 @@
 - [steganography：golang 编写的图片隐写工具库](https://github.com/auyer/steganography)
 - [des.hex-encodefile：Golang:采用随机deskey和hex进行文件加密，常用于加密shellcode](https://github.com/TryHello/des.hex-encodefile)
 - [go-shellcode-webimg-load：golang shellcode loader 远程图片隐写加载执行 无文件落地](https://github.com/TryHello/go-shellcode-webimg-load)
+- [C2_Demo：golang+c#乱写了一个基于http的垃圾远控(支持团队协同作战,功能很少)(三端)](https://github.com/TryHello/C2_Demo)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
