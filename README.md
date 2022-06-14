@@ -1644,6 +1644,8 @@
 - [域渗透之外网打点到三层内网](./books/域渗透之外网打点到三层内网.pdf)|[原文](https://xz.aliyun.com/t/11432)
 - [Django SQL注入历史漏洞分析](./books/Django%20SQL注入历史漏洞分析.pdf)|[原文](https://xz.aliyun.com/t/11422)
 - [从SQL注入绕过最新安全狗WAF中学习fuzz](./books/从SQL注入绕过最新安全狗WAF中学习fuzz.pdf)|[原文](https://xz.aliyun.com/t/11412)
+- [谁能比我细---秒懂Http请求走私(超详细)](./books/谁能比我细---秒懂Http请求走私(超详细).pdf)|[原文](https://xz.aliyun.com/t/11423)
+- [webshell免杀-提升兼容性](./books/webshell免杀-提升兼容性.pdf)|[原文](https://xz.aliyun.com/t/11391)
 
 ## <span id="head9"> 说明</span>
 
