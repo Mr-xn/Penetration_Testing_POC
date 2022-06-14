@@ -1265,6 +1265,7 @@
 - [des.hex-encodefile：Golang:采用随机deskey和hex进行文件加密，常用于加密shellcode](https://github.com/TryHello/des.hex-encodefile)
 - [go-shellcode-webimg-load：golang shellcode loader 远程图片隐写加载执行 无文件落地](https://github.com/TryHello/go-shellcode-webimg-load)
 - [C2_Demo：golang+c#乱写了一个基于http的垃圾远控(支持团队协同作战,功能很少)(三端)](https://github.com/TryHello/C2_Demo)
+- [multiplexing_port_socks5：一款golang写的支持http与socks5的端口复用小工具，并且可以开启socks5代理](https://github.com/TryHello/multiplexing_port_socks5)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
