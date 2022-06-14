@@ -1640,6 +1640,8 @@
 - [my-re0-k8s-security：整理过去的分享，从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 - [PHPAuditGuideBook：PHP代码审计入门指南](https://github.com/burpheart/PHPAuditGuideBook)
 - [awesome-java-security：Java安全☞代码审计/漏洞分析/武器化](https://github.com/pen4uin/awesome-java-security)
+- [迅睿CMSv4.3.3到v4.5.1后台任意代码注入漏洞(文件写入加文件包含)](./books/迅睿CMSv4.3.3到v4.5.1后台任意代码注入漏洞(文件写入加文件包含).pdf)
+- [域渗透之外网打点到三层内网](./books/域渗透之外网打点到三层内网.pdf)
 
 ## <span id="head9"> 说明</span>
 
