@@ -1260,6 +1260,7 @@
 - [SerializationDumper：一种以更易读的形式转储 Java 序列化流的工具](https://github.com/NickstaDB/SerializationDumperc)
 - [ThunderSearch：闪电搜索器，GUI图形化渗透测试信息搜集工具](https://github.com/xzajyjs/ThunderSearch)
 - [TerminalController：windows/linux 远程管理：屏幕监控、键盘记录、文件管理、命令执行、内网穿透、socks5](https://github.com/mycve/TerminalController)
+- [bypassAV：免杀 defender 360 cobalstrike shellcode](https://github.com/mycve/bypassAV)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
