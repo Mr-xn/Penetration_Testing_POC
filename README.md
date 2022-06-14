@@ -1272,6 +1272,7 @@
 - [ElecFuzz：电器协议 fuzz 工具](https://github.com/M-Kings/ElecFuzz)
 - [Caesium：JAVA 字节码混淆工具](https://github.com/sim0n/Caesium)
 - [Chromium-based-XSS-Taint-Tracking：Cyclops 是一款具有 XSS 检测功能的浏览器](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)
+- [Khepri：使用Golang和C++编写类似CobaltStrike的后渗透工具，免费、开源、跨平台C2工具](https://github.com/geemion/Khepri)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
