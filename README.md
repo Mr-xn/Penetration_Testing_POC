@@ -1276,6 +1276,7 @@
 - [BiFang：自动化生成loader，实现加密、混淆、bypass沙箱、多种现有进程注入技术，动态编译生成](https://github.com/MicrobBlue/BiFang)
 - [MoreFind：一款用于快速导出URL、Domain和IP的命令行小工具](https://github.com/mstxq17/MoreFind)
 - [Bypass_AV：Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&火绒&Windows Defender](https://github.com/Axx8/Bypass_AV)
+- [BypassAV_Script：绕过杀软学习的项目](https://github.com/komomon/BypassAV_Script)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
