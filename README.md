@@ -1269,6 +1269,7 @@
 - [MateuszEx：bypass AV生成工具,目前免杀效果不是很好了，但是过个360，火绒啥的没问题](https://github.com/sairson/MateuszEx)
 - [PyC2：通过python实现的简易版c2](https://github.com/1derian/PyC2)
 - [go-nc：使用go语言实现nc的命令执行, 完美解决tcp粘包](https://github.com/1derian/go-nc)
+- [ElecFuzz：电器协议 fuzz 工具](https://github.com/M-Kings/ElecFuzz)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
