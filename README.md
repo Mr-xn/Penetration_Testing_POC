@@ -408,7 +408,7 @@
 
 - [Windows本地提权漏洞：CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)
 
-- [【Linux提权】CVE-2021-3560 Local PrivEsc Exploit](https://github.com/swapravo/polkadots)
+- [【Linux提权】CVE-2021-3560 Local PrivEsc Exploit](https://github.com/swapravo/polkadots)|[CVE-2021-3560-Authentication-Agent](https://github.com/RicterZ/CVE-2021-3560-Authentication-Agent)
 
 - [【windows提权】CVE-2021-1675 Windows Print Spooler远程代码执行漏洞](./CVE-2021-1675.md)
 
