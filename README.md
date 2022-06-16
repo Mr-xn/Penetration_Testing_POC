@@ -1279,6 +1279,7 @@
 - [BypassAV_Script：绕过杀软学习的项目](https://github.com/komomon/BypassAV_Script)
 - [SXF_aTrust_sandbox_bypass：深信服零信任沙箱逃逸](https://github.com/DaxiaSec/SXF_aTrust_sandbox_bypass)
 - [PHP-Vuln：PHP漏洞靶场，涉及OWASP TOP10漏洞](https://github.com/Wileysec/PHP-Vuln)
+- [Remote_ShellcodeLoader：远程shellcode加载&权限维持+小功能](https://github.com/LDrakura/Remote_ShellcodeLoader)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
