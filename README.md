@@ -1281,6 +1281,7 @@
 - [PHP-Vuln：PHP漏洞靶场，涉及OWASP TOP10漏洞](https://github.com/Wileysec/PHP-Vuln)
 - [Remote_ShellcodeLoader：远程shellcode加载&权限维持+小功能](https://github.com/LDrakura/Remote_ShellcodeLoader)
 - [subDomainsBrute：高并发的DNS暴力（子域名）枚举工具](https://github.com/lijiejie/subDomainsBrute)
+- [PostConfluence：哥斯拉Confluence后渗透插件 MakeToken SearchPage ListAllUser AddAdminUser ListAllPage](https://github.com/BeichenDream/PostConfluence)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
