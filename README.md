@@ -1283,6 +1283,7 @@
 - [subDomainsBrute：高并发的DNS暴力（子域名）枚举工具](https://github.com/lijiejie/subDomainsBrute)
 - [PostConfluence：哥斯拉Confluence后渗透插件 MakeToken SearchPage ListAllUser AddAdminUser ListAllPage](https://github.com/BeichenDream/PostConfluence)
 - [evilarc：创建带目录创越的zip/tar 压缩包](https://github.com/ptoomey3/evilarc)
+- [DDexec：一种在 Linux 上无文件且隐秘地运行二进制文件的技术，使用 dd 将 shell 替换为另一个进程](https://github.com/arget13/DDexec)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
