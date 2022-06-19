@@ -474,7 +474,7 @@
 
 - [CVE-2022-22972：VMware 身份验证绕过漏洞](https://github.com/horizon3ai/CVE-2022-22972)
 
-- [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
+- [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[PoC-CVE-2022-26809](https://github.com/s1ckb017/PoC-CVE-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
 
 - [CVE-2022-30190：Microsoft Office Word Rce ](https://github.com/bytecaps/CVE-2022-30190)|[CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190)|[follina.py：CVE-2022-30190 检测工具](https://github.com/chvancooten/follina.py)|[CVE-2022-30190：又一个](https://github.com/onecloudemoji/CVE-2022-30190)|[CVE-2022-30190-follina-Office-MSDT-Fixed：可以自定义word模板](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
 
