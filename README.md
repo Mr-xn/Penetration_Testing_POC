@@ -1285,6 +1285,14 @@
 - [evilarc：创建带目录创越的zip/tar 压缩包](https://github.com/ptoomey3/evilarc)
 - [DDexec：一种在 Linux 上无文件且隐秘地运行二进制文件的技术，使用 dd 将 shell 替换为另一个进程](https://github.com/arget13/DDexec)
 - [Bypass_WindowsDefender](https://github.com/Ryze-T/Bypass_WindowsDefender)
+- [iprange：计算Ip 范围](https://github.com/ffffffff0x/iprange)
+- [DictGenerate：使用Go语言编写的社工字典生成器](https://github.com/seventh-letter/DictGenerate)
+- [scan4all：基于优化后的vscan，继续走更多集成、自动化功能，开源、轻量、快速、跨平台 的网站漏洞扫描工具](https://github.com/hktalent/scan4all)
+- [PwdBUD：一款SRC密码生成工具，尝试top字典无果后，可以根据域名、公司名等因素来生成特定的字典](https://github.com/sry309/PwdBUD)
+- [MYExploit：一款扩展性高的渗透测试框架渗透测试框架](https://github.com/achuna33/MYExploit)
+- [ysoserial：魔改版ysoserial，支持更多更全的利用链+内存马+防御绕过+MSF/CS 上线](https://github.com/su18/ysoserial)
+- [PowerRunAsSystem：通过已有 system 权限进程来启动一个新的以 system 权限运行的 PowerShell 脚本](https://github.com/DarkCoderSc/PowerRunAsSystem)
+- [Ekko：一种使用 CreateTimerQueueTimer 将执行 Sleep 混淆的 ROP 链排队的小型 sleep 混淆技术](https://github.com/Cracked5pider/Ekko)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1672,6 +1680,8 @@
 - [从SQL注入绕过最新安全狗WAF中学习fuzz](./books/从SQL注入绕过最新安全狗WAF中学习fuzz.pdf)|[原文](https://xz.aliyun.com/t/11412)
 - [谁能比我细---秒懂Http请求走私(超详细)](./books/谁能比我细---秒懂Http请求走私(超详细).pdf)|[原文](https://xz.aliyun.com/t/11423)
 - [webshell免杀-提升兼容性](./books/webshell免杀-提升兼容性.pdf)|[原文](https://xz.aliyun.com/t/11391)
+- [JavaSec：一个记录Java安全学习过程的仓库](https://github.com/Y4tacker/JavaSec)
+- [探寻Tomcat文件上传流量层面绕waf新姿势](./books/探寻Tomcat文件上传流量层面绕waf新姿势.pdf)
 
 ## <span id="head9"> 说明</span>
 
