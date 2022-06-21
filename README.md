@@ -1303,6 +1303,7 @@
 - [MiniDump：用C# 实现的dump lsass 进程工具](https://github.com/cube0x0/MiniDump)
 - [KrbRelay：Kerberos中继框架](https://github.com/cube0x0/KrbRelay)
 - [CurveBall：CVE-2020-0601 ECC证书欺骗漏洞利用工具](https://github.com/ly4k/CurveBall)
+- [WaterDragon：水龙：用Github Action实现IP代理功能](https://github.com/sh3d0ww01f/WaterDragon)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
