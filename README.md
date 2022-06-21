@@ -303,8 +303,8 @@
 - [【Windows提权】Priv2Admin-Windows提权工具](https://github.com/gtworek/Priv2Admin)
 - [【windows提权】利用有漏洞的技嘉驱动程序来加载恶意的驱动程序提升权限或干掉驱动级保护的杀软](https://github.com/alxbrn/gdrv-loader)|[备份地址](https://github.com/Mr-xn/gdrv-loader)
 - [【windows提权】byeintegrity-uac：通过劫持位于本机映像缓存中的DLL绕过UAC](https://github.com/AzAgarampur/byeintegrity-uac)
-- [【Windows 提取】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
-- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)
+- [【Windows 提权】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
+- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)|[cve-2021-4034：单命令执行版本](https://github.com/wudicainiao/cve-2021-4034)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 - [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
@@ -426,13 +426,13 @@
 
 - [CVE-2021-40444：Windows MSHTML 0day漏洞](https://github.com/lockedbyte/CVE-2021-40444)
 
-- [PrintNightmare：CVE-2021-1675 / CVE-2021-34527 exploit](https://github.com/outflanknl/PrintNightmare)
+- [PrintNightmare：CVE-2021-1675 / CVE-2021-34527 exploit](https://github.com/outflanknl/PrintNightmare)|[CVE-2021-1675的 PowerShell 版本](https://github.com/calebstewart/CVE-2021-1675)|[CVE-2021-1675：Impacket实现的py 脚本](https://github.com/cube0x0/CVE-2021-1675)
 
 - [CVE-2021-40444：MSHTML代码执行漏洞 RCE](https://github.com/lockedbyte/CVE-2021-40444)
 
 - [CVE-2021-37980：Google Chrome 沙箱漏洞 POC](https://github.com/ZeusBox/CVE-2021-37980)
 
-- [CVE-2021-40449 EXP about windows 10 14393 LPE](https://github.com/KaLendsi/CVE-2021-40449-Exploit)
+- [【Windows 提权】CVE-2021-40449 EXP about windows 10 14393 LPE](https://github.com/KaLendsi/CVE-2021-40449-Exploit)|[CallbackHell：CVE-2021-40449 Win32k提权漏洞](https://github.com/ly4k/CallbackHell)
 
 - [CVE-2021-22005：VMware vCenter Server任意文件上传漏洞](https://github.com/r0ckysec/CVE-2021-22005)|[又一个 cve-2021-22005利用工具（仅支持 Linux 版本的vCenter）](https://github.com/shmilylty/cve-2021-22005-exp)
 
@@ -442,7 +442,7 @@
 
 - [VMware_vCenter：VMware vCenter版本小于7.0.2.00100的未授权任意文件读取+SSRF+XSS](https://github.com/l0ggg/VMware_vCenter)
 
-- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)|[NoPacScan：又一个 Python 的CVE-2021-42287/CVE-2021-42278扫描工具](https://github.com/knightswd/NoPacScan)
+- [noPac：CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter（Microsoft Windows Active Directory 权限许可和访问控制问题漏洞）](https://github.com/cube0x0/noPac)|[Python 版本noPac](https://github.com/Ridter/noPac)|[NoPacScan：又一个 Python 的CVE-2021-42287/CVE-2021-42278扫描工具](https://github.com/knightswd/NoPacScan)|[CVE-2022-21907：DOS 攻击脚本](https://github.com/polakow/CVE-2022-21907)|[Pachine：CVE-2021-42278的Python 版本实现](https://github.com/ly4k/Pachine)
 
 - [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
 
@@ -477,6 +477,10 @@
 - [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[PoC-CVE-2022-26809](https://github.com/s1ckb017/PoC-CVE-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
 
 - [CVE-2022-30190：Microsoft Office Word Rce ](https://github.com/bytecaps/CVE-2022-30190)|[CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190)|[follina.py：CVE-2022-30190 检测工具](https://github.com/chvancooten/follina.py)|[CVE-2022-30190：又一个](https://github.com/onecloudemoji/CVE-2022-30190)|[CVE-2022-30190-follina-Office-MSDT-Fixed：可以自定义word模板](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
+
+- [【Windows 提权】CVE-2021-31956-EXP：Windows 内核堆栈溢出漏洞利用工具](https://github.com/aazhuliang/CVE-2021-31956-EXP)
+
+- [【Linux 提权】vault_range_poc：CVE-2021-26708 四字节写特殊竞争UAF转化为内核任意读写漏洞](https://github.com/hardenedvault/vault_range_poc)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1148,7 +1152,7 @@
 - [eyes.sh：基于bugscan dnslog 优化版](https://github.com/lijiejie/eyes.sh)
 - [CVE-2022-22965-POC：CVE-2022-22965 spring-core批量检测脚本](https://github.com/chaosec2021/CVE-2022-22965-POC)|[漏洞环境：tomcat 的 war 包](https://github.com/fengguangbin/spring-rce-war)|[漏洞环境：docker 版](https://github.com/lunasec-io/Spring4Shell-POC)|[支持注入冰蝎内存马和解决持续追加问题](https://github.com/liangyueliangyue/spring-core-rce)
 - [ConPtyShell：适用于 Windows  的反弹互式 shell工具](https://github.com/antonioCoco/ConPtyShell)
-- [RemotePotato0：Windows 提取工具，从普通用户提前至域管理员](https://github.com/antonioCoco/RemotePotato0)
+- [RemotePotato0：Windows 提权工具，从普通用户提前至域管理员](https://github.com/antonioCoco/RemotePotato0)
 - [jfscan：masscan和 nmap 联合的端口扫描脚本](https://github.com/nullt3r/jfscan)
 - [NativePayload_CBT：通过回调函数加载代码执行](https://github.com/DamonMohammadbagher/NativePayload_CBT)
 - [RPCDump：通过RP来 dump 信息](https://github.com/csandker/RPCDump)
@@ -1293,6 +1297,12 @@
 - [ysoserial：魔改版ysoserial，支持更多更全的利用链+内存马+防御绕过+MSF/CS 上线](https://github.com/su18/ysoserial)
 - [PowerRunAsSystem：通过已有 system 权限进程来启动一个新的以 system 权限运行的 PowerShell 脚本](https://github.com/DarkCoderSc/PowerRunAsSystem)
 - [Ekko：一种使用 CreateTimerQueueTimer 将执行 Sleep 混淆的 ROP 链排队的小型 sleep 混淆技术](https://github.com/Cracked5pider/Ekko)
+- [bypassuac](https://github.com/liuxigu/bypassuac)
+- [ActuatorExploit：SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE](https://github.com/LFYSec/ActuatorExploit)
+- [SharpMapExec：CrackMapExec的C#实现版本](https://github.com/cube0x0/SharpMapExec)|[CrackMapExec：一款针对大型Windows活动目录(AD)的后渗透工具](https://github.com/byt3bl33d3r/CrackMapExec)
+- [MiniDump：用C# 实现的dump lsass 进程工具](https://github.com/cube0x0/MiniDump)
+- [KrbRelay：Kerberos中继框架](https://github.com/cube0x0/KrbRelay)
+- [CurveBall：CVE-2020-0601 ECC证书欺骗漏洞利用工具](https://github.com/ly4k/CurveBall)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
