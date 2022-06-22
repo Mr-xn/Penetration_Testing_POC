@@ -1304,6 +1304,8 @@
 - [KrbRelay：Kerberos中继框架](https://github.com/cube0x0/KrbRelay)
 - [CurveBall：CVE-2020-0601 ECC证书欺骗漏洞利用工具](https://github.com/ly4k/CurveBall)
 - [WaterDragon：水龙：用Github Action实现IP代理功能](https://github.com/sh3d0ww01f/WaterDragon)
+- [SharpFrp：FRP 修改版，配置文件不落地](https://github.com/Conyon1/SharpFrp)
+- [TaskSchedulerMisc：通过IElevatedFactoryServer 对象达到 UAC Bypass 获取 system 权限](https://github.com/zcgonvh/TaskSchedulerMisc)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
