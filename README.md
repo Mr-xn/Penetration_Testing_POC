@@ -1306,6 +1306,10 @@
 - [WaterDragon：水龙：用Github Action实现IP代理功能](https://github.com/sh3d0ww01f/WaterDragon)
 - [SharpFrp：FRP 修改版，配置文件不落地](https://github.com/Conyon1/SharpFrp)
 - [TaskSchedulerMisc：通过IElevatedFactoryServer 对象达到 UAC Bypass 获取 system 权限](https://github.com/zcgonvh/TaskSchedulerMisc)
+- [Awesome-POC：一个各类漏洞POC知识库](https://github.com/Threekiii/Awesome-POC)
+- [fc-proxy：利用阿里云函数当作代理池](https://github.com/lyc8503/fc-proxy)
+- [Serein：一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具](https://github.com/W01fh4cker/Serein)
+- [freeBokuLoader：一个简单的 BOF，它试图释放存储用户定义反射加载器的内存区域](https://github.com/S4ntiagoP/freeBokuLoader)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1695,6 +1699,8 @@
 - [webshell免杀-提升兼容性](./books/webshell免杀-提升兼容性.pdf)|[原文](https://xz.aliyun.com/t/11391)
 - [JavaSec：一个记录Java安全学习过程的仓库](https://github.com/Y4tacker/JavaSec)
 - [探寻Tomcat文件上传流量层面绕waf新姿势](./books/探寻Tomcat文件上传流量层面绕waf新姿势.pdf)
+- [Java-Deserialization-Cheat-Sheet：关于Java反序列化漏洞的备忘单](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
+- [javasec：java安全的一些总结，主要是安全审计相关](https://github.com/Maskhe/javasec)
 
 ## <span id="head9"> 说明</span>
 
