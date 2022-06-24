@@ -309,6 +309,7 @@
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 - [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
 - [PEASS-ng：提权检测工具，支持 Windows 和 Linux](https://github.com/carlospolop/PEASS-ng)
+- [【Linux提权】LinEnum：Linux 提权检查脚本](https://github.com/rebootuser/LinEnum)
 - [【Windows 提权】sam-the-admin：CVE-2021-42278 and CVE-2021-42287域内提权](https://github.com/WazeHell/sam-the-admin)
 - [【Windows 提权】KrbRelayUp：域内提权](https://github.com/Dec0ne/KrbRelayUp)
 - [【Windows 提权】Auto-Elevate：通过bypass UAC 和令牌模拟提权到 system权限](https://github.com/FULLSHADE/Auto-Elevate)
@@ -1310,6 +1311,19 @@
 - [fc-proxy：利用阿里云函数当作代理池](https://github.com/lyc8503/fc-proxy)
 - [Serein：一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具](https://github.com/W01fh4cker/Serein)
 - [freeBokuLoader：一个简单的 BOF，它试图释放存储用户定义反射加载器的内存区域](https://github.com/S4ntiagoP/freeBokuLoader)
+- [ThreadStackSpoofer：线程堆栈欺骗，以此达到欺骗 AV 检查和分析注入的 shellcode](https://github.com/mgeeky/ThreadStackSpoofer)
+- [quiltflower：强调反编译后的代码质量和准确的现代 JAVA 反编译器](https://github.com/QuiltMC/quiltflower)
+- [WinPacketsEdit：用C#开发的仿 WPE 的封包拦截器，可以抓取指定进程的数据包](https://github.com/x-nas/WinPacketsEdit)
+- [iomoath/SharpSpray：Active Directory密码喷洒工具。自动获取用户列表并避免潜在的锁定](https://github.com/iomoath/SharpSpray)
+- [SharpSpray：域内密码喷射工具](https://github.com/JDArmy/SharpSpray)
+- [SharpSpray：一个简单用LDAP对域的所有用户执行密码喷射攻击，并与Cobalt Strike兼容。](https://github.com/jnqpblc/SharpSpray)
+- [TokenPlayer：操纵和滥用Windows访问令牌，以达到令牌模拟、窃取、提权、bypass UAC、派生、执行 EXE等操作](https://github.com/S1ckB0y1337/TokenPlayer)
+- [【免杀】nim_shellloader：nim 免杀，支持远程、本地、命令行加载 shellcode](https://github.com/sh3d0ww01f/nim_shellloader)
+- [injection：Windows 线程注入方法](https://github.com/odzhan/injection)
+- [e9patch：一个强大的静态二进制重写工具](https://github.com/GJDuck/e9patch)
+- [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
+- [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
+- [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
