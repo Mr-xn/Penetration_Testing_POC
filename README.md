@@ -1324,6 +1324,7 @@
 - [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
 - [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
+- [Alphalog：DNSLog、httplog、rmilog、ldaplog、jndi 等都支持](https://github.com/AlphabugX/Alphalog)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
