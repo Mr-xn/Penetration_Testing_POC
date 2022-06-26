@@ -483,6 +483,8 @@
 
 - [【Linux 提权】vault_range_poc：CVE-2021-26708 四字节写特殊竞争UAF转化为内核任意读写漏洞](https://github.com/hardenedvault/vault_range_poc)
 
+- [【Windows 提权】CVE-2021-21551：Dell BIOS驱动权限提升漏洞](https://github.com/waldo-irc/CVE-2021-21551)|[CVE-2021-21551 cobaltstrike BOF 版的利用工具](https://github.com/tijme/kernel-mii)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
