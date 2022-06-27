@@ -485,6 +485,8 @@
 
 - [【Windows 提权】CVE-2021-21551：Dell BIOS驱动权限提升漏洞](https://github.com/waldo-irc/CVE-2021-21551)|[CVE-2021-21551 cobaltstrike BOF 版的利用工具](https://github.com/tijme/kernel-mii)
 
+- [Chrome-Android-and-Windows-0day-RCE-SBX：chrome 的 Windows 和 Android 版本RCE+SBX（沙箱逃逸）漏洞](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1328,6 +1330,13 @@
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 - [Alphalog：DNSLog、httplog、rmilog、ldaplog、jndi 等都支持](https://github.com/AlphabugX/Alphalog)
 - [DHook：DHook是一个交互式自定义动态hook的工具。通过javaagent+ASM技术对运行时的java应用进行字节码修改，并可以以界面和配置文件的方式来增加hook点，修改执行方法的返回值以及参数等。如破解cs等](https://github.com/keven1z/DHook)
+- [waybackurls：通过在web.archive.org、virustotal.com和commoncrawl.org上获取域名所有域名的 URL](https://github.com/tomnomnom/waybackurls)
+- [AlternativeShellcodeExec：通过回调函数执行 shellcode](https://github.com/aahmad097/AlternativeShellcodeExec)
+- [PE-infector：将 shellcode 注入exe 文件，目前只支持32位程序](https://github.com/MastMind/PE-infector)
+- [MSSQL-Pentest-Cheatsheet：MSSQL渗透测试备忘录](https://github.com/Ignitetechnologies/MSSQL-Pentest-Cheatsheet)
+- [dismember：扫描内存里敏感内容，其实就是类似 OD的内存字符串搜索](https://github.com/liamg/dismember)
+- [Nimcrypt2：用 nim编写shellcodeloader或者打包](https://github.com/icyguider/Nimcrypt2)
+- [Mangle：修改已编译的EXE 或者 DLL 文件用以绕过EDR检查](https://github.com/optiv/Mangle)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1719,6 +1728,7 @@
 - [探寻Tomcat文件上传流量层面绕waf新姿势](./books/探寻Tomcat文件上传流量层面绕waf新姿势.pdf)
 - [Java-Deserialization-Cheat-Sheet：关于Java反序列化漏洞的备忘单](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 - [javasec：java安全的一些总结，主要是安全审计相关](https://github.com/Maskhe/javasec)
+- [JavaCodeAudit：JAVA代码审计入门的小项目](https://github.com/cn-panda/JavaCodeAudit)
 
 ## <span id="head9"> 说明</span>
 
