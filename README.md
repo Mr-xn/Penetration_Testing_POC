@@ -48,6 +48,7 @@
 - [CVE-2021-41653：TP-Link TL-WR840N V5(EU) - RCE ](./books/TP-Link%20TL-WR840N%20V5(EU)%20-%20RCE%20-%20CVE-2021-41653.pdf)
 - [DirtyPipe-Android：Dirty Pipe root exploit for Android](https://github.com/polygraphene/DirtyPipe-Android)
 - [CVE-2022-30075：Tp-Link Archer AX50 Authenticated RCE](https://github.com/aaronsvk/CVE-2022-30075)
+- [NotQuite0day：D-Link 1960相关漏洞](https://github.com/star-sg/NotQuite0day)
 
 ## <span id="head4">Web APP</span>
 
@@ -1337,6 +1338,24 @@
 - [dismember：扫描内存里敏感内容，其实就是类似 OD的内存字符串搜索](https://github.com/liamg/dismember)
 - [Nimcrypt2：用 nim编写shellcodeloader或者打包](https://github.com/icyguider/Nimcrypt2)
 - [Mangle：修改已编译的EXE 或者 DLL 文件用以绕过EDR检查](https://github.com/optiv/Mangle)
+- [Bridge：无回显漏洞测试辅助平台，平台使用Java编写，提供DNSLOG，HTTPLOG等功能](https://github.com/SPuerBRead/Bridge)
+- [badflare：查找 cloudflare 网站背后的真实 IP](https://github.com/LeeBrotherston/badflare)
+- [MalSeclogon：一个使用 Seclogon 服务的小工具，支持Dump lsass、句柄欺骗、句柄克隆](https://github.com/antonioCoco/MalSeclogon)
+- [WindTerm：专业的跨平台 SSH/Sftp/Shell/Telnet/Serial 终端](https://github.com/kingToolbox/WindTerm)
+- [WEF：WIFI 攻击框架](https://github.com/D3Ext/WEF)
+- [SharpRDPBatch：批量检查远程桌面密码或ntlm是否正确](https://github.com/1y0n/SharpRDPBatch)
+- [Caesar：一个全新的敏感文件发现工具](https://github.com/0ps/Caesar)
+- [SMB-Session-Spoofing：SMB会话欺骗蜜罐](https://github.com/Sq00ky/SMB-Session-Spoofing)
+- [JavaDeserialize-Note：Tomcat内存马、XStream、Fastjson、Weblogic T3安全笔记](https://github.com/BMSK1994/JavaDeserialize-Note)
+- [SQLRecon：一个 C# MS SQL 工具包，专为进攻性侦察和后期利用而设计](https://github.com/skahwah/SQLRecon)
+- [toolset：免杀小小工具集](https://github.com/akkuman/toolset)
+- [EvilEye：它用于从内存中检测cobaltstrike信标并提取一些配置](https://github.com/akkuman/EvilEye)
+- [bypassAVNote：免杀死亡笔记](https://github.com/a1phaboy/bypassAVNote)
+- [crackHashList：爆破fastjson1.2.42版本之后的hash黑名单](https://github.com/a1phaboy/crackHashList)
+- [MenoyGone：DOS 攻击 cobaltstrike 服务器](https://github.com/a1phaboy/MenoyGone)
+- [sx：快速、现代、易于使用的扫描器](https://github.com/v-byte-cpu/sx)
+- [JPGtoMalware：制作 JPG 木马](https://github.com/abdulkadir-gungor/JPGtoMalware)
+- [rpcfirewall：RPC 防火墙](https://github.com/zeronetworks/rpcfirewall)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1729,6 +1748,7 @@
 - [Java-Deserialization-Cheat-Sheet：关于Java反序列化漏洞的备忘单](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 - [javasec：java安全的一些总结，主要是安全审计相关](https://github.com/Maskhe/javasec)
 - [JavaCodeAudit：JAVA代码审计入门的小项目](https://github.com/cn-panda/JavaCodeAudit)
+- [Privilege-Escalation：提权相关知识](https://github.com/Ignitetechnologies/Privilege-Escalation)
 
 ## <span id="head9"> 说明</span>
 
