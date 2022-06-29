@@ -263,6 +263,7 @@
 - [CVE-2022-32275：GRAFANA 8.4.3 DASHBOARD 目录遍历](https://github.com/BrotherOfJhonny/grafana)|[CVE-2022-32276：未授权绕过漏洞](https://github.com/BrotherOfJhonny/grafana)
 - [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
 - [CVE-2022-28346：DjangoSQL注入QuerySet.annotate(), aggregate(), and extra()环境](https://github.com/YouGina/CVE-2022-28346)|[另一个CVE-2022-28346环境](https://github.com/DeEpinGh0st/CVE-2022-28346)|[CVE-2022-28346相关文章分析](https://www.freebuf.com/vuls/332893.html)
+- [CVE-2022-32532：Apache Shiro身份认证绕过漏洞](https://github.com/4ra1n/CVE-2022-32532)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1356,6 +1357,12 @@
 - [sx：快速、现代、易于使用的扫描器](https://github.com/v-byte-cpu/sx)
 - [JPGtoMalware：制作 JPG 木马](https://github.com/abdulkadir-gungor/JPGtoMalware)
 - [rpcfirewall：RPC 防火墙](https://github.com/zeronetworks/rpcfirewall)
+- [RMI-Memory：rmi打内存马工具，适用于目标用不了ldap的情况](https://github.com/novysodope/RMI-Memory)
+- [Whisker：一个 C# 工具，用于通过操作其 msDS-KeyCredentialLink 属性来接管 Active Directory 用户和计算机帐户，从而有效地将“影子凭据”添加到目标帐户](https://github.com/eladshamir/Whisker)
+- [CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)
+- [Red-Teaming-TTPs：红蓝队技巧](https://github.com/RoseSecurity/Red-Teaming-TTPs)
+- [BOF.NET：A .NET Runtime for Cobalt Strike's Beacon Object Files](https://github.com/CCob/BOF.NET)
+- [memit：在 Linux 中直接从内存中运行二进制文件](https://github.com/liamg/memit)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
