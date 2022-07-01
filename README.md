@@ -318,6 +318,7 @@
 - [【Linux 提权】CVE-2021-4204：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2021-4204)
 - [【Linux 提权】CVE-2022-23222：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2022-23222)
 - [【Windows 提权】PrivExchange：通过滥用Exchange将您的权限交换为域管理权限](https://github.com/dirkjanm/PrivExchange)
+- [【Windows 提权】PetitPotam：替代PrintBug用于本地提权的新方式，主要利用MS-EFSR协议中的接口函数](https://github.com/crisprss/PetitPotam)
 
 ## <span id="head6"> PC</span>
 
@@ -1370,6 +1371,11 @@
 - [C2concealer：生成用于 Cobalt Strike 的随机 C2 可延展配置文件](https://github.com/FortyNorthSecurity/C2concealer)
 - [gost：golang 写的隧道](https://github.com/go-gost/gost)
 - [wsMemShell：一种全新的内存马](https://github.com/veo/wsMemShell)
+- [WeblogicExploit-GUI：Weblogic漏洞利用图形化工具 支持注入内存马、一键上传webshell、命令执行](https://github.com/sp4zcmd/WeblogicExploit-GUI)
+- [BOF-RegSave：使用BOF转储 SAM / SECURITY / SYSTEM 注册表配置单元](https://github.com/EncodeGroup/BOF-RegSave)
+- [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
+- [qsocks：基于 quic 的 socks5代理工具](https://github.com/net-byte/qsocks)
+- [CallStackSpoofer：用于在进行系统调用时欺骗任意调用堆栈的 PoC 实现（例如，通过 NtOpenProcess 获取句柄）](https://github.com/countercept/CallStackSpoofer)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
