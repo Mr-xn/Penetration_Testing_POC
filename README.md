@@ -1376,6 +1376,7 @@
 - [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
 - [qsocks：基于 quic 的 socks5代理工具](https://github.com/net-byte/qsocks)
 - [CallStackSpoofer：用于在进行系统调用时欺骗任意调用堆栈的 PoC 实现（例如，通过 NtOpenProcess 获取句柄）](https://github.com/countercept/CallStackSpoofer)
+- [cf：云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作](https://github.com/teamssix/cf)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
