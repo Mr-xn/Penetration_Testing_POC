@@ -1403,6 +1403,7 @@
 - [glint：一款基于浏览器爬虫golang开发的web漏洞主动(被动)扫描器](https://github.com/wrenchonline/glint)
 - [addMemShellsJSP：通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789](https://github.com/Ghost2097221/addMemShellsJSP)
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
+- [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1797,6 +1798,7 @@
 - [JavaCodeAudit：JAVA代码审计入门的小项目](https://github.com/cn-panda/JavaCodeAudit)
 - [Privilege-Escalation：提权相关知识](https://github.com/Ignitetechnologies/Privilege-Escalation)
 - [CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups)
+- [Binary-Learning：二进制安全相关的学习笔记](https://github.com/gh0stkey/Binary-Learning)
 
 ## <span id="head9"> 说明</span>
 
