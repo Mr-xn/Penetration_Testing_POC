@@ -1404,6 +1404,7 @@
 - [addMemShellsJSP：通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789](https://github.com/Ghost2097221/addMemShellsJSP)
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
 - [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
+- [Goal：Goal Go Red-Team 工具类](https://github.com/code-scan/Goal)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
