@@ -264,6 +264,7 @@
 - [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
 - [CVE-2022-28346：DjangoSQL注入QuerySet.annotate(), aggregate(), and extra()环境](https://github.com/YouGina/CVE-2022-28346)|[另一个CVE-2022-28346环境](https://github.com/DeEpinGh0st/CVE-2022-28346)|[CVE-2022-28346相关文章分析](https://www.freebuf.com/vuls/332893.html)
 - [CVE-2022-32532：Apache Shiro身份认证绕过漏洞](https://github.com/4ra1n/CVE-2022-32532)
+- [CVE-2022-34265：Django SQL注入漏洞](https://github.com/aeyesec/CVE-2022-34265)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1405,6 +1406,9 @@
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
 - [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
 - [Goal：Goal Go Red-Team 工具类](https://github.com/code-scan/Goal)
+- [Frp：魔改版 FRP 更加适合红对作战使用](https://github.com/DongHuangT1/Frp)
+- [Shellcode-Loader：动态加载 shellcode](https://github.com/ReversingID/Shellcode-Loader)
+- [manjusaka：牛屎花 一款C2远控](https://github.com/YDHCUI/manjusaka)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
