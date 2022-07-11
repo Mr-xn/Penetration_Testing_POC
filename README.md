@@ -49,6 +49,8 @@
 - [DirtyPipe-Android：Dirty Pipe root exploit for Android](https://github.com/polygraphene/DirtyPipe-Android)
 - [CVE-2022-30075：Tp-Link Archer AX50 Authenticated RCE](https://github.com/aaronsvk/CVE-2022-30075)
 - [NotQuite0day：D-Link 1960相关漏洞](https://github.com/star-sg/NotQuite0day)
+- [HuaYuReportRCE：华域数广Report组件GetShell](https://github.com/h0r1g/HuaYuReportRCE)
+- [IOT_Vul：IOT相关漏洞收集](https://github.com/zhefox/IOT_Vul)
 
 ## <span id="head4">Web APP</span>
 
@@ -265,6 +267,7 @@
 - [CVE-2022-28346：DjangoSQL注入QuerySet.annotate(), aggregate(), and extra()环境](https://github.com/YouGina/CVE-2022-28346)|[另一个CVE-2022-28346环境](https://github.com/DeEpinGh0st/CVE-2022-28346)|[CVE-2022-28346相关文章分析](https://www.freebuf.com/vuls/332893.html)
 - [CVE-2022-32532：Apache Shiro身份认证绕过漏洞](https://github.com/4ra1n/CVE-2022-32532)
 - [CVE-2022-34265：Django SQL注入漏洞](https://github.com/aeyesec/CVE-2022-34265)
+- [CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1409,6 +1412,21 @@
 - [Frp：魔改版 FRP 更加适合红对作战使用](https://github.com/DongHuangT1/Frp)
 - [Shellcode-Loader：动态加载 shellcode](https://github.com/ReversingID/Shellcode-Loader)
 - [manjusaka：牛屎花 一款C2远控](https://github.com/YDHCUI/manjusaka)
+- [Chisel-Strike：使用.NET 的 XOR 加密实现适用于 cobalt strike的 socks5代理工具](https://github.com/m3rcer/Chisel-Strike)
+- [socks5lb：socks5代理负载均衡工具](https://github.com/mingcheng/socks5lb)
+- [foxmail_password_recovery：解密 Foxmail 保存在本地的密码](https://github.com/ryoii/foxmail_password_recovery)
+- [backupGen：根据域名生成备份文件字典（不扫描）](https://github.com/damit5/backupGen)
+- [antiVirusCheck：cobaltstrike 直接判断目标beacon存在的杀软](https://github.com/thekingofsex/antiVirusCheck)
+- [PetitPotam：强制 Windows 通过MS-EFSRPC EfsRpcOpenFileRaw同其他机器进行认证](https://github.com/topotam/PetitPotam)
+- [AMSI-Unchained：通过修补提供程序未受监控的内存空间来取消对AMSI的锁定](https://github.com/deepinstinct/AMSI-Unchained)
+- [haxx：在 iOS 14 - iOS 14.8.1 上以 root 身份不受限制 + 未沙盒化代码执行](https://github.com/asdfugil/haxx)
+- [BeaconEye：搜寻 CobaltStrike 信标并记录操作员命令输出](https://github.com/CCob/BeaconEye)
+- [KillDriverProtect：关闭恶意驱动的文件和注册表保护](https://github.com/jxust-xiaoxiong/KillDriverProtect)
+- [rust-addUser：windows 添加管理员--Rust版本](https://github.com/Ryze-T/rust-addUser)
+- [ServerUntrustAccount：Active Directory 域持久性技术](https://github.com/Stealthbits/ServerUntrustAccount)
+- [Jlaive：.NET/Native (x64) 可执行文件的防病毒规避工具](https://github.com/ch2sh/Jlaive)
+- [BokuLoader：Cobalt Strike反射加载 loader](https://github.com/boku7/BokuLoader)
+- [Koh：用C#实现的通过 BOF 文件来窃取目标的 token 和登录 session](https://github.com/GhostPack/Koh)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1804,6 +1822,7 @@
 - [Privilege-Escalation：提权相关知识](https://github.com/Ignitetechnologies/Privilege-Escalation)
 - [CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups)
 - [Binary-Learning：二进制安全相关的学习笔记](https://github.com/gh0stkey/Binary-Learning)
+- [.NET-Bypass：.NET 免杀绕过、Tricks方法合集](https://github.com/Ivan1ee/.NET-Bypass)
 
 ## <span id="head9"> 说明</span>
 
