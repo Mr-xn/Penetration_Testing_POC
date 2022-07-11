@@ -451,7 +451,7 @@
 
 - [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
 
-- [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
+- [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)
 
 - [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
 
