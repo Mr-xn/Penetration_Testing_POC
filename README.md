@@ -51,6 +51,7 @@
 - [NotQuite0day：D-Link 1960相关漏洞](https://github.com/star-sg/NotQuite0day)
 - [HuaYuReportRCE：华域数广Report组件GetShell](https://github.com/h0r1g/HuaYuReportRCE)
 - [IOT_Vul：IOT相关漏洞收集](https://github.com/zhefox/IOT_Vul)
+- [CameraHack：批量扫描破解海康威视、大华等摄像头的常见漏洞](https://github.com/WhaleFell/CameraHack)
 
 ## <span id="head4">Web APP</span>
 
@@ -493,6 +494,10 @@
 - [【Windows 提权】CVE-2021-21551：Dell BIOS驱动权限提升漏洞](https://github.com/waldo-irc/CVE-2021-21551)|[CVE-2021-21551 cobaltstrike BOF 版的利用工具](https://github.com/tijme/kernel-mii)
 
 - [Chrome-Android-and-Windows-0day-RCE-SBX：chrome 的 Windows 和 Android 版本RCE+SBX（沙箱逃逸）漏洞](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
+
+- [CoreTrustDemo：macOS 12.3.1 上 CVE-2022-26766 的概念验证](https://github.com/zhuowei/CoreTrustDemo)
+
+- [CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera：chrome 内核系列浏览器泄露环境变量漏洞](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1427,6 +1432,25 @@
 - [Jlaive：.NET/Native (x64) 可执行文件的防病毒规避工具](https://github.com/ch2sh/Jlaive)
 - [BokuLoader：Cobalt Strike反射加载 loader](https://github.com/boku7/BokuLoader)
 - [Koh：用C#实现的通过 BOF 文件来窃取目标的 token 和登录 session](https://github.com/GhostPack/Koh)
+- [go-domain-suffix-trie：域名后缀树](https://github.com/CC11001100/go-domain-suffix-trie)
+- [GoBP：golang 编写的 shellcode 免杀生成器](https://github.com/awsaaaq/GoBP)
+- [MS17-010：纯 golang 实现ms17-010利用工具](https://github.com/For-ACGN/MS17-010)
+- [Searpy：URL采集、Favicon哈希值查找真实IP、子域名查找](https://github.com/j3ers3/Searpy)
+- [iscsicpl_bypassUAC：UAC bypass for x64 Windows 7 - 11](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC)
+- [macos_shell_memory：通过CGO 在Macos内存中执行二进制文件](https://github.com/djhohnstein/macos_shell_memory)
+- [HVVExploitApply：使用JAVAFX图形化界面检测对HVV中常见的重点CMS系统和OA系统的已公开的漏洞进行验证](https://github.com/ExpLangcn/HVVExploitApply)
+- [CVE-2020-14882_Exploit_Gui：Weblogic 未授权命令执行漏洞GUI 利用工具](https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui)
+- [FragmentTransmission：适用于woodpecker-framework漏洞利用框架的FragmentTransmission分块传输插件](https://github.com/nice0e3/FragmentTransmission)
+- [websocket_tunnel：将tcp连接转为websocket连接使其可以通过cdn传输 支持域前置技术以隐藏域名](https://github.com/yu1745/websocket_tunnel)
+- [在线二进制分析](https://dogbolt.org/)|[项目地址](https://github.com/decompiler-explorer/decompiler-explorer)
+- [IPWarden：IPWarden是一个IP资产风险发现工具](https://github.com/EnnioX/IPWarden)
+- [NetLoader：在内存中加载任何c#二进制文件且绕过AMSI 和ETW](https://github.com/Flangvik/NetLoader)
+- [SharpSniper：通过用户名和登录 IP地址在AD 中查找特定用户](https://github.com/HunnicCyber/SharpSniper)
+- [NiceKatz：又一个不错的进程 dump 转存工具](https://github.com/0xDeku/NiceKatz)
+- [EasyFrp：FRP GUI 版本实现](https://github.com/Skyxmao/EasyFrp)
+- [thinkphp-log-analyse：ThinkPHP日志分析](https://github.com/mrknow001/thinkphp-log-analyse)
+- [Hyuga：一个用来监控带外(Out-of-Band)流量的工具](https://github.com/Buzz2d0/Hyuga)
+- [SharpEventLog：c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员](https://github.com/uknowsec/SharpEventLog)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1823,6 +1847,8 @@
 - [CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups)
 - [Binary-Learning：二进制安全相关的学习笔记](https://github.com/gh0stkey/Binary-Learning)
 - [.NET-Bypass：.NET 免杀绕过、Tricks方法合集](https://github.com/Ivan1ee/.NET-Bypass)
+- [JavaLearnVulnerability：Java漏洞学习笔记](https://github.com/SummerSec/JavaLearnVulnerability)
+- [injection-stuff：各种注入 PE 注入、DLL 注入、进程注入、线程注入、代码注入、shellcode 注入、ELF 注入、Dylib注入相关400+工具和350+文章的收集仓库](https://github.com/alphaSeclab/injection-stuff)
 
 ## <span id="head9"> 说明</span>
 
