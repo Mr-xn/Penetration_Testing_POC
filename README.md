@@ -1447,6 +1447,7 @@
 - [NetLoader：在内存中加载任何c#二进制文件且绕过AMSI 和ETW](https://github.com/Flangvik/NetLoader)
 - [SharpSniper：通过用户名和登录 IP地址在AD 中查找特定用户](https://github.com/HunnicCyber/SharpSniper)
 - [NiceKatz：又一个不错的进程 dump 转存工具](https://github.com/0xDeku/NiceKatz)
+- [MiniDump：C#实现的进程 dump 工具，支持 CS 内存加载(execute-assembly)](https://github.com/Mr-Un1k0d3r/MiniDump)
 - [EasyFrp：FRP GUI 版本实现](https://github.com/Skyxmao/EasyFrp)
 - [thinkphp-log-analyse：ThinkPHP日志分析](https://github.com/mrknow001/thinkphp-log-analyse)
 - [Hyuga：一个用来监控带外(Out-of-Band)流量的工具](https://github.com/Buzz2d0/Hyuga)
