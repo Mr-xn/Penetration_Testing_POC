@@ -1452,6 +1452,13 @@
 - [thinkphp-log-analyse：ThinkPHP日志分析](https://github.com/mrknow001/thinkphp-log-analyse)
 - [Hyuga：一个用来监控带外(Out-of-Band)流量的工具](https://github.com/Buzz2d0/Hyuga)
 - [SharpEventLog：c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员](https://github.com/uknowsec/SharpEventLog)
+- [cdnCheck_go：快速判断目标解析的IP是否为CDN](https://github.com/damit5/cdnCheck_go)
+- [amber：一种新的 PE 壳 - 反射式 PE 壳](https://github.com/EgeBalci/amber)
+- [dnsc2：一个基于DNS隧道的简单C2](https://github.com/burpheart/dnsc2)
+- [core2ELF64：从内存中 dump 并恢复还原64位可执行ELF 程序](https://github.com/enbarberis/core2ELF64)
+- [SharpZip：C#写的 zip 打包工具](https://github.com/uknowsec/SharpZip)
+- [AheadLib-x86-x64：DLL 劫持源码生成器](https://github.com/strivexjun/AheadLib-x86-x64)
+- [AheadLib64：类似Aheadlib的DLL 劫持源码生成工具](https://github.com/w1nds/AheadLib64)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
