@@ -732,6 +732,7 @@
 - [PowerUpSQL：为攻击SQLServer而设计的具有攻击性的PowerShell脚本](https://github.com/NetSPI/PowerUpSQL)|[利用PowerUpSQL攻击SQL Server实例](./books/%E5%88%A9%E7%94%A8PowerUpSQL%E6%94%BB%E5%87%BBSQL%20Server%E5%AE%9E%E4%BE%8B.pdf)
 - [adbsploit-一个基于Python3和ADB的安卓设备漏洞利用和管理工具](https://github.com/mesquidar/adbsploit)
 - [monsoon-一个用Go语言编写的目录扫描工具，类似于dirsearch](https://github.com/RedTeamPentesting/monsoon)
+- [feroxbuster：rust 编写的目录扫描工具](https://github.com/epi052/feroxbuster)
 - [【Android脱壳】Youpk-又一款基于ART的主动调用的脱壳机](https://github.com/Youlor/Youpk)
 - [【webshell免杀】php免杀D盾webshell生成工具](https://github.com/pureqh/webshell)
 - [Steganographer-一款能够帮助你在图片中隐藏文件或数据的Python隐写工具](https://github.com/priyansh-anand/steganographer)
