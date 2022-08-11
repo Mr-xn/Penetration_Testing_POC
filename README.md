@@ -247,7 +247,7 @@
 - [CVE-2022-21371：Oracle WebLogic Server LFI](https://github.com/Mr-xn/CVE-2022-21371)
 - [CVE-2022-0332：Moodle 3.11 to 3.11.4 - SQL injection](https://github.com/numanturle/CVE-2022-0332)
 - [CVE-2022-0185：Linux 内核漏洞可导致逃逸Kubernetes中的容器](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
-- [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)
+- [cve-2022-23131：zabbix-saml-bypass-exp](https://github.com/Mr-xn/cve-2022-23131)|[另一个 cve-2022-23131](https://github.com/jweny/zabbix-saml-bypass-exp)
 - [CVE-2022-22947：Spring Cloud Gateway远程代码执行](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)|[CVE-2022-22947：golang 版本](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)|[cve-2022-22947-godzilla-memshell：CVE-2022-22947 注入Godzilla内存马](https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell)
 - [spring-cloud-function-SpEL-RCE：Spring Cloud Function SpEL RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)|[相关文章](https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 - [CVE-2022-22963：Spring-cloud-function-SpEL-RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
@@ -262,7 +262,7 @@
 - [CVE-2022-22978：Spring Security身份认证绕过漏洞](https://github.com/XuCcc/VulEnv/tree/master/springboot/cve_2022_22978)|[相关分析](https://bbs.huaweicloud.com/blogs/355165)
 - [FastjsonPoc：Fastjson 1.2.80 反序列化代码 Demo 以及环境](https://github.com/YoungBear/FastjsonPoc)
 - [CVE-2022-26133：Atlassian Bitbucket Data Center 反序列化漏洞批量验证和利用](https://github.com/Trhackno/CVE-2022-26133)
-- [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)
+- [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)|[另一个cve-2022-26134漏洞利用工具](https://github.com/iveresk/cve-2022-26134)
 - [CVE-2022-32275：GRAFANA 8.4.3 DASHBOARD 目录遍历](https://github.com/BrotherOfJhonny/grafana)|[CVE-2022-32276：未授权绕过漏洞](https://github.com/BrotherOfJhonny/grafana)
 - [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
 - [CVE-2022-28346：DjangoSQL注入QuerySet.annotate(), aggregate(), and extra()环境](https://github.com/YouGina/CVE-2022-28346)|[另一个CVE-2022-28346环境](https://github.com/DeEpinGh0st/CVE-2022-28346)|[CVE-2022-28346相关文章分析](https://www.freebuf.com/vuls/332893.html)
@@ -499,6 +499,8 @@
 - [CoreTrustDemo：macOS 12.3.1 上 CVE-2022-26766 的概念验证](https://github.com/zhuowei/CoreTrustDemo)
 
 - [CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera：chrome 内核系列浏览器泄露环境变量漏洞](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)
+
+- [unrar-cve-2022-30333-poc：unRAR 6.11之前版本存在目录穿越漏洞](https://github.com/rbowes-r7/unrar-cve-2022-30333-poc)|[cve-2022-30333 另一个 POC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1471,6 +1473,10 @@
 - [goblin：一款适用于红蓝对抗中的仿真钓鱼系统](https://github.com/xiecat/goblin)
 - [fridaUiTools：一个界面化整理脚本的工具](https://github.com/dqzg12300/fridaUiTools)
 - [wsm：哥斯拉、冰蝎webshell 管理工具](https://github.com/xiecat/wsm)
+- [PeView：一款命令行版PE程序结构解析器](https://github.com/lyshark/PeView)
+- [CSharp-Tools：CSharp工具集](https://github.com/RcoIl/CSharp-Tools)
+- [peekaboo：shellcode 注入和加载器的一些示例](https://github.com/cocomelonc/peekaboo)
+- [rasp-vuln：rasp靶场](https://github.com/su18/rasp-vuln)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
