@@ -1459,6 +1459,12 @@
 - [SharpZip：C#写的 zip 打包工具](https://github.com/uknowsec/SharpZip)
 - [AheadLib-x86-x64：DLL 劫持源码生成器](https://github.com/strivexjun/AheadLib-x86-x64)
 - [AheadLib64：类似Aheadlib的DLL 劫持源码生成工具](https://github.com/w1nds/AheadLib64)
+- [ATPMiniDump：通过PssCaptureSnapShot来 dump lsass 进程](https://github.com/b4rtik/ATPMiniDump)
+- [CoffeeLdr：Beacon Object File Loader](https://github.com/Cracked5pider/CoffeeLdr)
+- [AniYa：免杀框架](https://github.com/piiperxyz/AniYa)
+- [GoBypass：Golang免杀生成工具](https://github.com/afwu/GoBypass)
+- [go-shellcode：shellcode 加载器](https://github.com/Ne0nd0g/go-shellcode)
+- [AScan：基于python开发的主动漏洞扫描工具](https://github.com/get0shell/AScan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
