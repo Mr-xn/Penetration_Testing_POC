@@ -269,6 +269,7 @@
 - [CVE-2022-32532：Apache Shiro身份认证绕过漏洞](https://github.com/4ra1n/CVE-2022-32532)
 - [CVE-2022-34265：Django SQL注入漏洞](https://github.com/aeyesec/CVE-2022-34265)
 - [CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE)
+- [cve-2022-33891：Apache Spark Shell命令注入](https://github.com/HuskyHacks/cve-2022-33891)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1466,6 +1467,10 @@
 - [GoBypass：Golang免杀生成工具](https://github.com/afwu/GoBypass)
 - [go-shellcode：shellcode 加载器](https://github.com/Ne0nd0g/go-shellcode)
 - [AScan：基于python开发的主动漏洞扫描工具](https://github.com/get0shell/AScan)
+- [nacs：事件驱动的渗透测试扫描器](https://github.com/u21h2/nacs)
+- [goblin：一款适用于红蓝对抗中的仿真钓鱼系统](https://github.com/xiecat/goblin)
+- [fridaUiTools：一个界面化整理脚本的工具](https://github.com/dqzg12300/fridaUiTools)
+- [wsm：哥斯拉、冰蝎webshell 管理工具](https://github.com/xiecat/wsm)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
