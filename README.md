@@ -52,6 +52,8 @@
 - [HuaYuReportRCE：华域数广Report组件GetShell](https://github.com/h0r1g/HuaYuReportRCE)
 - [IOT_Vul：IOT相关漏洞收集](https://github.com/zhefox/IOT_Vul)
 - [CameraHack：批量扫描破解海康威视、大华等摄像头的常见漏洞](https://github.com/WhaleFell/CameraHack)
+- [CVE-2022-32832：apple macos 的 apfs 导致内核任意代码执行漏洞](https://github.com/Muirey03/CVE-2022-32832)
+- [HookWechatRecall：通过frida工具 拦截 微信撤回Demo](https://github.com/GaoGuohao/HookWechatRecall)
 
 ## <span id="head4">Web APP</span>
 
@@ -269,7 +271,9 @@
 - [CVE-2022-32532：Apache Shiro身份认证绕过漏洞](https://github.com/4ra1n/CVE-2022-32532)
 - [CVE-2022-34265：Django SQL注入漏洞](https://github.com/aeyesec/CVE-2022-34265)
 - [CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE)
-- [cve-2022-33891：Apache Spark Shell命令注入](https://github.com/HuskyHacks/cve-2022-33891)
+- [cve-2022-33891：Apache Spark Shell命令注入](https://github.com/HuskyHacks/cve-2022-33891)|[又一个cve-2022-33891漏洞利用工具](https://github.com/W01fh4cker/cve-2022-33891)
+- [LandrayOATreexmlRCE：蓝凌OA Treexml远程命令执行](https://github.com/Tas9er/LandrayOATreexmlRCE)
+- [ZentaoSqli：Zentao v16.5 SQL注入漏洞 POC](https://github.com/z92g/ZentaoSqli)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -325,6 +329,8 @@
 - [【Linux 提权】CVE-2022-23222：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2022-23222)
 - [【Windows 提权】PrivExchange：通过滥用Exchange将您的权限交换为域管理权限](https://github.com/dirkjanm/PrivExchange)
 - [【Windows 提权】PetitPotam：替代PrintBug用于本地提权的新方式，主要利用MS-EFSR协议中的接口函数](https://github.com/crisprss/PetitPotam)
+- [【Windows 提权】DiagTrackEoP：绕过服务账户限制滥用DiagTrack服务与SeImpersonate权限进行权限提升](https://github.com/Wh04m1001/DiagTrackEoP)
+- [【Windows 提权】WinPwnage：UAC bypass, Elevate, Persistence methods](https://github.com/rootm0s/WinPwnage)
 
 ## <span id="head6"> PC</span>
 
@@ -640,7 +646,7 @@
 - [FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架](https://github.com/qianxiao996/FrameScan-GUI)
 - [SRC资产信息聚合网站](https://github.com/cckuailong/InformationGather)
 - [Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测](https://github.com/rabbitmask/SB-Actuator)
-- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)|[MYJNDIExploit：一款用于 `JNDI注入` 利用的工具，大量参考/引用了 `Rogue JNDI` 项目的代码，支持直接`植入内存shell`，并集成了常见的`bypass 高版本JDK`的方式，适用于与自动化工具配合使用](https://github.com/achuna33/MYJNDIExploit)
+- [JNDI 注入利用工具【Fastjson、Jackson 等相关漏洞】](https://github.com/JosephTribbianni/JNDI)|[JNDIExploit](https://github.com/0x727/JNDIExploit)|[JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit)|[JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)|[JNDIScan：无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查](https://github.com/EmYiQing/JNDIScan)|[JNDI-Inject-Exploit：解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入（支持JNDI注入高版本JDK Bypass命令回显、内存马注入）](https://github.com/exp1orer/JNDI-Inject-Exploit)|[MYJNDIExploit：一款用于 `JNDI注入` 利用的工具，大量参考/引用了 `Rogue JNDI` 项目的代码，支持直接`植入内存shell`，并集成了常见的`bypass 高版本JDK`的方式，适用于与自动化工具配合使用](https://github.com/achuna33/MYJNDIExploit)|[jndi_tool：JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell，高版本JDK场景下利用等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具](https://github.com/wyzxxz/jndi_tool)
 - [fastjson_rec_exploit-fastjson一键命令执行（python版本）](https://github.com/mrknow001/fastjson_rec_exploit)|[FastjsonExploit：fastjson漏洞快速利用框架](https://github.com/c0ny1/FastjsonExploit)|[fastjsonScan：fastjson漏洞burp插件](https://github.com/zilong3033/fastjsonScan)
 - [各种反弹shell的语句集合页面](https://krober.biz/misc/reverse_shell.php)
 - [解密weblogic AES或DES加密方法](https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi)
@@ -1477,6 +1483,17 @@
 - [CSharp-Tools：CSharp工具集](https://github.com/RcoIl/CSharp-Tools)
 - [peekaboo：shellcode 注入和加载器的一些示例](https://github.com/cocomelonc/peekaboo)
 - [rasp-vuln：rasp靶场](https://github.com/su18/rasp-vuln)
+- [SharpNBTScan：C#编写的NetBIOS扫描工具](https://github.com/BronzeTicket/SharpNBTScan)
+- [pe_to_shellcode：将 PE 转换为 shellcode](https://github.com/hasherezade/pe_to_shellcode)
+- [WeblogicEnvironment：weblogic 环境搭建工具](https://github.com/QAX-A-Team/WeblogicEnvironment)
+- [Karlin：一款支持17种OA、19种CMS的批量漏洞检测利用工具](https://github.com/W01fh4cker/Karlin)
+- [cdntest：CDN外部访问与回源可用性状态批量检测](https://github.com/BlueSkyXN/cdntest)
+- [WebshellBypass：冰蝎 哥斯拉 WebShell bypass](https://github.com/h0nayuzu/WebshellBypass)
+- [shc_bypass：内存加载shellcode绕过waf](https://github.com/passer-W/shc_bypass)
+- [shovel：Docker容器逃逸工具](https://github.com/SPuerBRead/shovel)
+- [FireEyeGoldCrystal：GitHub监控和信息收集工具](https://github.com/NHPT/FireEyeGoldCrystal)
+- [FOFA_GUI：FOFA GUI工具，支持存活检测，icon_hash转换，备份扫描](https://github.com/Summer177/FOFA_GUI)
+- [Invoke-PSImage：PowerShell 脚本编码存进 PNG 图片中，并生成执行命令](https://github.com/peewpw/Invoke-PSImage)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
