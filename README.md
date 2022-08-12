@@ -168,6 +168,7 @@
 - [CVE-2020-1947-Apache ShardingSphere UI YAML解析远程代码执行漏洞](https://github.com/jas502n/CVE-2020-1947)
 - [CVE-2020-0554：phpMyAdmin后台SQL注入](./CVE-2020-0554：phpMyAdmin后台SQL注入.md)
 - [泛微E-Mobile Ognl 表达式注入](./泛微e-mobile%20ognl注入.md)|[表达式注入.pdf](./books/表达式注入.pdf)
+- [泛微10前台上传 getshell](https://github.com/west9b/Weaver/tree/7130bc856cf8b5cbc739a7934cdc01872f4107f3)|[Python 版本 getshell](https://github.com/gglvv/2022hvv-eoffice10-getshell)
 - [通达OA RCE漏洞](https://github.com/fuhei/tongda_rce)|[通达OAv11.6版本RCE复现分析+EXP](./books/通达OAv11.6版本漏洞复现分析.pdf)-[EXP下载](./tools/通达OA_v11.6_RCE_EXP.py)
 - [CVE-2020-10673-jackson-databind JNDI注入导致远程代码执行](https://github.com/0nise/vuldebug)
 - [CVE-2020-10199、CVE-2020-10204漏洞一键检测工具，图形化界面（Sonatype Nexus <3.21.1）](https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204)
@@ -277,6 +278,8 @@
 - [CVE-2022-36446-Webmin-Software-Package-Updates-RCE：Webmin 远程代码执行漏洞](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)
 - [CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞](https://github.com/HKirito/CVE-2022-33980)
 - [CVE-2022-31101：PrestaShop bockwishlist module 2.1.0 SQLi](https://github.com/karthikuj/CVE-2022-31101)
+- [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC](https://github.com/west9b/CVE-2022-30525)
+- [CVE-2022-2185：gitlab 远程代码执行（需要身份验证）](https://github.com/ESUAdmin/CVE-2022-2185)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -319,7 +322,7 @@
 - [【windows提权】利用有漏洞的技嘉驱动程序来加载恶意的驱动程序提升权限或干掉驱动级保护的杀软](https://github.com/alxbrn/gdrv-loader)|[备份地址](https://github.com/Mr-xn/gdrv-loader)
 - [【windows提权】byeintegrity-uac：通过劫持位于本机映像缓存中的DLL绕过UAC](https://github.com/AzAgarampur/byeintegrity-uac)
 - [【Windows 提权】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
-- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)|[cve-2021-4034：单命令执行版本](https://github.com/wudicainiao/cve-2021-4034)
+- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)|[cve-2021-4034：单命令执行版本](https://github.com/wudicainiao/cve-2021-4034)|[CVE-2021-4034-NoGCC：CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境](https://github.com/EstamelGG/CVE-2021-4034-NoGCC)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)|[又一个CVE-2022-21882提权工具](https://github.com/L4ys/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 - [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
@@ -337,6 +340,7 @@
 - [【Windows 提权】CVE-2022-31262：GOG Galaxy LPE Exploit](https://github.com/secure-77/CVE-2022-31262)
 - [【Linux】CVE-2021-4034：pkexec 本地提权漏洞](https://github.com/arthepsy/CVE-2021-4034)|[又一个cve-2021-4034](https://github.com/Silencecyber/cve-2021-4034)
 - [【Linux 提权】CVE-2021-4154：Linux Kernel 资源管理错误漏洞](https://github.com/Markakd/CVE-2021-4154)
+- [【Linux 提权】CVE-2022-34918：netfilter nf_tables 本地提权](https://github.com/veritas501/CVE-2022-34918)
 
 ## <span id="head6"> PC</span>
 
@@ -498,7 +502,7 @@
 
 - [cve-2022-26809：RPC 高危漏洞](https://github.com/corelight/cve-2022-26809)|[PoC-CVE-2022-26809](https://github.com/s1ckb017/PoC-CVE-2022-26809)|[相关分析文章](https://paper.seebug.org/1906/)
 
-- [CVE-2022-30190：Microsoft Office Word Rce ](https://github.com/bytecaps/CVE-2022-30190)|[CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190)|[follina.py：CVE-2022-30190 检测工具](https://github.com/chvancooten/follina.py)|[CVE-2022-30190：又一个](https://github.com/onecloudemoji/CVE-2022-30190)|[CVE-2022-30190-follina-Office-MSDT-Fixed：可以自定义word模板](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
+- [CVE-2022-30190：Microsoft Office Word Rce ](https://github.com/bytecaps/CVE-2022-30190)|[CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190)|[follina.py：CVE-2022-30190 检测工具](https://github.com/chvancooten/follina.py)|[CVE-2022-30190：又一个](https://github.com/onecloudemoji/CVE-2022-30190)|[CVE-2022-30190-follina-Office-MSDT-Fixed：可以自定义word模板](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)|[CVE-2022-30190---Follina---Poc-Exploit](https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit)
 
 - [【Windows 提权】CVE-2021-31956-EXP：Windows 内核堆栈溢出漏洞利用工具](https://github.com/aazhuliang/CVE-2021-31956-EXP)
 
@@ -610,6 +614,7 @@
 - [【内网代理】chisel：一款快速稳定的隧道工具(通过HTTP传输使用SSH加密)](https://github.com/jpillora/chisel) - [相关文章介绍](https://www.anquanke.com/post/id/234771)
 - [【内网代理】Ecloud是一款基于http/1.1协议传输TCP流量的工具，适用于内网不出网时通过web代理脚本转发tcp流量，以达到socket5隧道、内网cs等程序上线、反弹虚拟终端等功能](https://github.com/CTF-MissFeng/Ecloud)
 - [【内网代理】Stowaway：一个利用go语言编写、专为渗透测试工作者制作的多级代理工具](https://github.com/ph4ntonn/Stowaway)
+- [【内网代理】FastTunnel：高性能跨平台的内网穿透解决方案](https://github.com/FastTunnel/FastTunnel)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)|[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)|[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
 - [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)|相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
@@ -771,7 +776,7 @@
 - [ShellCodeFramework-【免杀框架】](https://github.com/mai1zhi2/ShellCodeFramework)
 - [cool：Golang Gin 框架写的免杀平台](https://github.com/Ed1s0nZ/cool)
 - [abuse-ssl-bypass-waf-使用不同的ssl加密方式来寻找防火墙不支持但服务器支持的加密方式来绕过waf](https://github.com/LandGrey/abuse-ssl-bypass-waf)
-- [CrossC2 framework - 生成CobaltStrike的跨平台beacon](https://github.com/Mr-xn/CrossC2)
+- [CrossC2](https://github.com/gloxec/CrossC2)|[CrossC2 framework - 生成CobaltStrike的跨平台beacon](https://github.com/Mr-xn/CrossC2)
 - [csbruter-爆破Cobalt Strike的服务端密码](https://github.com/ryanohoro/csbruter)
 - [yjdirscan-御剑目录扫描专业版【仅支持windows】](https://github.com/foryujian/yjdirscan)
 - [Vmware Vcenter 任意文件读取批量检测](./books/Vmware%20Vcenter%20任意文件读取批量检测.md)
@@ -1507,6 +1512,26 @@
 - [FOFA_GUI：FOFA GUI工具，支持存活检测，icon_hash转换，备份扫描](https://github.com/Summer177/FOFA_GUI)
 - [Invoke-PSImage：PowerShell 脚本编码存进 PNG 图片中，并生成执行命令](https://github.com/peewpw/Invoke-PSImage)
 - [Python2-Reverse-Shell-Backdoor：使用 Python2的 socket 制作的反向后门](https://github.com/Drpanoukl4/Python2-Reverse-Shell-Backdoor)
+- [https2http：把https的代理变成http的代理](https://github.com/LubyRuffy/https2http)
+- [pxplan：lv sec收集归纳的POC](https://github.com/GREENHAT7/pxplan)
+- [NiCOFF：Nim编写的加载器，可在内存中解析和执行BOF/COFF 文件](https://github.com/frkngksl/NiCOFF)
+- [scLoader：CS shellcode 加载器](https://github.com/Peithon/scLoader)
+- [NC：navicat激活+注册机等全流程分析](https://github.com/yzctzl/NC)
+- [NimicStack：NimicStack 是调用堆栈欺骗技术的纯 Nim 实现，用于模仿合法程序](https://github.com/frkngksl/NimicStack)
+- [cola_dnslog：Cola Dnslog v1.3.1 更加强大的dnslog平台/无回显漏洞探测辅助平台](https://github.com/AbelChe/cola_dnslog)
+- [whichAlive：批量多线程探测url存活，获取基本信息（标题、ip、长度、跳转、server等）](https://github.com/AbelChe/whichAlive)
+- [reverseShellList：快速生成反弹shell payload](https://github.com/AbelChe/reverseShellList)
+- [SpringWebflux-MemShell：SpringWebflux通用内存马](https://github.com/mieeA/SpringWebflux-MemShell)
+- [RDPHijack-BOF：适用于 CS使用的通过WinStationConnect API 来劫持 RDP会话](https://github.com/netero1010/RDPHijack-BOF)
+- [tomcat-weak-password-scanner：tomcat后台弱口令扫描器](https://github.com/magicming200/tomcat-weak-password-scanner)
+- [cobaltstrike4.5_cdf：CS4.5破解版](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)
+- [EquationExploit：JAVA 版本永恒之蓝双脉冲星漏洞利用工具](https://github.com/1135/EquationExploit)
+- [nps-auth-bypass：nps认证绕过利用工具](https://github.com/carr0t2/nps-auth-bypass)
+- [GoBypassAV：整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具](https://github.com/TideSec/GoBypassAV)
+- [rustfuzz：rust 编写的基本 web fuzz 工具](https://github.com/d4rckh/rustfuzz)
+- [geacon：修改自geacon的多功能linux运维管理工具](https://github.com/TheKingOfDuck/geacon)
+- [Direct-NtCreateUserProcess](https://github.com/D0pam1ne705/Direct-NtCreateUserProcess)
+- [SuperRDP：修复某些版本Windows 不支持 RDP ](https://github.com/anhkgg/SuperRDP)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1905,6 +1930,9 @@
 - [.NET-Bypass：.NET 免杀绕过、Tricks方法合集](https://github.com/Ivan1ee/.NET-Bypass)
 - [JavaLearnVulnerability：Java漏洞学习笔记](https://github.com/SummerSec/JavaLearnVulnerability)
 - [injection-stuff：各种注入 PE 注入、DLL 注入、进程注入、线程注入、代码注入、shellcode 注入、ELF 注入、Dylib注入相关400+工具和350+文章的收集仓库](https://github.com/alphaSeclab/injection-stuff)
+- [Information_Security_Books：信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
+- [Process-Injection：汇总了目前可以找到的所有的进程注入的方式，完成了x86/x64下的测试](https://github.com/Gality369/Process-Injection)
+- [Windows-Red-Team-Cheat-Sheet：红对常用 Windows 命备忘录](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet)
 
 ## <span id="head9"> 说明</span>
 
