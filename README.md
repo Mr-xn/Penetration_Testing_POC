@@ -274,6 +274,9 @@
 - [cve-2022-33891：Apache Spark Shell命令注入](https://github.com/HuskyHacks/cve-2022-33891)|[又一个cve-2022-33891漏洞利用工具](https://github.com/W01fh4cker/cve-2022-33891)
 - [LandrayOATreexmlRCE：蓝凌OA Treexml远程命令执行](https://github.com/Tas9er/LandrayOATreexmlRCE)
 - [ZentaoSqli：Zentao v16.5 SQL注入漏洞 POC](https://github.com/z92g/ZentaoSqli)
+- [CVE-2022-36446-Webmin-Software-Package-Updates-RCE：Webmin 远程代码执行漏洞](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)
+- [CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞](https://github.com/HKirito/CVE-2022-33980)
+- [CVE-2022-31101：PrestaShop bockwishlist module 2.1.0 SQLi](https://github.com/karthikuj/CVE-2022-31101)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -331,6 +334,9 @@
 - [【Windows 提权】PetitPotam：替代PrintBug用于本地提权的新方式，主要利用MS-EFSR协议中的接口函数](https://github.com/crisprss/PetitPotam)
 - [【Windows 提权】DiagTrackEoP：绕过服务账户限制滥用DiagTrack服务与SeImpersonate权限进行权限提升](https://github.com/Wh04m1001/DiagTrackEoP)
 - [【Windows 提权】WinPwnage：UAC bypass, Elevate, Persistence methods](https://github.com/rootm0s/WinPwnage)
+- [【Windows 提权】CVE-2022-31262：GOG Galaxy LPE Exploit](https://github.com/secure-77/CVE-2022-31262)
+- [【Linux】CVE-2021-4034：pkexec 本地提权漏洞](https://github.com/arthepsy/CVE-2021-4034)|[又一个cve-2021-4034](https://github.com/Silencecyber/cve-2021-4034)
+- [【Linux 提权】CVE-2021-4154：Linux Kernel 资源管理错误漏洞](https://github.com/Markakd/CVE-2021-4154)
 
 ## <span id="head6"> PC</span>
 
@@ -507,6 +513,12 @@
 - [CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera：chrome 内核系列浏览器泄露环境变量漏洞](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)
 
 - [unrar-cve-2022-30333-poc：unRAR 6.11之前版本存在目录穿越漏洞](https://github.com/rbowes-r7/unrar-cve-2022-30333-poc)|[cve-2022-30333 另一个 POC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)
+
+- [CVE-2022-21894：Windows Secure Boot 绕过漏洞](https://github.com/Wack0/CVE-2022-21894)
+
+- [CVE-2022-29968：Linux内核版本号码低于或等于5.17.5 kiocb fs/io_uring.c io_rw_init_file初始化漏洞](https://github.com/jprx/CVE-2022-29968)
+
+- [CVE-2022-36946：Linux kernel 5.18.14及以前版本存在造成拒绝服务(panic)漏洞](https://github.com/Pwnzer0tt1/CVE-2022-36946)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1494,6 +1506,7 @@
 - [FireEyeGoldCrystal：GitHub监控和信息收集工具](https://github.com/NHPT/FireEyeGoldCrystal)
 - [FOFA_GUI：FOFA GUI工具，支持存活检测，icon_hash转换，备份扫描](https://github.com/Summer177/FOFA_GUI)
 - [Invoke-PSImage：PowerShell 脚本编码存进 PNG 图片中，并生成执行命令](https://github.com/peewpw/Invoke-PSImage)
+- [Python2-Reverse-Shell-Backdoor：使用 Python2的 socket 制作的反向后门](https://github.com/Drpanoukl4/Python2-Reverse-Shell-Backdoor)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
