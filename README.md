@@ -54,6 +54,7 @@
 - [CameraHack：批量扫描破解海康威视、大华等摄像头的常见漏洞](https://github.com/WhaleFell/CameraHack)
 - [CVE-2022-32832：apple macos 的 apfs 导致内核任意代码执行漏洞](https://github.com/Muirey03/CVE-2022-32832)
 - [HookWechatRecall：通过frida工具 拦截 微信撤回Demo](https://github.com/GaoGuohao/HookWechatRecall)
+- [IOT_vuln：IOT相关漏洞仓库](https://github.com/EPhaha/IOT_vuln)
 
 ## <span id="head4">Web APP</span>
 
@@ -341,6 +342,7 @@
 - [【Linux】CVE-2021-4034：pkexec 本地提权漏洞](https://github.com/arthepsy/CVE-2021-4034)|[又一个cve-2021-4034](https://github.com/Silencecyber/cve-2021-4034)
 - [【Linux 提权】CVE-2021-4154：Linux Kernel 资源管理错误漏洞](https://github.com/Markakd/CVE-2021-4154)
 - [【Linux 提权】CVE-2022-34918：netfilter nf_tables 本地提权](https://github.com/veritas501/CVE-2022-34918)
+- [【Linux 提权】CVE-2022-1972-infoleak-PoC：Linux-netfilter-越界写入漏洞](https://github.com/randorisec/CVE-2022-1972-infoleak-PoC)
 
 ## <span id="head6"> PC</span>
 
@@ -1440,6 +1442,7 @@
 - [addMemShellsJSP：通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789](https://github.com/Ghost2097221/addMemShellsJSP)
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
 - [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
+- [DnslogCmdEcho：命令执行不回显但DNS协议出网的命令回显场景解决方案](https://github.com/sv3nbeast/DnslogCmdEcho)
 - [Goal：Goal Go Red-Team 工具类](https://github.com/code-scan/Goal)
 - [Frp：魔改版 FRP 更加适合红对作战使用](https://github.com/DongHuangT1/Frp)
 - [Shellcode-Loader：动态加载 shellcode](https://github.com/ReversingID/Shellcode-Loader)
@@ -1532,6 +1535,20 @@
 - [geacon：修改自geacon的多功能linux运维管理工具](https://github.com/TheKingOfDuck/geacon)
 - [Direct-NtCreateUserProcess](https://github.com/D0pam1ne705/Direct-NtCreateUserProcess)
 - [SuperRDP：修复某些版本Windows 不支持 RDP ](https://github.com/anhkgg/SuperRDP)
+- [InjectDllTool：多功能DLL注入工具：远程线程注入、消息钩子注入、输入法注入、APC注入、EIP注入、注册表注入](https://github.com/MountCloud/InjectDllTool)
+- [Cobalt_Strike_Bot：CobaltStrike上线通知，飞书群聊机器人、server酱通知](https://github.com/r1is/Cobalt_Strike_Bot)
+- [Cobalt-Strike：常用 CS 脚本](https://github.com/Mikasazero/Cobalt-Strike)
+- [SharpBypassUAC](https://github.com/FatRodzianko/SharpBypassUAC)
+- [htpwdScan：HTTP暴力破解、撞库测试工具](https://github.com/lijiejie/htpwdScan)
+- [SQLiDetector：Python 编写的用于检查 SQL 回显注入漏洞的工具](https://github.com/eslam3kl/SQLiDetector)
+- [rfas：让FRP以Windows服务运行](https://github.com/pphuahua/rfas)
+- [goby-poc：439个goby poc，可能会有重复自行判断，来源于网络收集的Goby&POC，实时更新](https://github.com/MY0723/goby-poc)
+- [PrivilegeHelper：cs维权插件](https://github.com/fdbao/PrivilegeHelper)
+- [winlog：一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录](https://github.com/i11us0ry/winlog)
+- [ASP.NET-Memshell-Scanner：asp.net内存马检测工具](https://github.com/yzddmr6/ASP.NET-Memshell-Scanner)
+- [beanshooter：JMX 枚举和攻击工具](https://github.com/qtc-de/beanshooter)
+- [BerylEnigma：一个为渗透测试与CTF而制作的工具集，主要实现一些加解密的功能](https://github.com/ffffffff0x/BerylEnigma)
+- [lazfinder：快速遍历目标目录中所有指定后缀文件中包含的敏感信息](https://github.com/thekingofsex/lazfinder)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1933,6 +1950,8 @@
 - [Information_Security_Books：信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
 - [Process-Injection：汇总了目前可以找到的所有的进程注入的方式，完成了x86/x64下的测试](https://github.com/Gality369/Process-Injection)
 - [Windows-Red-Team-Cheat-Sheet：红对常用 Windows 命备忘录](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet)
+- [Vulnerability-Wiki：一个综合漏洞知识库，集成了Vulhub、Peiqi、Edge、0sec、Wooyun等开源漏洞库](https://github.com/Threekiii/Vulnerability-Wiki)
+- [OSCP-Tips：备考 OSCP 的各种干货资料](https://github.com/YJ5NP1/OSCP-Tips)
 
 ## <span id="head9"> 说明</span>
 
