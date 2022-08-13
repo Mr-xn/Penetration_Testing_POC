@@ -1576,6 +1576,8 @@
 - [default-http-login-hunter：超过380种设备的默认凭据扫描](https://github.com/InfosecMatter/default-http-login-hunter)
 - [sn1per：综合漏扫平台](https://github.com/h4ck3rsguide/sn1per)
 - [JmpUnhook：通用方式构造中转函数进行脱钩](https://github.com/timwhitez/JmpUnhook)
+- [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
+- [pyhttpx：基于socket开发的一个网络测试库,供研究https/tls参考](https://github.com/zero3301/pyhttpx)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
