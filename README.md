@@ -1575,6 +1575,7 @@
 - [grm：redis web端管理工具](https://github.com/gphper/grm)
 - [default-http-login-hunter：超过380种设备的默认凭据扫描](https://github.com/InfosecMatter/default-http-login-hunter)
 - [sn1per：综合漏扫平台](https://github.com/h4ck3rsguide/sn1per)
+- [JmpUnhook：通用方式构造中转函数进行脱钩](https://github.com/timwhitez/JmpUnhook)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
