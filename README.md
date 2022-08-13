@@ -44,7 +44,7 @@
 - [iOS 15.0.1 RCE PoC](https://github.com/jonathandata1/ios_15_rce)
 - [CVE-2021-36260：海康威视产品命令注入漏洞](https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html)
 - [CVE-2021-33044、CVE-2021-33045 大华摄像头POC](https://github.com/mcw0/DahuaConsole)|[相关分析](https://github.com/mcw0/PoC/blob/master/Dahua%20authentication%20bypass.txt)|[登录绕过chrome 插件](https://github.com/bp2008/DahuaLoginBypass)
-- [CVE-2021-36260：海康威视命令注入漏洞](https://github.com/rabbitsafe/CVE-2021-36260)
+- [CVE-2021-36260：海康威视命令注入漏洞](https://github.com/rabbitsafe/CVE-2021-36260)|[又一个CVE-2021-36260利用脚本](https://github.com/Cuerz/CVE-2021-36260)
 - [CVE-2021-41653：TP-Link TL-WR840N V5(EU) - RCE ](./books/TP-Link%20TL-WR840N%20V5(EU)%20-%20RCE%20-%20CVE-2021-41653.pdf)
 - [DirtyPipe-Android：Dirty Pipe root exploit for Android](https://github.com/polygraphene/DirtyPipe-Android)
 - [CVE-2022-30075：Tp-Link Archer AX50 Authenticated RCE](https://github.com/aaronsvk/CVE-2022-30075)
@@ -55,6 +55,7 @@
 - [CVE-2022-32832：apple macos 的 apfs 导致内核任意代码执行漏洞](https://github.com/Muirey03/CVE-2022-32832)
 - [HookWechatRecall：通过frida工具 拦截 微信撤回Demo](https://github.com/GaoGuohao/HookWechatRecall)
 - [IOT_vuln：IOT相关漏洞仓库](https://github.com/EPhaha/IOT_vuln)
+- [hikvision_CVE-2017-7921_auth_bypass_config_decryptor：解密受CVE-2017-7921影响的海康威视的配置文件](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)
 
 ## <span id="head4">Web APP</span>
 
@@ -474,7 +475,7 @@
 
 - [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)|[CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞（有待验证）](https://github.com/antx-code/CVE-2022-21907)|[PowerShell 版本CVE-2022-21907：Windows HTTP协议栈远程代码执行漏洞检查工具](https://github.com/mauricelambert/CVE-2022-21907)
 
-- [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)
+- [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)|[sunlogin_exp_for_tututu：基于 nmap的向日葵RCE 扫描工具](https://github.com/SkyBlueEternal/sunlogin_exp_for_tututu)
 
 - [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
 
@@ -525,6 +526,8 @@
 - [CVE-2022-29968：Linux内核版本号码低于或等于5.17.5 kiocb fs/io_uring.c io_rw_init_file初始化漏洞](https://github.com/jprx/CVE-2022-29968)
 
 - [CVE-2022-36946：Linux kernel 5.18.14及以前版本存在造成拒绝服务(panic)漏洞](https://github.com/Pwnzer0tt1/CVE-2022-36946)
+
+- [CVE-2022-28281：Firefox 越界写入漏洞](https://github.com/0vercl0k/CVE-2022-28281)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1541,6 +1544,7 @@
 - [SharpBypassUAC](https://github.com/FatRodzianko/SharpBypassUAC)
 - [htpwdScan：HTTP暴力破解、撞库测试工具](https://github.com/lijiejie/htpwdScan)
 - [SQLiDetector：Python 编写的用于检查 SQL 回显注入漏洞的工具](https://github.com/eslam3kl/SQLiDetector)
+- [Logsensor：用于发现登录面板和 POST 表单的 SQLi ](https://github.com/Mr-Robert0/Logsensor)
 - [rfas：让FRP以Windows服务运行](https://github.com/pphuahua/rfas)
 - [goby-poc：439个goby poc，可能会有重复自行判断，来源于网络收集的Goby&POC，实时更新](https://github.com/MY0723/goby-poc)
 - [PrivilegeHelper：cs维权插件](https://github.com/fdbao/PrivilegeHelper)
@@ -1549,6 +1553,25 @@
 - [beanshooter：JMX 枚举和攻击工具](https://github.com/qtc-de/beanshooter)
 - [BerylEnigma：一个为渗透测试与CTF而制作的工具集，主要实现一些加解密的功能](https://github.com/ffffffff0x/BerylEnigma)
 - [lazfinder：快速遍历目标目录中所有指定后缀文件中包含的敏感信息](https://github.com/thekingofsex/lazfinder)
+- [SnowShadow：集成了IP查询，端口扫描，系统命令，Webshell，C段存活扫描，后台目录扫描，远程控制等功能](https://github.com/jinsezlb/SnowShadow)
+- [sshpam：记录ssh或sudo明文密码](https://github.com/yaunsky/sshpam)
+- [iftree：图形化展示容器网络结构](https://github.com/t1anz0ng/iftree)
+- [xnLinkFinder：尽可能多的发现指定目标的相关 URL 和参数](https://github.com/xnl-h4ck3r/xnLinkFinder)
+- [macos-all：Mac 上实用的有关渗透测试命令技巧](https://github.com/AbelChe/macos-all)
+- [DruidCrack：Druid 密文解密工具](https://github.com/rabbitmask/DruidCrack)
+- [xiaxiang-killer：提权神器，低权限强k安全软件](https://github.com/keyixiaxiang/xiaxiang-killer)
+- [JSBypassAV：适用于 CS 下生成 jsbypass](https://github.com/kyxiaxiang/JSBypassAV)
+- [msmap：内存webshell 生成工具](https://github.com/hosch3n/msmap)
+- [ProxyVulns：ProxyLogon CVE-2021-26855 & CVE-2021-27065 利用工具](https://github.com/hosch3n/ProxyVulns)
+- [rproxy：自动化的代理服务器](https://github.com/LubyRuffy/rproxy)
+- [TamperingSyscalls：绕过 EDR 的系统调用达到免杀](https://github.com/rad9800/TamperingSyscalls)
+- [ReturnGate：绕过 EDR 获取 sysid 来达到免杀](https://github.com/timwhitez/ReturnGate)
+- [goproxy：Go HTTP(S)代理库, 支持中间人代理解密HTTPS](https://github.com/ouqiang/goproxy)
+- [Armor：浏览器反蜜罐插件](https://github.com/jayus0821/Armor)
+- [Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征](https://github.com/seventeenman/Forest)
+- [grm：redis web端管理工具](https://github.com/gphper/grm)
+- [default-http-login-hunter：超过380种设备的默认凭据扫描](https://github.com/InfosecMatter/default-http-login-hunter)
+- [sn1per：综合漏扫平台](https://github.com/h4ck3rsguide/sn1per)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1952,6 +1975,7 @@
 - [Windows-Red-Team-Cheat-Sheet：红对常用 Windows 命备忘录](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet)
 - [Vulnerability-Wiki：一个综合漏洞知识库，集成了Vulhub、Peiqi、Edge、0sec、Wooyun等开源漏洞库](https://github.com/Threekiii/Vulnerability-Wiki)
 - [OSCP-Tips：备考 OSCP 的各种干货资料](https://github.com/YJ5NP1/OSCP-Tips)
+- [Attack_Code：云安全入门材料](https://github.com/Esonhugh/Attack_Code)
 
 ## <span id="head9"> 说明</span>
 
