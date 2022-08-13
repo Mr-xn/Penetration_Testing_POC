@@ -282,6 +282,7 @@
 - [CVE-2022-31101：PrestaShop bockwishlist module 2.1.0 SQLi](https://github.com/karthikuj/CVE-2022-31101)
 - [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC](https://github.com/west9b/CVE-2022-30525)
 - [CVE-2022-2185：gitlab 远程代码执行（需要身份验证）](https://github.com/ESUAdmin/CVE-2022-2185)
+- [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)
 
 ## <span id="head5"> 提权辅助相关</span>
 
