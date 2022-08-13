@@ -283,6 +283,7 @@
 - [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC](https://github.com/west9b/CVE-2022-30525)
 - [CVE-2022-2185：gitlab 远程代码执行（需要身份验证）](https://github.com/ESUAdmin/CVE-2022-2185)
 - [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)
+- [CVE-2022-1040：Sophos XG115w 防火墙 17.0.10 MR-10 - 身份验证绕过](https://github.com/APTIRAN/CVE-2022-1040)
 
 ## <span id="head5"> 提权辅助相关</span>
 
