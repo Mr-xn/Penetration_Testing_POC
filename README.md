@@ -260,6 +260,7 @@
 - [CVE-2022-22965：spring mvc RCE 的分析](https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/)|[CVE-2022-22965：Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)](https://github.com/alt3kx/CVE-2022-22965)|[CVE-2022-22965:Spring4Shell的golang 版本检测实现](https://github.com/zer0yu/CVE-2022-22965)
 - [CVE-2022-22954-VMware-RCE：VMware Workspace ONE Access RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)|[VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [CVE-2021-31805：S2-062 Apache Struts2 远程代码执行漏洞](https://github.com/YanMu2020/s2-062)
+- [CVE-2021-21300：Git符号链接代码执行漏洞](https://github.com/Roboterh/CVE-2021-21300)
 - [YonyouNC_Tip：用友NC历史漏洞](https://github.com/j2ekim/YonyouNC_Tip)
 - [CVE-2022-1388-EXP：CVE-2022-1388 F5 BIG-IP RCE 批量检测](https://github.com/bytecaps/CVE-2022-1388-EXP)|[CVE-2022-1388 nuclei 模板](https://github.com/numanturle/CVE-2022-1388)|[CVE-2022-1388：另一个扫描脚本](https://github.com/0xf4n9x/CVE-2022-1388)
 - [CVE-2022-24734： MyBB论坛后台 RCE](https://github.com/Altelus1/CVE-2022-24734)
@@ -283,8 +284,9 @@
 - [CVE-2022-31101：PrestaShop bockwishlist module 2.1.0 SQLi](https://github.com/karthikuj/CVE-2022-31101)
 - [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC](https://github.com/west9b/CVE-2022-30525)
 - [CVE-2022-2185：gitlab 远程代码执行（需要身份验证）](https://github.com/ESUAdmin/CVE-2022-2185)
-- [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)
+- [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)|[zaber：golang 编写的 CVE-2019-9670 XXE 漏洞利用工具](https://github.com/oppsec/zaber)
 - [CVE-2022-1040：Sophos XG115w 防火墙 17.0.10 MR-10 - 身份验证绕过](https://github.com/APTIRAN/CVE-2022-1040)
+- [CVE-2022-31269：Nortek Control Linear eMerge E3-Series 信息泄露](https://github.com/Henry4E36/CVE-2022-31269)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -304,7 +306,7 @@
 - [Linux提取-Linux kernel XFRM UAF poc (3.x - 5.x kernels)2020年1月前没打补丁可测试](https://github.com/duasynt/xfrm_poc)
 - [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 - [Linux提权辅助检测Perl脚本](https://github.com/jondonas/linux-exploit-suggester-2)|[Linux提权辅助检测bash脚本](https://github.com/mzet-/linux-exploit-suggester)|[Unix-PrivEsc：本地 Unix 系统提权集合](https://github.com/FuzzySecurity/Unix-PrivEsc)
-- [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)|[【Windows提取】Windows SMBv3 LPE exploit 已编译版.exe](https://github.com/f1tz/CVE-2020-0796-LPE-EXP)|[SMBGhost_RCE_PoC-远程代码执行EXP](https://github.com/chompie1337/SMBGhost_RCE_PoC)|[Windows_SMBv3_RCE_CVE-2020-0796漏洞复现](./books/Windows_SMBv3_RCE_CVE-2020-0796漏洞复现.pdf)
+- [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)|[【Windows提取】Windows SMBv3 LPE exploit 已编译版.exe](https://github.com/f1tz/CVE-2020-0796-LPE-EXP)|[SMBGhost_RCE_PoC-远程代码执行EXP](https://github.com/chompie1337/SMBGhost_RCE_PoC)|[Windows_SMBv3_RCE_CVE-2020-0796漏洞复现](./books/Windows_SMBv3_RCE_CVE-2020-0796漏洞复现.pdf)|[CVE-2020-0796](https://github.com/ran-sama/CVE-2020-0796)
 - [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
 - [【Windows提权工具】Windows 7 to Windows 10 / Server 2019](https://github.com/CCob/SweetPotato)|[搭配Cobalt Strike的修改版可上线system权限的session](https://github.com/lengjibo/RedTeamTools/tree/master/windows/SweetPotato)|[RoguePotato：又一个 Windows 提权工具](https://github.com/antonioCoco/RoguePotato)
 - [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)|[SweetPotato_webshell下执行命令版.pdf](./books/SweetPotato_webshell下执行命令版.pdf)|[JuicyPotato修改版-可用于webshell](https://github.com/uknowsec/JuicyPotato)
@@ -480,7 +482,7 @@
 
 - [sunlogin_rce：向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)|[sunlogin_exp_for_tututu：基于 nmap的向日葵RCE 扫描工具](https://github.com/SkyBlueEternal/sunlogin_exp_for_tututu)
 
-- [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)
+- [CVE-2022-0847：Linux Dirty Pipe 内核提权漏洞](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|[CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)|[又一个CVE-2022-0847利用](https://github.com/EagleTube/CVE-2022-0847)
 
 - [CVE-2022-0543：Redis Lua沙盒绕过命令执行](https://github.com/vulhub/vulhub/tree/master/redis/CVE-2022-0543)|[REDIS-CVE-2022-0543：golang 写的利用工具](https://github.com/Newbee740/REDIS-CVE-2022-0543)
 
@@ -1191,6 +1193,8 @@
 - [dwm-screen-shot：将shellcode注入dwm.exe以进行屏幕截取](https://github.com/lainswork/dwm-screen-shot)
 - [XY-AASTools-1.7：一款交互的免杀工具](https://github.com/liusuxyds-only/XY-AASTools-1.7)
 - [CDNCheck：CDN 检测](https://github.com/wwl012345/CDNCheck)
+- [ipcdn：检查 IP 列表属于哪些 CDN 提供商](https://github.com/six2dez/ipcdn)
+- [CloudFail：利用配置错误的 DNS 和旧数据库记录来查找 CloudFlare 网络背后的隐藏 IP](https://github.com/m0rtem/CloudFail)
 - [DLLirant：对指定二进制文件进行自动 dll 劫持检测](https://github.com/Sh0ckFR/DLLirant)
 - [DLLHijackTest：通过 powershell 脚本查找 dll 劫持](https://github.com/slyd0g/DLLHijackTest)
 - [ImpulsiveDLLHijack：用 c#编写的工具来查找 dll劫持](https://github.com/knight0x07/ImpulsiveDLLHijack)
@@ -1578,6 +1582,24 @@
 - [JmpUnhook：通用方式构造中转函数进行脱钩](https://github.com/timwhitez/JmpUnhook)
 - [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
 - [pyhttpx：基于socket开发的一个网络测试库,供研究https/tls参考](https://github.com/zero3301/pyhttpx)
+- [PocOrExp_in_Github：聚合Github上已有的Poc或者Exp](https://github.com/ycdxsb/PocOrExp_in_Github)
+- [j2osWin：通过动态链接库绕过反病毒软件Hook - Break JVM](https://github.com/Rvn0xsy/j2osWin)
+- [CSMB_PTH：基于SMB协议进行windows主机远程命令执行的工具 使用纯C进行SMB协议包的构造，实现哈希传递,类似Impacket的实现方式。无回显](https://github.com/D0Gshuang/CSMB_PTH)
+- [reconftw：reconFTW 是一种工具，旨在通过运行最好的工具集来执行扫描和查找漏洞，对目标域执行自动侦察](https://github.com/six2dez/reconftw)
+- [Amass：深入的攻击面映射和资产发现](https://github.com/OWASP/Amass)
+- [axiom：集合诸如nmap、ffuf、masscan、nuclei、meg等众多开源安全测试工具的集合框架](https://github.com/pry0cc/axiom)
+- [OneListForAll：针对单一目标生成完整的 fuzz 字典](https://github.com/six2dez/OneListForAll)
+- [tsh：一个开源的 UNIX 后门](https://github.com/creaktive/tsh)
+- [tshtun：Py写的tsh的流量加解密过程](https://github.com/Ridter/tshtun)
+- [Burp2Malleable：burp 的 HTTP 请求转换为 Cobalt Strike Malleable C2 profiles](https://github.com/CodeXTF2/Burp2Malleable)
+- [minbeacon：为Cobalt Strike构建最小http（s）beacon](https://github.com/th3k3ymak3r/minbeacon)
+- [FakeTLS：模拟 TLS 1.3 以伪装 C2 活动的客户端/服务器代码](https://github.com/raykaryshyn/FakeTLS)
+- [cs-token-vault：此CS BOF 文件为窃取来/重复的Windows访问令牌创建内存存储](https://github.com/Henkru/cs-token-vault)
+- [cs-get-last-error：适用于 CS 的Windows 错误代码查询cna 脚本](https://github.com/Henkru/cs-get-last-error)
+- [SchtaskCreator：远程创建任务计划工具](https://github.com/Rvn0xsy/SchtaskCreator)
+- [cornershot：判断主机之间是否可访问以及对应端口状态，类似netspy](https://github.com/zeronetworks/cornershot)
+- [HijackLibs：跟踪公开披露的DLL劫持](https://github.com/wietze/HijackLibs)
+- [SubDomainizer：一个查找子域和隐藏在页面、文件夹和Github等Javascript文件中的有趣内容的工具](https://github.com/nsonaniya2010/SubDomainizer)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1982,6 +2004,9 @@
 - [Vulnerability-Wiki：一个综合漏洞知识库，集成了Vulhub、Peiqi、Edge、0sec、Wooyun等开源漏洞库](https://github.com/Threekiii/Vulnerability-Wiki)
 - [OSCP-Tips：备考 OSCP 的各种干货资料](https://github.com/YJ5NP1/OSCP-Tips)
 - [Attack_Code：云安全入门材料](https://github.com/Esonhugh/Attack_Code)
+- [pentest-book：这本书包含了在渗透测试期间使用的大量信息、脚本和知识](https://github.com/six2dez/pentest-book)
+- [OSCP-Human-Guide：一位播主的OSCP指南](https://github.com/six2dez/OSCP-Human-Guide)
+- [SQLInjectionWiki：一个专注于聚合和记录各种 SQL 注入方法的 wiki](https://github.com/NetSPI/SQLInjectionWiki)
 
 ## <span id="head9"> 说明</span>
 
