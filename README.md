@@ -1600,6 +1600,8 @@
 - [cornershot：判断主机之间是否可访问以及对应端口状态，类似netspy](https://github.com/zeronetworks/cornershot)
 - [HijackLibs：跟踪公开披露的DLL劫持](https://github.com/wietze/HijackLibs)
 - [SubDomainizer：一个查找子域和隐藏在页面、文件夹和Github等Javascript文件中的有趣内容的工具](https://github.com/nsonaniya2010/SubDomainizer)
+- [zgrab2:zmap官方开发的zmap 升级版](https://github.com/zmap/zgrab2)
+- [Registry-Recon：绕过 EDR/AV等防护设备进行信息搜集的 CS 插件](https://github.com/optiv/Registry-Recon)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
