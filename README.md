@@ -57,7 +57,7 @@
 - [IOT_vuln：IOT相关漏洞仓库](https://github.com/EPhaha/IOT_vuln)
 - [hikvision_CVE-2017-7921_auth_bypass_config_decryptor：解密受CVE-2017-7921影响的海康威视的配置文件](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)
 - [CVE-2022-20866：思科自适应安全设备软件和 Firepower 威胁防御软件 RSA 私钥泄漏检查](https://github.com/CiscoPSIRT/CVE-2022-20866)
-- [WLAN-AP-WEA453e RCE:三星路由器远程命令执行漏洞](https://github.com/wr0x00/Penetration_Testing_POC/edit/master/README.md)
+- [WLAN-AP-WEA453e RCE:三星路由器远程命令执行漏洞](./WLAN-AP-WEA453e%20RCE三星路由器远程命令执行漏洞.md)
 
 ## <span id="head4">Web APP</span>
 
