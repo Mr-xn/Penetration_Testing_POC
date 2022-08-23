@@ -2015,6 +2015,20 @@
 - [OSCP-Human-Guide：一位播主的OSCP指南](https://github.com/six2dez/OSCP-Human-Guide)
 - [SQLInjectionWiki：一个专注于聚合和记录各种 SQL 注入方法的 wiki](https://github.com/NetSPI/SQLInjectionWiki)
 - [蓝凌OA历史漏洞](./books/蓝凌OA历史漏洞.pdf)|[备份](https://archive.ph/HTfNW)
+- [对Ruoyi若依系统渗透测试总结](./books/对Ruoyi若依系统渗透测试总结.pdf)
+- [玄武盾的几种绕过姿势](./books/玄武盾的几种绕过姿势.pdf)
+- [SnakeYaml反序列化](./books/SnakeYaml反序列化.pdf)
+- [CVE-2022-35741 Apache CloudStack SAML XXE注入](./books/CVE-2022-35741%20Apache%20CloudStack%20SAML%20XXE注入.pdf)
+- [MSF多层内网渗透全过程](./books/MSF多层内网渗透全过程.pdf)
+- [ThinkPHP V6.0.12LTS 反序列化漏洞的保姆级教程（含exp编写过程）](./books/ThinkPHP%20V6.0.12LTS%20反序列化漏洞的保姆级教程（含exp编写过程）.pdf)
+- [CVE-2022-35405 Zoho Password Manager Pro XML-RPC RCE](./books/CVE-2022-35405%20Zoho%20Password%20Manager%20Pro%20XML-RPC%20RCE.pdf)
+- [DzzOffice2.02前台RCE分析](./books/某Office2.02前台RCE分析.pdf)
+- [不删除_key_的CC6反序列化](./books/不删除_key_的CC6反序列化.pdf)
+- [域渗透之委派攻击全集](./books/域渗透之委派攻击全集.pdf)
+- [某次红蓝对抗之Solr-RCE实战绕过](./books/某次红蓝对抗之Solr-RCE实战绕过.pdf)
+- [CVE-2022-0540_ Jira身份验证绕过分析](./books/CVE-2022-0540_%20Jira身份验证绕过分析.pdf)
+- [WebSocket 内存马，一种新型内存马技术](./books/WebSocket%20内存马，一种新型内存马技术.pdf)
+- [Mysql蜜罐反制Cobalt Strike](./books/Mysql蜜罐反制Cobalt Strike.pdf)
 
 ## <span id="head9"> 说明</span>
 
