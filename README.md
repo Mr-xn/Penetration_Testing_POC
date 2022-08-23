@@ -1603,6 +1603,10 @@
 - [SubDomainizer：一个查找子域和隐藏在页面、文件夹和Github等Javascript文件中的有趣内容的工具](https://github.com/nsonaniya2010/SubDomainizer)
 - [zgrab2:zmap官方开发的zmap 升级版](https://github.com/zmap/zgrab2)
 - [Registry-Recon：绕过 EDR/AV等防护设备进行信息搜集的 CS 插件](https://github.com/optiv/Registry-Recon)
+- [RPC-Backdoor：模拟 RPC 后门](https://github.com/eladshamir/RPC-Backdoor)
+- [go-memorydll：内存 dll 的 go 包装器](https://github.com/nkbai/go-memorydll)
+- [SQLJam：一个探索数据库查询新方法的 jam 项目](https://github.com/bvisness/SQLJam)
+- [Webpackfind：类似Packer-Fuzzer的Webpack自动化信息收集工具](https://github.com/xz-zone/Webpackfind)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2010,6 +2014,7 @@
 - [pentest-book：这本书包含了在渗透测试期间使用的大量信息、脚本和知识](https://github.com/six2dez/pentest-book)
 - [OSCP-Human-Guide：一位播主的OSCP指南](https://github.com/six2dez/OSCP-Human-Guide)
 - [SQLInjectionWiki：一个专注于聚合和记录各种 SQL 注入方法的 wiki](https://github.com/NetSPI/SQLInjectionWiki)
+- [蓝凌OA历史漏洞](./books/蓝凌OA历史漏洞.pdf)|[备份](https://archive.ph/HTfNW)
 
 ## <span id="head9"> 说明</span>
 
