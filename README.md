@@ -1608,6 +1608,8 @@
 - [SQLJam：一个探索数据库查询新方法的 jam 项目](https://github.com/bvisness/SQLJam)
 - [Webpackfind：类似Packer-Fuzzer的Webpack自动化信息收集工具](https://github.com/xz-zone/Webpackfind)
 - [estk：查询和备份各种 Elasticsearch 和 Kibana 版本的数据工具](https://github.com/LeakIX/estk)
+- [webcgi-exploits：多语言 Web CGI 接口漏洞利用](https://github.com/wofeiwo/webcgi-exploits)
+- [TripleCross：A Linux eBPF rootkit with a backdoor](https://github.com/h3xduck/TripleCross)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2030,6 +2032,13 @@
 - [CVE-2022-0540_ Jira身份验证绕过分析](./books/CVE-2022-0540_%20Jira身份验证绕过分析.pdf)
 - [WebSocket 内存马，一种新型内存马技术](./books/WebSocket%20内存马，一种新型内存马技术.pdf)
 - [Mysql蜜罐反制Cobalt Strike](./books/Mysql蜜罐反制Cobalt Strike.pdf)
+- [利用 PHP-FPM 做内存马的方法](https://tttang.com/archive/1720/)|[备份](https://web.archive.org/save/https://tttang.com/archive/1720/)
+- [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
+- [got表劫持绕过disable_functions](https://mp.weixin.qq.com/s/jfxcjQJzu-kv_V0E6snfnw)|[备份](https://archive.ph/dkwGu)
+- [Executor内存马的实现](https://xz.aliyun.com/t/11593)|[备份](https://archive.ph/v2TWM)
+- [Executor内存马的实现（二）](https://xz.aliyun.com/t/11613)|[备份](https://archive.ph/6pzxq)
+- [一种新的Tomcat内存马 - Upgrade内存马](https://tttang.com/archive/1709/)|[备份](https://archive.ph/wip/SmeAe)
+- [Shiro 历史漏洞分析](https://xz.aliyun.com/t/11633)|[备份](https://archive.ph/wip/g5nMw)
 
 ## <span id="head9"> 说明</span>
 
