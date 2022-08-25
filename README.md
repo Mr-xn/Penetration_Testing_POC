@@ -350,6 +350,7 @@
 - [【Linux 提权】CVE-2021-4154：Linux Kernel 资源管理错误漏洞](https://github.com/Markakd/CVE-2021-4154)
 - [【Linux 提权】CVE-2022-34918：netfilter nf_tables 本地提权](https://github.com/veritas501/CVE-2022-34918)
 - [【Linux 提权】CVE-2022-1972-infoleak-PoC：Linux-netfilter-越界写入漏洞](https://github.com/randorisec/CVE-2022-1972-infoleak-PoC)
+- [【Linux 提权】CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)
 
 ## <span id="head6"> PC</span>
 
