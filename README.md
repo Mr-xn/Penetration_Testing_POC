@@ -536,7 +536,7 @@
 
 - [CVE-2022-28281：Firefox 越界写入漏洞](https://github.com/0vercl0k/CVE-2022-28281)
 
-- [依靠WindowsDefender|LockBit勒索软件通过Microsoft安全工具侧面加载CobaltStrike](./依靠WindowsDefender|LockBit勒索软件通过Microsoft安全工具侧面加载CobaltStrike.md)
+- [依靠WindowsDefender|LockBit勒索软件通过Microsoft安全工具侧面加载CobaltStrike](./通过Microsoft安全工具侧面加载CobaltStrike.md)
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
