@@ -536,6 +536,8 @@
 
 - [CVE-2022-28281：Firefox 越界写入漏洞](https://github.com/0vercl0k/CVE-2022-28281)
 
+-[依靠 Windows Defender | LockBit 勒索软件通过 Microsoft 安全工具侧面加载 Cobalt Strike](./依靠 Windows Defender | LockBit 勒索软件通过 Microsoft 安全工具侧面加载 Cobalt Strike.md)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
