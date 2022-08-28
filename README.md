@@ -1611,6 +1611,7 @@
 - [estk：查询和备份各种 Elasticsearch 和 Kibana 版本的数据工具](https://github.com/LeakIX/estk)
 - [webcgi-exploits：多语言 Web CGI 接口漏洞利用](https://github.com/wofeiwo/webcgi-exploits)
 - [TripleCross：A Linux eBPF rootkit with a backdoor](https://github.com/h3xduck/TripleCross)
+- [mscan：一款域渗透扫描工具，方便一键自动化、全方位的信息收集及扫描域提权漏洞](https://github.com/lele8/mscan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2000,6 +2001,7 @@
 - [webshell免杀-提升兼容性](./books/webshell免杀-提升兼容性.pdf)|[原文](https://xz.aliyun.com/t/11391)
 - [JavaSec：一个记录Java安全学习过程的仓库](https://github.com/Y4tacker/JavaSec)
 - [探寻Tomcat文件上传流量层面绕waf新姿势](./books/探寻Tomcat文件上传流量层面绕waf新姿势.pdf)
+- [探寻Java文件上传流量层面waf绕过姿势系列二](https://y4tacker.github.io/2022/06/21/year/2022/6/%E6%8E%A2%E5%AF%BBJava%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%81%E9%87%8F%E5%B1%82%E9%9D%A2waf%E7%BB%95%E8%BF%87%E5%A7%BF%E5%8A%BF%E7%B3%BB%E5%88%97%E4%BA%8C/)|[备份](https://archive.ph/NJPgS)
 - [Java-Deserialization-Cheat-Sheet：关于Java反序列化漏洞的备忘单](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 - [javasec：java安全的一些总结，主要是安全审计相关](https://github.com/Maskhe/javasec)
 - [JavaCodeAudit：JAVA代码审计入门的小项目](https://github.com/cn-panda/JavaCodeAudit)
