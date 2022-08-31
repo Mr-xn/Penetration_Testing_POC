@@ -2044,6 +2044,7 @@
 - [Executor内存马的实现（二）](https://xz.aliyun.com/t/11613)|[备份](https://archive.ph/6pzxq)
 - [一种新的Tomcat内存马 - Upgrade内存马](https://tttang.com/archive/1709/)|[备份](https://archive.ph/wip/SmeAe)
 - [Shiro 历史漏洞分析](https://xz.aliyun.com/t/11633)|[备份](https://archive.ph/wip/g5nMw)
+- [ThinkPHP 5.0.X代码审计-5.0.24反序列化](./books/ThinkPHP 5.0.X代码审计-5.0.24反序列化.pdf)|[备份](https://archive.ph/wip/BqWdO)|[备份](https://web.archive.org/web/20220831131512/https://xz.aliyun.com/t/11658)
 
 ## <span id="head9"> 说明</span>
 
