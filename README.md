@@ -1614,6 +1614,8 @@
 - [TripleCross：A Linux eBPF rootkit with a backdoor](https://github.com/h3xduck/TripleCross)
 - [mscan：一款域渗透扫描工具，方便一键自动化、全方位的信息收集及扫描域提权漏洞](https://github.com/lele8/mscan)
 - [hoaxshell：一款功能强大的非传统Windows反向Shell](https://github.com/t3l3machus/hoaxshell)
+- [autodeauth：用于自动解除本地网络身份验证的工具](https://github.com/Drew-Alleman/autodeauth)
+- [EntropyFix：减少payload 的熵](https://github.com/ORCx41/EntropyFix)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
