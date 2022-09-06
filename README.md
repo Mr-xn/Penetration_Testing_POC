@@ -1616,6 +1616,7 @@
 - [hoaxshell：一款功能强大的非传统Windows反向Shell](https://github.com/t3l3machus/hoaxshell)
 - [autodeauth：用于自动解除本地网络身份验证的工具](https://github.com/Drew-Alleman/autodeauth)
 - [EntropyFix：减少payload 的熵](https://github.com/ORCx41/EntropyFix)
+- [cs2modrewrite：将 Cobalt Strike 配置文件转换为 modrewrite 脚本](https://github.com/threatexpress/cs2modrewrite)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2047,6 +2048,7 @@
 - [一种新的Tomcat内存马 - Upgrade内存马](https://tttang.com/archive/1709/)|[备份](https://archive.ph/wip/SmeAe)
 - [Shiro 历史漏洞分析](https://xz.aliyun.com/t/11633)|[备份](https://archive.ph/wip/g5nMw)
 - [ThinkPHP 5.0.X代码审计-5.0.24反序列化](./books/ThinkPHP 5.0.X代码审计-5.0.24反序列化.pdf)|[备份](https://archive.ph/wip/BqWdO)|[备份](https://web.archive.org/web/20220831131512/https://xz.aliyun.com/t/11658)
+- [利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施](./books/利用Nginx、Tyk%20Gateway%20API和CloudFlare防火墙隐藏C2设施.pdf)
 
 ## <span id="head9"> 说明</span>
 
