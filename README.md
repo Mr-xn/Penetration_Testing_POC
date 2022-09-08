@@ -1618,6 +1618,7 @@
 - [autodeauth：用于自动解除本地网络身份验证的工具](https://github.com/Drew-Alleman/autodeauth)
 - [EntropyFix：减少payload 的熵](https://github.com/ORCx41/EntropyFix)
 - [cs2modrewrite：将 Cobalt Strike 配置文件转换为 modrewrite 脚本](https://github.com/threatexpress/cs2modrewrite)
+- [EasyPen：Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应](https://github.com/lijiejie/EasyPen)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
