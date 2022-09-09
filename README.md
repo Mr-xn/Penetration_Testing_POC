@@ -1619,6 +1619,8 @@
 - [EntropyFix：减少payload 的熵](https://github.com/ORCx41/EntropyFix)
 - [cs2modrewrite：将 Cobalt Strike 配置文件转换为 modrewrite 脚本](https://github.com/threatexpress/cs2modrewrite)
 - [EasyPen：Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应](https://github.com/lijiejie/EasyPen)
+- [CodeReviewTools：通过正则搜索、批量反编译特定Jar包中的class名称](https://github.com/Ppsoft1991/CodeReviewTools)
+- [ysoserial：1nhann修改和增加诸多新的反序列化攻击链](https://github.com/1nhann/ysoserial)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2051,6 +2053,8 @@
 - [Shiro 历史漏洞分析](https://xz.aliyun.com/t/11633)|[备份](https://archive.ph/wip/g5nMw)
 - [ThinkPHP 5.0.X代码审计-5.0.24反序列化](./books/ThinkPHP 5.0.X代码审计-5.0.24反序列化.pdf)|[备份](https://archive.ph/wip/BqWdO)|[备份](https://web.archive.org/web/20220831131512/https://xz.aliyun.com/t/11658)
 - [利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施](./books/利用Nginx、Tyk%20Gateway%20API和CloudFlare防火墙隐藏C2设施.pdf)
+- [WIKI-POC-EXP：收集各大文库集合+POC+EXP（pochouse，peiqi_wiki，棱角社区，零组等）](https://github.com/govbk/WIKI-POC-EXP)
+- [云上安全攻防实战手册](./books/云上安全攻防实战手册.pdf)
 
 ## <span id="head9"> 说明</span>
 
