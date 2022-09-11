@@ -1480,7 +1480,7 @@
 - [GoBP：golang 编写的 shellcode 免杀生成器](https://github.com/awsaaaq/GoBP)
 - [MS17-010：纯 golang 实现ms17-010利用工具](https://github.com/For-ACGN/MS17-010)
 - [Searpy：URL采集、Favicon哈希值查找真实IP、子域名查找](https://github.com/j3ers3/Searpy)
-- [iscsicpl_bypassUAC：UAC bypass for x64 Windows 7 - 11](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC)
+- [iscsicpl_bypassUAC：UAC bypass for x64 Windows 7 - 11](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC)|[iscsicpl_bypassUAC无弹窗版](https://github.com/zha0gongz1/iscsicpl_bypassUAC)
 - [macos_shell_memory：通过CGO 在Macos内存中执行二进制文件](https://github.com/djhohnstein/macos_shell_memory)
 - [HVVExploitApply：使用JAVAFX图形化界面检测对HVV中常见的重点CMS系统和OA系统的已公开的漏洞进行验证](https://github.com/ExpLangcn/HVVExploitApply)
 - [CVE-2020-14882_Exploit_Gui：Weblogic 未授权命令执行漏洞GUI 利用工具](https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui)
@@ -1621,6 +1621,7 @@
 - [EasyPen：Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应](https://github.com/lijiejie/EasyPen)
 - [CodeReviewTools：通过正则搜索、批量反编译特定Jar包中的class名称](https://github.com/Ppsoft1991/CodeReviewTools)
 - [ysoserial：1nhann修改和增加诸多新的反序列化攻击链](https://github.com/1nhann/ysoserial)
+- [SharpHostInfo：一款快速探测内网主机信息工具](https://github.com/shmilylty/SharpHostInfo)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
