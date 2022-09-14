@@ -288,6 +288,8 @@
 - [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)|[zaber：golang 编写的 CVE-2019-9670 XXE 漏洞利用工具](https://github.com/oppsec/zaber)
 - [CVE-2022-1040：Sophos XG115w 防火墙 17.0.10 MR-10 - 身份验证绕过](https://github.com/APTIRAN/CVE-2022-1040)
 - [CVE-2022-31269：Nortek Control Linear eMerge E3-Series 信息泄露](https://github.com/Henry4E36/CVE-2022-31269)
+- [CNVD-2022-60632 畅捷通任意文件上传漏洞复现](https://www.o2oxy.cn/4104.html)|[备份](https://web.archive.org/web/20220914104920/https://www.o2oxy.cn/4104.html)|[备份2](https://archive.ph/wip/j1Ekr)
+- [teleport 堡垒机任意用户登录漏洞](https://www.o2oxy.cn/4132.html)|[备份](https://www.o2oxy.cn/4132.html)|[备份1](https://archive.ph/wip/t9xm1)|[备份2](https://web.archive.org/web/20220914105304/https://www.o2oxy.cn/4132.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -765,6 +767,7 @@
 - [ksubdomain：一款基于无状态子域名爆破工具](https://github.com/knownsec/ksubdomain)
 - [smuggler-一款用python3编写的http请求走私验证测试工具](https://github.com/defparam/smuggler)
 - [Fuzz_dic：又一个类型全面的参数和字典收集项目](https://github.com/SmithEcon/Fuzz_dic)
+- [Fuzzing-Dicts：Web Security Dictionary](https://github.com/3had0w/Fuzzing-Dicts)
 - [【爆破字典】自己收集整理的端口、子域、账号密码、其他杂七杂八字典，用于自己使用](https://github.com/cwkiller/Pentest_Dic)
 - [【爆破字典】基于实战沉淀下的各种弱口令字典](https://github.com/Mr-xn/SuperWordlist)
 - [【爆破字典整合推荐】PentesterSpecialDict-该项目对 [ fuzzDicts | fuzzdb | Dict ] 等其他网上字典开源项目进行整合精简化和去重处理](https://github.com/ppbibo/PentesterSpecialDict)
@@ -1622,6 +1625,8 @@
 - [CodeReviewTools：通过正则搜索、批量反编译特定Jar包中的class名称](https://github.com/Ppsoft1991/CodeReviewTools)
 - [ysoserial：1nhann修改和增加诸多新的反序列化攻击链](https://github.com/1nhann/ysoserial)
 - [SharpHostInfo：一款快速探测内网主机信息工具](https://github.com/shmilylty/SharpHostInfo)
+- [Adinfo：域信息收集工具（用 golang 二开goddi）](https://github.com/lzzbb/Adinfo)
+- [scanPort：golang版高性能端口扫描工具](https://github.com/xs25cn/scanPort)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
