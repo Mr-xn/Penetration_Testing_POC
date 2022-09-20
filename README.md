@@ -297,7 +297,7 @@
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具](./CVE-2019-0803)
-- [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)|[linux_dirty：更改后的脏牛提权代码，可以往任意文件写入任意内容，去除交互过程](https://github.com/Rvn0xsy/linux_dirty)
+- [脏牛Linux提权漏洞](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)|[linux_dirty：更改后的脏牛提权代码，可以往任意文件写入任意内容，去除交互过程](https://github.com/Rvn0xsy/linux_dirty)|[dirtycow-mem：脏牛利用C源码](https://github.com/sqlnetcat/dirtycow-mem)-[文章](https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)-[备份](https://archive.ph/wip/NCL3w)-[备份1](https://web.archive.org/web/20220918065539/https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)
 - [远控免杀从入门到实践之白名单（113个）](https://github.com/TideSec/BypassAntiVirus)|[远控免杀从入门到实践之白名单（113个）总结篇.pdf](./books/远控免杀从入门到实践之白名单（113个）总结篇.pdf)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
@@ -2061,6 +2061,8 @@
 - [利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施](./books/利用Nginx、Tyk%20Gateway%20API和CloudFlare防火墙隐藏C2设施.pdf)
 - [WIKI-POC-EXP：收集各大文库集合+POC+EXP（pochouse，peiqi_wiki，棱角社区，零组等）](https://github.com/govbk/WIKI-POC-EXP)
 - [云上安全攻防实战手册](./books/云上安全攻防实战手册.pdf)
+- [利用ASP.NET Web API Help Page文件上传](https://xz.aliyun.com/t/11697)|[备份](https://archive.ph/iHhCI)|[备份2](https://web.archive.org/web/20220916035046/https://xz.aliyun.com/t/11697)
+- [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
 
 ## <span id="head9"> 说明</span>
 
