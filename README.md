@@ -355,6 +355,7 @@
 - [【Linux 提权】CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)
 - [Elevator：UAC Bypass by abusing RPC and debug objects.](https://github.com/Kudaes/Elevator)
 - [【Linux 提权】CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)
+- [【Linux 提权】CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)
 
 ## <span id="head6"> PC</span>
 
@@ -1627,6 +1628,7 @@
 - [SharpHostInfo：一款快速探测内网主机信息工具](https://github.com/shmilylty/SharpHostInfo)
 - [Adinfo：域信息收集工具（用 golang 二开goddi）](https://github.com/lzzbb/Adinfo)
 - [scanPort：golang版高性能端口扫描工具](https://github.com/xs25cn/scanPort)
+- [TomcatWeakScan：Tomcat弱口令批量扫描器](https://github.com/Tas9er/TomcatWeakScan)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
