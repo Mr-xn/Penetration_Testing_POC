@@ -653,7 +653,7 @@
 - [dump lass 工具(绕过/干掉卡巴斯基)](./books/dump%20lass%20工具.pdf)|[loader.zip下载](./tools/loader.zip)
 - [GO语言版本的mimikatz-编译后免杀](https://github.com/vyrus001/go-mimikatz)
 - [CVE-2019-0708-批量检测扫描工具](./tools/cve0708.rar)
-- [dump lsass的工具](https://github.com/outflanknl/Dumpert)|[又一个dump lsass的工具](https://github.com/7hmA3s/dump_lsass)
+- [dump lsass的工具](https://github.com/outflanknl/Dumpert)|[又一个dump lsass的工具](https://github.com/7hmA3s/dump_lsass)|[DumpThatLSASS：又一款bypass AV dump工具](https://github.com/D1rkMtr/DumpThatLSASS)|[CallBackDump：能过卡巴、核晶、defender等杀软的dump lsass进程工具](https://github.com/seventeenman/CallBackDump)
 - [Cobalt Strike插件 - RDP日志取证&清除](https://github.com/QAX-A-Team/EventLogMaster)
 - [xencrypt-一款利用powershell来加密并采用Gzip/DEFLATE来绕过杀软的工具](https://github.com/the-xentropy/xencrypt)
 - [SessionGopher-一款采用powershell来解密Windows机器上保存的session文件，例如： WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop，支持远程加载和本地加载使用](https://github.com/Arvanaghi/SessionGopher)
@@ -1630,6 +1630,12 @@
 - [scanPort：golang版高性能端口扫描工具](https://github.com/xs25cn/scanPort)
 - [TomcatWeakScan：Tomcat弱口令批量扫描器](https://github.com/Tas9er/TomcatWeakScan)
 - [fastjson_payload](https://github.com/kezibei/fastjson_payload)
+- [FastjsonScan：Fastjson扫描器，可识别版本、依赖库、autoType状态等](https://github.com/a1phaboy/FastjsonScan)
+- [Bof2PIC：BOF/COFF obj file to PIC(shellcode)](https://github.com/timwhitez/Bof2PIC)
+- [js-vuln-db：带有 PoC 的 JavaScript 引擎 CVE 集合](https://github.com/tunz/js-vuln-db)
+- [AsmShellcodeLoader：汇编语言编写Shellcode加载器源代码](https://github.com/Rvn0xsy/AsmShellcodeLoader)
+- [ShellCode_Loader：Msf&CobaltStrike免杀ShellCode加载器](https://github.com/Axx8/ShellCode_Loader)
+- [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
