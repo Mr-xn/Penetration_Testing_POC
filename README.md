@@ -1636,6 +1636,8 @@
 - [AsmShellcodeLoader：汇编语言编写Shellcode加载器源代码](https://github.com/Rvn0xsy/AsmShellcodeLoader)
 - [ShellCode_Loader：Msf&CobaltStrike免杀ShellCode加载器](https://github.com/Axx8/ShellCode_Loader)
 - [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
+- [srdi-rs：Rusty Shellcode 反射 DLL 注入](https://github.com/memN0ps/srdi-rs)
+- [KnownDllUnhook：将当前加载的模块的 .txt 部分从 \KnownDlls\ 替换来绕过 edr](https://github.com/ORCx41/KnownDllUnhook)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2072,6 +2074,7 @@
 - [云上安全攻防实战手册](./books/云上安全攻防实战手册.pdf)
 - [利用ASP.NET Web API Help Page文件上传](https://xz.aliyun.com/t/11697)|[备份](https://archive.ph/iHhCI)|[备份2](https://web.archive.org/web/20220916035046/https://xz.aliyun.com/t/11697)
 - [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
+- [fastjson 1.2.80 漏洞分析](https://xz.aliyun.com/t/11727)|[备份](https://archive.ph/BuDzZ)|[备份二](http://web.archive.org/web/20220927064359/https://xz.aliyun.com/t/11727)
 
 ## <span id="head9"> 说明</span>
 
