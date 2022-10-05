@@ -1639,6 +1639,9 @@
 - [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
 - [srdi-rs：Rusty Shellcode 反射 DLL 注入](https://github.com/memN0ps/srdi-rs)
 - [KnownDllUnhook：将当前加载的模块的 .txt 部分从 \KnownDlls\ 替换来绕过 edr](https://github.com/ORCx41/KnownDllUnhook)
+- [Invoke-PrintDemon：利用打印机漏洞通过 PowerShell 脚本将任意文件编码成base64后解码写入任意目录,比如system 目录](https://github.com/wh0Nsq/Invoke-PrintDemon)
+- [VcenterKiller：一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005，提供一键上传webshell，命令执行或者上传公钥使用SSH连接](https://github.com/Schira4396/VcenterKiller)
+- [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
