@@ -1642,6 +1642,7 @@
 - [Invoke-PrintDemon：利用打印机漏洞通过 PowerShell 脚本将任意文件编码成base64后解码写入任意目录,比如system 目录](https://github.com/wh0Nsq/Invoke-PrintDemon)
 - [VcenterKiller：一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005，提供一键上传webshell，命令执行或者上传公钥使用SSH连接](https://github.com/Schira4396/VcenterKiller)
 - [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
+- [dalfox：一个强大的开源XSS扫描工具和参数分析实用工具](https://github.com/hahwul/dalfox)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
