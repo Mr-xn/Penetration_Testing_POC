@@ -1644,6 +1644,10 @@
 - [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
 - [dalfox：一个强大的开源XSS扫描工具和参数分析实用工具](https://github.com/hahwul/dalfox)
 - [SharpADUserIP：提取DC日志，快速获取域用户对应IP地址](https://github.com/evilashz/SharpADUserIP)
+- [Jenkins-CVE-2017-1000353](https://github.com/r00t4dm/Jenkins-CVE-2017-1000353)
+- [SharpEventPersist：通过从事件日志中读写shellcode达到持久化](https://github.com/improsec/SharpEventPersist)
+- [ShadowSpray：在这个域中喷洒影子凭证的工具，希望在域中的其他对象上滥用早已被遗忘的GenericWrite/GenericAll DACL](https://github.com/Dec0ne/ShadowSpray)
+- [AtomPePacker：多功能PE加壳工具，可用来bypass AV](https://github.com/ORCx41/AtomPePacker)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
