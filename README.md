@@ -1387,7 +1387,7 @@
 - [injection：Windows 线程注入方法](https://github.com/odzhan/injection)
 - [e9patch：一个强大的静态二进制重写工具](https://github.com/GJDuck/e9patch)
 - [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
-- [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
+- ~~[ShellcodeLoader：绕过防病毒软件的Shellocde加载器【2022.10.20被发现疑似投毒】](https://github.com/ByPassAVTeam/ShellcodeLoader)~~
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 - [Alphalog：DNSLog、httplog、rmilog、ldaplog、jndi 等都支持](https://github.com/AlphabugX/Alphalog)
 - [DHook：DHook是一个交互式自定义动态hook的工具。通过javaagent+ASM技术对运行时的java应用进行字节码修改，并可以以界面和配置文件的方式来增加hook点，修改执行方法的返回值以及参数等。如破解cs等](https://github.com/keven1z/DHook)
@@ -1648,6 +1648,7 @@
 - [SharpEventPersist：通过从事件日志中读写shellcode达到持久化](https://github.com/improsec/SharpEventPersist)
 - [ShadowSpray：在这个域中喷洒影子凭证的工具，希望在域中的其他对象上滥用早已被遗忘的GenericWrite/GenericAll DACL](https://github.com/Dec0ne/ShadowSpray)
 - [AtomPePacker：多功能PE加壳工具，可用来bypass AV](https://github.com/ORCx41/AtomPePacker)
+- [AppInfoScanner：移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具](https://github.com/kelvinBen/AppInfoScanner)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
