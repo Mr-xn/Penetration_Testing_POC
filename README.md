@@ -544,6 +544,8 @@
 
 - [CVE-2022-28281：Firefox 越界写入漏洞](https://github.com/0vercl0k/CVE-2022-28281)
 
+- [CVE-2022-34718：TCP/IP RCE POC](https://github.com/numencyber/VulnerabilityPoC/blob/main/CVE-2022-34718/poc.cpp)|[分析](https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
@@ -1652,6 +1654,7 @@
 - [AtomPePacker：多功能PE加壳工具，可用来bypass AV](https://github.com/ORCx41/AtomPePacker)
 - [AppInfoScanner：移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具](https://github.com/kelvinBen/AppInfoScanner)
 - [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
+- [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀](https://github.com/H4de5-7/geacon_pro)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2089,6 +2092,7 @@
 - [利用ASP.NET Web API Help Page文件上传](https://xz.aliyun.com/t/11697)|[备份](https://archive.ph/iHhCI)|[备份2](https://web.archive.org/web/20220916035046/https://xz.aliyun.com/t/11697)
 - [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
 - [fastjson 1.2.80 漏洞分析](https://xz.aliyun.com/t/11727)|[备份](https://archive.ph/BuDzZ)|[备份二](http://web.archive.org/web/20220927064359/https://xz.aliyun.com/t/11727)
+- [ECShop 0day 的堕落之路-2.x加3.x的SQL注入和代码执行](https://paper.seebug.org/695/)|[备份一](https://archive.ph/wip/cfuYx)|[备份二](https://web.archive.org/web/20221024132558/https://paper.seebug.org/695/)
 
 ## <span id="head9"> 说明</span>
 
