@@ -1655,6 +1655,7 @@
 - [AppInfoScanner：移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具](https://github.com/kelvinBen/AppInfoScanner)
 - [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
 - [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀](https://github.com/H4de5-7/geacon_pro)
+- [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
