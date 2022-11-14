@@ -2094,6 +2094,7 @@
 - [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
 - [fastjson 1.2.80 漏洞分析](https://xz.aliyun.com/t/11727)|[备份](https://archive.ph/BuDzZ)|[备份二](http://web.archive.org/web/20220927064359/https://xz.aliyun.com/t/11727)
 - [ECShop 0day 的堕落之路-2.x加3.x的SQL注入和代码执行](https://paper.seebug.org/695/)|[备份一](https://archive.ph/wip/cfuYx)|[备份二](https://web.archive.org/web/20221024132558/https://paper.seebug.org/695/)
+- [AD-Pentest-Notes：内网渗透(域渗透)学习记录](https://github.com/chriskaliX/AD-Pentest-Notes)
 
 ## <span id="head9"> 说明</span>
 
