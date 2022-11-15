@@ -1657,6 +1657,7 @@
 - [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀](https://github.com/H4de5-7/geacon_pro)
 - [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 - [FileSearch：C++枚举磁盘列表、遍历指定盘搜索特定类型文件，微信导出密钥Socket/PUT回传，包括反射DLL版本](https://github.com/c1y2m3/FileSearch)
+- [FirmAE：物联网设备固件模拟分析](https://github.com/pr0v3rbs/FirmAE)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
