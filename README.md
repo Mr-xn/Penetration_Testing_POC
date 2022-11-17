@@ -546,6 +546,8 @@
 
 - [CVE-2022-34718：TCP/IP RCE POC](https://github.com/numencyber/VulnerabilityPoC/blob/main/CVE-2022-34718/poc.cpp)|[分析](https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf)
 
+- [ProxyNotShell-PoC：PoC for CVE-2022-41040 and CVE-2022-41082 Microsoft Exchange Server RCE](https://github.com/Mr-xn/ProxyNotShell-PoC)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
