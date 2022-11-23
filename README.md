@@ -334,7 +334,7 @@
 - [【windows提权】利用有漏洞的技嘉驱动程序来加载恶意的驱动程序提升权限或干掉驱动级保护的杀软](https://github.com/alxbrn/gdrv-loader)|[备份地址](https://github.com/Mr-xn/gdrv-loader)
 - [【windows提权】byeintegrity-uac：通过劫持位于本机映像缓存中的DLL绕过UAC](https://github.com/AzAgarampur/byeintegrity-uac)
 - [【Windows 提权】InstallerFileTakeOver：Windows Installer 本地提权漏洞PoC](https://github.com/klinix5/InstallerFileTakeOver)
-- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034](https://github.com/ly4k/PwnKit)|[cve-2021-4034：单命令执行版本](https://github.com/wudicainiao/cve-2021-4034)|[CVE-2021-4034-NoGCC：CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境](https://github.com/EstamelGG/CVE-2021-4034-NoGCC)
+- [【Linux 提权】CVE-2021-4034：Linux Polkit 权限提升漏洞（pkexec）](https://github.com/berdav/CVE-2021-4034)|[PwnKit：cve-2021-4034，可获得交互式shell或者执行单个命令](https://github.com/ly4k/PwnKit)|[cve-2021-4034：单命令执行版本](https://github.com/wudicainiao/cve-2021-4034)|[CVE-2021-4034-NoGCC：CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境](https://github.com/EstamelGG/CVE-2021-4034-NoGCC)
 - [【Windows 提权】CVE-2022-21882：win32k LPE bypass CVE-2021-1732](https://github.com/KaLendsi/CVE-2022-21882)|[又一个CVE-2022-21882提权工具](https://github.com/L4ys/CVE-2022-21882)
 - [【Windows 提权】CVE-2022-21999：Windows 打印机提权漏洞（此漏洞是去年打印机提权漏洞Printnightmare的续集）](https://github.com/ly4k/SpoolFool)
 - [【Windows 提权】CVE-2022-29072：7-Zip帮助页面命令注入漏洞](https://github.com/kagancapar/CVE-2022-29072)
@@ -877,6 +877,7 @@
 - [sonar-java_java代码质量检查和安全性测试](https://github.com/SonarSource/sonar-java)
 - [CSS-Exchange_微软自家出品的Exchange server检查工具](https://github.com/microsoft/CSS-Exchange)
 - [frpModify-修改frp支持域前置与配置文件自删除](https://github.com/uknowsec/frpModify)|[FrpProPlugin-frp0.33修改版,过流量检测,免杀,支持加载远程配置文件可用于cs直接使用的插件](https://github.com/mstxq17/FrpProPlugin)
+- [Erfrp：Erfrp-frp二开-免杀与隐藏](https://github.com/Goqi/Erfrp)
 - [Vulfocus-一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用](https://github.com/fofapro/vulfocus)
 - [vulnReport-安服自动化脚本：包括 Nessus、天境主机漏洞扫描6.0、APPscan、awvs等漏洞报告的整理，Google翻译等](https://github.com/wysec2020/vulnReport)
 - [.NETWebShell-动态编译实现任意命令执行，Windows Defender 免杀](https://github.com/Ivan1ee/.NETWebShell)
@@ -1660,6 +1661,7 @@
 - [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 - [FileSearch：C++枚举磁盘列表、遍历指定盘搜索特定类型文件，微信导出密钥Socket/PUT回传，包括反射DLL版本](https://github.com/c1y2m3/FileSearch)
 - [FirmAE：物联网设备固件模拟分析](https://github.com/pr0v3rbs/FirmAE)
+- [DeimosC2：用golang开发的后渗透测试C2利用框架](https://github.com/DeimosC2/DeimosC2)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
