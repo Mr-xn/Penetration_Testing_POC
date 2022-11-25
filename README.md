@@ -357,7 +357,7 @@
 - [【Linux 提权】CVE-2022-1972-infoleak-PoC：Linux-netfilter-越界写入漏洞](https://github.com/randorisec/CVE-2022-1972-infoleak-PoC)
 - [【Linux 提权】CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)
 - [Elevator：UAC Bypass by abusing RPC and debug objects.](https://github.com/Kudaes/Elevator)
-- [【Linux 提权】CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)
+- [【Linux 提权】CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)
 - [【Linux 提权】CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)
 - [【Windows 提权】PetitPotato：通过PetitPotam进行本地提权](https://github.com/wh0Nsq/PetitPotato)
 
@@ -1663,6 +1663,8 @@
 - [FileSearch：C++枚举磁盘列表、遍历指定盘搜索特定类型文件，微信导出密钥Socket/PUT回传，包括反射DLL版本](https://github.com/c1y2m3/FileSearch)
 - [FirmAE：物联网设备固件模拟分析](https://github.com/pr0v3rbs/FirmAE)
 - [DeimosC2：用golang开发的后渗透测试C2利用框架](https://github.com/DeimosC2/DeimosC2)
+- [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
+- [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
