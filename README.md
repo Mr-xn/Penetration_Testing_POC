@@ -292,6 +292,7 @@
 - [CVE-2022-31269：Nortek Control Linear eMerge E3-Series 信息泄露](https://github.com/Henry4E36/CVE-2022-31269)
 - [CNVD-2022-60632 畅捷通任意文件上传漏洞复现](https://www.o2oxy.cn/4104.html)|[备份](https://web.archive.org/web/20220914104920/https://www.o2oxy.cn/4104.html)|[备份2](https://archive.ph/wip/j1Ekr)
 - [teleport 堡垒机任意用户登录漏洞](https://www.o2oxy.cn/4132.html)|[备份](https://www.o2oxy.cn/4132.html)|[备份1](https://archive.ph/wip/t9xm1)|[备份2](https://web.archive.org/web/20220914105304/https://www.o2oxy.cn/4132.html)
+- [CVE-2022-40127：Apache Airflow < 2.4.0 DAG example_bash_operator RCE POC](https://github.com/Mr-xn/CVE-2022-40127)
 
 ## <span id="head5"> 提权辅助相关</span>
 
