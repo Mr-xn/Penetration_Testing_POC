@@ -1665,6 +1665,7 @@
 - [DeimosC2：用golang开发的后渗透测试C2利用框架](https://github.com/DeimosC2/DeimosC2)
 - [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
 - [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
+- [jar-analyzer：一个用于分析`jar`包的GUI工具，尤其适合从事代码安全审计](https://github.com/4ra1n/jar-analyzer)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -1695,6 +1696,7 @@
 - [CobaltStrike4.0用户手册_中文翻译_3](./books/CobaltStrike4.0用户手册_中文翻译_3.pdf)
 - [Cobaltstrike 4.0之 我自己给我自己颁发license.pdf](./books/Cobaltstrike%204破解之%20我自己给我自己颁发license.pdf)
 - [Cobalt Strike 4.0 更新内容介绍](./books/Cobalt%20Strike%204.0%20更新内容介绍.pdf)
+- [Cobalt-Strike-Start：可能是最详细的 Cobalt Strike 中文 Wiki](https://github.com/XXC385/Cobalt-Strike-Start)
 - [Cobal_Strike_自定义OneLiner](./books/Cobal_Strike_自定义OneLiner_Evi1cg's_blog.pdf)
 - [cobalt strike 快速上手 [ 一 ]](./books/cobalt_strike_快速上手%5B%20一%20%5D.pdf)
 - [Cobalt strike3.0使用手册](./books/Cobalt_strike3.0使用手册.pdf)
