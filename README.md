@@ -1666,6 +1666,10 @@
 - [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
 - [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
 - [jar-analyzer：一个用于分析`jar`包的GUI工具，尤其适合从事代码安全审计](https://github.com/4ra1n/jar-analyzer)
+- [SharpNTLMSSPExtract：利用 NTLMSSP 探测 Windows 信息](https://github.com/RowTeam/SharpNTLMSSPExtract)
+- [Gofreeproxy：从fofa获取公开代理，用作动态代理](https://github.com/ja9er/Gofreeproxy)
+- [vulnerable-AD：使用powershell脚本创建一个带有域漏洞的域环境](https://github.com/WazeHell/vulnerable-AD)
+- [ppmap：go编写的XSS漏洞检测扫描工具](https://github.com/kleiton0x00/ppmap)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
