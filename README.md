@@ -1670,6 +1670,7 @@
 - [Gofreeproxy：从fofa获取公开代理，用作动态代理](https://github.com/ja9er/Gofreeproxy)
 - [vulnerable-AD：使用powershell脚本创建一个带有域漏洞的域环境](https://github.com/WazeHell/vulnerable-AD)
 - [ppmap：go编写的XSS漏洞检测扫描工具](https://github.com/kleiton0x00/ppmap)
+- [ShiroKeyCheck：gol编写的Shiro key检测爆破工具](https://github.com/myzxcg/ShiroKeyCheck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
