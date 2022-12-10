@@ -1671,6 +1671,7 @@
 - [vulnerable-AD：使用powershell脚本创建一个带有域漏洞的域环境](https://github.com/WazeHell/vulnerable-AD)
 - [ppmap：go编写的XSS漏洞检测扫描工具](https://github.com/kleiton0x00/ppmap)
 - [ShiroKeyCheck：gol编写的Shiro key检测爆破工具](https://github.com/myzxcg/ShiroKeyCheck)
+- [ThinkPHPLangVulCheck：一个用于自检Thinkphp多语言漏洞的工具（QVD-2022-46174-ThinkPHP远程代码执行漏洞）](https://github.com/7coinSec/ThinkPHPLangVulCheck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
