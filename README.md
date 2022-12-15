@@ -2115,6 +2115,7 @@
 - [AD-Pentest-Notes：内网渗透(域渗透)学习记录](https://github.com/chriskaliX/AD-Pentest-Notes)
 - [MySql安全总结](https://xz.aliyun.com/t/11910)|[备份](https://archive.ph/jhpNs)|[备份2](https://web.archive.org/web/20220000000000*/https://xz.aliyun.com/t/11910)
 - [SecurityList: 有关代码审计和web安全的仓库](https://github.com/ax1sX/SecurityList)
+- [通达oa11.9前台getshell漏洞分析](https://forum.butian.net/share/2049)|[备份](https://web.archive.org/web/20221214141510/https://forum.butian.net/share/2049)
 
 ## <span id="head9"> 说明</span>
 
