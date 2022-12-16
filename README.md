@@ -550,6 +550,8 @@
 
 - [ProxyNotShell-PoC：PoC for CVE-2022-41040 and CVE-2022-41082 Microsoft Exchange Server RCE](https://github.com/testanull/ProxyNotShell-PoC)
 
+- [CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit](https://github.com/hacksysteam/CVE-2022-28672)
+
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
