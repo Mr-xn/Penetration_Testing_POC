@@ -294,6 +294,7 @@
 - [teleport 堡垒机任意用户登录漏洞](https://www.o2oxy.cn/4132.html)|[备份](https://www.o2oxy.cn/4132.html)|[备份1](https://archive.ph/wip/t9xm1)|[备份2](https://web.archive.org/web/20220914105304/https://www.o2oxy.cn/4132.html)
 - [CVE-2022-40127：Apache Airflow < 2.4.0 DAG example_bash_operator RCE POC](https://github.com/Mr-xn/CVE-2022-40127)
 - [CVE-2022-36537:ZK framework authentication bypass & connectWise r1Soft server backup manager remote code execution.](https://github.com/numencyber/VulnerabilityPoC/blob/main/CVE-2022-36537/cve-2022-36537.py)
+- [CVE-2022-40684:  Fortinet FortiOS, FortiProxy, and FortiSwitchManager身份认证绕过漏洞](https://github.com/horizon3ai/CVE-2022-40684)
 
 ## <span id="head5"> 提权辅助相关</span>
 
