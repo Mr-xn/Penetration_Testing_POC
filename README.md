@@ -1677,6 +1677,7 @@
 - [ShiroKeyCheck：gol编写的Shiro key检测爆破工具](https://github.com/myzxcg/ShiroKeyCheck)
 - [ThinkPHPLangVulCheck：一个用于自检Thinkphp多语言漏洞的工具（QVD-2022-46174-ThinkPHP远程代码执行漏洞）](https://github.com/7coinSec/ThinkPHPLangVulCheck)
 - [0dayex-checker: Zeroday Microsoft Exchange Server checker (Virtual Patching checker)](https://github.com/VNCERT-CC/0dayex-checker)
+- [fuzzuli: 一款go编写基于域名生成字典来扫描备份文件的工具](https://github.com/musana/fuzzuli)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
