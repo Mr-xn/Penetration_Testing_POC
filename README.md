@@ -467,6 +467,8 @@
 
 - [【Linux提权】CVE-2021-3490：Linux kernel 缓冲区错误漏洞](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)
 
+- [【Linux 提权】CVE-2022-2602: Linux io_uring子系统UAF漏洞漏洞利用POC,可用于本地提权](https://github.com/LukeGix/CVE-2022-2602)
+
 - [CVE-2021-34473：Microsoft Exchange Server Remote Code Execution](https://github.com/phamphuqui1998/CVE-2021-34473)|[proxyshell-auto：自动化的ProxyShell漏洞利用](https://github.com/Udyz/proxyshell-auto)
 
 - [【Linux 提权】CVE-2021-33909：Linux kernel 本地提权漏洞](https://github.com/ChrisTheCoolHut/CVE-2021-33909)
@@ -552,6 +554,7 @@
 - [ProxyNotShell-PoC：PoC for CVE-2022-41040 and CVE-2022-41082 Microsoft Exchange Server RCE](https://github.com/testanull/ProxyNotShell-PoC)
 
 - [CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit](https://github.com/hacksysteam/CVE-2022-28672)
+
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
