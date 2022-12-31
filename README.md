@@ -297,6 +297,9 @@
 - [CVE-2022-40684:  Fortinet FortiOS, FortiProxy, and FortiSwitchManager身份认证绕过漏洞](https://github.com/horizon3ai/CVE-2022-40684)
 - [CVE-2022-40308: Apache Archiva任意文件读取漏洞](https://sec.sangfor.com.cn/security-vulnerability/detail?vuln_sfv=SF_2022_60248&lang=ZH-CN)
 - [CVE-2022-41966: XStream拒绝服务漏洞](https://x-stream.github.io/CVE-2022-41966.html)
+- [CVE-2022-46166: Spring Boot Admin远程代码执行漏洞](https://nvd.nist.gov/vuln/detail/CVE-2022-46166)
+- [CVE-2022-3328: Snapd本地权限提升漏洞](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
+- [CVE-2022-27510: Citrix ADC/Geteway 身份验证绕过漏洞](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-27510)
 
 ## <span id="head5"> 提权辅助相关</span>
 
