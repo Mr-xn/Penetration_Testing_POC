@@ -295,6 +295,8 @@
 - [CVE-2022-40127：Apache Airflow < 2.4.0 DAG example_bash_operator RCE POC](https://github.com/Mr-xn/CVE-2022-40127)
 - [CVE-2022-36537:ZK framework authentication bypass & connectWise r1Soft server backup manager remote code execution.](https://github.com/numencyber/VulnerabilityPoC/blob/main/CVE-2022-36537/cve-2022-36537.py)
 - [CVE-2022-40684:  Fortinet FortiOS, FortiProxy, and FortiSwitchManager身份认证绕过漏洞](https://github.com/horizon3ai/CVE-2022-40684)
+- [CVE-2022-40308: Apache Archiva任意文件读取漏洞](https://sec.sangfor.com.cn/security-vulnerability/detail?vuln_sfv=SF_2022_60248&lang=ZH-CN)
+- [CVE-2022-41966: XStream拒绝服务漏洞](https://x-stream.github.io/CVE-2022-41966.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
