@@ -60,6 +60,7 @@
 - [hikvision_CVE-2017-7921_auth_bypass_config_decryptor：解密受CVE-2017-7921影响的海康威视的配置文件](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)
 - [CVE-2022-20866：思科自适应安全设备软件和 Firepower 威胁防御软件 RSA 私钥泄漏检查](https://github.com/CiscoPSIRT/CVE-2022-20866)
 - [WLAN-AP-WEA453e RCE:三星路由器远程命令执行漏洞](./WLAN-AP-WEA453e%20RCE三星路由器远程命令执行漏洞.md)
+- [Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)|[备份](https://web.archive.org/web/20221129205148/https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
 ## <span id="head4">Web APP</span>
 
