@@ -1682,6 +1682,7 @@
 - [ThinkPHPLangVulCheck：一个用于自检Thinkphp多语言漏洞的工具（QVD-2022-46174-ThinkPHP远程代码执行漏洞）](https://github.com/7coinSec/ThinkPHPLangVulCheck)
 - [0dayex-checker: Zeroday Microsoft Exchange Server checker (Virtual Patching checker)](https://github.com/VNCERT-CC/0dayex-checker)
 - [fuzzuli: 一款go编写基于域名生成字典来扫描备份文件的工具](https://github.com/musana/fuzzuli)
+- [iisproxy: 通过websocket在IIS8(Windows Server 2012)以上实现socks5代理（在无法反弹socks5,仅有webshell权限时,代理进入内网，类似于reGeorg）](https://github.com/howmp/iisproxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
