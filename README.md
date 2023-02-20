@@ -1441,7 +1441,7 @@
 - [DCSec：域控安全one for all](https://github.com/JDArmy/DCSec)
 - [rust-windows-shellcode](https://github.com/b1tg/rust-windows-shellcode)
 - [Anti-Virus-PHP：【随机动态生成】php免杀webshell](https://github.com/JZY-nuist/Anti-Virus-PHP)
-- [Webshell_Generate：用于管理各类免杀webshell](https://github.com/cseroad/Webshell_Generate)
+- [Webshell_Generate：用于生成各类免杀webshell](https://github.com/cseroad/Webshell_Generate)
 - [C2concealer：生成用于 Cobalt Strike 的随机 C2 可延展配置文件](https://github.com/FortyNorthSecurity/C2concealer)
 - [gost：golang 写的隧道](https://github.com/go-gost/gost)
 - [wsMemShell：一种全新的内存马](https://github.com/veo/wsMemShell)
@@ -1684,6 +1684,7 @@
 - [fuzzuli: 一款go编写基于域名生成字典来扫描备份文件的工具](https://github.com/musana/fuzzuli)
 - [iisproxy: 通过websocket在IIS8(Windows Server 2012)以上实现socks5代理（在无法反弹socks5,仅有webshell权限时,代理进入内网，类似于reGeorg）](https://github.com/howmp/iisproxy)
 - [FilelessPELoader: 在内存中加载远程AES加密过的PE文件并解密运行](https://github.com/TheD1rkMtr/FilelessPELoader)
+- [DarkAngel：一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知](https://github.com/Bywalks/DarkAngel)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
