@@ -1685,6 +1685,11 @@
 - [iisproxy: 通过websocket在IIS8(Windows Server 2012)以上实现socks5代理（在无法反弹socks5,仅有webshell权限时,代理进入内网，类似于reGeorg）](https://github.com/howmp/iisproxy)
 - [FilelessPELoader: 在内存中加载远程AES加密过的PE文件并解密运行](https://github.com/TheD1rkMtr/FilelessPELoader)
 - [DarkAngel：一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知](https://github.com/Bywalks/DarkAngel)
+- [boopkit：Linux eBPF backdoor over TCP](https://github.com/krisnova/boopkit)
+- [EDR-Bypass-demo：Some demos to bypass EDRs or AVs ](https://github.com/7BitsTeam/EDR-Bypass-demo)
+- [seeyonExp：致远命令执行漏洞系列的GUI利用工具](https://github.com/kai1025/seeyonExp)
+- [vapi：API漏洞练习靶场](https://github.com/roottusk/vapi)
+- [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
