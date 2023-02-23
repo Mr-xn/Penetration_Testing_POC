@@ -298,6 +298,7 @@
 - [CVE-2022-40684:  Fortinet FortiOS, FortiProxy, and FortiSwitchManager身份认证绕过漏洞](https://github.com/horizon3ai/CVE-2022-40684)
 - [Weblogic-CVE-2023-21839：Oracle WebLogic Server远程代码执行](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)
 - [CVE-2022-39952：FortiNAC keyUpload zipslip 远程代码执行漏洞](https://github.com/horizon3ai/CVE-2022-39952)
+- [CVE-2022-21587：Oracle E-Business Suite 未授权RCE](https://github.com/hieuminhnv/CVE-2022-21587-POC)|[Oracle E-BS CVE-2022-21587 Exploit Plugin for woodpecker-framwork](https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit)
 
 ## <span id="head5"> 提权辅助相关</span>
 
