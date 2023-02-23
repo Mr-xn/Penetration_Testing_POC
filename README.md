@@ -366,6 +366,7 @@
 - [【Linux 提权】CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)
 - [【Linux 提权】CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)
 - [【Windows 提权】PetitPotato：通过PetitPotam进行本地提权](https://github.com/wh0Nsq/PetitPotato)
+- [LocalPotato：一个使用新potato技术来进行windows本地提权](https://github.com/decoder-it/LocalPotato)
 
 ## <span id="head6"> PC</span>
 
