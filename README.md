@@ -1694,6 +1694,7 @@
 - [seeyonExp：致远命令执行漏洞系列的GUI利用工具](https://github.com/kai1025/seeyonExp)
 - [vapi：API漏洞练习靶场](https://github.com/roottusk/vapi)
 - [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
+- [JNDI-Injection-Exploit-Plus：修改版JNDI注入工具，支持JINDI、反序列化Payload生成、反序列化包装器](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
