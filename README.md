@@ -296,7 +296,7 @@
 - [CVE-2022-40127：Apache Airflow < 2.4.0 DAG example_bash_operator RCE POC](https://github.com/Mr-xn/CVE-2022-40127)
 - [CVE-2022-36537:ZK framework authentication bypass & connectWise r1Soft server backup manager remote code execution.](https://github.com/numencyber/VulnerabilityPoC/blob/main/CVE-2022-36537/cve-2022-36537.py)
 - [CVE-2022-40684:  Fortinet FortiOS, FortiProxy, and FortiSwitchManager身份认证绕过漏洞](https://github.com/horizon3ai/CVE-2022-40684)
-- [Weblogic-CVE-2023-21839：Oracle WebLogic Server远程代码执行](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)
+- [Weblogic-CVE-2023-21839：Oracle WebLogic Server远程代码执行](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)|[Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)](https://github.com/4ra1n/CVE-2023-21839)
 - [CVE-2022-39952：FortiNAC keyUpload zipslip 远程代码执行漏洞](https://github.com/horizon3ai/CVE-2022-39952)
 - [CVE-2022-21587：Oracle E-Business Suite 未授权RCE](https://github.com/hieuminhnv/CVE-2022-21587-POC)|[Oracle E-BS CVE-2022-21587 Exploit Plugin for woodpecker-framwork](https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit)
 
@@ -367,6 +367,7 @@
 - [【Linux 提权】CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)
 - [【Windows 提权】PetitPotato：通过PetitPotam进行本地提权](https://github.com/wh0Nsq/PetitPotato)
 - [LocalPotato：一个使用新potato技术来进行windows本地提权](https://github.com/decoder-it/LocalPotato)
+- [EfsPotato：Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability)](https://github.com/zcgonvh/EfsPotato)
 
 ## <span id="head6"> PC</span>
 
@@ -1695,6 +1696,10 @@
 - [vapi：API漏洞练习靶场](https://github.com/roottusk/vapi)
 - [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
 - [JNDI-Injection-Exploit-Plus：修改版JNDI注入工具，支持JINDI、反序列化Payload生成、反序列化包装器](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus)
+- [phone_dict：一个实用的特殊手机号字典](https://github.com/w2n1ck/phone_dict)
+- [IDOR_detect_tool：一款API水平越权漏洞检测工具](https://github.com/y1nglamore/IDOR_detect_tool)
+- [URLFinder：类似JSFinder的golang实现，一款用于快速提取检测页面中JS与URL的工具，更快更全更舒服](https://github.com/pingc0y/URLFinder)
+- [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
