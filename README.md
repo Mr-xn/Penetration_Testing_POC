@@ -1700,6 +1700,11 @@
 - [IDOR_detect_tool：一款API水平越权漏洞检测工具](https://github.com/y1nglamore/IDOR_detect_tool)
 - [URLFinder：类似JSFinder的golang实现，一款用于快速提取检测页面中JS与URL的工具，更快更全更舒服](https://github.com/pingc0y/URLFinder)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
+- [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
+- [NucleiTP：自动整合全网Nuclei的漏洞POC，实时同步更新最新POC](https://github.com/ExpLangcn/NucleiTP)
+- [Amsi-Killer：Lifetime AMSI bypass-终极AMSI bypass](https://github.com/ZeroMemoryEx/Amsi-Killer)
+- [ThreadlessInject-BOF：通过BOF实现一种无需创建线程的新型流程注入技术（BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection technique with no thread creation, released at BSides Cymru 2023.）](https://github.com/iilegacyyii/ThreadlessInject-BOF)
+- [AtomLdr：一个具有高级规避功能的DLL加载器](https://github.com/NUL0x4C/AtomLdr)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
