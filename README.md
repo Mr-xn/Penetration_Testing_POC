@@ -561,6 +561,8 @@
 
 - [CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit](https://github.com/hacksysteam/CVE-2022-28672)
 
+- [CVE-2022-44666：Windows 联系人远程代码执行漏洞](https://github.com/j00sean/CVE-2022-44666)
+
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
