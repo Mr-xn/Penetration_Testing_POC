@@ -1707,6 +1707,12 @@
 - [Amsi-Killer：Lifetime AMSI bypass-终极AMSI bypass](https://github.com/ZeroMemoryEx/Amsi-Killer)
 - [ThreadlessInject-BOF：通过BOF实现一种无需创建线程的新型流程注入技术（BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection technique with no thread creation, released at BSides Cymru 2023.）](https://github.com/iilegacyyii/ThreadlessInject-BOF)
 - [AtomLdr：一个具有高级规避功能的DLL加载器](https://github.com/NUL0x4C/AtomLdr)
+- [rsyncvd: 对rsync服务进行弱口令爆破，包括匿名登录检测和登录验证检测](https://github.com/Zoq1An/rsyncvd)
+- [HostCollision: 基于golang编写的多线程Host爆破/扫描/碰撞工具](https://github.com/black5ugar/HostCollision)
+- [Databasetools: 一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接](https://github.com/Hel10-Web/Databasetools)
+- [cube: 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描](https://github.com/JKme/cube)
+- [ldr: BOF/COFF loader in Rust](https://github.com/yamakadi/ldr)
+- [rbacr: 针对kubernetes中的RBAC可能被攻击检测工具](https://github.com/ZhuriLab/rbacr)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
