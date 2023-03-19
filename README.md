@@ -299,6 +299,7 @@
 - [Weblogic-CVE-2023-21839：Oracle WebLogic Server远程代码执行](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)|[Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)](https://github.com/4ra1n/CVE-2023-21839)
 - [CVE-2022-39952：FortiNAC keyUpload zipslip 远程代码执行漏洞](https://github.com/horizon3ai/CVE-2022-39952)
 - [CVE-2022-21587：Oracle E-Business Suite 未授权RCE](https://github.com/hieuminhnv/CVE-2022-21587-POC)|[Oracle E-BS CVE-2022-21587 Exploit Plugin for woodpecker-framwork](https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit)
+- [Alibab-Nacos-Unauthorized-Login: Alibab Nacos <= 2.2.0 未授权访问「默认key生成jwt token」](https://github.com/Al1ex/Alibab-Nacos-Unauthorized-Login)|[Nacos-Authentication-Bypass-Poc ](https://github.com/atk7r/Nacos-Authentication-Bypass-Poc)|[nacos_vul: Nacos身份验证绕过批量检测（QVD-2023-6271）+ 直接添加用户](https://github.com/Pizz33/nacos_vul)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1713,6 +1714,8 @@
 - [cube: 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描](https://github.com/JKme/cube)
 - [ldr: BOF/COFF loader in Rust](https://github.com/yamakadi/ldr)
 - [rbacr: 针对kubernetes中的RBAC可能被攻击检测工具](https://github.com/ZhuriLab/rbacr)
+- [nsproxy: 功能类似tsocks / proxychains-ng / graftcp的命令行代理工具，但只适用于带有net_namespace的Linux系统](https://github.com/nlzy/nsproxy)
+- [bashFuck: 针对Linux终端 bashshell 的无字母命令执行payload生成脚本](https://github.com/ProbiusOfficial/bashFuck)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
