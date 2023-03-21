@@ -1721,6 +1721,7 @@
 - [apkinfo: 安卓apk信息提取，敏感信息搜集](https://github.com/saucer-man/apkinfo)
 - [AndroidToolbox: 软件管理、文件管理、ADB终端以及多设备切换一站式管理Android](https://github.com/saucer-man/AndroidToolbox)
 - [frida_example: 常用的frida脚本](https://github.com/saucer-man/frida_example)
+- [rabbithole: 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务](https://github.com/AbelChe/rabbithole)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
