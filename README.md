@@ -564,6 +564,8 @@
 
 - [CVE-2022-44666：Windows 联系人远程代码执行漏洞](https://github.com/j00sean/CVE-2022-44666)
 
+- [CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1](https://github.com/Impalabs/CVE-2023-27326)
+
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1716,6 +1718,9 @@
 - [rbacr: 针对kubernetes中的RBAC可能被攻击检测工具](https://github.com/ZhuriLab/rbacr)
 - [nsproxy: 功能类似tsocks / proxychains-ng / graftcp的命令行代理工具，但只适用于带有net_namespace的Linux系统](https://github.com/nlzy/nsproxy)
 - [bashFuck: 针对Linux终端 bashshell 的无字母命令执行payload生成脚本](https://github.com/ProbiusOfficial/bashFuck)
+- [apkinfo: 安卓apk信息提取，敏感信息搜集](https://github.com/saucer-man/apkinfo)
+- [AndroidToolbox: 软件管理、文件管理、ADB终端以及多设备切换一站式管理Android](https://github.com/saucer-man/AndroidToolbox)
+- [frida_example: 常用的frida脚本](https://github.com/saucer-man/frida_example)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
