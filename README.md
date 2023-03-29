@@ -566,6 +566,11 @@
 
 - [CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1](https://github.com/Impalabs/CVE-2023-27326)
 
+- [Windows_LPE_AFD_CVE-2023-21768: 用户权限提升漏洞](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)
+
+- [nullmap: 使用CVE-2023-21768来手动映射内核模式驱动程序](https://github.com/SamuelTulach/nullmap)
+- [CVE-2023-23397-POC-Powershell: Microsoft Outlook权限提升漏洞(危险的约会铃声)Powershell版本poc](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell)
+
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
@@ -1722,6 +1727,18 @@
 - [AndroidToolbox: 软件管理、文件管理、ADB终端以及多设备切换一站式管理Android](https://github.com/saucer-man/AndroidToolbox)
 - [frida_example: 常用的frida脚本](https://github.com/saucer-man/frida_example)
 - [rabbithole: 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务](https://github.com/AbelChe/rabbithole)
+- [unveilr: 小程序反编译工具](https://github.com/r3x5ur/unveilr)
+- [GoLangUnhooker: EDR绕过，由GoLang编写](https://github.com/nu1r/GoLangUnhooker)
+- [vulnerability: 收集、整理、修改互联网上公开的漏洞POC](https://github.com/lal0ne/vulnerability)
+- [php_filter_chains_oracle_exploit: A CLI to exploit parameters vulnerable to PHP filter chain error based oracle.](https://github.com/synacktiv/php_filter_chains_oracle_exploit)
+- [chatGPT-CodeReview: 调用chatGPT进行代码审计的工具](https://github.com/Kento-Sec/chatGPT-CodeReview)
+- [ApacheTomcatScanner: 针对tomcat漏洞扫描脚本](https://github.com/p0dalirius/ApacheTomcatScanner)
+- [evil_minio: EXP for CVE-2023-28434 MinIO unauthorized to RCE](https://github.com/AbelChe/evil_minio)
+- [Library-POC: 基于Pocsuite3、goby编写的漏洞poc&exp存档](https://github.com/luck-ying/Library-POC)
+- [rakshasa: 基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具](https://github.com/Mob2003/rakshasa)
+- [Recaf: Java字节码编辑器](https://github.com/Col-E/Recaf)
+- [watchvuln: 一个高价值漏洞采集与推送服务](https://github.com/zema1/watchvuln)
+- [Quasar: 经典Windows远控软件](https://github.com/quasar/Quasar)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
