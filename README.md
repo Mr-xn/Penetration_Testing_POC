@@ -1739,6 +1739,7 @@
 - [Recaf: Java字节码编辑器](https://github.com/Col-E/Recaf)
 - [watchvuln: 一个高价值漏洞采集与推送服务](https://github.com/zema1/watchvuln)
 - [Quasar: 经典Windows远控软件](https://github.com/quasar/Quasar)
+- [anew: 像文本添加不重复的内容（行）类似于 tee -a 命令](https://github.com/tomnomnom/anew)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
