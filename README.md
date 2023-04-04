@@ -1740,6 +1740,14 @@
 - [watchvuln: 一个高价值漏洞采集与推送服务](https://github.com/zema1/watchvuln)
 - [Quasar: 经典Windows远控软件](https://github.com/quasar/Quasar)
 - [anew: 像文本添加不重复的内容（行）类似于 tee -a 命令](https://github.com/tomnomnom/anew)
+- [wmiexec-Pro: 新一代的wmiexec.py](https://github.com/XiaoliChan/wmiexec-Pro)
+- [nanodump: LSASS转储的瑞士军刀](https://github.com/fortra/nanodump)
+- [GoLangPhant0m: 杀win 日志](https://github.com/nu1r/GoLangPhant0m)
+- [feroxbuster: 一个用Rust编写的快速、简单、递归的目录扫描工具](https://github.com/epi052/feroxbuster)
+- [yetAnotherObfuscator: 绕过Windows Defender的C#混淆器](https://github.com/0xb11a1/yetAnotherObfuscator)
+- [SharpExchangeKing: Exchange 服务器安全性的辅助测试工具](https://github.com/RowTeam/SharpExchangeKing)
+- [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
+- [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
