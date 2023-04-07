@@ -2192,6 +2192,7 @@
 - [SecurityList: 有关代码审计和web安全的仓库](https://github.com/ax1sX/SecurityList)
 - [通达oa11.9前台getshell漏洞分析](https://forum.butian.net/share/2049)|[备份](https://web.archive.org/web/20221214141510/https://forum.butian.net/share/2049)
 - [冰心网络验证V3.1-代码审计到getshell](https://forum.butian.net/index.php/share/1206)|[备份](https://web.archive.org/web/20221226034923/https://forum.butian.net/index.php/share/1206)|[备份](https://archive.ph/uxK4i)
+- [【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）](https://mp.weixin.qq.com/s/SOKLC_No0hV9RhAavF2hcw)
 
 ## <span id="head9"> 说明</span>
 
