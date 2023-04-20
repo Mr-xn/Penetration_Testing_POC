@@ -322,7 +322,7 @@
 - [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)|[【Windows提取】Windows SMBv3 LPE exploit 已编译版.exe](https://github.com/f1tz/CVE-2020-0796-LPE-EXP)|[SMBGhost_RCE_PoC-远程代码执行EXP](https://github.com/chompie1337/SMBGhost_RCE_PoC)|[Windows_SMBv3_RCE_CVE-2020-0796漏洞复现](./books/Windows_SMBv3_RCE_CVE-2020-0796漏洞复现.pdf)|[CVE-2020-0796](https://github.com/ran-sama/CVE-2020-0796)
 - [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
 - [【Windows提权工具】Windows 7 to Windows 10 / Server 2019](https://github.com/CCob/SweetPotato)|[搭配Cobalt Strike的修改版可上线system权限的session](https://github.com/lengjibo/RedTeamTools/tree/master/windows/SweetPotato)|[RoguePotato：又一个 Windows 提权工具](https://github.com/antonioCoco/RoguePotato)
-- [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)|[SweetPotato_webshell下执行命令版.pdf](./books/SweetPotato_webshell下执行命令版.pdf)|[JuicyPotato修改版-可用于webshell](https://github.com/uknowsec/JuicyPotato)|[JuicyPotatoNG：另一个 juicypotato](https://github.com/antonioCoco/JuicyPotatoNG)|[DCOMPotato: Some Service DCOM Object and SeImpersonatePrivilege abuse.](https://github.com/zcgonvh/DCOMPotato)
+- [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)|[SweetPotato_webshell下执行命令版.pdf](./books/SweetPotato_webshell下执行命令版.pdf)|[JuicyPotato修改版-可用于webshell](https://github.com/uknowsec/JuicyPotato)|[JuicyPotatoNG：另一个 juicypotato](https://github.com/antonioCoco/JuicyPotatoNG)|[DCOMPotato: Some Service DCOM Object and SeImpersonatePrivilege abuse.](https://github.com/zcgonvh/DCOMPotato)|[GodPotato: 适用于Windows 2012 - Windows 2022的土豆提权工具](https://github.com/BeichenDream/GodPotato)
 - [【bypass UAC】Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe"](https://github.com/L3cr0f/DccwBypassUAC/)
 - [【Windows提权】CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7](https://github.com/alpha1ab/CVE-2018-8120)
 - [【Windows提权 Windows 10&Server 2019】PrintSpoofer-Abusing Impersonation Privileges on Windows 10 and Server 2019](https://github.com/itm4n/PrintSpoofer)|[配合文章食用-pipePotato复现](./books/pipePotato复现.pdf)|[Windows 权限提升 BadPotato-已经在Windows 2012-2019 8-10 全补丁测试成功](https://github.com/BeichenDream/BadPotato)
@@ -407,8 +407,6 @@
 - [Linux平台-CVE-2020-8597: PPPD 远程代码执行漏洞](https://github.com/marcinguy/CVE-2020-8597)
 
 - [Windows-CVE-2020-0796：疑似微软SMBv3协议“蠕虫级”漏洞](https://cert.360.cn/warning/detail?id=04f6a686db24fcfa478498f55f3b79ef)|[相关讨论](https://linustechtips.com/main/topic/1163724-smbv3-remote-code-execution-cve-2020-0796/)|[CVE-2020–0796检测与修复](CVE-2020-0796检测与修复.md)|[又一个CVE-2020-0796的检测工具-可导致目标系统崩溃重启](https://github.com/eerykitty/CVE-2020-0796-PoC)
-
-- [SMBGhost_RCE_PoC（CVE-2020-0796）](https://github.com/chompie1337/SMBGhost_RCE_PoC)
 
 - [WinRAR 代码执行漏洞 (CVE-2018-20250)-POC](https://github.com/Ridter/acefile)|[相关文章](https://research.checkpoint.com/2019/extracting-code-execution-from-winrar/)|[全网筛查 WinRAR 代码执行漏洞 (CVE-2018-20250)](https://xlab.tencent.com/cn/2019/02/22/investigating-winrar-code-execution-vulnerability-cve-2018-20250-at-internet-scale/)
 
@@ -569,7 +567,12 @@
 - [Windows_LPE_AFD_CVE-2023-21768: 用户权限提升漏洞](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)
 
 - [nullmap: 使用CVE-2023-21768来手动映射内核模式驱动程序](https://github.com/SamuelTulach/nullmap)
+
 - [CVE-2023-23397-POC-Powershell: Microsoft Outlook权限提升漏洞(危险的约会铃声)Powershell版本poc](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell)
+
+- [CVE-2023-0179: 影响了从5.5到6.2-rc3的所有Linux版本](https://github.com/H4K6/CVE-2023-0179-PoC)|[源处](https://github.com/TurtleARM/CVE-2023-0179-PoC)
+
+- [Hades-C2: python开发的C2工具](https://github.com/Lavender-exe/Hades-C2)
 
 
 ## <span id="head7"> tools-小工具集版本合</span>
@@ -1748,6 +1751,22 @@
 - [SharpExchangeKing: Exchange 服务器安全性的辅助测试工具](https://github.com/RowTeam/SharpExchangeKing)
 - [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
 - [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
+- [DumpHash: 一款dump hash工具配合后渗透的利用](https://github.com/Avienma/DumpHash)
+- [ChangeTimestamp: 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间](https://github.com/sorabug/ChangeTimestamp)
+- [RpcsDemo: 利用RPC协议在内网中的一些攻击面{DumpLsass,AddUser,ChangeNtlm,TSCH_DESK,OXIDINterka_network_card,CreateService等}](https://github.com/M0nster3/RpcsDemo)
+- [WeblogicTool: WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等](https://github.com/KimJun1010/WeblogicTool)
+- [BaRMIe: Java RMI enumeration and attack tool.](https://github.com/NickstaDB/BaRMIe)
+- [fpp: fpp (free proxy pool) 基于Golang的开箱即用跨平台的免费代理池，IP代理池，HTTP代理池。    ](https://github.com/HaliComing/fpp)
+- [NoMoney: 一款集成了fofa，zoomeye(钟馗之眼)，censys，奇安信的鹰图平台，360quake，且完全免费的信息收集工具](https://github.com/H-Limbus/NoMoney)
+- [scrying: A tool for collecting RDP, web and VNC screenshots all in one place](https://github.com/nccgroup/scrying)
+- [noterce: 一种另辟蹊径的免杀执行系统命令的木马](https://github.com/xiao-zhu-zhu/noterce)
+- [SysWhispers3WinHttp: 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender](https://github.com/huaigu4ng/SysWhispers3WinHttp)
+- [MisConfig_HTTP_Proxy_Scanner: 扫描错误的nginx反代和转发配置，已发现内网资产（类似hosts碰撞）](https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner)
+- [UserRegEnum_0x727: 域内普通域用户权限查找域内所有计算机上登录的用户](https://github.com/0x727/UserRegEnum_0x727)
+- [fuzzuli: 基于域名的关键备份文件扫描工具](https://github.com/musana/fuzzuli)
+- [go-public: 基于 Go 的端口转发工具](https://github.com/songquanpeng/go-public)
+- [ByPassUACTools: Windows 平台下的UAC(User Account Contro) 绕过工具](https://github.com/Adminisme/ByPassUACTools)
+- [JsonExp: fastjson漏洞批量检测工具](https://github.com/smallfox233/JsonExp)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2193,6 +2212,7 @@
 - [通达oa11.9前台getshell漏洞分析](https://forum.butian.net/share/2049)|[备份](https://web.archive.org/web/20221214141510/https://forum.butian.net/share/2049)
 - [冰心网络验证V3.1-代码审计到getshell](https://forum.butian.net/index.php/share/1206)|[备份](https://web.archive.org/web/20221226034923/https://forum.butian.net/index.php/share/1206)|[备份](https://archive.ph/uxK4i)
 - [【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）](https://mp.weixin.qq.com/s/SOKLC_No0hV9RhAavF2hcw)
+- [hack-fastjson-1.2.80: Kcon Hacking JSON 议题相关内容](https://github.com/su18/hack-fastjson-1.2.80)
 
 ## <span id="head9"> 说明</span>
 
