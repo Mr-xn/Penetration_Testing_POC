@@ -2213,6 +2213,7 @@
 - [冰心网络验证V3.1-代码审计到getshell](https://forum.butian.net/index.php/share/1206)|[备份](https://web.archive.org/web/20221226034923/https://forum.butian.net/index.php/share/1206)|[备份](https://archive.ph/uxK4i)
 - [【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）](https://mp.weixin.qq.com/s/SOKLC_No0hV9RhAavF2hcw)
 - [hack-fastjson-1.2.80: Kcon Hacking JSON 议题相关内容](https://github.com/su18/hack-fastjson-1.2.80)
+- [Fastjson不出网利用总结【很详细的说明总结】](https://xz.aliyun.com/t/12492)|[备份](http://web.archive.org/web/20230427142548/https://xz.aliyun.com/t/12492)
 
 ## <span id="head9"> 说明</span>
 
