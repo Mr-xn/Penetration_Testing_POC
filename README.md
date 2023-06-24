@@ -1802,6 +1802,9 @@
 - [weiquan: cs维权插件](https://github.com/kasjhkjaSD/weiquan)
 - [cloudSec: 云平台AK/SK-WEB利用工具](https://github.com/libaibaia/cloudSec)
 - [udpx: UDPX是一个用Go语言编写的单包UDP扫描器，速度快，重量轻，支持发现超过45个服务，并能添加自定义服务](https://github.com/nullt3r/udpx)
+- [dnsVerifier: 一款批量验证dns可用性的工具爬网站JS文件，自动fuzz api接口，指定api接口](https://github.com/alwaystest18/dnsVerifier)
+- [jjjjjjjjjjjjjs: 爬网站JS文件，自动fuzz api接口，指定api接口](https://github.com/ttstormxx/jjjjjjjjjjjjjs)
+- [win-port-proxy: 添加windows端口转发的小工具](https://github.com/veritas501/win-port-proxy)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
