@@ -64,6 +64,10 @@
 - [CVE-2023-27350: PaperCut NG身份验证绕过导致的RCE](https://github.com/horizon3ai/CVE-2023-27350)
 - [ivms-8700-0day-poc: 海康威视iVMS-8700综合安防管理平台任意文件上传漏洞](https://github.com/spmonkey/ivms-8700-0day-poc)
 - [badspin: Android Kernel内存错误引用漏洞](https://github.com/0xkol/badspin)
+- [HikvisionIVMSGetShell: 海康威视IVMS综合安防管理平台软件GetShell](https://github.com/Tas9er/HikvisionIVMSGetShell)
+- [iot: DIR-816 823g系列路由器的漏洞利用](https://github.com/sek1th/iot)
+- [VulIoT: DIR-816 823g系列路由器漏洞利用](https://github.com/726232111/VulIoT)
+- [NsePocsuite-lua: 网络摄像头漏洞检测脚本.Nmap (Nse Nmap script engine)](https://github.com/foggyspace/NsePocsuite-lua)
 
 ## <span id="head4">Web APP</span>
 
@@ -309,6 +313,10 @@
 - [CVE-2023-25690-POC: Apache HTTP Server 请求走私漏洞](https://github.com/dhmosfunk/CVE-2023-25690-POC)
 - [realor-sql-Injection-exp: 瑞友天翼应用虚拟化-远程代码执行/sql注入](https://github.com/hkxueqi/realor-sql-Injection-exp)
 - [Apache-Solr-8.3.1-RCE: Apache Solr 8.3.1 admin panel RCE (Windows)](https://github.com/scrt/Apache-Solr-8.3.1-RCE)
+- [CVE-2023-27997-check: Fortinet FortiOS SSL-VPN 远程代码执行漏洞](https://github.com/BishopFox/CVE-2023-27997-check)
+- [CVE-2023-20178: Cisco AnyConnect Secure Mobility Client for Windows 系统权限提升漏洞](https://github.com/Wh04m1001/CVE-2023-20178)
+- [CVE-2023-34960: Chamilon命令执行](https://github.com/Aituglo/CVE-2023-34960)
+- [CVE-2023-23333：Contec SolarView Compact命令执行](https://github.com/Mr-xn/CVE-2023-23333)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -380,6 +388,10 @@
 - [EfsPotato：Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability)](https://github.com/zcgonvh/EfsPotato)
 - [【Linux 提权】CVE-2023-32233: Linux Kernel 权限提升漏洞](https://github.com/Liuk3r/CVE-2023-32233)
 - [【Linux 提权】CVE-2023-0386: Linux OverlayFS权限提升漏洞](https://github.com/veritas501/CVE-2023-0386)
+- [【Linux提权】CVE-2023-2008: Linux Kernel 权限提升漏洞](https://github.com/bluefrostsecurity/CVE-2023-2008)
+- [【win提权】CVE-2023-21752: Windows 备份服务特权提升漏洞](https://github.com/Wh04m1001/CVE-2023-21752)
+- [【win提权】CVE-2023-29343: Windows 特权提升漏洞的 SysInternals Sysmon](https://github.com/Wh04m1001/CVE-2023-29343)
+- [【Linux提权】CVE2023-1829: Linux Kernel 权限提升漏洞](https://github.com/lanleft/CVE2023-1829)
 
 ## <span id="head6"> PC</span>
 
@@ -1805,6 +1817,33 @@
 - [dnsVerifier: 一款批量验证dns可用性的工具爬网站JS文件，自动fuzz api接口，指定api接口](https://github.com/alwaystest18/dnsVerifier)
 - [jjjjjjjjjjjjjs: 爬网站JS文件，自动fuzz api接口，指定api接口](https://github.com/ttstormxx/jjjjjjjjjjjjjs)
 - [win-port-proxy: 添加windows端口转发的小工具](https://github.com/veritas501/win-port-proxy)
+- [AsteriskPassword: 基于C++&MFC开发的星号密码查看器](https://github.com/gh0stkey/AsteriskPassword)
+- [WatchAD2.0: WatchAD2.0是一款针对域威胁的日志分析与监控系统](https://github.com/Qihoo360/WatchAD2.0)
+- [SharpDBeaver: DBeaver数据库密码解密工具](https://github.com/lele8/SharpDBeaver)
+- [WMIHACKER: 一种绕过反病毒软件的横向移动命令执行工具](https://github.com/rootclay/WMIHACKER)
+- [MSSQL-Fileless-Rootkit-WarSQLKit: 一个用于对MSSQL Server进行攻击的工具，它是一个文件型和文件型分离的MSSQL权限提升工具，可以在MSSQL Server中创建一个后门账户，或者将现有账户的权限提升到sysadmin权限](https://github.com/mindspoof/MSSQL-Fileless-Rootkit-WarSQLKit)
+- [NacosRce: Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用](https://github.com/c0olw/NacosRce)
+- [Vuln_Bulid: 自建漏洞环境库【fastjson、jxc、log4j、ssrf、shiro、ofcms等】](https://github.com/Funsiooo/Vuln_Bulid)
+- [chunsou: （春蒐）Python3编写的多线程Web指纹识别工具,适用于安全测试人员前期的资产识别、风险收敛以及企业互联网资产风险摸查](https://github.com/Funsiooo/chunsou)
+- [java-gate: 通过简单的 `Java` 代码实现 `Hell's Gate` 相关技术（直接的系统调用）](https://github.com/4ra1n/java-gate)
+- [WIKI-POC: 漏洞库【OA以及各种web APP漏洞】](https://github.com/7estUser/WIKI-POC)
+- [FineReportExploit: 基于go语言的帆软报表漏洞检测工具](https://github.com/Drac0nids/FineReportExploit)
+- [SSRFmap: 自动化SSRF漏洞探测](https://github.com/swisskyrepo/SSRFmap)
+- [qq-tim-elevation: 腾讯 QQ/TIM本地提权漏洞](https://github.com/vi3t1/qq-tim-elevation)
+- [VolatilityPro: 一款用于自动化处理内存取证的Python脚本，并提供GUI界面](https://github.com/Tokeii0/VolatilityPro)
+- [NimExec: 在Nim中执行横向移动的无文件命令](https://github.com/frkngksl/NimExec)
+- [yongyou-nc-rce: 用友nc-反序列化漏洞验证加利用](https://github.com/superneilcn/yongyou-nc-rce)
+- [YonyouNc-UNSERIALIZE-scan: 用友NC 反序列化检查工具,批量检测用友NC 反序列化](https://github.com/hkxueqi/YonyouNc-UNSERIALIZE-scan)
+- [Proxy-Attackchain: proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization](https://github.com/FDlucifer/Proxy-Attackchain)
+- [Three-EyedRaven: 内网探测工具](https://github.com/zha0gongz1/Three-EyedRaven)
+- [glider: glider是一个支持多协议的前向代理，也是一个具有ipset管理功能（如dnsmasq）的dns/dhcp服务器。](https://github.com/nadoo/glider)|[glider_guid41asd4asd: 使用Glider将节点转换成爬虫代理池](https://github.com/Rain-kl/glider_guid41asd4asd)
+- [Terminator: 通过滥用zam64.sys驱动程序来终止所有EDR / XDR / AV进程](https://github.com/ZeroMemoryEx/Terminator)
+- [router-router: 白盒代码审计-Java web路由内存分析工具](https://github.com/kyo-w/router-router)
+- [jar-analyzer-cli: 一个用于分析Jar包的CLI工具](https://github.com/4ra1n/jar-analyzer-cli)|[jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui)
+- [kindling: 基于eBPF的云本地监控工具](https://github.com/KindlingProject/kindling)
+- [Havoc: Havoc是一款现代化的、可扩展的后渗透命令控制框架C2](https://github.com/HavocFramework/Havoc)
+- [go-file: 基于 Go 的文件分享工具，仅单可执行文件，开箱即用](https://github.com/songquanpeng/go-file)
+- [ehr_SafeCodeEncode_tamper:宏景ehr sql注入的tamper脚本](https://github.com/jdr2021/ehr_SafeCodeEncode_tamper)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2252,6 +2291,9 @@
 - [【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）](https://mp.weixin.qq.com/s/SOKLC_No0hV9RhAavF2hcw)
 - [hack-fastjson-1.2.80: Kcon Hacking JSON 议题相关内容](https://github.com/su18/hack-fastjson-1.2.80)
 - [Fastjson不出网利用总结【很详细的说明总结】](https://xz.aliyun.com/t/12492)|[备份](http://web.archive.org/web/20230427142548/https://xz.aliyun.com/t/12492)
+- [wechat: 微信收藏的文章【渗透、技巧相关文章】](https://github.com/izj007/wechat)
+- [sec-books-part1: 网安类绝版图书](https://github.com/apachecn/sec-books-part1)
+- [dotnet-deserialization: dotnet 反序列化学习笔记](https://github.com/Y4er/dotnet-deserialization)
 
 ## <span id="head9"> 说明</span>
 
