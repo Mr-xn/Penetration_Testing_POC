@@ -317,6 +317,7 @@
 - [CVE-2023-20178: Cisco AnyConnect Secure Mobility Client for Windows 系统权限提升漏洞](https://github.com/Wh04m1001/CVE-2023-20178)
 - [CVE-2023-34960: Chamilon命令执行](https://github.com/Aituglo/CVE-2023-34960)
 - [CVE-2023-23333：Contec SolarView Compact命令执行](https://github.com/Mr-xn/CVE-2023-23333)
+- [CVE-2023-7028：GitLab 任意用户密码重置漏洞](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-7028.yaml)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -2294,6 +2295,9 @@
 - [wechat: 微信收藏的文章【渗透、技巧相关文章】](https://github.com/izj007/wechat)
 - [sec-books-part1: 网安类绝版图书](https://github.com/apachecn/sec-books-part1)
 - [dotnet-deserialization: dotnet 反序列化学习笔记](https://github.com/Y4er/dotnet-deserialization)
+- [服务隐藏与排查 | Windows 应急响应](https://mp.weixin.qq.com/s/OrTTpxt_i1y5PUxfQRcWDQ)|[备份](./doc/blue/服务隐藏与排查 _ Windows 应急响应.html)
+- [Windows快捷方式利用技巧](https://mp.weixin.qq.com/s/ZPL84wN8MitFzrkegZCLdg)|[备份][./books/Windows快捷方式利用技巧.html]
+- [Linux提权过程中的各种姿势](https://mp.weixin.qq.com/s/K13LvvYsU8mi32pgsq4WeQ)|[备份](Linux提权过程中的各种姿势.html)
 
 ## <span id="head9"> 说明</span>
 
