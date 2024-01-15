@@ -1914,6 +1914,7 @@
 - [空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透](./books/空指针-Base_on_windows_Writeup--最新版DZ3.4实战渗透.pdf)
 - [入门KKCMS代码审计](./books/入门KKCMS代码审计.pdf)
 - [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist](https://github.com/LandGrey/SpringBootVulExploit)
+- [从零学习到 Webshell 免杀手册](https://github.com/AabyssZG/WebShell-Bypass-Guide)
 - [文件上传突破waf总结](./books/文件上传突破waf总结.pdf)
 - [极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞](./books/极致CMS（以下简称_JIZHICMS）的一次审计-SQL注入+储存行XSS+逻辑漏洞.pdf)|[原文地址](https://xz.aliyun.com/t/7872)
 - [代码审计之DTCMS_V5.0后台漏洞两枚](./books/代码审计之DTCMS_V5.0后台漏洞两枚.pdf)
