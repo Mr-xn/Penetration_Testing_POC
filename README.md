@@ -318,6 +318,7 @@
 - [CVE-2023-34960: Chamilon命令执行](https://github.com/Aituglo/CVE-2023-34960)
 - [CVE-2023-23333：Contec SolarView Compact命令执行](https://github.com/Mr-xn/CVE-2023-23333)
 - [CVE-2023-7028：GitLab 任意用户密码重置漏洞](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-7028.yaml)
+- [CVE-2023-22527：Atlassian Confluence - Remote Code Execution](https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/)|[nuclei-temoplateCVE-2023-22527：Atlassian Confluence - Remote Code Execution](https://github.com/projectdiscovery/nuclei-templates/blob/aba6b4ed2d5ba6a7bba776e10e45e792a8349c3c/http/cves/2023/CVE-2023-22527.yaml)
 
 ## <span id="head5"> 提权辅助相关</span>
 
