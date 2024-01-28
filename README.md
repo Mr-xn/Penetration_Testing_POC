@@ -319,6 +319,9 @@
 - [CVE-2023-23333：Contec SolarView Compact命令执行](https://github.com/Mr-xn/CVE-2023-23333)
 - [CVE-2023-7028：GitLab 任意用户密码重置漏洞](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-7028.yaml)
 - [CVE-2023-22527：Atlassian Confluence - Remote Code Execution](https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/)|[nuclei-temoplateCVE-2023-22527：Atlassian Confluence - Remote Code Execution](https://github.com/projectdiscovery/nuclei-templates/blob/aba6b4ed2d5ba6a7bba776e10e45e792a8349c3c/http/cves/2023/CVE-2023-22527.yaml)
+- [CVE-2024-23897：Jenkins CLI 任意文件读取漏洞可至RCE](https://github.com/projectdiscovery/nuclei-templates/blob/main/javascript/cves/2024/CVE-2024-23897.yaml)
+- [CVE-2024-21887：ivanti policy secure-22.6命令注入漏洞](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2024/CVE-2024-21887.yaml)
+- [CVE-2024-0204：Goanywhere MFT 未授权创建管理员漏洞](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2024/CVE-2024-0204.yaml)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -1846,6 +1849,7 @@
 - [Havoc: Havoc是一款现代化的、可扩展的后渗透命令控制框架C2](https://github.com/HavocFramework/Havoc)
 - [go-file: 基于 Go 的文件分享工具，仅单可执行文件，开箱即用](https://github.com/songquanpeng/go-file)
 - [ehr_SafeCodeEncode_tamper:宏景ehr sql注入的tamper脚本](https://github.com/jdr2021/ehr_SafeCodeEncode_tamper)
+- [Struts2VulsScanTools：Struts2全版本漏洞检测工具 19.21](https://github.com/abc123info/Struts2VulsScanTools)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -2299,7 +2303,8 @@
 - [dotnet-deserialization: dotnet 反序列化学习笔记](https://github.com/Y4er/dotnet-deserialization)
 - [服务隐藏与排查 | Windows 应急响应](https://mp.weixin.qq.com/s/OrTTpxt_i1y5PUxfQRcWDQ)|[备份](./doc/blue/服务隐藏与排查 _ Windows 应急响应.html)
 - [Windows快捷方式利用技巧](https://mp.weixin.qq.com/s/ZPL84wN8MitFzrkegZCLdg)|[备份][./books/Windows快捷方式利用技巧.html]
-- [Linux提权过程中的各种姿势](https://mp.weixin.qq.com/s/K13LvvYsU8mi32pgsq4WeQ)|[备份](Linux提权过程中的各种姿势.html)
+- [Linux提权过程中的各种姿势](https://mp.weixin.qq.com/s/K13LvvYsU8mi32pgsq4WeQ)|[备份](./books/Linux提权过程中的各种姿势.html)
+- [mssql攻防探究](https://forum.butian.net/share/2705)|[备份](./books/奇安信攻防社区-mssql攻防探究.html)
 
 ## <span id="head9"> 说明</span>
 
