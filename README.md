@@ -2301,10 +2301,25 @@
 - [wechat: 微信收藏的文章【渗透、技巧相关文章】](https://github.com/izj007/wechat)
 - [sec-books-part1: 网安类绝版图书](https://github.com/apachecn/sec-books-part1)
 - [dotnet-deserialization: dotnet 反序列化学习笔记](https://github.com/Y4er/dotnet-deserialization)
-- [服务隐藏与排查 | Windows 应急响应](https://mp.weixin.qq.com/s/OrTTpxt_i1y5PUxfQRcWDQ)|[备份](./doc/blue/服务隐藏与排查 _ Windows 应急响应.html)
-- [Windows快捷方式利用技巧](https://mp.weixin.qq.com/s/ZPL84wN8MitFzrkegZCLdg)|[备份][./books/Windows快捷方式利用技巧.html]
+- [服务隐藏与排查 | Windows 应急响应](https://mp.weixin.qq.com/s/OrTTpxt_i1y5PUxfQRcWDQ)|[备份](./doc/blue/服务隐藏与排查%20_%20Windows%20应急响应.html)
+- [Windows快捷方式利用技巧](https://mp.weixin.qq.com/s/ZPL84wN8MitFzrkegZCLdg)|[备份](./books/Windows快捷方式利用技巧.html)
 - [Linux提权过程中的各种姿势](https://mp.weixin.qq.com/s/K13LvvYsU8mi32pgsq4WeQ)|[备份](./books/Linux提权过程中的各种姿势.html)
 - [mssql攻防探究](https://forum.butian.net/share/2705)|[备份](./books/奇安信攻防社区-mssql攻防探究.html)
+- [JFinalCMS代码审计](./books/JFinalCMS代码审计.html)
+- [Java安全 - CommonsCollections链 全系列详解](./books/Java安全%20-%20CommonsCollections链%20全系列详解.html)
+- [Ognl小trick](./books/Ognl小trick.html)
+- [U8cloud base64 SQL注入漏洞分析](./books/U8cloud%20base64%20SQL注入漏洞分析.html)
+- [Xunruicms反序列化漏洞利用链挖掘过程](./books/Xunruicms反序列化漏洞利用链挖掘过程.html)
+- [一种 ysoserial.jar 反序列化Payload的解码](./books/一种%20ysoserial.jar%20反序列化Payload的解码.html)
+- [易宝OA文件写入+读取漏洞分析](./books/易宝OA文件写入+读取漏洞分析.html)
+- [易宝OA代码审计[ExecuteSqlForSingle SQL注入_ UploadFile文件上传_DownloadRptFile文件下载]](./books/易宝OA代码审计[ExecuteSqlForSingle%20SQL注入_%20UploadFile文件上传_DownloadRptFile文件下载].html)
+- [帆软channel接口反序列化漏洞分析](./books/帆软channel接口反序列化漏洞分析.html)
+- [代码审计&漏洞分析：74cmsSE 系列](./books/代码审计&漏洞分析：74cmsSE%20系列.html)
+- [若依最新版(4.7.8)后台RCE](./books/若依最新版(4.7.8)后台RCE.html)
+- [万字总结信息收集(全网最全)](./books/万字总结信息收集(全网最全).html)
+- [记宏景的一次代码审计[DisplayFiles文件读取和showmediainfo注入]](./books/记宏景的一次代码审计[DisplayFiles文件读取和showmediainfo注入].html)
+- [一次有趣的锐捷前台无条件RCE漏洞分析](./books/一次有趣的锐捷前台无条件RCE漏洞分析.html)
+- [深澜计费管理系统代码审计[SSRF_文件下载_反序列化RCE_SQL注入]](./books/深澜计费管理系统代码审计[SSRF_文件下载_反序列化RCE_SQL注入].html)
 
 ## <span id="head9"> 说明</span>
 
