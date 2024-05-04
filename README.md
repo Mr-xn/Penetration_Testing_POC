@@ -2320,6 +2320,16 @@
 - [记宏景的一次代码审计[DisplayFiles文件读取和showmediainfo注入]](./books/记宏景的一次代码审计[DisplayFiles文件读取和showmediainfo注入].html)
 - [一次有趣的锐捷前台无条件RCE漏洞分析](./books/一次有趣的锐捷前台无条件RCE漏洞分析.html)
 - [深澜计费管理系统代码审计[SSRF_文件下载_反序列化RCE_SQL注入]](./books/深澜计费管理系统代码审计[SSRF_文件下载_反序列化RCE_SQL注入].html)
+- [H3c 网管系统代码审计](H3c%20网管系统代码审计.html)
+- [PHP代码审计-来客推电商管理系统0Day分析(文件上传_SQLI)](PHP代码审计-来客推电商管理系统0Day分析(文件上传_SQLI).html)
+- [kodbox代码注入漏洞复现与分析](kodbox代码注入漏洞复现与分析.html)
+- [帆软HR系统组合漏洞挖掘过程](帆软HR系统组合漏洞挖掘过程.html)
+- [深入学习Java代码审计技巧—详细剖析某erp漏洞(华夏ERP-jshERP)](深入学习Java代码审计技巧—详细剖析某erp漏洞(华夏ERP-jshERP).html)
+- [某通用系统0day审计过程(步道乐跑校园智慧体育管理平台)](某通用系统0day审计过程(步道乐跑校园智慧体育管理平台).html)
+- [某通用系统Nday分析(NC及NC CLOUD系统 _lfw_core_rp 文件上传_代码执行_JNDI)](某通用系统Nday分析(-NC及NC%20CLOUD系统%20_lfw_core_rpc%20文件上传_代码执行_JNDI).html)
+- [记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过)](记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过).html)
+- [快速审计记录(五)--某blog系统(mayday博客系统)](快速审计记录(五)--某blog系统(mayday博客系统).html)
+- [快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer CMS）SQL注入_越权_未授权_XSS_Shiro漏洞)](快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer%20CMS）SQL注入_越权_未授权_XSS_Shiro漏洞).html)
 
 ## <span id="head9"> 说明</span>
 
