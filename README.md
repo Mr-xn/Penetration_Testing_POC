@@ -2326,7 +2326,7 @@
 - [帆软HR系统组合漏洞挖掘过程](./books/帆软HR系统组合漏洞挖掘过程.html)
 - [深入学习Java代码审计技巧—详细剖析某erp漏洞(华夏ERP-jshERP)](./books/深入学习Java代码审计技巧—详细剖析某erp漏洞(华夏ERP-jshERP).html)
 - [某通用系统0day审计过程(步道乐跑校园智慧体育管理平台)](./books/某通用系统0day审计过程(步道乐跑校园智慧体育管理平台).html)
-- [某通用系统Nday分析(NC及NC CLOUD系统 _lfw_core_rp 文件上传_代码执行_JNDI)](./books/某通用系统Nday分析(-NC及NC%20CLOUD系统%20_lfw_core_rpc%20文件上传_代码执行_JNDI).html)
+- [某通用系统Nday分析(NC及NC CLOUD系统 _lfw_core_rp 文件上传_代码执行_JNDI)](./books/某通用系统Nday分析(NC及NC%20CLOUD系统%20_lfw_core_rpc%20文件上传_代码执行_JNDI).html)
 - [记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过)](./books/记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过).html)
 - [快速审计记录(五)--某blog系统(mayday博客系统)](./books/快速审计记录(五)--某blog系统(mayday博客系统).html)
 - [快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer CMS）SQL注入_越权_未授权_XSS_Shiro漏洞)](./books/快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer%20CMS）SQL注入_越权_未授权_XSS_Shiro漏洞).html)
