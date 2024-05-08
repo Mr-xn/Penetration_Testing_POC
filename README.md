@@ -2330,6 +2330,11 @@
 - [记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过)](./books/记录一次某OA代码审计(新翔OA管理系统-未授权_SQL注入_文件上传_登录绕过).html)
 - [快速审计记录(五)--某blog系统(mayday博客系统)](./books/快速审计记录(五)--某blog系统(mayday博客系统).html)
 - [快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer CMS）SQL注入_越权_未授权_XSS_Shiro漏洞)](./books/快速审计记录(四)--某管理系统(梦想家内容管理系统（Dreamer%20CMS）SQL注入_越权_未授权_XSS_Shiro漏洞).html)
+- [Python Flask内存马的另辟途径](./books/Python%20Flask内存马的另辟途径.html)
+- [新版RCE宝典](./books/新版RCE宝典.html)
+- [内网渗透-委派攻击详解](./books/内网渗透-委派攻击详解.html)
+- [基于实战的MIPS路由器栈溢出利用：寄存器、指令与攻击思路的探究](./books/基于实战的MIPS路由器栈溢出利用：寄存器、指令与攻击思路的探究.html)
+- 
 
 ## <span id="head9"> 说明</span>
 
