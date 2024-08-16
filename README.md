@@ -76,6 +76,8 @@
 - [小米路由器固件仿真模拟方案](./books/[原创]%20小米路由器固件仿真模拟方案-智能设备-看雪-安全社区_安全招聘_kanxue.com.html)
 - [QEMU搭建ARM64环境 _ ZIKH26's Blog](./books/QEMU搭建ARM64环境%20_%20ZIKH26's%20Blog.html)
 - [SSD Advisory - NVMS9000 Information Disclosure - SSD Secure Disclosure](./books/SSD%20Advisory%20-%20NVMS9000%20Information%20Disclosure%20-%20SSD%20Secure%20Disclosure.html)
+- [DIR-820 CVE-2022-26258漏洞复现](./books/DIR-820%20CVE-2022-26258漏洞复现.html)
+- [从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link Di-7200G 命令注入漏洞)](./books/从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link%20Di-7200G%20命令注入漏洞).html)
 
 ## <span id="head4">Web APP</span>
 
@@ -376,6 +378,22 @@
 - [移动端渗透测试解决方案](./books/移动端渗透测试解决方案.html)
 - [怒绕三个WAF注入的小故事](./books/怒绕三个WAF注入的小故事.html)
 - [记一次某双一流大学漏洞挖掘](./books/记一次某双一流大学漏洞挖掘.html)
+- [CC链再次挖掘](./books/CC链再次挖掘.html)
+- [CVE-2024-36401 GeoServer远程代码执行](./books/CVE-2024-36401%20GeoServer远程代码执行.html)
+- [GeoServer Property evalute 远程代码执行漏洞 (CVE-2024-36401) 分析](./books/GeoServer%20Property%20evalute%20远程代码执行漏洞%20(CVE-2024-36401)%20分析.html)
+- [GeoServer property RCE注入内存马](./books/GeoServer%20property%20RCE注入内存马.html)
+- [GeoServer历史漏洞分析](./books/GeoServer历史漏洞分析-CSDN博客.html)
+- [_.Net ViewState反序列化实现无文件哥斯拉内存马(万户ezEip)](./books/_.Net%20ViewState反序列化实现无文件哥斯拉内存马(万户ezEip).html)
+- [nginx deny限制路径绕过](./books/nginx%20deny限制路径绕过.html)
+- [契约锁代码审计分析](./books/契约锁代码审计分析-CSDN博客.html)
+- [宏景eHR人力系统的代码审计(权限绕过_downlawbase注入_任意文件删除下载_反序列化RCE)](./books/宏景eHR人力系统的代码审计(权限绕过_downlawbase注入_任意文件删除下载_反序列化RCE).html)
+- [帆软channel反序列化漏洞分析](./books/帆软channel反序列化漏洞分析.html)
+- [帆软channel v5反序列化绕过](./books/帆软channel%20v5反序列化绕过.html)
+- [蓝凌 EKP 前台远程命令执行漏洞分析](./books/某凌%20EKP%20前台远程命令执行漏洞分析.html)
+- [某园区系统登录绕过分析(大华智慧园区综合管理平台-登录绕过_ZIP上传目录穿越)](./books/某园区系统登录绕过分析(大华智慧园区综合管理平台-登录绕过_ZIP上传目录穿越).html)
+- [深入解析PHP CGI Windows平台远程代码执行漏洞（CVE-2024-4577_CVE-2012-1823）](./books/深入解析PHP%20CGI%20Windows平台远程代码执行漏洞（CVE-2024-4577_CVE-2012-1823）.html)
+- [漏洞挖掘之再探某园区系统(大华智慧园区综合管理平台—未授权用户添加_查看_修改_xstream反序列化RCE)](./books/漏洞挖掘之再探某园区系统(大华智慧园区综合管理平台—未授权用户添加_查看_修改_xstream反序列化RCE).html)
+- [记某大学智慧云平台存在弱口令爆破_水平越权信息泄露_Wx_SessionKey篡改 任意用户登录漏洞](./books/记某大学智慧云平台存在弱口令爆破_水平越权信息泄露_Wx_SessionKey篡改%20任意用户登录漏洞.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -2393,7 +2411,9 @@
 - [静默退出 DUMP LSASS.EXE](./books/静默退出%20DUMP%20LSASS.EXE.html)
 - [CobaltStrike的狩猎与反狩猎](./books/CobaltStrike的狩猎与反狩猎.html)
 - [Dump内存得到TeamViewer账号密码](./books/Dump内存得到TeamViewer账号密码.html)
-- 
+- [CobaltStrike(4.9.1)的狩猎与反狩猎 · Arui's blog](./books/CobaltStrike(4.9.1)的狩猎与反狩猎%20·%20Arui's%20blog.html)
+- [ICMP_DNS 隧道处置方法 _ Linux 应急响应](./books/ICMP_DNS%20隧道处置方法%20_%20Linux%20应急响应.html)
+- [ICMP_DNS 隧道处置方法 _ Windows 应急响应](./books/ICMP_DNS%20隧道处置方法%20_%20Windows%20应急响应.html)
 
 ## <span id="head9"> 说明</span>
 
