@@ -443,6 +443,24 @@
 - [记一次Spring boot框架代审与思考](./books/记一次Spring%20boot框架代审与思考.html)
 - [记一次对通天星CMSV6车载视频监控平台的多个漏洞(getImage、delete.do、disable、merge、upload、SESSION伪造、StandardLoginAction_getAllUser、反序列化、xz_center)分析复现](./books/记一次对通天星CMSV6车载视频监控平台的多个漏洞(getImage、delete.do、disable、merge、upload、SESSION伪造、StandardLoginAction_getAllUser、反序列化、xz_center)分析复现.html)
 - [记一次有趣的通达OA审计过程](./books/记一次有趣的通达OA审计过程.html)
+- [CVE-2023-46604 ActiveMQ RCE不出网利用](./books/CVE-2023-46604%20ActiveMQ%20RCE不出网利用.html)
+- [CVE-2024-41667 OpenAM FreeMarker 模板注入分析](./books/CVE-2024-41667%20OpenAM%20FreeMarker%20模板注入分析.html)
+- [CVE-2024-42913_若依管理系统sql注入黑名单绕过漏洞分析](./books/CVE-2024-42913_若依管理系统sql注入黑名单绕过漏洞分析.html)
+- [Craft CMS远程代码执行漏洞](./books/Craft%20CMS远程代码执行漏洞.html)
+- [Hikvision综合安防管理平台isecure center文件读取深度利用](./books/Hikvision综合安防管理平台isecure%20center文件读取深度利用.html)
+- [Thymeleaf模板注入还能打吗？](./books/Thymeleaf模板注入还能打吗？.html)
+- [ofbiz权限绕过远程执行漏洞(CVE-2024-45195)](./books/ofbiz权限绕过远程执行漏洞(CVE-2024-45195).html)
+- [thinkphp8 通过baseQuery方法的rce](./books/thinkphp8%20通过baseQuery方法的rce.html)
+- [thinkphp最新CVE-2024-44902反序列化漏洞](./books/thinkphp最新CVE-2024-44902反序列化漏洞.html)
+- [代码审计-苹果CMS8（maccms8）无回显SSRF的奇妙审计之旅（条件竞争文件读取+SQL注入+文件上传getshell）](./books/代码审计-苹果CMS8（maccms8）无回显SSRF的奇妙审计之旅（条件竞争文件读取+SQL注入+文件上传getshell）.html)
+- [宝蓝德中间件反序列化链曲折调试](./books/宝蓝德中间件反序列化链曲折调试.html)
+- [执法视音频综合管理平台未授权RCE漏洞分析](./books/执法视音频综合管理平台未授权RCE漏洞分析.html)
+- [方正畅享新闻采编系统 binary.do SQL注入漏洞分析复现](./books/方正畅享新闻采编系统%20binary.do%20SQL注入漏洞分析复现.html)
+- [浅析Apache Ofbiz CVE-2024-45195 & CVE-2024-45507](./books/浅析Apache%20Ofbiz%20CVE-2024-45195%20&%20CVE-2024-45507.html)
+- [蓝凌EKP V16老版本 bypass dataxml.jsp Auth](./books/蓝凌EKP%20V16老版本%20bypass%20dataxml.jsp%20Auth.html)
+- [记一次基于Union的sqlmap自定义payload](./books/记一次基于Union的sqlmap自定义payload.html)
+- [记一次实战中对fastjson waf的绕过](./books/记一次实战中对fastjson%20waf的绕过.html)
+- [金和OA SignUpload SQL注入分析](./books/金和OA%20SignUpload%20SQL注入分析.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -2475,6 +2493,16 @@
 - [比较有意思的几个漏洞挖掘记录](./books/比较有意思的几个漏洞挖掘记录.html)
 - [Exchange邮服渗透技巧](./books/Exchange邮服渗透技巧.html)
 - [JAVA安全之Velocity模板注入刨析](./books/JAVA安全之Velocity模板注入刨析.html)
+- [Bypass WAF （小白食用）](./books/Bypass%20WAF%20（小白食用）.html)
+- [DumpLsass免杀](./books/DumpLsass免杀.html)
+- [Solon框架注入内存马](./books/Solon框架注入内存马.html)
+- [保姆级教程---前端加密的对抗（附带靶场）](./books/保姆级教程---前端加密的对抗（附带靶场）.html)
+- [基于某狗WAF情况下的UEditor.Net的绕过](./books/基于某狗WAF情况下的UEditor.Net的绕过.pdf)
+- [如何对安全设备进行代码审计](./books/如何对安全设备进行代码审计.html)
+- [如何绕过Golang木马的HTTPS证书验证](./books/如何绕过Golang木马的HTTPS证书验证.html)
+- [微信API接口调用凭证_Access token泄露](./books/微信API接口调用凭证_Access%20token泄露.html)
+- [探秘argv[0]：程序参数中的安全隐忧](./books/探秘argv[0]：程序参数中的安全隐忧.html)
+- [记一次使用 Xposed RPC 和 BurpGuard 应对金融APP参数签名及加密的详细过程](./books/记一次使用%20Xposed%20RPC%20和%20BurpGuard%20应对金融APP参数签名及加密的详细过程.html)
 
 ## <span id="head9"> 说明</span>
 
