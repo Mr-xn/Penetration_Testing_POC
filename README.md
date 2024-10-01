@@ -79,6 +79,7 @@
 - [DIR-820 CVE-2022-26258漏洞复现](./books/DIR-820%20CVE-2022-26258漏洞复现.html)
 - [从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link Di-7200G 命令注入漏洞)](./books/从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link%20Di-7200G%20命令注入漏洞).html)
 - [2024 RWCTF群晖 BC500摄像头RCE--未授权_栈溢出](./books/2024%20RWCTF群晖%20BC500摄像头RCE--未授权_栈溢出.html)
+- [路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取](./books/路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取.html)
 
 ## <span id="head4">Web APP</span>
 
@@ -461,6 +462,11 @@
 - [记一次基于Union的sqlmap自定义payload](./books/记一次基于Union的sqlmap自定义payload.html)
 - [记一次实战中对fastjson waf的绕过](./books/记一次实战中对fastjson%20waf的绕过.html)
 - [金和OA SignUpload SQL注入分析](./books/金和OA%20SignUpload%20SQL注入分析.html)
+- [记一次实战中对Ruoyi系统的渗透](./books/记一次实战中对Ruoyi系统的渗透.html)
+- [针对spring二次开发的BladeX站点的渗透测试](./books/针对spring二次开发的BladeX站点的渗透测试.html)
+- [Nacos配置文件攻防思路总结](./books/Nacos配置文件攻防思路总结.html)
+- [泛微E9路径browser.jsp存在权限绕过导致SQL注入漏洞](./books/泛微E9路径browser.jsp存在权限绕过导致SQL注入漏洞.html)
+- [万户ezOFFICE协同管理平台 GeneralWeb XXE to RCE](./books/万户ezOFFICE协同管理平台%20GeneralWeb%20XXE%20to%20RCE.html)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -2503,6 +2509,17 @@
 - [微信API接口调用凭证_Access token泄露](./books/微信API接口调用凭证_Access%20token泄露.html)
 - [探秘argv[0]：程序参数中的安全隐忧](./books/探秘argv[0]：程序参数中的安全隐忧.html)
 - [记一次使用 Xposed RPC 和 BurpGuard 应对金融APP参数签名及加密的详细过程](./books/记一次使用%20Xposed%20RPC%20和%20BurpGuard%20应对金融APP参数签名及加密的详细过程.html)
+- [Bypass403（小白食用）](./books/Bypass403（小白食用）.html)
+- [GeoServer_property_expression_injection学习](./books/GeoServer_property_expression_injection学习.html)
+- [JasperReports 命令执行问题](./books/JasperReports%20命令执行问题.html)
+- [Restlet 框架内存马分析](./books/Restlet%20框架内存马分析.html)
+- [Web应急基础指南](./books/Web应急基础指南.html)
+- [getRequestURl导致的安全鉴权问题](./books/getRequestURl导致的安全鉴权问题.html)
+- [imagickd写shell的技术学习](./books/imagickd写shell的技术学习.html)
+- [websphere内存马 构造分析过程](./books/websphere内存马%20构造分析过程.html)
+- [内网渗透该怎么学-小白篇](./books/内网渗透该怎么学-小白篇.html)
+- [应急响应——全类型JAVA内存马排查](./books/应急响应——全类型JAVA内存马排查.html)
+- [由Snake YAML反序列化漏洞引出的出网与不出网情况下C3P0链子的利用](./books/由Snake%20YAML反序列化漏洞引出的出网与不出网情况下C3P0链子的利用.html)
 
 ## <span id="head9"> 说明</span>
 
