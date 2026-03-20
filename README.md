@@ -1109,6 +1109,7 @@
 - [sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper](./tools/sqlmap_bypass_空格替换成换行符-某企业建站程序过滤_tamper.py)
 - [sqlmap_bypass_云锁_tamper](./tools/sqlmap_bypass_云锁_tamper.py)
 - [sqlmap bypass云锁tamper（利用云锁的注释不拦截缺陷，来自t00ls师傅）](https://github.com/Hsly-Alexsel/Bypass)-[t00ls原文地址](https://www.t00ls.net/thread-57788-1-1.html)|[项目留存PDF版本](./books/10种方法绕过云锁以及tamper.pdf)
+- [ByPassTamperPlus：针对SQLMap开发的加强版Tamper脚本集合，通过利用特定数据库版本特性和高级混淆技术绕过现代WAF防护，支持MSSQL、MySQL和Oracle](https://github.com/Tas9er/ByPassTamperPlus)
 - [masscan+nmap扫描脚本](./tools/masscan%2Bnmap.py)
 - [PHP解密扩展](https://github.com/Albert-Zhan/php-decrypt)
 - [linux信息收集/应急响应/常见后门检测脚本](https://github.com/al0ne/LinuxCheck)
