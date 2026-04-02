@@ -2339,6 +2339,7 @@
 - [ehr_SafeCodeEncode_tamper:宏景ehr sql注入的tamper脚本](https://github.com/jdr2021/ehr_SafeCodeEncode_tamper)
 - [Struts2VulsScanTools：Struts2全版本漏洞检测工具 19.21](https://github.com/abc123info/Struts2VulsScanTools)
 - [CVE-2025-14847 - MongoDB 未经身份验证的内存泄漏漏洞检测工具](https://github.com/joe-desimone/mongobleed)
+- [clawgod: Claude Code的"上帝模式"补丁工具，解锁隐藏功能、移除安全限制（含渗透测试/C2/漏洞利用限制），一键安装，无需编译](https://github.com/0Chencc/clawgod)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
