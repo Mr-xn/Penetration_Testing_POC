@@ -82,6 +82,7 @@
 - [2024 RWCTF群晖 BC500摄像头RCE--未授权_栈溢出](./books/2024%20RWCTF群晖%20BC500摄像头RCE--未授权_栈溢出.html)
 - [路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取](./books/路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取.html)
 - [NX_Firmware：任天堂Switch各版本固件数据库](https://github.com/THZoria/NX_Firmware)
+- [vphone-aio：一键运行已越狱并安装完整bootstrap的iOS虚拟手机(vphone)脚本](https://github.com/34306/vphone-aio)
 
 ## <span id="head4">Web APP</span>
 
