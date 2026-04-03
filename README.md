@@ -2345,6 +2345,7 @@
 - [CVE-2025-14847 - MongoDB 未经身份验证的内存泄漏漏洞检测工具](https://github.com/joe-desimone/mongobleed)
 - [trajan：CI/CD流水线安全漏洞扫描工具，支持GitHub Actions、GitLab CI、Azure DevOps、Jenkins和JFrog，用于检测软件供应链攻击](https://github.com/praetorian-inc/trajan)
 - [clawgod: Claude Code的"上帝模式"补丁工具，解锁隐藏功能、移除安全限制（含渗透测试/C2/漏洞利用限制），一键安装，无需编译](https://github.com/0Chencc/clawgod)
+- [kslkatz_bof：通过 Cobalt Strike BOF 实现 Mimikatz 功能](https://github.com/Muz1K1zuM/kslkatz_bof)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
