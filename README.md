@@ -806,6 +806,7 @@
 - [深科特 LEAN MES系统 ChooseImage.aspx 任意文件上传/删除漏洞](https://mrxn.net/jswz/lean-mes-ChooseImage-fileupload-rce-filedel.html)
 - [深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html)
 - [CLIProxyAPI /v1internal:method 未授权访问漏洞](https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html)
+- [shannon：面向 Web 应用与 API 的自主 AI 渗透测试工具，支持代码感知动态漏洞挖掘与自动化 PoC 验证](https://github.com/KeygraphHQ/shannon)
 
 
 ## <span id="head5"> 提权辅助相关</span>
