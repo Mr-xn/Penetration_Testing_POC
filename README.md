@@ -1748,6 +1748,7 @@
 - [tetanus：用 rust 开发的一款针对 Windows 和Linux 的 C2 工具](https://github.com/MythicAgents/tetanus)
 - [mortar：可有效规避安全产品的检测 shellcode 加载器](https://github.com/0xsp-SRD/mortar)
 - [go-mitmproxy：用 Golang 实现的中间人攻击，解析、监测、篡改 HTTP/HTTPS 流量](https://github.com/lqqyt2423/go-mitmproxy)
+- [Rockxy：macOS 开源 HTTP 调试代理工具，支持拦截 HTTP/HTTPS 流量、检查 API 请求、调试 WebSocket 连接及分析 GraphQL 查询，基于 Swift/SwiftNIO 构建](https://github.com/LocNguyenHuu/Rockxy)
 - [dll_inject_vs_binaries：将 dll 注入指定进程](https://github.com/mrd0x/dll_inject_vs_binaries)
 - [go4Hacker：golang 编写支持 DNSLOG、HTTPLOG、Rebinding和多用户的工具，支持 docker 一键部署](https://github.com/hktalent/go4Hacker)
 - [GetMail：利用NTLM Hash读取Exchange邮件](https://github.com/b0bac/GetMail)
