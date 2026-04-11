@@ -2296,6 +2296,7 @@
 - [scrying: A tool for collecting RDP, web and VNC screenshots all in one place](https://github.com/nccgroup/scrying)
 - [noterce: 一种另辟蹊径的免杀执行系统命令的木马](https://github.com/xiao-zhu-zhu/noterce)
 - [SysWhispers3WinHttp: 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender](https://github.com/huaigu4ng/SysWhispers3WinHttp)
+- [SysWhispers4: AV/EDR evasion via direct and indirect system calls，通过直接/间接系统调用绕过AV/EDR对ntdll.dll的用户态钩子，支持 Windows NT 3.1 - Windows 11 24H2，x64/x86/WoW64/ARM64](https://github.com/JoasASantos/SysWhispers4)
 - [MisConfig_HTTP_Proxy_Scanner: 扫描错误的nginx反代和转发配置，已发现内网资产（类似hosts碰撞）](https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner)
 - [UserRegEnum_0x727: 域内普通域用户权限查找域内所有计算机上登录的用户](https://github.com/0x727/UserRegEnum_0x727)
 - [fuzzuli: 基于域名的关键备份文件扫描工具](https://github.com/musana/fuzzuli)
