@@ -373,7 +373,7 @@
 - [从 js map 泄露到接管 OSS 对象存储的一次经典案例分享](./books/从%20js%20map%20泄露到接管%20OSS%20对象存储的一次经典案例分享.html)
 - [浅析DolphinPHP新版本的漏洞挖掘](./books/浅析DolphinPHP新版本的漏洞挖掘.html)
 - [通用Tomcat InvokerServlet RCE攻击链挖掘](./books/通用Tomcat%20InvokerServlet%20RCE攻击链挖掘.html)
-- [从 Tomcat JMX Proxy 到 RCE：AccessLogValve 注入利用](https://hackt.us/from-tomcat-jmx-proxy-to-rce-via-accesslogvalve-injection)
+- [从 Tomcat JMX Proxy 到 RCE：AccessLogValve 注入利用](https://hackt.us/from-tomcat-jmx-proxy-to-rce-via-accesslogvalve-injection)|[jmx2rce：Tomcat JMX Proxy 未授权 AccessLogValve 注入利用工具（扫描/文件读取/RCE/清理一体化）](https://github.com/Hacktus/jmx2rce)
 - [金和OA C6办公系统全局绕过漏洞分析](./books/金和OA%20C6办公系统全局绕过漏洞分析.html)
 - [关于PHP CGI Windows平台远程代码执行漏洞（CVE-2024-4577）简要说明](./books/关于PHP%20CGI%20Windows平台远程代码执行漏洞（CVE-2024-4577）简要说明.html)
 - [MSSQL注入绕过360执行命令](./books/MSSQL注入绕过360执行命令.html)
