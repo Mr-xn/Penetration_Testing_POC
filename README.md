@@ -373,6 +373,7 @@
 - [从 js map 泄露到接管 OSS 对象存储的一次经典案例分享](./books/从%20js%20map%20泄露到接管%20OSS%20对象存储的一次经典案例分享.html)
 - [浅析DolphinPHP新版本的漏洞挖掘](./books/浅析DolphinPHP新版本的漏洞挖掘.html)
 - [通用Tomcat InvokerServlet RCE攻击链挖掘](./books/通用Tomcat%20InvokerServlet%20RCE攻击链挖掘.html)
+- [从 Tomcat JMX Proxy 到 RCE：AccessLogValve 注入利用](https://hackt.us/from-tomcat-jmx-proxy-to-rce-via-accesslogvalve-injection)
 - [金和OA C6办公系统全局绕过漏洞分析](./books/金和OA%20C6办公系统全局绕过漏洞分析.html)
 - [关于PHP CGI Windows平台远程代码执行漏洞（CVE-2024-4577）简要说明](./books/关于PHP%20CGI%20Windows平台远程代码执行漏洞（CVE-2024-4577）简要说明.html)
 - [MSSQL注入绕过360执行命令](./books/MSSQL注入绕过360执行命令.html)
@@ -1108,6 +1109,7 @@
 
 ## <span id="head7"> tools-小工具集版本合</span>
 
+- [nano-analyzer：基于 LLM 的轻量级零日漏洞扫描器，通过三阶段 AI 流水线（上下文生成→漏洞扫描→怀疑性分类）对源代码进行安全审计](https://github.com/weareaisle/nano-analyzer)
 - [Payloader：中英双语的交互式安全载荷参考平台，涵盖 Web 应用安全与内网渗透，包含 300+ 条精心编排的攻防载荷、攻击链可视化、工具命令集（Nmap/SQLMap/Burp/Metasploit）和编解码工具](https://github.com/3516634930/Payloader)
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
 - [Linux SSH登录日志清除/伪造](./tools/ssh)
