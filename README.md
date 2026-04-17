@@ -896,6 +896,7 @@
 - [【win提权】CVE-2023-21752: Windows 备份服务特权提升漏洞](https://github.com/Wh04m1001/CVE-2023-21752)
 - [【win提权】CVE-2023-29343: Windows 特权提升漏洞的 SysInternals Sysmon](https://github.com/Wh04m1001/CVE-2023-29343)
 - [【Linux提权】CVE2023-1829: Linux Kernel 权限提升漏洞](https://github.com/lanleft/CVE2023-1829)
+- [【Windows提权】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
 
 ## <span id="head6"> PC</span>
 
