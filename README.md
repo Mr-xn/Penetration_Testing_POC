@@ -898,6 +898,7 @@
 - [【win提权】CVE-2023-29343: Windows 特权提升漏洞的 SysInternals Sysmon（Sysmon v14.14，2023年4月补丁前）](https://github.com/Wh04m1001/CVE-2023-29343)
 - [【Linux提权】CVE2023-1829: Linux Kernel 权限提升漏洞（Linux kernel 5.15，测试于Ubuntu 22.04 kernel 5.15.0-25.25）](https://github.com/lanleft/CVE2023-1829)
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
+- [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
 
 ## <span id="head6"> PC</span>
 
@@ -2009,6 +2010,7 @@
 - [wsMemShell：一种全新的内存马](https://github.com/veo/wsMemShell)
 - [WeblogicExploit-GUI：Weblogic漏洞利用图形化工具 支持注入内存马、一键上传webshell、命令执行](https://github.com/sp4zcmd/WeblogicExploit-GUI)
 - [BOF-RegSave：使用BOF转储 SAM / SECURITY / SYSTEM 注册表配置单元](https://github.com/EncodeGroup/BOF-RegSave)
+- [BlueSAM：BlueHammer 的 Cobalt Strike BOF 移植版，通过 Windows Defender 更新/VSS 行为获取 SAM 数据库副本并在 Beacon 中离线解析注册表](https://github.com/incursi0n/BlueSAM)
 - [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
 - [qsocks：基于 quic 的 socks5代理工具](https://github.com/net-byte/qsocks)
 - [CallStackSpoofer：用于在进行系统调用时欺骗任意调用堆栈的 PoC 实现（例如，通过 NtOpenProcess 获取句柄）](https://github.com/countercept/CallStackSpoofer)
