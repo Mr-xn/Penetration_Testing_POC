@@ -900,6 +900,7 @@
 - [【win提权】CVE-2023-29343: Windows 特权提升漏洞的 SysInternals Sysmon（Sysmon v14.14，2023年4月补丁前）](https://github.com/Wh04m1001/CVE-2023-29343)
 - [【Linux提权】CVE2023-1829: Linux Kernel 权限提升漏洞（Linux kernel 5.15，测试于Ubuntu 22.04 kernel 5.15.0-25.25）](https://github.com/lanleft/CVE2023-1829)
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
+- [【Windows Defender DOS】UnDefend：无需管理员权限，被动模式下阻止Defender签名更新，激进模式下在Windows平台更新时完全禁用Windows Defender](https://github.com/Nightmare-Eclipse/UnDefend)
 - [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
 
 ## <span id="head6"> PC</span>
