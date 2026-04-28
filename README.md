@@ -85,6 +85,7 @@
 - [vphone-aio：一键运行已越狱并安装完整bootstrap的iOS虚拟手机(vphone)脚本](https://github.com/34306/vphone-aio)
 - [FirmWire：支持三星 Shannon 和 MediaTek 基带固件的全系统动态分析平台，可用于模糊测试、漏洞根因分析与调试](https://github.com/FirmWire/FirmWire)
 - [Podroid：无需 root 即可在 Android 手机上运行 Linux 容器，基于 QEMU 启动 Alpine Linux 虚拟机并提供完整的 Podman 容器运行时](https://github.com/ExTV/Podroid)
+- [Tsec-Salon：Cast Attack Ghost Bits 相关研究资源](https://github.com/Yeti-791/Tsec-Salon)|[Cast Attack: Ghost Bits - Black Hat Asia 2026 演讲PDF](https://i.blackhat.com/Asia-26/Presentations/Asia-26-Bai-Cast-Attack-Ghost-Bits-4.23.pdf)
 
 ## <span id="head4">Web APP</span>
 
