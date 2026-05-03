@@ -1134,6 +1134,7 @@
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [RAPTOR（递归自主渗透测试与观测机器人）：基于 Claude Code 的自主攻防安全研究框架，可自动完成代码攻击面分析、Semgrep/CodeQL 漏洞扫描、AFL 模糊测试、漏洞分析与 PoC 生成、自动补丁修复及结构化报告输出的全流程渗透测试](https://github.com/gadievron/raptor)
+- [Pentest-Swarm-AI：基于多智能体协作的自动化渗透测试框架](https://github.com/Armur-Ai/Pentest-Swarm-AI)
 - [anything-analyzer：全场景抓包 + AI 自动分析工具，支持网页/桌面应用/终端/脚本/手机/IoT 等所有来源流量统一汇入同一 Session，一键生成协议逆向/安全审计/JS 加密逆向报告，并内置 MCP Server 可被 Claude Desktop、Cursor 等直接调用](https://github.com/Mouseww/anything-analyzer)
 - [nano-analyzer：基于 LLM 的轻量级零日漏洞扫描器，通过三阶段 AI 流水线（上下文生成→漏洞扫描→怀疑性分类）对源代码进行安全审计](https://github.com/weareaisle/nano-analyzer)
 - [Payloader：中英双语的交互式安全载荷参考平台，涵盖 Web 应用安全与内网渗透，包含 300+ 条精心编排的攻防载荷、攻击链可视化、工具命令集（Nmap/SQLMap/Burp/Metasploit）和编解码工具](https://github.com/3516634930/Payloader)
