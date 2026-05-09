@@ -920,7 +920,7 @@
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
 - [【Windows Defender DOS】UnDefend：无需管理员权限，被动模式下阻止Defender签名更新，激进模式下在Windows平台更新时完全禁用Windows Defender](https://github.com/Nightmare-Eclipse/UnDefend)
 - [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
-- [【Linux提取】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431)
+- [【Linux提权】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431)
 - [【Linux提权】Dirty Frag：Universal Linux LPE（CVE-2026-43284 / CVE-2026-43500，影响主流 Linux 发行版）](https://github.com/V4bel/dirtyfrag)
 
 ## <span id="head6"> PC</span>
