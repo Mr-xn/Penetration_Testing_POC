@@ -2388,6 +2388,7 @@
 - [WIKI-POC: 漏洞库【OA以及各种web APP漏洞】](https://github.com/7estUser/WIKI-POC)
 - [FineReportExploit: 基于go语言的帆软报表漏洞检测工具](https://github.com/Drac0nids/FineReportExploit)
 - [SSRFmap: 自动化SSRF漏洞探测](https://github.com/swisskyrepo/SSRFmap)
+- [nextssrf：CVE-2026-44578 Next.js WebSocket Upgrade Handler SSRF 扫描与利用工具，支持AWS/Azure/GCP云凭据提取、批量扫描及交互式利用Shell](https://github.com/ynsmroztas/nextssrf)
 - [qq-tim-elevation: 腾讯 QQ/TIM本地提权漏洞](https://github.com/vi3t1/qq-tim-elevation)
 - [VolatilityPro: 一款用于自动化处理内存取证的Python脚本，并提供GUI界面](https://github.com/Tokeii0/VolatilityPro)
 - [NimExec: 在Nim中执行横向移动的无文件命令](https://github.com/frkngksl/NimExec)
