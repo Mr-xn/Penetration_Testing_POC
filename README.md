@@ -1134,6 +1134,8 @@
 
 - [CVE-2023-27363: Foxit PDF Reader及Editor任意代码执行漏洞](https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2023-27363)
 
+- [CVE-2026-34621：Adobe Acrobat Reader 原型污染与JS注入利用链（CVE-2026-34621/34622/34626），可实现沙箱内特权JS执行及本地文件读取外带](https://github.com/azefzafyoussef/CVE-2026-34621)
+
 - [keepass-password-dumper: CVE-2023-32784 KeePass 信息泄露漏洞](https://github.com/vdohney/keepass-password-dumper)
   
 - [百度网盘（7.59.5.104） Windows客户端存在命令注入漏洞](https://mrxn.net/news/baidupan-windows-client-rce.html)
