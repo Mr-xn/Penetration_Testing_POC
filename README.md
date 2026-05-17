@@ -2298,6 +2298,7 @@
 - [IDOR_detect_tool：一款API水平越权漏洞检测工具](https://github.com/y1nglamore/IDOR_detect_tool)
 - [URLFinder：类似JSFinder的golang实现，一款用于快速提取检测页面中JS与URL的工具，更快更全更舒服](https://github.com/pingc0y/URLFinder)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
+- [zenproxy：代理池管理与转发服务，支持代理订阅管理、质量检测与多IP并发出口](https://github.com/streetartist/zenproxy)
 - [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
 - [NucleiTP：自动整合全网Nuclei的漏洞POC，实时同步更新最新POC](https://github.com/ExpLangcn/NucleiTP)
 - [Amsi-Killer：Lifetime AMSI bypass-终极AMSI bypass](https://github.com/ZeroMemoryEx/Amsi-Killer)
