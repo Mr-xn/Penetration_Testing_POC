@@ -926,7 +926,7 @@
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
 - [【Windows Defender DOS】UnDefend：无需管理员权限，被动模式下阻止Defender签名更新，激进模式下在Windows平台更新时完全禁用Windows Defender](https://github.com/Nightmare-Eclipse/UnDefend)
 - [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
-- [【Linux提权】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431)
+- [【Linux提权】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431) | [Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
 - [【Linux提权】Dirty Frag：Universal Linux LPE（CVE-2026-43284 / CVE-2026-43500，影响主流 Linux 发行版）](https://github.com/V4bel/dirtyfrag)
 - [CACM：一款Linux权限维持+后渗透工具，功能涵盖端口扫描、敏感信息、指纹识别、IP伪装、键盘监控、进程隐藏、edr/av识别、权限维持、docker敏感信息扫描、ssh连接伪装等](https://github.com/RuoJi6/CACM)
 
@@ -1142,7 +1142,7 @@
   
 - [百度网盘（7.59.5.104） Windows客户端存在命令注入漏洞](https://mrxn.net/news/baidupan-windows-client-rce.html)
 
-- [【Linux提权】CVE-2026-31431：Copy Fail Linux内核页缓存权限提升漏洞（影响2017年后几乎所有发行版）](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+- [【Linux提权】CVE-2026-31431：Copy Fail Linux内核页缓存权限提升漏洞（影响2017年后几乎所有发行版）](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
 
 - [【Linux提权】CVE-2026-43284/CVE-2026-43500：Dirty Frag Linux内核页缓存写漏洞](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)|[dirty-frag-check：漏洞检测工具](https://github.com/haydenjames/dirty-frag-check)
 
