@@ -133,6 +133,7 @@
 - [生成Redis恶意模块so文件配合主从复制RCE达到命令执行](https://github.com/n0b0dyCN/RedisModules-ExecuteCommand)|[相关文章](https://www.freebuf.com/vuls/224235.html)
 - [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
+- [TongWeb EJB 利用与插件工具](https://github.com/Axyanzzzz/TongWebEJBExploit) | [TongwebPlugin](https://github.com/Gary-yang1/TongwebPlugin)
 - [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
 - [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
 - [Webmin Remote Code Execution (authenticated)-CVE-2019-15642](https://github.com/jas502n/CVE-2019-15642)
