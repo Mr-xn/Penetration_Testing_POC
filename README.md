@@ -2424,6 +2424,7 @@
 - [trajan：CI/CD流水线安全漏洞扫描工具，支持GitHub Actions、GitLab CI、Azure DevOps、Jenkins和JFrog，用于检测软件供应链攻击](https://github.com/praetorian-inc/trajan)
 - [clawgod: Claude Code的"上帝模式"补丁工具，解锁隐藏功能、移除安全限制（含渗透测试/C2/漏洞利用限制），一键安装，无需编译](https://github.com/0Chencc/clawgod)
 - [kslkatz_bof：通过 Cobalt Strike BOF 实现 Mimikatz 功能](https://github.com/Muz1K1zuM/kslkatz_bof)
+- [HTTP-2-Bomb-Nginx：Nginx HTTP/2 拒绝服务漏洞远程利用工具 (Remote DoS Exploit)](https://github.com/Mr-xn/HTTP-2-Bomb-Nginx) | [相关文献](https://github.com/califio/publications/tree/main/MADBugs/http2-bomb) | [相关文章](https://cybersecuritynews.com/http-2-bomb-remote-dos-exploit/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
