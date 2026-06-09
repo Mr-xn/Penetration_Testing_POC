@@ -859,7 +859,7 @@
 - [孚盟云CRM Product_field.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-Product_field-sqli.html)
 - [孚盟云CRM ProductDetail.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-ProductNewVersion-ProductDetail-sqli.html)
 - [孚盟云CRM ProductSelect.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-ProductNewVersion-ProductSelect-sqli.html)
-- [CVE-2026-8054 高危前台无需认证 SQL 注入漏洞（Pre-auth SQL Injection）分析复现](https://mrxn.net/jswz/dotcms-api-auditPublishing-pre-auth-sqli.html)
+- [CVE-2026-8054 高危前台无需认证 SQL 注入漏洞（Pre-auth SQL Injection）分析复现](https://mrxn.net/jswz/dotcms-api-auditPublishing-pre-auth-sqli.html) | [CVE-2026-8054](https://github.com/Mr-xn/CVE-2026-8054)
 
 
 ## <span id="head5"> 提权辅助相关</span>
