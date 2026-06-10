@@ -2410,7 +2410,7 @@
 - [chunsou: （春蒐）Python3编写的多线程Web指纹识别工具,适用于安全测试人员前期的资产识别、风险收敛以及企业互联网资产风险摸查](https://github.com/Funsiooo/chunsou)
 - [java-gate: 通过简单的 `Java` 代码实现 `Hell's Gate` 相关技术（直接的系统调用）](https://github.com/4ra1n/java-gate)
 - [WIKI-POC: 漏洞库【OA以及各种web APP漏洞】](https://github.com/7estUser/WIKI-POC)
-- [FineReportExploit: 基于go语言的帆软报表漏洞检测工具](https://github.com/Drac0nids/FineReportExploit)|[FineReportExploit (Python): 帆软漏洞批量检测脚本](https://github.com/Drun1baby/FineReportExploit)
+- [FineReportExploit (Go): 基于go语言的帆软报表漏洞检测工具](https://github.com/Drac0nids/FineReportExploit)|[FineReportExploit (Python): 帆软漏洞批量检测脚本](https://github.com/Drun1baby/FineReportExploit)
 - [SSRFmap: 自动化SSRF漏洞探测](https://github.com/swisskyrepo/SSRFmap)
 - [nextssrf：CVE-2026-44578 Next.js WebSocket Upgrade Handler SSRF 扫描与利用工具，支持AWS/Azure/GCP云凭据提取、批量扫描及交互式利用Shell](https://github.com/ynsmroztas/nextssrf)
 - [qq-tim-elevation: 腾讯 QQ/TIM本地提权漏洞](https://github.com/vi3t1/qq-tim-elevation)
