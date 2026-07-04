@@ -1184,6 +1184,7 @@
 
 - [RAPTOR（递归自主渗透测试与观测机器人）：基于 Claude Code 的自主攻防安全研究框架，可自动完成代码攻击面分析、Semgrep/CodeQL 漏洞扫描、AFL 模糊测试、漏洞分析与 PoC 生成、自动补丁修复及结构化报告输出的全流程渗透测试](https://github.com/gadievron/raptor)
 - [LuaN1aoAgent（鸾鸟Agent）：大模型驱动、认知驱动的 AI 渗透测试智能体（AI Hacker），具备自主规划、工具编排和因果推理能力，采用 P-E-R（Planner-Executor-Reflector）协同框架和双图推理架构](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+- [Darkmoon（暗月）：开源自主式 AI 渗透测试平台，通过 Markdown 剧本与智能体推理编排 80 多种攻击工具，基于 MCP 控制执行，覆盖 Web、云、Active Directory、Kubernetes、API 与内网渗透，并为每个发现提供证据链，模型无关且针对 Claude Opus 优化](https://github.com/ASCIT31/Dark-Moon)
 - [Pentest-Swarm-AI：基于多智能体协作的自动化渗透测试框架](https://github.com/Armur-Ai/Pentest-Swarm-AI)
 - [BreachWeave：基于多智能体（Manager/Solver/Observer）协同架构的智能化渗透测试与漏洞挖掘平台](https://github.com/m-sec-org/BreachWeave)
 - [anything-analyzer：全场景抓包 + AI 自动分析工具，支持网页/桌面应用/终端/脚本/手机/IoT 等所有来源流量统一汇入同一 Session，一键生成协议逆向/安全审计/JS 加密逆向报告，并内置 MCP Server 可被 Claude Desktop、Cursor 等直接调用](https://github.com/Mouseww/anything-analyzer)
