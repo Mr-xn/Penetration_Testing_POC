@@ -964,6 +964,7 @@
 - [【Linux提权】CVE-2026-43503：（DirtyClone）是一个演示 Linux 内核 Dirty‑COW 类漏洞的新型本地提权 PoC，利用网络栈共享内存处理缺陷实现对只读页缓存的非法写入并获取 root 权限。](https://github.com/0xBlackash/CVE-2026-43503)
 - [【Linux提权】CVE‑2026‑46331:packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)：Linux 内核本地提权 PoC，利用 act_pedit 的 partial‑COW 缺陷实现页缓存投毒，从而在不修改磁盘文件的情况下获取 root 权限。
 - [【Linux提权】 CVE‑2026‑46242（Bad Epoll）:](https://github.com/0xBlackash/CVE-2026-46242) 是 Linux 内核 epoll 子系统中出现的严重 use‑after‑free 本地提权漏洞。
+- [【Windows提取】CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)：利用 Certighost 漏洞伪造域控（Domain Controller）的证书，从而获得 域控级别的 Kerberos 身份，最终实现 完全接管整个 Active Directory 域
 
 ## <span id="head6"> PC</span>
 
