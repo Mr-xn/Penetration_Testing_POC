@@ -877,6 +877,7 @@
 - [Fastjson 1.2.68-1.2.83 版本默认配置在特定场景下的反序列化RCE实现](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) | [fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) | [2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
 - [Fastjson 1.2.83 默认配置下的远程代码执行RCE](https://mrxn.net/jswz/fastjson-1-2-83-default-config-rce.html)
 - [redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0](https://github.com/berabuddies/redis-poc)
+- [用友U8Cloud extsystem.dst 接口SQL注入漏洞](https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
