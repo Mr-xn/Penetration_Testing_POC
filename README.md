@@ -275,7 +275,7 @@
 - [laravel-exploits：Exploit for CVE-2021-3129](https://github.com/ambionics/laravel-exploits)
 - [CVE-2021-21234：Spring Boot 目录遍历](https://github.com/xiaojiangxl/CVE-2021-21234)
 - [CVE-2021-22205：gitlab ce 文件上传 ExifTool导致命令执行 的 RCE 漏洞](https://github.com/RedTeamWing/CVE-2021-22205)
-- [Hadoop Yarn RPC未授权RCE](https://github.com/cckuailong/YarnRpcRCE)
+- [Hadoop Yarn R未授权RCE](https://github.com/cckuailong/YarnRpcRCE)
 - [CVE-2021-41277：Metabase 敏感信息泄露](https://github.com/Seals6/CVE-2021-41277)
 - [Alibaba Sentinel 前台 SSRF](https://github.com/alibaba/Sentinel/issues/2451)
 - [CVE-2021-37580：Apache ShenYu权限认证绕过](https://github.com/fengwenhua/CVE-2021-37580)
@@ -315,7 +315,7 @@
 - [CVE-2022-36446-Webmin-Software-Package-Updates-RCE：Webmin 远程代码执行漏洞](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)
 - [CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞](https://github.com/HKirito/CVE-2022-33980)
 - [CVE-2022-31101：PrestaShop bockwishlist module 2.1.0 SQLi](https://github.com/karthikuj/CVE-2022-31101)
-- [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC](https://github.com/west9b/CVE-2022-30525)
+- [CVE-2022-30525：CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EX](https://github.com/west9b/CVE-2022-30525)
 - [CVE-2022-2185：gitlab 远程代码执行（需要身份验证）](https://github.com/ESUAdmin/CVE-2022-2185)
 - [CVE-2022-27925-PoC：Zimbra Collaboration 存在路径穿越漏洞最终导致RCE](https://github.com/vnhacker1337/CVE-2022-27925-PoC)|[zaber：golang 编写的 CVE-2019-9670 XXE 漏洞利用工具](https://github.com/oppsec/zaber)
 - [CVE-2022-1040：Sophos XG115w 防火墙 17.0.10 MR-10 - 身份验证绕过](https://github.com/APTIRAN/CVE-2022-1040)
@@ -967,6 +967,7 @@
 - [【Linux提权】CVE‑2026‑46331:packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)：Linux 内核本地提权 PoC，利用 act_pedit 的 partial‑COW 缺陷实现页缓存投毒，从而在不修改磁盘文件的情况下获取 root 权限。
 - [【Linux提权】 CVE‑2026‑46242（Bad Epoll）:](https://github.com/0xBlackash/CVE-2026-46242) 是 Linux 内核 epoll 子系统中出现的严重 use‑after‑free 本地提权漏洞。
 - [【Windows提取】CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)：利用 Certighost 漏洞伪造域控（Domain Controller）的证书，从而获得 域控级别的 Kerberos 身份，最终实现 完全接管整个 Active Directory 域
+- [【Windows提取】CVE‑2026‑49176](https://github.com/777erp/CVE-2026-49176_BOF):（Windows WalletService 本地提权漏洞） 的 本地缓冲区溢出（BOF）风格的 PoC/Exploit
 
 ## <span id="head6"> PC</span>
 
