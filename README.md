@@ -3116,7 +3116,7 @@
 - [Tomcat解析XML引入的新颖webshell构造方式](./books/Tomcat解析XML引入的新颖webshell构造方式.html)
 - [【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患](./books/【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患.html)
 - [终极代码审计全维度清单](https://gist.github.com/Mr-xn/2af3b138cb07ca7dd3754afc3b615953)
-- [FastJson2 Hash 碰撞 RCE 分析与复现](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.md) | [备份HTML版本](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.html)
+- [FastJson2 Hash 碰撞 RCE 分析与复现](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.md) | [备份HTML版本](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.html)| [Fastjson2 泛型擦除下的 autoType 绕过](./books/Fastjson2%20泛型擦除下的%20autoType%20绕过.md)
 
 
 ## <span id="head9"> 说明</span>
