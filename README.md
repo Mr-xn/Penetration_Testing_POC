@@ -3116,7 +3116,8 @@
 - [Tomcat解析XML引入的新颖webshell构造方式](./books/Tomcat解析XML引入的新颖webshell构造方式.html)
 - [【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患](./books/【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患.html)
 - [终极代码审计全维度清单](https://gist.github.com/Mr-xn/2af3b138cb07ca7dd3754afc3b615953)
-- [FastJson2 Hash 碰撞 RCE 分析与复现](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.md) | [备份HTML版本](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.html)| [Fastjson2 泛型擦除下的 autoType 绕过](./books/Fastjson2%20泛型擦除下的%20autoType%20绕过.md)
+- [FastJson2 Hash 碰撞 RCE 分析与复现](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.md) | [备份HTML版本](./books/FastJson2%20Hash%20碰撞%20RCE%20分析与复现.html)| [Fastjson2 泛型擦除下的 autoType 绕过](./books/Fastjson2%20泛型擦除下的%20autoType%20绕过.md) | [手撕 FastJson 1.2.83 RCE 原理](./books/手撕%20FastJson%201.2.83%20RCE%20原理.md) | [从 checkAutoType 到 defineClass：fastjson 1.2.83 @JSONType 注解探测链的完整逆向与利用](./books/从%20checkAutoType%20到%20defineClass：fastjson%201.2.83%20@JSONType%20注解探测链的完整逆向与利用.md)
+- [CVE-2026-41844 Spring Framework 开放重定向漏洞浅析](./books/CVE-2026-41844%20Spring%20Framework%20开放重定向漏洞浅析.md)
 
 
 ## <span id="head9"> 说明</span>
@@ -3138,7 +3139,7 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Mr-xn/Penetration_Testing_POC.svg)](https://starchart.cc/Mr-xn/Penetration_Testing_POC)
+![Stargazers over time](https://starchart.cc/Mr-xn/Penetration_Testing_POC)
 
 ### 最后，选一个屁股吧！
 
