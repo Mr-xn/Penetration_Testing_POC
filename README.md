@@ -879,6 +879,7 @@
 - [redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0](https://github.com/berabuddies/redis-poc)
 - [用友U8Cloud extsystem.dst 接口SQL注入漏洞](https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html)
 - [金和OA C6 PlanGiveOut.aspx SQL注入漏洞+越权访问IDOR漏洞+XSS漏洞](https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html)
+- [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
