@@ -880,6 +880,7 @@
 - [用友U8Cloud extsystem.dst 接口SQL注入漏洞](https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html)
 - [金和OA C6 PlanGiveOut.aspx SQL注入漏洞+越权访问IDOR漏洞+XSS漏洞](https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html)
 - [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
+- [CVE-2026-64638: XSS2Shell — WordPress Pre-Auth XSS → RCE Chain PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)
 
 
 ## <span id="head5"> 提权辅助相关</span>
