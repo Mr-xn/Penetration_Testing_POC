@@ -872,6 +872,7 @@
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/Upload/upload 文件上传漏洞](https://mrxn.net/jswz/bigant-admin-Upload-upload-rce.html)
 - [LiteLLM v1.84.0 安全漏洞完整分析报告](https://mrxn.net/jswz/LiteLLM_v1840_security_analysis.html)
+- [ragflow-audit：RAGFlow 三洞审计工具（CVE-2026-28797 SSTI→RCE / CVE-2026-24770 Zip Slip / CVE-2025-69286 API key 可推导），纯 Python 标准库，无第三方依赖](https://github.com/qianlijaingshan/ragflow-audit)
 - [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
 - [CVE-2026-63030 + CVE-2026-60137: pre-authentication SQL injection in WordPress core via REST batch-route confusion.](https://github.com/47Cid/wp2shell-lab) | [wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | [wp2shell-单文件利用+批量检测](https://github.com/Mr-xn/wp2shell) | [wp2shell+lab](https://github.com/0xsha/wp2shell) | [CVE-2026-63030:wp2shell vulhub](https://github.com/vulhub/vulhub/tree/master/wordpress/CVE-2026-63030)
 - [Fastjson 1.2.68-1.2.83 版本默认配置在特定场景下的反序列化RCE实现](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) | [fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) | [2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
