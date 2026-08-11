@@ -1598,6 +1598,7 @@
 - [Security_Product:开源安全产品源码](https://github.com/birdhan/Security_Product)
 - [flask_memory_shell:Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
 - [SourceDetector:用于发现源码文件(*.map)的chrome插件](https://github.com/SunHuawei/SourceDetector)
+- [SnowEyes（雪瞳）：Chrome/Edge 浏览器扩展，用于检测和提取网页中的敏感信息，支持动态内容扫描、深度扫描、Webpack 适配及网站指纹检测](https://github.com/SickleSec/SnowEyes)
 - [CrossNet-Beta:红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件](https://github.com/dr0op/CrossNet-Beta)
 - [slopShell：一款功能强大的PHP Webshell](https://github.com/oldkingcone/slopShell)
 - [rustcat:netcat的代替品](https://github.com/robiot/rustcat)
