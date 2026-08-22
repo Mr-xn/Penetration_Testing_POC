@@ -2471,6 +2471,7 @@
 - [Aliens Eye](https://github.com/arxhr007/Aliens_eye) 是一款基于 AI 的 OSINT 用户名扫描工具，支持在 840 多个平台中搜索关联账号，并结合机器学习与启发式检测技术提升识别准确率，适用于网络安全研究和在线身份画像分析。 【3-0542c5】【4-66d668】
 - [Upload_Auto_Fuzz](https://github.com/fewftybet/Upload_Auto_Fuzz) 是一个用于自动化测试 Web 上传接口安全性的脚本工具，主要用于发现文件上传功能中的漏洞，例如任意文件上传、后缀绕过、MIME 绕过、黑名单绕过等。它属于渗透测试辅助工具，用来对目标站点的上传点进行批量 fuzz。
 - [dsh-pentest](https://github.com/howmp/dsh-pentest) 一个用于在dsh里执行常规简单的渗透测试插件，方便渗透测试/安全运营人员对数字资产快速的进行安全检查
+- [dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) 把上游 `reverse-skill` 的 86 个 skill 原样封装成 dsh Cordis 插件，适用于逆向工程、渗透测试和安全研究等场景，安装后可直接按需加载。
 
 
 
