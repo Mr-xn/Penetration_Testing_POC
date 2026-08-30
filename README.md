@@ -1206,6 +1206,7 @@
 - [Anthropic-Cybersecurity-Skills：面向 AI 智能体与安全从业者的结构化网络安全技能库，包含 754 个生产级安全技能，映射 MITRE ATT&CK、NIST CSF 2.0 等安全框架，兼容 Claude Code、GitHub Copilot、Cursor 等 20 多种 AI 平台](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 - [Payloader：中英双语的交互式安全载荷参考平台，涵盖 Web 应用安全与内网渗透，包含 300+ 条精心编排的攻防载荷、攻击链可视化、工具命令集（Nmap/SQLMap/Burp/Metasploit）和编解码工具](https://github.com/3516634930/Payloader)
 - [java环境下任意文件下载情况自动化读取源码的小工具](https://github.com/Artemis1029/Java_xmlhack)
+- [Nacos 3.0.0-3.2.3 Admin API 鉴权作用域绕过利用链（3.2.4修复）](./tools/Nacos%203.0.0-3.2.3权限绕过漏洞利用工具.zip) - 未授权创建管理员账户 → 绑定自定义角色 → 授予 *:* 读写权限 → 登录获取 AccessToken → 写入标记配置验证；附带配置读取/写入/删除、权限授予/回收、批量检测与 CSV 导出，以及可选本地代理和忽略证书功能。
 - [Linux SSH登录日志清除/伪造](./tools/ssh)
 - [python2的socks代理](./tools/s5.py)
 - [dede_burp_admin_path-dedecms后台路径爆破(Windows环境)](./tools/dede_burp_admin_path.md)
