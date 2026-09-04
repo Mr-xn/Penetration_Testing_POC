@@ -92,6 +92,7 @@
 
 ## <span id="head4">Web APP</span>
 
+- [ShowDoc <= v3.9.2 registerByVerify 未授权PHP代码注入致远程代码执行漏洞](./web/ShowDoc-registerByVerify-username-rce.md)
 - [致远OA_A8_getshell_0day](./web/致远OA_A8_getshell_0day.md)
 - [Couch through 2.0存在路径泄露漏洞](./web/Couch%20through%202.0存在路径泄露漏洞.md)
 - [Cobub Razor 0.7.2存在跨站请求伪造漏洞](./web/Cobub%20Razor%200.7.2存在跨站请求伪造漏洞.md)
