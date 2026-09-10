@@ -884,8 +884,9 @@
 - [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
 - [CVE-2026-64638: XSS2Shell — WordPress Pre-Auth XSS → RCE Chain PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)
 - [普华PowerPMS /Plan/BatchHandleFeedBackRecord 鉴权绕过漏洞](https://mrxn.net/jswz/powerpms-Plan-BatchHandleFeedBackRecord-auth-bypass.html)
-
-
+- [记一次曲折的渗透测试经历](./books/记一次曲折的渗透测试经历.md)
+ 
+ 
 ## <span id="head5"> 提权辅助相关</span>
 
 - [windows-kernel-exploits Windows平台提权漏洞集合（Windows XP - Windows 10/Server 2019）](https://github.com/SecWiki/windows-kernel-exploits)
