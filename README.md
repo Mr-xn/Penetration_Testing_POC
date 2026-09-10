@@ -76,7 +76,6 @@
 - [针对IoT固件的openssl加密的提取&暴力破解工具](./books/针对IoT固件的openssl加密的提取&暴力破解工具.html)
 - [小米路由器固件仿真模拟方案](./books/[原创]%20小米路由器固件仿真模拟方案-智能设备-看雪-安全社区_安全招聘_kanxue.com.html)
 - [QEMU搭建ARM64环境 _ ZIKH26's Blog](./books/QEMU搭建ARM64环境%20_%20ZIKH26's%20Blog.html)
-- [SSD Advisory - NVMS9000 Information Disclosure - SSD Secure Disclosure](./books/SSD%20Advisory%20-%20NVMS9000%20Information%20Disclosure%20-%20SSD%20Secure%20Disclosure.html)
 - [DIR-820 CVE-2022-26258漏洞复现](./books/DIR-820%20CVE-2022-26258漏洞复现.html)
 - [从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link Di-7200G 命令注入漏洞)](./books/从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link%20Di-7200G%20命令注入漏洞).html)
 - [2024 RWCTF群晖 BC500摄像头RCE--未授权_栈溢出](./books/2024%20RWCTF群晖%20BC500摄像头RCE--未授权_栈溢出.html)
@@ -411,7 +410,6 @@
 - [(Nday)泛微E-office 10 OfficeServer.php 下载_上传漏洞分析](./books/(Nday)泛微E-office%2010%20OfficeServer.php%20下载_上传漏洞分析.html)
 - [CVE-2024-30188 Apache DolphinScheduler 任意文件读写漏洞分析](./books/CVE-2024-30188%20Apache%20DolphinScheduler%20任意文件读写漏洞分析.html)
 - [CVE-2024-36412 SuiteCRM未授权sql注入分析](./books/CVE-2024-36412%20SuiteCRM未授权sql注入分析.html)
-- [CVE-2024-38856 Apache OFBiz Authentication Bypass](./books/CVE-2024-38856%20Apache%20OFBiz%20Authentication%20Bypass.html)
 - [CVE-2024-43044 Jenkins Remoting远程代码执行漏洞分析](./books/CVE-2024-43044%20Jenkins%20Remoting远程代码执行漏洞分析.html)
 - [Dedecms后台RCE的一些方法 – fushulingのblog](./books/Dedecms后台RCE的一些方法%20–%20fushulingのblog.html)
 - [H3C-iMC智能管理中心autoDeploy.xhtml页面代码执行漏洞分析](./books/H3C-iMC智能管理中心autoDeploy.xhtml页面代码执行漏洞分析.html)
@@ -884,8 +882,12 @@
 - [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
 - [CVE-2026-64638: XSS2Shell — WordPress Pre-Auth XSS → RCE Chain PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)
 - [普华PowerPMS /Plan/BatchHandleFeedBackRecord 鉴权绕过漏洞](https://mrxn.net/jswz/powerpms-Plan-BatchHandleFeedBackRecord-auth-bypass.html)
-
-
+- [记一次曲折的渗透测试经历](./books/记一次曲折的渗透测试经历.md)
+- [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
+- [SSD Advisory - NVMS9000 Information Disclosure - SSD Secure Disclosure](./books/SSD%20Advisory%20-%20NVMS9000%20Information%20Disclosure%20-%20SSD%20Secure%20Disclosure.html)
+- [CVE-2024-38856 Apache OFBiz Authentication Bypass](./books/CVE-2024-38856%20Apache%20OFBiz%20Authentication%20Bypass.html)
+  
+  
 ## <span id="head5"> 提权辅助相关</span>
 
 - [windows-kernel-exploits Windows平台提权漏洞集合（Windows XP - Windows 10/Server 2019）](https://github.com/SecWiki/windows-kernel-exploits)
@@ -2514,7 +2516,6 @@
 - [Cobalt_Strike_Spear_Phish_Cobalt Strike邮件钓鱼制作](./books/Cobalt_Strike_Spear_Phish_Evi1cg's%20blog%20%20CS邮件钓鱼制作.md)
 - [Remote NTLM relaying through Cobalt Strike](./books/Remote_NTLM_relaying_through_CS.pdf)
 - [渗透测试神器Cobalt Strike使用教程](./books/渗透测试神器Cobalt%20Strike使用教程.pdf)
-- [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
 - [ThinkPHP v6.0.0_6.0.1 任意文件操作漏洞分析](./books/ThinkPHP%20v6.0.0_6.0.1%20任意文件操作漏洞分析.pdf)
 - [Django_CVE-2020-9402_Geo_SQL注入分析](./books/Django_CVE-2020-9402_Geo_SQL注入分析.pdf)
 - [CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行](./books/CVE-2020-10189_Zoho_ManageEngine_Desktop_Central_10反序列化远程代码执行.pdf)
