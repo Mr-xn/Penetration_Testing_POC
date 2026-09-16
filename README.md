@@ -3155,6 +3155,9 @@
 - [一文看懂Hessian反序列化漏洞](./books/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82Hessian%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E.md)
 - [记一次 HIS 系统垂直越权挖掘：从弱口令登录到垂直越权导致全量信息泄露](./books/%E8%AE%B0%E4%B8%80%E6%AC%A1%20HIS%20%E7%B3%BB%E7%BB%9F%E5%9E%82%E7%9B%B4%E8%B6%8A%E6%9D%83%E6%8C%96%E6%8E%98%EF%BC%9A%E4%BB%8E%E5%BC%B1%E5%8F%A3%E4%BB%A4%E7%99%BB%E5%BD%95%E5%88%B0%E5%9E%82%E7%9B%B4%E8%B6%8A%E6%9D%83%E5%AF%BC%E8%87%B4%E5%85%A8%E9%87%8F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%80.md)
 - [WebSocket 实战：基于协议特点的漏洞挖掘](./books/WebSocket%20%E5%AE%9E%E6%88%98%EF%BC%9A%E5%9F%BA%E4%BA%8E%E5%8D%8F%E8%AE%AE%E7%89%B9%E7%82%B9%E7%9A%84%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98.md)
+- [CVE-2026-9762：IBM JCC getConnection 触发反序列化链分析](./books/CVE-2026-9762%EF%BC%9AIBM%20JCC%20getConnection%20%E8%A7%A6%E5%8F%91%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%93%BE%E5%88%86%E6%9E%90.md)
+- [Groovy 沙箱绕过技术分析-以Apache Syncope为例的多版本RCE绕过](./books/Groovy%20%E6%B2%99%E7%AE%B1%E7%BB%95%E8%BF%87%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90-%E4%BB%A5Apache%20Syncope%E4%B8%BA%E4%BE%8B%E7%9A%84%E5%A4%9A%E7%89%88%E6%9C%ACRCE%E7%BB%95%E8%BF%87.md)
+- [有意思的ssrf绕过（urlparse 和 urllib3反斜杠解析差异）](./books/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84ssrf%E7%BB%95%E8%BF%87%EF%BC%88urlparse%20%E5%92%8C%20urllib3%E5%8F%8D%E6%96%9C%E6%9D%A0%E8%A7%A3%E6%9E%90%E5%B7%AE%E5%BC%82%EF%BC%89.md)
 
 
 ## <span id="head9"> 说明</span>
