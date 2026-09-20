@@ -886,8 +886,9 @@
 - [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
 - [SSD Advisory - NVMS9000 Information Disclosure - SSD Secure Disclosure](./books/SSD%20Advisory%20-%20NVMS9000%20Information%20Disclosure%20-%20SSD%20Secure%20Disclosure.html)
 - [CVE-2024-38856 Apache OFBiz Authentication Bypass](./books/CVE-2024-38856%20Apache%20OFBiz%20Authentication%20Bypass.html)
-  
-  
+- [CVE-2026-43783](https://github.com/andrd3v/CVE-2026-43783)
+ 
+ 
 ## <span id="head5"> 提权辅助相关</span>
 
 - [windows-kernel-exploits Windows平台提权漏洞集合（Windows XP - Windows 10/Server 2019）](https://github.com/SecWiki/windows-kernel-exploits)
