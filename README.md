@@ -976,7 +976,8 @@
 - [【Windows提取】CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)：利用 Certighost 漏洞伪造域控（Domain Controller）的证书，从而获得 域控级别的 Kerberos 身份，最终实现 完全接管整个 Active Directory 域
 - [【Windows提取】CVE‑2026‑49176](https://github.com/777erp/CVE-2026-49176_BOF):（Windows WalletService 本地提权漏洞） 的 本地缓冲区溢出（BOF）风格的 PoC/Exploit
 - [【macOS提权】CVE-2026-43783：Repair Permissions - Get Root（macOS 26.5 本地提权）](https://github.com/andrd3v/CVE-2026-43783)
- 
+- [【Windows提权】CVE-2026-42980：Windows kernel WMI integer-underflow 本地提权漏洞 PoC（可提升至 NT AUTHORITY\SYSTEM）](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
+  
 ## <span id="head6"> PC</span>
 
 - [微软RDP远程代码执行漏洞（CVE-2019-0708）](./vuln_pocs/exploit-tools/BlueKeep)-[CVE-2019-0708-EXP-Windows-CVE-2019-0708-EXP-Windows版单文件exe版,运行后直接在当前控制台反弹System权限Shell](https://github.com/cbwang505/CVE-2019-0708-EXP-Windows)
