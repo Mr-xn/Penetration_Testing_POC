@@ -886,6 +886,21 @@
 - [Cobalt Strike的teamserver在Windows上快速启动脚本](./books/CS_teamserver_win.md)
 - [SSD Advisory - NVMS9000 Information Disclosure - SSD Secure Disclosure](./books/SSD%20Advisory%20-%20NVMS9000%20Information%20Disclosure%20-%20SSD%20Secure%20Disclosure.html)
 - [CVE-2024-38856 Apache OFBiz Authentication Bypass](./books/CVE-2024-38856%20Apache%20OFBiz%20Authentication%20Bypass.html)
+- [CRMEB系统最新版v6.0.0 RoutineCI_preview方法命令注入漏洞](https://mrxn.net/jswz/crmeb-adminapi-routineci-preview-rce.html)
+- [CRMEB系统最新版v6.0.0save_basics接口任意文件读取漏洞](https://mrxn.net/jswz/crmeb-adminapi-agent-config-save_basics-arbitrary-file-read.html)
+- [CRMEB系统最新版v6.0.0theme_import接口zip解压RCE漏洞](https://mrxn.net/jswz/crmeb-adminapi-theme-import-zip-rce.html)
+- [ChanCMS-v3.3.0存在SQL注入漏洞](https://mrxn.net/jswz/ChanCMS-search-key-sqli.html)
+- [ChanCMS-v3.3.0存在远程代码执行漏洞](https://mrxn.net/jswz/ChanCMS-collect-getArticle-rce.html)
+- [正方数字化校园门户存在SQL注入](https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html)
+- [CRMEB系统最新版v6.0.0 image_base64接口phar反序列化RCE漏洞](https://mrxn.net/jswz/crmeb-image_base64-phar-deserialization-pop-chain-rce.html)
+- [CRMEB系统最新版v6.0.0 remote_register接口未认证资金注入+账户接管漏洞](https://mrxn.net/jswz/crmeb-v13-remote-register-unauth-fund-injection.html)
+- [索贝融媒体 TestController接口reUploadBase64 SQL注入漏洞](https://mrxn.net/jswz/sobey-mcheditor-testcontroller-reuploadbase64-sqli.html)
+- [索贝融媒体 callback接口任意文件写入致远程代码执行漏洞](https://mrxn.net/jswz/sobey-mcheditor-energy-callback-arbitrary-file-write-rce.html)
+- [索贝融媒体 TestController接口readAndinterpret表达式注入未认证RCE与SSRF漏洞](https://mrxn.net/jswz/sobey-mcheditor-testcontroller-readandinterpret-expression-injection-rce.html)
+- [索贝融媒体 /mch/lzy/getArticleList 信息泄露漏洞](https://mrxn.net/jswz/sobey-lzy-getArticleList-user-leak.html)
+- [索贝融媒体 getOmnfig 接口配置信息泄露漏洞](https://mrxn.net/jswz/sobey-mch-getomnfig-config-leak.html)
+- [孚盟云CRM ReceivableList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Receivables-ReceivableList-sqli.html)
+- [U8cloud所有版本CodeSyncServlet接口存在任意文件下载漏洞](https://mrxn.net/jswz/u8c-CodeSyncServlet-file-read.html)
   
   
 ## <span id="head5"> 提权辅助相关</span>
