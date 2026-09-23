@@ -901,6 +901,7 @@
 - [索贝融媒体 getOmnfig 接口配置信息泄露漏洞](https://mrxn.net/jswz/sobey-mch-getomnfig-config-leak.html)
 - [孚盟云CRM ReceivableList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Receivables-ReceivableList-sqli.html)
 - [U8cloud所有版本CodeSyncServlet接口存在任意文件下载漏洞](https://mrxn.net/jswz/u8c-CodeSyncServlet-file-read.html)
+- [CRMEB系统最新版v6.0.0 JWT默认密钥认证绕过RCE漏洞](https://mrxn.net/jswz/crmeb-jwt-default-key-auth-bypass-rce.html)
   
   
 ## <span id="head5"> 提权辅助相关</span>
