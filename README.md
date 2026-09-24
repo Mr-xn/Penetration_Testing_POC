@@ -903,6 +903,7 @@
 - [U8cloud所有版本CodeSyncServlet接口存在任意文件下载漏洞](https://mrxn.net/jswz/u8c-CodeSyncServlet-file-read.html)
 - [CRMEB系统最新版v6.0.0 JWT默认密钥认证绕过RCE漏洞](https://mrxn.net/jswz/crmeb-jwt-default-key-auth-bypass-rce.html)
 - [YSoNet：.NET 反序列化 payload 生成工具](https://github.com/irsdl/ysonet)
+- [PowerJob最新版v5.1.2 friend-process接口未授权远程代码执行漏洞（CVE-2026-75429）](https://mrxn.net/jswz/powerjob-friend-process-rce.html)
   
   
 ## <span id="head5"> 提权辅助相关</span>
