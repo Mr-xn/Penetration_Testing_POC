@@ -906,6 +906,7 @@
 - [PowerJob最新版v5.1.2 friend-process接口未授权远程代码执行漏洞（CVE-2026-75429）](https://mrxn.net/jswz/powerjob-friend-process-rce.html)
 - [奇安信攻防社区-Unicode 变形记：非法 UTF-8 与替换字符如 何同时打穿 WAF、XSS 与 LLM 越狱](./books/奇安信攻防社区-Unicode 变形记：非法 UTF-8 与替换字符如 何同时打穿 WAF、XSS 与 LLM 越狱.md)
 - [奇安信攻防社区-「JavaWeb审计盲点」存储过程里的 SQL 注入](./books/奇安信攻防社区-「JavaWeb审计盲点」存储过程里的 SQL 注入.md)
+- [用友U8+ EIS服务 APIProxyHandler(proxy) 未授权SSRF漏洞](https://mrxn.net/jswz/yonyou-APIProxyHandler-ssrf.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
