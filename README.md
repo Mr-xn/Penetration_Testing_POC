@@ -909,6 +909,7 @@
 - [用友U8+ EIS服务 APIProxyHandler(proxy) 未授权SSRF漏洞](https://mrxn.net/jswz/yonyou-APIProxyHandler-ssrf.html)
 - [用友U8+ U8AuditWebSite U8Interface 未授权云同步信息泄露及会话管理缺陷漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-U8Interface-data-leak.html)
 - [用友U8+ EIS U8DuDuService.asmx 任意SQL执行致命令执行漏洞](https://mrxn.net/jswz/U8-EIS-U8DuDuService-sql2rce.html)
+- [用友U8+ U8Application U8LoginServices 硬编码后门账号及未授权SA口令泄露漏洞](https://mrxn.net/jswz/U8-U8Application-U8LoginServices-default-passwd.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
