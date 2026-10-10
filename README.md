@@ -914,6 +914,8 @@
 - [用友U8+ U8AuditWebSite EmailService SQL注入及BinaryFormatter反序列化RCE漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-EmailService-sqli-rce.html)
 - [用友U8+ U8Application U8CCLoginService等未授权凭据读写与信息泄露漏洞](https://mrxn.net/jswz/U8-U8Application-U8CCLoginService-data-leak.html)
 - [用友U8+ U8BM FBWeb 未授权数据库连接串注入漏洞](https://mrxn.net/jswz/U8-U8BM-FBWeb-sqli.html)
+- [用友U8+ U8AuditWebSite MAService 未授权SSRF连接串注入命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-MAService-ssrf-rce.html)
+- [用友U8+ u8webapi 未授权任意SQL执行及SA口令泄露漏洞](https://mrxn.net/jswz/U8-u8webapi-sqli-rce.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
