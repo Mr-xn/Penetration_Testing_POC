@@ -918,6 +918,7 @@
 - [用友U8+ u8webapi 未授权任意SQL执行及SA口令泄露漏洞](https://mrxn.net/jswz/U8-u8webapi-sqli-rce.html)
 - [用友U8+ U8KCSN Service 未授权数据库连接串注入及SQL注入漏洞](https://mrxn.net/jswz/U8-U8KCSN-Service-sqli-rce.html)
 - [用友U8+ U8AuditWebSite WorkFlowTaskService 未授权连接串注入SQL注入命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-WorkFlowTaskService-sqli-rce.html)
+- [用友U8+ DSaaS分析云 未授权文件读取后门令牌伪造与连接串注入漏洞](https://mrxn.net/jswz/U8-DSaaS-data-leak.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
