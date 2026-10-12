@@ -919,6 +919,10 @@
 - [用友U8+ U8KCSN Service 未授权数据库连接串注入及SQL注入漏洞](https://mrxn.net/jswz/U8-U8KCSN-Service-sqli-rce.html)
 - [用友U8+ U8AuditWebSite WorkFlowTaskService 未授权连接串注入SQL注入命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-WorkFlowTaskService-sqli-rce.html)
 - [用友U8+ DSaaS分析云 未授权文件读取后门令牌伪造与连接串注入漏洞](https://mrxn.net/jswz/U8-DSaaS-data-leak.html)
+- [用友U8+ PFWeb U8BM WebParamServiceBroker 未授权任意程序集反射调用代码执行漏洞](https://mrxn.net/jswz/U8-PFWeb-U8BM-WebParamServiceBroker-rce.html)
+- [用友U8+ OCAPI Update 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-OCAPI-Update-rce.html)
+- [用友U8+ EIS SyncService 未授权任意文件上传命令执行漏洞](https://mrxn.net/jswz/U8-EIS-SyncService-upload-rce.html)
+- [用友U8+ EIS ConfigService 未授权敏感配置信息泄露漏洞](https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
