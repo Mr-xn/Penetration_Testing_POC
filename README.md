@@ -928,6 +928,8 @@
 - [用友U8+ UFFileManagerServices WebUploadServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-UFFileManagerServices-WebUploadServices-rce.html)
 - [友加畅捷管理系统标准版  GetFullIDFullPath接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetFullIDFullPath-sqli.html)
 - [友加畅捷管理系统标准版 CreateImage接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-CreateImage-sqli.html)
+- [友加畅捷管理系统标准版  getOpersmap接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-getOpersmap-sqli.html)
+- [友加畅捷管理系统标准版  GetLoginUserImg接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetLoginUserImg-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
