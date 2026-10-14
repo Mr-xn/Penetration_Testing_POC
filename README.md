@@ -926,6 +926,8 @@
 - [用友U8+ U8SL GetPassword 匿名口令重置设计缺陷漏洞](https://mrxn.net/jswz/U8-U8SL-GetPassword-rce.html)
 - [用友U8+ U8AuditWebSite U8ForWhereServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-U8ForWhereServices-rce.html)
 - [用友U8+ UFFileManagerServices WebUploadServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-UFFileManagerServices-WebUploadServices-rce.html)
+- [友加畅捷管理系统标准版  GetFullIDFullPath接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetFullIDFullPath-sqli.html)
+- [友加畅捷管理系统标准版 CreateImage接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-CreateImage-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
