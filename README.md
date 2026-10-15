@@ -931,6 +931,8 @@
 - [友加畅捷管理系统标准版  getOpersmap接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-getOpersmap-sqli.html)
 - [友加畅捷管理系统标准版  GetLoginUserImg接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetLoginUserImg-sqli.html)
 - [友加畅捷管理系统标准版 GetParentIDInfoByTabName接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetParentIDInfoByTabName-sqli.html)
+- [友加畅捷管理系统标准版 CGHH接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-ORDER-CGHH-sqli.html)
+- [友加畅捷管理系统标准版 Image接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-Image-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
