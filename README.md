@@ -1147,6 +1147,7 @@
 - [友加畅捷管理系统标准版 GetInfoByPrintType接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-GetInfoByPrintType-sqli.html)
 - [友加畅捷管理系统标准版 GetProdAvgPrice接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-GetProdAvgPrice-sqli.html)
 - [友加畅捷管理系统标准版 GetAccountList接口信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-Pos-GetAccountList-data-leak.html)
+- [友加畅捷管理系统标准版 GetAllContextMenuCustom接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetAllContextMenuCustom-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
