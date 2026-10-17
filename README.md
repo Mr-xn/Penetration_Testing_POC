@@ -1145,6 +1145,7 @@
 - [友加畅捷管理系统标准版 CheckVipRechargeRefund接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-CheckVipRechargeRefund-sqli.html)
 - [友加畅捷管理系统标准版 GetOrderByDisAndTag接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-GetOrderByDisAndTag-sqli.html)
 - [友加畅捷管理系统标准版 GetInfoByPrintType接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-GetInfoByPrintType-sqli.html)
+- [友加畅捷管理系统标准版 GetProdAvgPrice接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Order-GetProdAvgPrice-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
