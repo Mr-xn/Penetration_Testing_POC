@@ -1151,6 +1151,7 @@
 - [友加畅捷管理系统标准版 GetCommonCustList接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetCommonCustList-sqli.html)
 - [友加畅捷管理系统标准版 GetEmpZH接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetEmpZH-sqli.html)
 - [友加畅捷管理系统标准版 GetEmpPayReceiveAccount接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetEmpPayReceiveAccount-sqli.html)
+- [友加畅捷管理系统标准版 GetGridHeadData接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetGridHeadData-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
