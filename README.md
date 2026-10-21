@@ -1158,6 +1158,9 @@
 - [友加畅捷管理系统标准版 SaveDefaultQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveDefaultQueryConditionGroup-sqli.html)
 - [友加畅捷管理系统标准版 SaveQueryConditionGroupName接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroupName-sqli.html)
 - [友加畅捷管理系统标准版  GetNewStatusJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetNewStatusJJD-sqli.html)
+- [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
+- [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
+- [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
