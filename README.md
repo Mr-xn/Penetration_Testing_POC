@@ -1157,6 +1157,7 @@
 - [友加畅捷管理系统标准版 SaveQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroup-sqli.html)
 - [友加畅捷管理系统标准版 SaveDefaultQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveDefaultQueryConditionGroup-sqli.html)
 - [友加畅捷管理系统标准版 SaveQueryConditionGroupName接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroupName-sqli.html)
+- [友加畅捷管理系统标准版  GetNewStatusJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetNewStatusJJD-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
