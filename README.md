@@ -1164,6 +1164,8 @@
 - [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
+- [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
+- [友加畅捷管理系统标准版 ReportClassAll接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAll-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
