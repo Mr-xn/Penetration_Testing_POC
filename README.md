@@ -1167,6 +1167,7 @@
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
 - [友加畅捷管理系统标准版 ReportClassAll接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAll-sqli.html)
 - [友加畅捷管理系统标准版 UnitCreateDynamicGridHead接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Saler-Unit_CreateDynamicGridHead-sqli.html)
+- [友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
