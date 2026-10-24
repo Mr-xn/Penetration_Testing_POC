@@ -1170,6 +1170,8 @@
 - [友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html)
 - [PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞](https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html)
 - [友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html)
+- [友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-env-setup-2.html)
+- [友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
