@@ -1172,6 +1172,7 @@
 - [友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html)
 - [友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-env-setup-2.html)
 - [友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html)
+- [友加畅捷管理系统标准版 GetChildInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Sys-GetChildInfo-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
