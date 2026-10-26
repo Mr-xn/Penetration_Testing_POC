@@ -1174,6 +1174,7 @@
 - [友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html)
 - [友加畅捷管理系统标准版 GetChildInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Sys-GetChildInfo-sqli.html)
 - [友加畅捷管理系统标准版 GetDefault接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Sys-GetDefault-sqli.html)
+- [友加畅捷管理系统标准版 GetVIPCardCode接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCardCode-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
