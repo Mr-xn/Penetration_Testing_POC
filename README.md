@@ -1180,6 +1180,12 @@
 - [友加畅捷管理系统最新版 HttpUploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-HttpUploadHandler-rce.html)
 - [友加畅捷管理系统最新版 UploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-Report-Upload-UploadFormImg-rce-2.html)
 - [WordPress v7.1.3核心升级窗口StagedInstaller未授权RCE漏洞](https://mrxn.net/jswz/wordpress-StagedInstaller-rce.html)
+- [CVE-2026-20079: Cisco Secure FMC - 未授权 Root 远程代码执行（RCE）漏洞利用代码](https://github.com/CyberAuth/CVE-2026-20079)
+- [CVE-2026-0257: Palo Alto PAN-OS GlobalProtect - VPN 认证绕过 PoC](https://github.com/advisories/CVE-2026-0257)
+- [CVE-2026-76418: Cisco ASA / FTD - SSL VPN 崩溃与拒绝服务漏洞公告](https://www.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpn-dos)
+- [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
+- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc)
    
    
 ## <span id="head5"> 提权辅助相关</span>
