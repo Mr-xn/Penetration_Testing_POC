@@ -1271,6 +1271,9 @@
 - [【Windows提取】CVE‑2026‑49176](https://github.com/777erp/CVE-2026-49176_BOF):（Windows WalletService 本地提权漏洞） 的 本地缓冲区溢出（BOF）风格的 PoC/Exploit
 - [【macOS提权】CVE-2026-43783：Repair Permissions - Get Root（macOS 26.5 本地提权）](https://github.com/andrd3v/CVE-2026-43783)
 - [【Windows提权】CVE-2026-42980：Windows kernel WMI integer-underflow 本地提权漏洞 PoC（可提升至 NT AUTHORITY\SYSTEM）](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
+- [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
+- [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
+
   
 ## <span id="head6"> PC</span>
 
