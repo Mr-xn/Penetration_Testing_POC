@@ -28,6 +28,8 @@ VULN_TYPE_SECTIONS = {
 
 CVE_RE = re.compile(r'^CVE-\d{4}-\d{4,}$')
 URL_LINK_RE = re.compile(r'\]\((http[s]?://.*?)\)')
+LIST_LABEL_RE = re.compile(r'^- \[([^\]]*)\]\(https?://', re.M)
+CVE_ID_RE = re.compile(r'CVE-\d{4}-\d{4,}')
 
 
 def github_headers():
@@ -104,8 +106,20 @@ def build_evidence(item):
     }
 
 
+def norm_url(url):
+    url = url.strip().lower().rstrip("/")
+    return url[:-4] if url.endswith(".git") else url
+
+
 def get_existing_urls(text):
-    return {u.strip() for u in URL_LINK_RE.findall(text)}
+    return {norm_url(u) for u in URL_LINK_RE.findall(text)}
+
+
+def get_existing_cves(text):
+    cves = set()
+    for label in LIST_LABEL_RE.findall(text):
+        cves.update(CVE_ID_RE.findall(label))
+    return cves
 
 
 def call_chat_model(system_prompt, user_prompt):
@@ -204,9 +218,9 @@ def sanitize_title(title):
 def validate_results(results, candidate_urls):
     accepted = []
     for r in results:
-        url = r.get("url")
-        if url not in candidate_urls:
-            print(f"Rejected (unknown url from model): {url}")
+        url = candidate_urls.get(norm_url(str(r.get("url", ""))))
+        if url is None:
+            print(f"Rejected (unknown url from model): {r.get('url')}")
             continue
         if r.get("is_valid_poc") is not True:
             print(f"Rejected (not a valid PoC): {url}")
@@ -259,17 +273,26 @@ def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
     existing_urls = get_existing_urls(content)
+    existing_cves = get_existing_cves(content)
 
     items = fetch_recent_repos()
-    candidates = [i for i in items if i.get("html_url") and i["html_url"] not in existing_urls]
+    candidates = [i for i in items
+                  if i.get("html_url") and norm_url(i["html_url"]) not in existing_urls]
     print(f"Fetched {len(items)} repos, {len(candidates)} not yet in README.")
     if not candidates:
         print("No new candidates.")
         return
 
     evidence = [build_evidence(i) for i in candidates]
-    candidate_urls = {e["url"] for e in evidence}
-    accepted = validate_results(analyze_candidates(evidence), candidate_urls)
+    candidate_urls = {norm_url(e["url"]): e["url"] for e in evidence}
+    accepted = []
+    seen_cves = set(existing_cves)
+    for entry in validate_results(analyze_candidates(evidence), candidate_urls):
+        if entry["cve"] in seen_cves:
+            print(f"Skipped (CVE already listed or duplicated in batch): {entry['cve']} {entry['url']}")
+            continue
+        seen_cves.add(entry["cve"])
+        accepted.append(entry)
 
     if not accepted:
         print("No new valid PoCs to record.")
