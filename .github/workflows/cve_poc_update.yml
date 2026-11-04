@@ -41,6 +41,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -F .commit_titles.txt
-          git pull --rebase
-          git push
+          git pull --rebase --quiet
+          git push --quiet
           rm -f .commit_titles.txt
