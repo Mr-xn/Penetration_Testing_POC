@@ -30,6 +30,7 @@ CVE_RE = re.compile(r'^CVE-\d{4}-\d{4,}$')
 URL_LINK_RE = re.compile(r'\]\((http[s]?://.*?)\)')
 LIST_LABEL_RE = re.compile(r'^- \[([^\]]*)\]\(https?://', re.M)
 CVE_ID_RE = re.compile(r'CVE-\d{4}-\d{4,}')
+CVE_SPLIT_RE = re.compile(r'[\s,，/;；]+')
 
 
 def github_headers():
@@ -115,11 +116,25 @@ def get_existing_urls(text):
     return {norm_url(u) for u in URL_LINK_RE.findall(text)}
 
 
-def get_existing_cves(text):
-    cves = set()
-    for label in LIST_LABEL_RE.findall(text):
-        cves.update(CVE_ID_RE.findall(label))
-    return cves
+def parse_cve_ids(raw):
+    ids = []
+    for part in CVE_SPLIT_RE.split(str(raw or "").strip()):
+        if part and part not in ids:
+            ids.append(part)
+    return ids
+
+
+def find_cve_line(lines, cve):
+    pattern = re.compile(rf'^- \[[^\]]*\b{re.escape(cve)}\b')
+    for i, line in enumerate(lines):
+        if pattern.search(line):
+            return i
+    return -1
+
+
+def make_link(cve, n, url):
+    label = cve if n == 0 else f"{cve}-{chr(ord('a') + n)}"
+    return f"[{label}]({url})"
 
 
 def call_chat_model(system_prompt, user_prompt):
@@ -195,7 +210,7 @@ poisoning_risk 取值：none / low / medium / high。没有任何可疑信号时
 并给出 title_zh：不超过 40 个中文字符的技术描述，不得包含方括号或圆括号。
 
 只输出 JSON，格式严格如下：
-{"results": [{"url": "...", "cve": "CVE-2026-XXXXX", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}"""
+{"results": [{"url": "...", "cve": "CVE-2026-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}"""
 
 
 def analyze_candidates(evidence_list):
@@ -228,9 +243,9 @@ def validate_results(results, candidate_urls):
         if r.get("poisoning_risk") not in POISONING_ALLOW_LEVELS:
             print(f"Rejected (poisoning risk {r.get('poisoning_risk')}): {url} {r.get('poisoning_indicators')}")
             continue
-        cve = str(r.get("cve", "")).strip()
-        if not CVE_RE.match(cve):
-            print(f"Rejected (invalid CVE id): {url} {cve}")
+        cves = parse_cve_ids(r.get("cve"))
+        if not cves or not all(CVE_RE.match(c) for c in cves):
+            print(f"Rejected (invalid CVE id): {url} {r.get('cve')}")
             continue
         vuln_type = r.get("vuln_type")
         if vuln_type not in VULN_TYPE_SECTIONS:
@@ -240,7 +255,7 @@ def validate_results(results, candidate_urls):
         if not title:
             print(f"Rejected (empty title): {url}")
             continue
-        accepted.append({"cve": cve, "url": url, "title": title, "vuln_type": vuln_type})
+        accepted.append({"cves": cves, "url": url, "title": title, "vuln_type": vuln_type})
     return accepted
 
 
@@ -273,7 +288,6 @@ def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
     existing_urls = get_existing_urls(content)
-    existing_cves = get_existing_cves(content)
 
     items = fetch_recent_repos()
     candidates = [i for i in items
@@ -285,25 +299,35 @@ def update_readme():
 
     evidence = [build_evidence(i) for i in candidates]
     candidate_urls = {norm_url(e["url"]): e["url"] for e in evidence}
-    accepted = []
-    seen_cves = set(existing_cves)
-    for entry in validate_results(analyze_candidates(evidence), candidate_urls):
-        if entry["cve"] in seen_cves:
-            print(f"Skipped (CVE already listed or duplicated in batch): {entry['cve']} {entry['url']}")
-            continue
-        seen_cves.add(entry["cve"])
-        accepted.append(entry)
+    accepted = validate_results(analyze_candidates(evidence), candidate_urls)
 
     if not accepted:
         print("No new valid PoCs to record.")
         return
 
     lines = content.splitlines()
-    by_type = {}
+    groups = {}
     for entry in accepted:
-        by_type.setdefault(entry["vuln_type"], []).append(
-            f"- [{entry['cve']}: {entry['title']}]({entry['url']})")
-    for vuln_type, entries in by_type.items():
+        primary = entry["cves"][0]
+        group = groups.setdefault(primary, {"vuln_type": entry["vuln_type"], "urls": []})
+        if entry["url"] not in group["urls"]:
+            group["urls"].append(entry["url"])
+
+    new_by_type = {}
+    for cve, group in groups.items():
+        idx = find_cve_line(lines, cve)
+        if idx != -1:
+            n = len(re.findall(rf'\[{re.escape(cve)}(?=[\]:\-\s])', lines[idx]))
+            links = []
+            for url in group["urls"]:
+                links.append(make_link(cve, n, url))
+                n += 1
+            lines[idx] = lines[idx] + " | " + " | ".join(links)
+        else:
+            links = [make_link(cve, n, url) for n, url in enumerate(group["urls"])]
+            new_by_type.setdefault(group["vuln_type"], []).append("- " + " | ".join(links))
+
+    for vuln_type, entries in new_by_type.items():
         start_pattern, end_pattern = VULN_TYPE_SECTIONS[vuln_type]
         if not insert_into_section(lines, start_pattern, end_pattern, entries):
             return
@@ -311,7 +335,7 @@ def update_readme():
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    cves = sorted({a["cve"] for a in accepted})
+    cves = sorted({c for a in accepted for c in a["cves"]})
     commit_msg = f"docs: 自动追加 {len(accepted)} 个 CVE PoC ({', '.join(cves)[:120]}) [skip ci]"
     with open(COMMIT_MSG_FILE, "w", encoding="utf-8") as f:
         f.write(commit_msg)
