@@ -1,0 +1,44 @@
+name: Update README with CVE PoCs
+
+on:
+  schedule:
+    - cron: '30 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cve-poc:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      models: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Search, review and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_cve_poc.py
+
+      - name: Commit and push changes
+        run: |
+          if [ ! -f .commit_titles.txt ]; then
+            echo "No new PoCs to commit."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -F .commit_titles.txt
+          git pull --rebase
+          git push
+          rm -f .commit_titles.txt
