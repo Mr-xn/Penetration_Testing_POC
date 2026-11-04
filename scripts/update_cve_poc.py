@@ -126,9 +126,28 @@ def call_github_model(system_prompt, user_prompt):
         print(f"Model inference failed ({resp.status_code}): {resp.text[:300]}")
         return None
     try:
-        return json.loads(resp.json()["choices"][0]["message"]["content"])
+        choice = resp.json()["choices"][0]
     except (KeyError, IndexError, ValueError) as e:
-        print(f"Failed to parse model response: {e}")
+        print(f"Unexpected model response shape: {e}: {resp.text[:300]}")
+        return None
+    content = (choice.get("message") or {}).get("content") or ""
+    data = parse_json_object(content)
+    if data is None:
+        print(f"Failed to parse model JSON (finish_reason={choice.get('finish_reason')}): {content[:300]!r}")
+    return data
+
+
+def parse_json_object(text):
+    text = text.strip()
+    fence = re.search(r"```(?:json)?\s*(.*?)```", text, re.DOTALL)
+    if fence:
+        text = fence.group(1).strip()
+    start, end = text.find("{"), text.rfind("}")
+    if start == -1 or end <= start:
+        return None
+    try:
+        return json.loads(text[start:end + 1])
+    except ValueError:
         return None
 
 
