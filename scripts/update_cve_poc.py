@@ -124,10 +124,21 @@ def parse_cve_ids(raw):
     return ids
 
 
-def find_cve_line(lines, cve):
-    pattern = re.compile(rf'^- \[[^\]]*\b{re.escape(cve)}\b')
+def find_cve_line(lines, cve, vuln_type):
+    start_pattern, end_pattern = VULN_TYPE_SECTIONS[vuln_type]
+    start = end = -1
     for i, line in enumerate(lines):
-        if pattern.search(line):
+        if start == -1:
+            if re.search(start_pattern, line):
+                start = i
+        elif re.search(end_pattern, line):
+            end = i
+            break
+    if start == -1 or end == -1:
+        return -1
+    pattern = re.compile(rf'^- \[{re.escape(cve)}(?=[\]:\-\s/])')
+    for i in range(start, end):
+        if pattern.search(lines[i]):
             return i
     return -1
 
@@ -315,7 +326,7 @@ def update_readme():
 
     new_by_type = {}
     for cve, group in groups.items():
-        idx = find_cve_line(lines, cve)
+        idx = find_cve_line(lines, cve, group["vuln_type"])
         if idx != -1:
             n = len(re.findall(rf'\[{re.escape(cve)}(?=[\]:\-\s])', lines[idx]))
             links = []
