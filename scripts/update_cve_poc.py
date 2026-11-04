@@ -6,8 +6,9 @@ import requests
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_API = "https://api.github.com"
-MODELS_API = "https://models.github.ai/inference/chat/completions"
-MODEL_NAME = "openai/gpt-4o-mini"
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "")
+LLM_MODEL = os.environ.get("LLM_MODEL", "")
+LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
 
 README_PATH = "README.md"
 COMMIT_MSG_FILE = ".commit_titles.txt"
@@ -107,21 +108,24 @@ def get_existing_urls(text):
     return {u.strip() for u in URL_LINK_RE.findall(text)}
 
 
-def call_github_model(system_prompt, user_prompt):
+def call_chat_model(system_prompt, user_prompt):
+    if not (LLM_BASE_URL and LLM_MODEL and LLM_API_KEY):
+        print("Model config missing (LLM_BASE_URL / LLM_MODEL / LLM_API_KEY); skipping review.")
+        return None
     payload = {
-        "model": MODEL_NAME,
+        "model": LLM_MODEL,
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
         "temperature": 0.1,
-        "response_format": {"type": "json_object"},
     }
     headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Authorization": f"Bearer {LLM_API_KEY}",
         "Content-Type": "application/json",
     }
-    resp = requests.post(MODELS_API, headers=headers, json=payload, timeout=90)
+    resp = requests.post(f"{LLM_BASE_URL.rstrip('/')}/chat/completions",
+                         headers=headers, json=payload, timeout=120)
     if resp.status_code != 200:
         print(f"Model inference failed ({resp.status_code}): {resp.text[:300]}")
         return None
@@ -185,7 +189,7 @@ def analyze_candidates(evidence_list):
         "请逐个审核以下候选仓库，严格按系统提示的 JSON 格式输出，url 必须与输入中的 url 完全一致：\n"
         + json.dumps(evidence_list, ensure_ascii=False, indent=2)
     )
-    data = call_github_model(SYSTEM_PROMPT, user_prompt)
+    data = call_chat_model(SYSTEM_PROMPT, user_prompt)
     if not data or not isinstance(data.get("results"), list):
         return []
     return data["results"]

@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-24.04
     permissions:
       contents: write
-      models: read
 
     steps:
       - name: Checkout repository
@@ -27,6 +26,9 @@ jobs:
       - name: Search, review and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: python scripts/update_cve_poc.py
 
       - name: Commit and push changes
