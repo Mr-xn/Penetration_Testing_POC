@@ -1186,6 +1186,8 @@
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
 - [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc)
+- [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898)
+- [CVE-2026-111497: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1279,6 +1281,7 @@
 - [【Windows提权】CVE-2026-42980：Windows kernel WMI integer-underflow 本地提权漏洞 PoC（可提升至 NT AUTHORITY\SYSTEM）](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
 - [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
+- [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit)
 
   
 ## <span id="head6"> PC</span>
