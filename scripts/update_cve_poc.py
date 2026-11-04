@@ -13,6 +13,7 @@ LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
 README_PATH = "README.md"
 COMMIT_MSG_FILE = ".commit_titles.txt"
 LOOKBACK_DAYS = 3
+CURRENT_YEAR = datetime.datetime.now(datetime.timezone.utc).year
 MAX_CANDIDATES = 10
 README_EXCERPT_CHARS = 3000
 MAX_ROOT_FILES = 50
@@ -45,7 +46,7 @@ def fetch_recent_repos():
     since = (datetime.datetime.now(datetime.timezone.utc)
              - datetime.timedelta(days=LOOKBACK_DAYS)).strftime("%Y-%m-%d")
     params = {
-        "q": f"CVE-2026 (poc OR exploit) created:>{since}",
+        "q": f"CVE-{CURRENT_YEAR} (poc OR exploit) created:>{since}",
         "sort": "updated",
         "order": "desc",
         "per_page": MAX_CANDIDATES,
@@ -221,7 +222,7 @@ poisoning_risk 取值：none / low / medium / high。没有任何可疑信号时
 并给出 title_zh：不超过 40 个中文字符的技术描述，不得包含方括号或圆括号。
 
 只输出 JSON，格式严格如下：
-{"results": [{"url": "...", "cve": "CVE-2026-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}"""
+{"results": [{"url": "...", "cve": "CVE-{YEAR}-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}""".replace("{YEAR}", str(CURRENT_YEAR))
 
 
 def analyze_candidates(evidence_list):
