@@ -297,6 +297,7 @@
 - [uart提取固件合集 MW325R PT926G](./iot/uart提取固件合集%20MW325R%20PT926G.md)
 - [打印机之Internet Printing Protocol(IPP)协议分析](./iot/打印机之Internet%20Printing%20Protocol(IPP)协议分析.md)
 - [物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析](./iot/物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析.md)
+- [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag)
 
 ## <span id="head4">Web APP</span>
 
@@ -1161,7 +1162,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
