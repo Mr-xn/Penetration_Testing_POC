@@ -139,7 +139,7 @@ def find_cve_line(lines, cve, vuln_type):
             break
     if start == -1 or end == -1:
         return -1
-    pattern = re.compile(rf'^- \[[^\]]*{re.escape(cve)}(?=[\]:\-\s/])')
+    pattern = re.compile(rf'^- \[(?:【[^】]*】)?{re.escape(cve)}(?=[\]:\-\s/])')
     for i in range(start, end):
         if pattern.search(lines[i]):
             return i
