@@ -300,6 +300,8 @@
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
+- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1)
 
 ## <span id="head4">Web APP</span>
 
@@ -1194,6 +1196,8 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit)
+- [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit)
    
    
 ## <span id="head5"> 提权辅助相关</span>
