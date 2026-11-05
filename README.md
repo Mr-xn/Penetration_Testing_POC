@@ -1171,7 +1171,7 @@
 - [友加畅捷管理系统标准版 ReportClassAll接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAll-sqli.html)
 - [友加畅捷管理系统标准版 UnitCreateDynamicGridHead接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Saler-Unit_CreateDynamicGridHead-sqli.html)
 - [友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html)
-- [PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞](https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html)
+- [PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞](https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html) | [CVE-2026-109619-b: PHP mod_php 会话状态残留 RCE 漏洞](https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab)
 - [友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html)
 - [友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-env-setup-2.html)
 - [友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html)
@@ -1188,7 +1188,7 @@
 - [CVE-2026-76418: Cisco ASA / FTD - SSL VPN 崩溃与拒绝服务漏洞公告](https://www.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpn-dos)
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
-- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC)
+- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC)
 - [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
@@ -1287,8 +1287,9 @@
 - [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
 - [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit)
-- [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152)
+- [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
+- [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo)
 
   
 ## <span id="head6"> PC</span>
