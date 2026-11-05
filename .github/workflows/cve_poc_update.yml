@@ -37,8 +37,8 @@ jobs:
             echo "No new PoCs to commit."
             exit 0
           fi
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "${{ github.repository_owner }}"
+          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
           git add README.md
           git commit -F .commit_titles.txt
           git pull --rebase --quiet

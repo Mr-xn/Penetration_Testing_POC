@@ -18,6 +18,8 @@ MAX_CANDIDATES = 10
 README_EXCERPT_CHARS = 3000
 MAX_ROOT_FILES = 50
 POISONING_ALLOW_LEVELS = {"none", "low"}
+PLATFORMS = {"windows": "Windows", "linux": "Linux", "macos": "macOS", "mac": "macOS"}
+BOT_COAUTHOR = "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
 # 漏洞类型 -> README 章节（起止标记与 README.md 中的 <span id="headN"> 对应）
 VULN_TYPE_SECTIONS = {
@@ -137,16 +139,24 @@ def find_cve_line(lines, cve, vuln_type):
             break
     if start == -1 or end == -1:
         return -1
-    pattern = re.compile(rf'^- \[{re.escape(cve)}(?=[\]:\-\s/])')
+    pattern = re.compile(rf'^- \[[^\]]*{re.escape(cve)}(?=[\]:\-\s/])')
     for i in range(start, end):
         if pattern.search(lines[i]):
             return i
     return -1
 
 
-def make_link(cve, n, url):
+def build_title(label, vuln_type, platform, desc):
+    if vuln_type == "privesc":
+        prefix = f"【{platform}提权】" if platform else "【提权】"
+        return f"{prefix}{label}: {desc}提权"
+    return f"{label}: {desc}"
+
+
+def make_link(cve, n, entry):
     label = cve if n == 0 else f"{cve}-{chr(ord('a') + n)}"
-    return f"[{label}]({url})"
+    title = build_title(label, entry["vuln_type"], entry["platform"], entry["title"])
+    return f"[{title}]({entry['url']})"
 
 
 def call_chat_model(system_prompt, user_prompt):
@@ -219,10 +229,11 @@ poisoning_risk 取值：none / low / medium / high。没有任何可疑信号时
 - "other"：不属于以上类型
 判断依据是漏洞的攻击面和前置条件，而不是 PoC 的语言或作者。
 
-并给出 title_zh：不超过 40 个中文字符的技术描述，不得包含方括号或圆括号。
+并给出 title_zh：一句话概括 PoC 针对的应用或组件及其漏洞，格式为“<应用或组件名>的<漏洞类型>漏洞”（例如“Metabase 未授权 SQL 注入管理员权限接管”），不超过 40 个中文字符，不得包含方括号或圆括号。vuln_type 为 privesc 时，title_zh 不要包含“提权”二字（由程序补充）。
+并给出 platform：仅当 vuln_type 为 privesc 时填写目标系统 "Windows" / "Linux" / "macOS"，其他类型填空字符串。
 
 只输出 JSON，格式严格如下：
-{"results": [{"url": "...", "cve": "CVE-{YEAR}-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}""".replace("{YEAR}", str(CURRENT_YEAR))
+{"results": [{"url": "...", "cve": "CVE-{YEAR}-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "platform": "", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}""".replace("{YEAR}", str(CURRENT_YEAR))
 
 
 def analyze_candidates(evidence_list):
@@ -267,7 +278,9 @@ def validate_results(results, candidate_urls):
         if not title:
             print(f"Rejected (empty title): {url}")
             continue
-        accepted.append({"cves": cves, "url": url, "title": title, "vuln_type": vuln_type})
+        platform = PLATFORMS.get(str(r.get("platform") or "").strip().lower(), "")
+        accepted.append({"cves": cves, "url": url, "title": title,
+                         "vuln_type": vuln_type, "platform": platform})
     return accepted
 
 
@@ -321,22 +334,22 @@ def update_readme():
     groups = {}
     for entry in accepted:
         primary = entry["cves"][0]
-        group = groups.setdefault(primary, {"vuln_type": entry["vuln_type"], "urls": []})
-        if entry["url"] not in group["urls"]:
-            group["urls"].append(entry["url"])
+        group = groups.setdefault(primary, {"vuln_type": entry["vuln_type"], "entries": []})
+        if entry["url"] not in [e["url"] for e in group["entries"]]:
+            group["entries"].append(entry)
 
     new_by_type = {}
     for cve, group in groups.items():
         idx = find_cve_line(lines, cve, group["vuln_type"])
         if idx != -1:
-            n = len(re.findall(rf'\[{re.escape(cve)}(?=[\]:\-\s])', lines[idx]))
+            n = len(re.findall(rf'\[[^\]]*{re.escape(cve)}(?=[\]:\-\s/])', lines[idx]))
             links = []
-            for url in group["urls"]:
-                links.append(make_link(cve, n, url))
+            for entry in group["entries"]:
+                links.append(make_link(cve, n, entry))
                 n += 1
             lines[idx] = lines[idx] + " | " + " | ".join(links)
         else:
-            links = [make_link(cve, n, url) for n, url in enumerate(group["urls"])]
+            links = [make_link(cve, n, entry) for n, entry in enumerate(group["entries"])]
             new_by_type.setdefault(group["vuln_type"], []).append("- " + " | ".join(links))
 
     for vuln_type, entries in new_by_type.items():
@@ -350,7 +363,7 @@ def update_readme():
     cves = sorted({c for a in accepted for c in a["cves"]})
     commit_msg = f"docs: 自动追加 {len(accepted)} 个 CVE PoC ({', '.join(cves)[:120]}) [skip ci]"
     with open(COMMIT_MSG_FILE, "w", encoding="utf-8") as f:
-        f.write(commit_msg)
+        f.write(commit_msg + f"\n\nCo-authored-by: {BOT_COAUTHOR}\n")
     print(f"README updated. Commit message: {commit_msg}")
 
 
