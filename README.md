@@ -298,6 +298,8 @@
 - [打印机之Internet Printing Protocol(IPP)协议分析](./iot/打印机之Internet%20Printing%20Protocol(IPP)协议分析.md)
 - [物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析](./iot/物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析.md)
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag)
+- [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
+- [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 
 ## <span id="head4">Web APP</span>
 
@@ -1190,6 +1192,7 @@
 - [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
+- [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1285,6 +1288,7 @@
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
 - [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit)
 - [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152)
+- [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
 
   
 ## <span id="head6"> PC</span>
@@ -1504,6 +1508,7 @@
 - [【Linux提权】CVE-2026-43284/CVE-2026-43500：Dirty Frag Linux内核页缓存写漏洞](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)|[dirty-frag-check：漏洞检测工具](https://github.com/haydenjames/dirty-frag-check)
 
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
+- [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
 
 
 
