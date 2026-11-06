@@ -302,6 +302,7 @@
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
 - [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1)
+- [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 
 ## <span id="head4">Web APP</span>
 
@@ -1196,10 +1197,14 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
+- [CVE-2026-60586: MySQL Connector/J 网络路径文件读取凭据泄露漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60586-repro)
+- [CVE-2026-60623: MySQL Connector/J 信任库远程加载漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60623-repro)
+- [CVE-2026-61082: MySQL Connector/J 本地文件读取任意URL访问漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-61082-repro)
+- [CVE-2026-101678: MySQL Connector/J 结果集列数整数溢出拒绝服务漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-101678-repro)
    
    
 ## <span id="head5"> 提权辅助相关</span>
