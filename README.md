@@ -1198,6 +1198,8 @@
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
 - [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit)
+- [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
+- [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
    
    
 ## <span id="head5"> 提权辅助相关</span>
