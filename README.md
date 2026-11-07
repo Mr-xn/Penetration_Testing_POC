@@ -1206,6 +1206,12 @@
 - [CVE-2026-60623: MySQL Connector/J 信任库远程加载漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60623-repro)
 - [CVE-2026-61082: MySQL Connector/J 本地文件读取任意URL访问漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-61082-repro)
 - [CVE-2026-101678: MySQL Connector/J 结果集列数整数溢出拒绝服务漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-101678-repro)
+- [CVE-2026-96838: Blacklist Manager for WooCommerce跨站请求伪造漏洞](https://github.com/Mor-Golan/CVE-2026-96838)
+- [CVE-2026-95597: PGALL for WooCommerce未授权设置修改漏洞](https://github.com/Mor-Golan/CVE-2026-95597)
+- [CVE-2026-94641: UsersWP插件未授权跨站脚本漏洞](https://github.com/Mor-Golan/CVE-2026-94641)
+- [CVE-2026-94074: Simply Schedule Appointments未授权访问控制漏洞](https://github.com/Mor-Golan/CVE-2026-94074)
+- [CVE-2026-61989: Easy Property Listings未授权跨站脚本漏洞](https://github.com/Mor-Golan/CVE-2026-61989)
+- [CVE-2026-39732: Transliterator插件未授权SQL注入漏洞](https://github.com/Mor-Golan/CVE-2026-39732)
    
    
 ## <span id="head5"> 提权辅助相关</span>
