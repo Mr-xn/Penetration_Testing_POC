@@ -303,6 +303,7 @@
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
 - [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
+- [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 
 ## <span id="head4">Web APP</span>
 
@@ -1302,6 +1303,7 @@
 - [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
 - [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo)
+- [【Linux提权】CVE-2026-43284: Redmi K50的Android内核DirtyFrag任意写漏洞提权](https://github.com/noctide/redmi-k50-temp-root)
 
   
 ## <span id="head6"> PC</span>
@@ -1522,6 +1524,7 @@
 
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 - [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
+- [CVE-2026-123014: iTerm2的x-man-page参数注入命令执行漏洞](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)
 
 
 
