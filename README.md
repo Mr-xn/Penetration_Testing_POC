@@ -304,6 +304,7 @@
 - [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
+- [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
 
 ## <span id="head4">Web APP</span>
 
@@ -1168,7 +1169,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
@@ -1531,6 +1532,7 @@
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 - [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
 - [CVE-2026-123014: iTerm2的x-man-page参数注入命令执行漏洞](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)
+- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1)
 
 
 
