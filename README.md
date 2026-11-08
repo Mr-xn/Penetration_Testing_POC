@@ -300,8 +300,8 @@
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag) | [CVE-2026-43284-c: iQOO Neo8 的 DirtyFrag 内核页缓存写漏洞复现](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
-- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
-- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1)
+- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
@@ -1090,7 +1090,7 @@
 - [LiteLLM v1.84.0 安全漏洞完整分析报告](https://mrxn.net/jswz/LiteLLM_v1840_security_analysis.html)
 - [ragflow-audit：RAGFlow 三洞审计工具（CVE-2026-28797 SSTI→RCE / CVE-2026-24770 Zip Slip / CVE-2025-69286 API key 可推导），纯 Python 标准库，无第三方依赖](https://github.com/qianlijaingshan/ragflow-audit)
 - [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
-- [CVE-2026-63030 + CVE-2026-60137: pre-authentication SQL injection in WordPress core via REST batch-route confusion.](https://github.com/47Cid/wp2shell-lab) | [wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | [wp2shell-单文件利用+批量检测](https://github.com/Mr-xn/wp2shell) | [wp2shell+lab](https://github.com/0xsha/wp2shell) | [CVE-2026-63030:wp2shell vulhub](https://github.com/vulhub/vulhub/tree/master/wordpress/CVE-2026-63030)
+- [CVE-2026-63030 + CVE-2026-60137: pre-authentication SQL injection in WordPress core via REST batch-route confusion.](https://github.com/47Cid/wp2shell-lab) | [wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | [wp2shell-单文件利用+批量检测](https://github.com/Mr-xn/wp2shell) | [wp2shell+lab](https://github.com/0xsha/wp2shell) | [CVE-2026-63030:wp2shell vulhub](https://github.com/vulhub/vulhub/tree/master/wordpress/CVE-2026-63030) | [CVE-2026-63030-c: WordPress核心REST路由混淆与SQL注入RCE漏洞](https://github.com/noxcrypt-x/CVE-2026-63030)
 - [Fastjson 1.2.68-1.2.83 版本默认配置在特定场景下的反序列化RCE实现](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) | [fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) | [2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
 - [Fastjson 1.2.83 默认配置下的远程代码执行RCE](https://mrxn.net/jswz/fastjson-1-2-83-default-config-rce.html)
 - [redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0](https://github.com/berabuddies/redis-poc)
@@ -1217,6 +1217,7 @@
 - [CVE-2026-123753: Apache Axis2 WS-Addressing 未授权 SSRF 漏洞](https://github.com/googlesky/CVE-2026-123753)
 - [CVE-2026-124040: CivetWeb HTTP/2 HPACK 头部污染条件性 RCE](https://github.com/zeetee1235/CVE-2026-124040)
 - [CVE-2026-99273: Linux ksmbd 的流信息缓冲区堆越界写漏洞](https://github.com/googlesky/CVE-2026-99273)
+- [CVE-2026-111967: WordPress Sonaar MP3播放器插件存储型XSS漏洞](https://github.com/HexxedBitHeadz/cve-2026-111967)
    
    
 ## <span id="head5"> 提权辅助相关</span>
