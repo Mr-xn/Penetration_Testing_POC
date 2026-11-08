@@ -297,7 +297,7 @@
 - [uart提取固件合集 MW325R PT926G](./iot/uart提取固件合集%20MW325R%20PT926G.md)
 - [打印机之Internet Printing Protocol(IPP)协议分析](./iot/打印机之Internet%20Printing%20Protocol(IPP)协议分析.md)
 - [物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析](./iot/物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析.md)
-- [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag)
+- [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag) | [CVE-2026-43284-c: iQOO Neo8 的 DirtyFrag 内核页缓存写漏洞复现](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
@@ -1200,7 +1200,7 @@
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
 - [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158)
-- [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit)
+- [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit) | [CVE-2026-119977-b: WordPress 核心升级窗口 TOCTOU 远程代码执行](https://github.com/BugStealers/CVE-2026-119977)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
 - [CVE-2026-60586: MySQL Connector/J 网络路径文件读取凭据泄露漏洞](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60586-repro)
@@ -1215,6 +1215,8 @@
 - [CVE-2026-39732: Transliterator插件未授权SQL注入漏洞](https://github.com/Mor-Golan/CVE-2026-39732)
 - [CVE-2026-121265: SQL::Abstract 数组引用 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-121265)
 - [CVE-2026-123753: Apache Axis2 WS-Addressing 未授权 SSRF 漏洞](https://github.com/googlesky/CVE-2026-123753)
+- [CVE-2026-124040: CivetWeb HTTP/2 HPACK 头部污染条件性 RCE](https://github.com/zeetee1235/CVE-2026-124040)
+- [CVE-2026-99273: Linux ksmbd 的流信息缓冲区堆越界写漏洞](https://github.com/googlesky/CVE-2026-99273)
    
    
 ## <span id="head5"> 提权辅助相关</span>
