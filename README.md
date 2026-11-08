@@ -297,7 +297,7 @@
 - [uart提取固件合集 MW325R PT926G](./iot/uart提取固件合集%20MW325R%20PT926G.md)
 - [打印机之Internet Printing Protocol(IPP)协议分析](./iot/打印机之Internet%20Printing%20Protocol(IPP)协议分析.md)
 - [物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析](./iot/物联网安全从零开始-BIG-IP(CVE-2023-22374)漏洞分析.md)
-- [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag)
+- [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max)
@@ -1169,7 +1169,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
@@ -1199,7 +1199,7 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
@@ -1213,6 +1213,8 @@
 - [CVE-2026-94074: Simply Schedule Appointments未授权访问控制漏洞](https://github.com/Mor-Golan/CVE-2026-94074)
 - [CVE-2026-61989: Easy Property Listings未授权跨站脚本漏洞](https://github.com/Mor-Golan/CVE-2026-61989)
 - [CVE-2026-39732: Transliterator插件未授权SQL注入漏洞](https://github.com/Mor-Golan/CVE-2026-39732)
+- [CVE-2026-121265: SQL::Abstract 数组引用 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-121265)
+- [CVE-2026-123753: Apache Axis2 WS-Addressing 未授权 SSRF 漏洞](https://github.com/googlesky/CVE-2026-123753)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1532,7 +1534,7 @@
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 - [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
 - [CVE-2026-123014: iTerm2的x-man-page参数注入命令执行漏洞](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)
-- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1)
+- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1) | [CVE-2026-112611-b: CoreGraphics PDF 渲染越界写入漏洞](https://github.com/Rust505/CVE-2026-112611)
 
 
 
