@@ -1194,7 +1194,7 @@
 - [CVE-2026-76418: Cisco ASA / FTD - SSL VPN 崩溃与拒绝服务漏洞公告](https://www.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpn-dos)
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
-- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC)
+- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497)
 - [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
@@ -1218,6 +1218,8 @@
 - [CVE-2026-124040: CivetWeb HTTP/2 HPACK 头部污染条件性 RCE](https://github.com/zeetee1235/CVE-2026-124040)
 - [CVE-2026-99273: Linux ksmbd 的流信息缓冲区堆越界写漏洞](https://github.com/googlesky/CVE-2026-99273)
 - [CVE-2026-111967: WordPress Sonaar MP3播放器插件存储型XSS漏洞](https://github.com/HexxedBitHeadz/cve-2026-111967)
+- [CVE-2026-56712: Replicate Cog 文件与路径 URL 输入的 SSRF 漏洞](https://github.com/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf)
+- [CVE-2026-116567: FreeSWITCH mod_rtmp 预认证栈溢出拒绝服务](https://github.com/carterlasalle/CVE-2026-116567)
    
    
 ## <span id="head5"> 提权辅助相关</span>
