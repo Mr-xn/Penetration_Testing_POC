@@ -1313,7 +1313,7 @@
 - [【Windows提权】CVE-2026-42980：Windows kernel WMI integer-underflow 本地提权漏洞 PoC（可提升至 NT AUTHORITY\SYSTEM）](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
 - [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
-- [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit)
+- [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit) | [【Linux提权】CVE-2026-98432-b: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/rootagi/CVE-2026-98432) | [【Linux提权】CVE-2026-98432-c: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack)
 - [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
 - [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo)
