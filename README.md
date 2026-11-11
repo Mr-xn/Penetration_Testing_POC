@@ -305,6 +305,7 @@
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
+- [CVE-2026-28668: Android 16应用沙箱越权至系统进程漏洞链](https://github.com/okskaok3-hub/android-cve-2026-research)
 
 ## <span id="head4">Web APP</span>
 
@@ -1222,6 +1223,11 @@
 - [CVE-2026-116567: FreeSWITCH mod_rtmp 预认证栈溢出拒绝服务](https://github.com/carterlasalle/CVE-2026-116567)
 - [CVE-2026-125757: mailcow 页脚模板注入的跨租户远程代码执行漏洞](https://github.com/Faceless0x7/CVE-2026-125757)
 - [CVE-2026-105761: Dify MCP 服务器管理接口的越权访问漏洞](https://github.com/JHC56/CVE-2026-105761)
+- [CVE-2026-124079: rConfig未授权Redis队列投毒远程代码执行漏洞](https://github.com/googlesky/CVE-2026-124079)
+- [CVE-2026-118383: MongoDB复制追赶阶段预认证释放后使用漏洞](https://github.com/googlesky/CVE-2026-118383)
+- [CVE-2023-36845: Juniper防火墙CVE-2023-36845无文件远程代码执行扫描器](https://github.com/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner)
+- [CVE-2026-105437: Git三方合并堆缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-105437)
+- [CVE-2026-76964: SAP NetWeaver多个未授权远程漏洞检测工具](https://github.com/foxcornlab/sap-patchday-scanner)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1320,6 +1326,7 @@
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
 - [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo)
 - [【Linux提权】CVE-2026-43284: Redmi K50的Android内核DirtyFrag任意写漏洞提权](https://github.com/noctide/redmi-k50-temp-root)
+- [【Windows提权】CVE-2026-81963: Windows更新栈CBS OnePackage dpx.dll侧加载漏洞提权](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)
 
   
 ## <span id="head6"> PC</span>
