@@ -306,6 +306,7 @@
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
 - [CVE-2026-28668: Android 16应用沙箱越权至系统进程漏洞链](https://github.com/okskaok3-hub/android-cve-2026-research)
+- [CVE-2026-0667: OT/ICS 与企业组件的多个 CVE 漏洞利用代码](https://github.com/dexteon/ot-ics-cve-pocs-2026)
 
 ## <span id="head4">Web APP</span>
 
@@ -1229,7 +1230,12 @@
 - [CVE-2026-105437: Git三方合并堆缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-105437)
 - [CVE-2026-76964: SAP NetWeaver多个未授权远程漏洞检测工具](https://github.com/foxcornlab/sap-patchday-scanner)
 - [CVE-2026-119948: Active Directory LDAP解析远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce)
-- [CVE-2026-126170: FortiManager JSON-RPC未授权远程命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce)
+- [CVE-2026-126170: FortiManager JSON-RPC未授权远程命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce) | [CVE-2026-126170-b: FortiManager JRPC JSON 注入未授权 RCE 漏洞](https://github.com/googlesky/CVE-2026-126170)
+- [CVE-2026-123807: Signal K Server 资源接口路径遍历致 RCE 漏洞](https://github.com/qianlijaingshan/signalk-audit)
+- [CVE-2026-121653: Ivanti EPM Core 未授权 SQL 注入 RCE 漏洞](https://github.com/googlesky/CVE-2026-121653)
+- [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
+- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618)
+- [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
    
    
 ## <span id="head5"> 提权辅助相关</span>
