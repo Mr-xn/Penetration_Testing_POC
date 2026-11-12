@@ -14,7 +14,10 @@ README_PATH = "README.md"
 COMMIT_MSG_FILE = ".commit_titles.txt"
 LOOKBACK_DAYS = 3
 CURRENT_YEAR = datetime.datetime.now(datetime.timezone.utc).year
-MAX_CANDIDATES = 10
+MAX_CANDIDATES = 20
+SEARCH_PAGES = 3
+SEEN_PATH = ".cve_poc_seen.txt"
+SEEN_MAX = 3000
 README_EXCERPT_CHARS = 3000
 MAX_ROOT_FILES = 50
 POISONING_ALLOW_LEVELS = {"none", "low"}
@@ -47,18 +50,37 @@ def github_headers():
 def fetch_recent_repos():
     since = (datetime.datetime.now(datetime.timezone.utc)
              - datetime.timedelta(days=LOOKBACK_DAYS)).strftime("%Y-%m-%d")
-    params = {
-        "q": f"CVE-{CURRENT_YEAR} (poc OR exploit) created:>{since}",
-        "sort": "updated",
-        "order": "desc",
-        "per_page": MAX_CANDIDATES,
-    }
-    resp = requests.get(f"{GITHUB_API}/search/repositories", headers=github_headers(),
-                        params=params, timeout=15)
-    if resp.status_code != 200:
-        print(f"Repository search failed ({resp.status_code}): {resp.text[:300]}")
+    items = []
+    for page in range(1, SEARCH_PAGES + 1):
+        params = {
+            "q": f"CVE-{CURRENT_YEAR} (poc OR exploit) created:>{since}",
+            "sort": "updated",
+            "order": "desc",
+            "per_page": 100,
+            "page": page,
+        }
+        resp = requests.get(f"{GITHUB_API}/search/repositories", headers=github_headers(),
+                            params=params, timeout=15)
+        if resp.status_code != 200:
+            print(f"Repository search failed ({resp.status_code}): {resp.text[:300]}")
+            break
+        batch = resp.json().get("items", [])
+        items.extend(batch)
+        if len(batch) < 100:
+            break
+    return items
+
+
+def load_seen():
+    if not os.path.exists(SEEN_PATH):
         return []
-    return resp.json().get("items", [])
+    with open(SEEN_PATH, "r", encoding="utf-8") as f:
+        return [l.strip() for l in f if l.strip()]
+
+
+def save_seen(seen):
+    with open(SEEN_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(seen[-SEEN_MAX:]) + "\n")
 
 
 def fetch_readme_excerpt(full_name):
@@ -314,20 +336,36 @@ def update_readme():
         content = f.read()
     existing_urls = get_existing_urls(content)
 
+    seen = load_seen()
+    seen_set = set(seen)
     items = fetch_recent_repos()
-    candidates = [i for i in items
-                  if i.get("html_url") and norm_url(i["html_url"]) not in existing_urls]
-    print(f"Fetched {len(items)} repos, {len(candidates)} not yet in README.")
+    pending = [i for i in items
+               if i.get("html_url") and norm_url(i["html_url"]) not in existing_urls
+               and norm_url(i["html_url"]) not in seen_set]
+    pending.sort(key=lambda i: i.get("created_at") or "")
+    candidates = pending[:MAX_CANDIDATES]
+    print(f"Fetched {len(items)} repos, {len(pending)} unreviewed, reviewing {len(candidates)}.")
     if not candidates:
         print("No new candidates.")
         return
 
     evidence = [build_evidence(i) for i in candidates]
     candidate_urls = {norm_url(e["url"]): e["url"] for e in evidence}
-    accepted = validate_results(analyze_candidates(evidence), candidate_urls)
+    results = analyze_candidates(evidence)
+    accepted = validate_results(results, candidate_urls)
+
+    # 只记录模型实际返回了结论的仓库；模型调用失败时保持未审状态以便下次重试
+    reviewed = [norm_url(r["url"]) for r in results
+                if isinstance(r, dict) and norm_url(str(r.get("url", ""))) in candidate_urls]
+    new_seen = [u for u in dict.fromkeys(reviewed) if u not in seen_set]
+    if new_seen:
+        save_seen(seen + new_seen)
 
     if not accepted:
         print("No new valid PoCs to record.")
+        if new_seen:
+            with open(COMMIT_MSG_FILE, "w", encoding="utf-8") as f:
+                f.write(f"chore: 记录 {len(new_seen)} 个已审核仓库 [skip ci]\n\nCo-authored-by: {BOT_COAUTHOR}\n")
         return
 
     lines = content.splitlines()
