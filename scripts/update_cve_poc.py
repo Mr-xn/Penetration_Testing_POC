@@ -21,6 +21,9 @@ SEEN_MAX = 3000
 README_EXCERPT_CHARS = 3000
 MAX_ROOT_FILES = 50
 POISONING_ALLOW_LEVELS = {"none", "low"}
+LOW_VALUE_CLASSES = {"xss", "csrf", "open_redirect", "clickjacking", "dos"}
+LOW_KEYWORD_RE = re.compile(r'xss|csrf|跨站脚本|跨站请求伪造|open[ -]?redirect|开放重定向|点击劫持|clickjacking', re.I)
+HIGH_KEYWORD_RE = re.compile(r'rce|远程代码|命令执行|代码执行|sql|注入|提权|接管|认证绕过|未授权|反序列化|任意文件|getshell', re.I)
 PLATFORMS = {"windows": "Windows", "linux": "Linux", "macos": "macOS", "mac": "macOS"}
 BOT_COAUTHOR = "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
@@ -251,11 +254,17 @@ poisoning_risk 取值：none / low / medium / high。没有任何可疑信号时
 - "other"：不属于以上类型
 判断依据是漏洞的攻击面和前置条件，而不是 PoC 的语言或作者。
 
+任务四：危害筛选。给出 attack_class 与 impact_level：
+- attack_class 按漏洞最终可达成的主要影响取值之一：rce / sqli / auth_bypass / lpe / file_access / ssrf / deserialization / memory_corruption / info_leak / xss / csrf / open_redirect / clickjacking / dos / other
+- 纯 XSS、纯 CSRF、开放重定向、点击劫持、仅拒绝服务属于低价值漏洞，取对应的 xss/csrf/open_redirect/clickjacking/dos，impact_level 为 "low"
+- 若 XSS/CSRF 仅是利用链的一环且最终可达成 RCE、账号接管、权限提升等高危影响，按最终影响归类，impact_level 为 "high"
+- 其余具有实际攻击价值的漏洞 impact_level 为 "high"
+
 并给出 title_zh：一句话概括 PoC 针对的应用或组件及其漏洞，格式为“<应用或组件名>的<漏洞类型>漏洞”（例如“Metabase 未授权 SQL 注入管理员权限接管”），不超过 40 个中文字符，不得包含方括号或圆括号。vuln_type 为 privesc 时，title_zh 不要包含“提权”二字（由程序补充）。
 并给出 platform：仅当 vuln_type 为 privesc 时填写目标系统 "Windows" / "Linux" / "macOS"，其他类型填空字符串。
 
 只输出 JSON，格式严格如下：
-{"results": [{"url": "...", "cve": "CVE-{YEAR}-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "platform": "", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}""".replace("{YEAR}", str(CURRENT_YEAR))
+{"results": [{"url": "...", "cve": "CVE-{YEAR}-XXXXX（若同一仓库覆盖多个编号，用英文逗号分隔）", "is_valid_poc": true, "vuln_type": "web", "title_zh": "...", "platform": "", "attack_class": "rce", "impact_level": "high", "poisoning_risk": "none", "poisoning_indicators": ["..."], "reason": "..."}]}""".replace("{YEAR}", str(CURRENT_YEAR))
 
 
 def analyze_candidates(evidence_list):
@@ -287,6 +296,14 @@ def validate_results(results, candidate_urls):
             continue
         if r.get("poisoning_risk") not in POISONING_ALLOW_LEVELS:
             print(f"Rejected (poisoning risk {r.get('poisoning_risk')}): {url} {r.get('poisoning_indicators')}")
+            continue
+        attack_class = str(r.get("attack_class") or "").strip().lower()
+        if attack_class in LOW_VALUE_CLASSES or str(r.get("impact_level") or "").strip().lower() == "low":
+            print(f"Skipped (low-value vulnerability: {attack_class or 'low'}): {url}")
+            continue
+        text = f"{r.get('title_zh') or ''} {r.get('reason') or ''}"
+        if LOW_KEYWORD_RE.search(text) and not HIGH_KEYWORD_RE.search(text):
+            print(f"Skipped (low-value keywords): {url}")
             continue
         cves = parse_cve_ids(r.get("cve"))
         if not cves or not all(CVE_RE.match(c) for c in cves):
