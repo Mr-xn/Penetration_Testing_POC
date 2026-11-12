@@ -307,6 +307,7 @@
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
 - [CVE-2026-28668: Android 16应用沙箱越权至系统进程漏洞链](https://github.com/okskaok3-hub/android-cve-2026-research)
 - [CVE-2026-0667: OT/ICS 与企业组件的多个 CVE 漏洞利用代码](https://github.com/dexteon/ot-ics-cve-pocs-2026)
+- [CVE-2026-89052: TP-Link Archer C6 的硬编码 AES 密钥漏洞](https://github.com/sergioamsilva/CVE-2026-89052-archer-c6-aes)
 
 ## <span id="head4">Web APP</span>
 
@@ -1236,6 +1237,11 @@
 - [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
 - [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618)
 - [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
+- [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
+- [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
+- [CVE-2026-68524: Apache OFBiz 未授权远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-68524-POC)
+- [CVE-2026-90436: Apache Axis 未授权远程类实例化漏洞](https://github.com/fixedbyreboot/CVE-2026-90436-POC)
+- [CVE-2026-92414: Apache Jackrabbit WebDAV 会话劫持漏洞](https://github.com/fixedbyreboot/CVE-2026-92414-POC)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1329,12 +1335,14 @@
 - [【Windows提权】CVE-2026-42980：Windows kernel WMI integer-underflow 本地提权漏洞 PoC（可提升至 NT AUTHORITY\SYSTEM）](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
 - [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
-- [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit) | [【Linux提权】CVE-2026-98432-b: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/rootagi/CVE-2026-98432) | [【Linux提权】CVE-2026-98432-c: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack)
+- [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit) | [【Linux提权】CVE-2026-98432-b: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/rootagi/CVE-2026-98432) | [【Linux提权】CVE-2026-98432-c: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack) | [【Linux提权】CVE-2026-98432-d: Linux 内核 ireq_opt 对象释放后使用漏洞提权](https://github.com/ylh440104/cve-2026-98432-chain)
 - [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
 - [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo)
 - [【Linux提权】CVE-2026-43284: Redmi K50的Android内核DirtyFrag任意写漏洞提权](https://github.com/noctide/redmi-k50-temp-root)
 - [【Windows提权】CVE-2026-81963: Windows更新栈CBS OnePackage dpx.dll侧加载漏洞提权](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)
+- [【Windows提权】CVE-2026-2039819: HWiNFO 内核驱动的 IOCTL 越权访问漏洞提权](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC)
+- [【Windows提权】CVE-2026-117017: OPSWAT AppRemover 驱动的 IOCTL 注册表越权写漏洞提权](https://github.com/esecforte/PoC_CVE-2026-117017)
 
   
 ## <span id="head6"> PC</span>
@@ -1562,6 +1570,7 @@
 - [CVE-2026-124194: Outlook恶意msg文件NTLM哈希泄露漏洞](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak)
 - [CVE-2026-121529: FortiClient本地API跨源请求远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce) | [CVE-2026-121529-b: FortiClient本地API源验证错误远程执行漏洞](https://github.com/googlesky/Fortinet2Shell)
 - [CVE-2026-111497: Brotli解码器BlockSwitch越界写入漏洞](https://github.com/MchinaMd57764/CVE-2026-111497-PoC)
+- [CVE-2026-125399: Fluxion SSID 处理的命令注入漏洞](https://github.com/VulnSVNC/CVE-2026-125399)
 
 
 
