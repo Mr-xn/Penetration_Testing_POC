@@ -301,7 +301,7 @@
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit)
-- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
@@ -1172,7 +1172,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive) | [CVE-2026-109618-h: PHP会话上传进度代码注入漏洞](https://github.com/MammaniNelsonD/PHP2P4IM0NSHELL)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
@@ -1202,7 +1202,7 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit) | [CVE-2026-119977-b: WordPress 核心升级窗口 TOCTOU 远程代码执行](https://github.com/BugStealers/CVE-2026-119977) | [CVE-2026-119977-c: WordPress升级暂存路径未授权远程代码执行](https://github.com/BlackHatExploitation/CVE-2026-119977)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
@@ -1250,6 +1250,14 @@
 - [CVE-2026-66738: SPIP导航编辑器代码注入命令执行](https://github.com/fixedbyreboot/CVE-2026-66738-POC)
 - [CVE-2026-73373: Joomla媒体组件shtml上传服务端包含执行](https://github.com/fixedbyreboot/CVE-2026-73373-POC)
 - [CVE-2026-66613: JetEngine Timber视图模板注入远程代码执行](https://github.com/aramosf/CVE-2026-66613)
+- [CVE-2026-26119: Windows Admin Center远程命令执行漏洞](https://github.com/csdovah/vuln-cve-2026-26119)
+- [CVE-2026-123618: ABP外部登录路径认证绕过漏洞](https://github.com/yuwkaaa/CVE-2026-123618)
+- [CVE-2026-125753: ABP BlobStoring路径遍历文件读取漏洞](https://github.com/yuwkaaa/CVE-2026-125753)
+- [CVE-2026-105425: Ivanti Sentry管理接口命令注入漏洞](https://github.com/mustafasaydam/CVE-2026-105425-PoC)
+- [CVE-2026-68982: Airflow CeleryExecutor未授权命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-68982-airflow-celery-rce)
+- [CVE-2026-110264: GitLab Org模式正则整数溢出漏洞](https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce)
+- [CVE-2026-115252: WordPress Confection插件PHP注入漏洞](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce)
+- [CVE-2026-19803: Printcart插件未授权文件上传漏洞](https://github.com/Aureels/CVE-2026-19803)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1576,9 +1584,11 @@
 - [CVE-2026-83844: Microsoft Paint C2PA解析越界读拒绝服务](https://github.com/HackingLZ/CVE-2026-83844-public) | [CVE-2026-83844-b: Microsoft Paint 的 bfdb 字段越界读取漏洞](https://github.com/blkph0x/CVE-2026-83844_POC)
 - [CVE-2026-111760: Git子模块符号链接处理远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce)
 - [CVE-2026-124194: Outlook恶意msg文件NTLM哈希泄露漏洞](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak)
-- [CVE-2026-121529: FortiClient本地API跨源请求远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce) | [CVE-2026-121529-b: FortiClient本地API源验证错误远程执行漏洞](https://github.com/googlesky/Fortinet2Shell)
+- [CVE-2026-121529: FortiClient本地API跨源请求远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce) | [CVE-2026-121529-b: FortiClient本地API源验证错误远程执行漏洞](https://github.com/googlesky/Fortinet2Shell) | [CVE-2026-121529-c: FortiClient本地API源验证绕过漏洞](https://github.com/googlesky/CVE-2026-121529)
 - [CVE-2026-111497: Brotli解码器BlockSwitch越界写入漏洞](https://github.com/MchinaMd57764/CVE-2026-111497-PoC)
 - [CVE-2026-125399: Fluxion SSID 处理的命令注入漏洞](https://github.com/VulnSVNC/CVE-2026-125399)
+- [CVE-2026-126497: LibreCAD解析DWG文件堆越界写漏洞](https://github.com/zeetee1235/CVE-2026-126497)
+- [CVE-2026-125350: Chrome XSLT模式缓存释放后使用漏洞](https://github.com/TJT001/CVE-2026-125350-PoC)
 
 
 
