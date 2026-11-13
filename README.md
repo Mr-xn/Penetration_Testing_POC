@@ -1180,7 +1180,7 @@
 - [友加畅捷管理系统标准版 UnitCreateDynamicGridHead接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Saler-Unit_CreateDynamicGridHead-sqli.html)
 - [友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html)
 - [PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞](https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html)
-- [CVE-2026-109619-b: PHP mod_php 会话状态残留 RCE 漏洞](https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab)
+- [CVE-2026-109619-b: PHP mod_php 会话状态残留 RCE 漏洞](https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab) | [CVE-2026-109619-b: PHP 会话上传进度 LFI 注入远程代码执行漏洞](https://github.com/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI) | [CVE-2026-109619-c: Archivist 靶机的会话上传进度攻击链复现](https://github.com/luckythandel/archivist-vm)
 - [友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html)
 - [友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-env-setup-2.html)
 - [友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html)
@@ -1198,7 +1198,7 @@
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
 - [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497)
-- [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898)
+- [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898) | [CVE-2026-72898-b: Metabase 的 SQL 注入远程代码执行漏洞](https://github.com/Jenderal92/metapwn-mass)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
@@ -1258,6 +1258,11 @@
 - [CVE-2026-110264: GitLab Org模式正则整数溢出漏洞](https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce)
 - [CVE-2026-115252: WordPress Confection插件PHP注入漏洞](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce)
 - [CVE-2026-19803: Printcart插件未授权文件上传漏洞](https://github.com/Aureels/CVE-2026-19803)
+- [CVE-2026-89324: Basel Post Types 的未授权认证绕过漏洞](https://github.com/im0xfay/CVE-2026-89324)
+- [CVE-2026-33050: GeoNode 矢量图层名命令注入漏洞](https://github.com/comradezephyr/CVE-2026-33050)
+- [CVE-2026-105016: msquic 流发送整数下溢远程代码执行漏洞](https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC)
+- [CVE-2026-126187: Next.js use cache 反序列化远程代码执行漏洞](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr) | [CVE-2026-126187-b: Next.js use cache 反序列化远程代码执行漏洞](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce)
+- [CVE-2026-117025: MagnusBilling 的用户余额越权访问漏洞](https://github.com/Lariinz/CVE-2026-117025)
    
    
 ## <span id="head5"> 提权辅助相关</span>
