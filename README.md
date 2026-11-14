@@ -301,7 +301,7 @@
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit)
-- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
@@ -1235,7 +1235,7 @@
 - [CVE-2026-123807: Signal K Server 资源接口路径遍历致 RCE 漏洞](https://github.com/qianlijaingshan/signalk-audit)
 - [CVE-2026-121653: Ivanti EPM Core 未授权 SQL 注入 RCE 漏洞](https://github.com/googlesky/CVE-2026-121653)
 - [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
-- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618)
+- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache)
 - [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
 - [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
 - [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
@@ -1263,6 +1263,10 @@
 - [CVE-2026-105016: msquic 流发送整数下溢远程代码执行漏洞](https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC)
 - [CVE-2026-126187: Next.js use cache 反序列化远程代码执行漏洞](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr) | [CVE-2026-126187-b: Next.js use cache 反序列化远程代码执行漏洞](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce)
 - [CVE-2026-117025: MagnusBilling 的用户余额越权访问漏洞](https://github.com/Lariinz/CVE-2026-117025)
+- [CVE-2026-126537: Ninja Forms 上传插件未授权文件删除与读取](https://github.com/im0xfay/CVE-2026-126537)
+- [CVE-2026-111190: ARForms 未授权文件上传远程代码执行漏洞](https://github.com/im0xfay/CVE-ARFORMS)
+- [CVE-2026-127016: MISP Modules 外部工具管理未授权访问漏洞](https://github.com/fumioryoto/CVE-2026-127016)
+- [CVE-2026-56290: Joomla Page Builder CK 未授权远程代码执行](https://github.com/Mushr00w/CVE-2026-56290)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1364,6 +1368,7 @@
 - [【Windows提权】CVE-2026-81963: Windows更新栈CBS OnePackage dpx.dll侧加载漏洞提权](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)
 - [【Windows提权】CVE-2026-2039819: HWiNFO 内核驱动的 IOCTL 越权访问漏洞提权](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC)
 - [【Windows提权】CVE-2026-117017: OPSWAT AppRemover 驱动的 IOCTL 注册表越权写漏洞提权](https://github.com/esecforte/PoC_CVE-2026-117017)
+- [【Linux提权】CVE-2026-87772: Pardus About 挂载助手未设 nosuid 获取 root提权](https://github.com/jankesec/CVE-2026-87772-pardus-about-lpe)
 
   
 ## <span id="head6"> PC</span>
