@@ -308,6 +308,7 @@
 - [CVE-2026-28668: Android 16应用沙箱越权至系统进程漏洞链](https://github.com/okskaok3-hub/android-cve-2026-research)
 - [CVE-2026-0667: OT/ICS 与企业组件的多个 CVE 漏洞利用代码](https://github.com/dexteon/ot-ics-cve-pocs-2026)
 - [CVE-2026-89052: TP-Link Archer C6 的硬编码 AES 密钥漏洞](https://github.com/sergioamsilva/CVE-2026-89052-archer-c6-aes)
+- [CVE-2026-0073: Android adbd 的无线TLS证书校验绕过漏洞](https://github.com/xqi1337/poc-CVE-2026-0073)
 
 ## <span id="head4">Web APP</span>
 
@@ -1256,7 +1257,7 @@
 - [CVE-2026-105425: Ivanti Sentry管理接口命令注入漏洞](https://github.com/mustafasaydam/CVE-2026-105425-PoC)
 - [CVE-2026-68982: Airflow CeleryExecutor未授权命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-68982-airflow-celery-rce)
 - [CVE-2026-110264: GitLab Org模式正则整数溢出漏洞](https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce)
-- [CVE-2026-115252: WordPress Confection插件PHP注入漏洞](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce)
+- [CVE-2026-115252: WordPress Confection插件PHP注入漏洞](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce) | [CVE-2026-115252-b: WordPress Confection 插件的未授权远程代码执行漏洞](https://github.com/evenomn/CVE-2026-115252)
 - [CVE-2026-19803: Printcart插件未授权文件上传漏洞](https://github.com/Aureels/CVE-2026-19803)
 - [CVE-2026-89324: Basel Post Types 的未授权认证绕过漏洞](https://github.com/im0xfay/CVE-2026-89324)
 - [CVE-2026-33050: GeoNode 矢量图层名命令注入漏洞](https://github.com/comradezephyr/CVE-2026-33050)
@@ -1267,6 +1268,8 @@
 - [CVE-2026-111190: ARForms 未授权文件上传远程代码执行漏洞](https://github.com/im0xfay/CVE-ARFORMS)
 - [CVE-2026-127016: MISP Modules 外部工具管理未授权访问漏洞](https://github.com/fumioryoto/CVE-2026-127016)
 - [CVE-2026-56290: Joomla Page Builder CK 未授权远程代码执行](https://github.com/Mushr00w/CVE-2026-56290)
+- [CVE-2026-107360: rubygem-safemode 的沙箱允许列表绕过漏洞](https://github.com/googlesky/CVE-2026-107360)
+- [CVE-2026-126997: JeecgBoot 的未授权SSRF凭证窃取漏洞](https://github.com/evenomn/CVE-2026-126997)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1369,6 +1372,7 @@
 - [【Windows提权】CVE-2026-2039819: HWiNFO 内核驱动的 IOCTL 越权访问漏洞提权](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC)
 - [【Windows提权】CVE-2026-117017: OPSWAT AppRemover 驱动的 IOCTL 注册表越权写漏洞提权](https://github.com/esecforte/PoC_CVE-2026-117017)
 - [【Linux提权】CVE-2026-87772: Pardus About 挂载助手未设 nosuid 获取 root提权](https://github.com/jankesec/CVE-2026-87772-pardus-about-lpe)
+- [【Linux提权】CVE-2026-123039: Check Point Gaia OS 的动态CLI命令执行漏洞提权](https://github.com/googlesky/CVE-2026-123039)
 
   
 ## <span id="head6"> PC</span>
@@ -1599,6 +1603,7 @@
 - [CVE-2026-125399: Fluxion SSID 处理的命令注入漏洞](https://github.com/VulnSVNC/CVE-2026-125399)
 - [CVE-2026-126497: LibreCAD解析DWG文件堆越界写漏洞](https://github.com/zeetee1235/CVE-2026-126497)
 - [CVE-2026-125350: Chrome XSLT模式缓存释放后使用漏洞](https://github.com/TJT001/CVE-2026-125350-PoC)
+- [CVE-2025-48384: Git 子模块检出钩子的任意代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-sub-20261113) | [CVE-2025-48384-b: Git 递归克隆的子模块钩子代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-parent-20261113)
 
 
 
