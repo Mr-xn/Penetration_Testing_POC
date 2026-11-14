@@ -1198,12 +1198,12 @@
 - [CVE-2026-76418: Cisco ASA / FTD - SSL VPN 崩溃与拒绝服务漏洞公告](https://www.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpn-dos)
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
-- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497)
+- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497) | [CVE-2026-111497-e: Express body-parser Brotli解压远程代码执行漏洞](https://github.com/OhMyDitzzy/CVE-2026-111497)
 - [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898) | [CVE-2026-72898-b: Metabase 的 SQL 注入远程代码执行漏洞](https://github.com/Jenderal92/metapwn-mass)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) | [CVE-2026-123158-h: OpenSSH超长口令密码认证绕过漏洞](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit) | [CVE-2026-119977-b: WordPress 核心升级窗口 TOCTOU 远程代码执行](https://github.com/BugStealers/CVE-2026-119977) | [CVE-2026-119977-c: WordPress升级暂存路径未授权远程代码执行](https://github.com/BlackHatExploitation/CVE-2026-119977)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
@@ -1236,7 +1236,7 @@
 - [CVE-2026-123807: Signal K Server 资源接口路径遍历致 RCE 漏洞](https://github.com/qianlijaingshan/signalk-audit)
 - [CVE-2026-121653: Ivanti EPM Core 未授权 SQL 注入 RCE 漏洞](https://github.com/googlesky/CVE-2026-121653)
 - [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
-- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache)
+- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache) | [CVE-2026-119618-c: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/toeyhack/cve-2026-119618-apache-lab) | [CVE-2026-119618-d: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab)
 - [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
 - [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
 - [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
@@ -1270,6 +1270,11 @@
 - [CVE-2026-56290: Joomla Page Builder CK 未授权远程代码执行](https://github.com/Mushr00w/CVE-2026-56290)
 - [CVE-2026-107360: rubygem-safemode 的沙箱允许列表绕过漏洞](https://github.com/googlesky/CVE-2026-107360)
 - [CVE-2026-126997: JeecgBoot 的未授权SSRF凭证窃取漏洞](https://github.com/evenomn/CVE-2026-126997)
+- [CVE-2026-110697: Red Hat Quay机器人列表SQL通配符注入漏洞](https://github.com/googlesky/CVE-2026-110697)
+- [CVE-2026-34265: SAP DIAG协议预认证内存破坏漏洞](https://github.com/redrays-io/SAP-DIAG-Memory-Corruption-CVE-2026-34265)
+- [CVE-2026-6460: PostgreSQL复合类型混淆内存破坏漏洞](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460)
+- [CVE-2026-39987: Marimo终端WebSocket未授权远程代码执行漏洞](https://github.com/0xv01d/CVE-2026-39987)
+- [CVE-2026-119077: ELEX HelpDesk PHP对象注入远程代码执行漏洞](https://github.com/im0xfay/CVE-2026-119077)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1366,13 +1371,14 @@
 - [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit) | [【Linux提权】CVE-2026-98432-b: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/rootagi/CVE-2026-98432) | [【Linux提权】CVE-2026-98432-c: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack) | [【Linux提权】CVE-2026-98432-d: Linux 内核 ireq_opt 对象释放后使用漏洞提权](https://github.com/ylh440104/cve-2026-98432-chain)
 - [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root) | [【Linux提权】CVE-2026-43499-c: OnePlus Ace5竞速版GhostLock内核漏洞提权](https://github.com/BlackIce417/root-oplusace5)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
-- [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo) | [【Linux提权】CVE-2026-98260-c: 三星S24 Ultra定时器UAF内核漏洞提权](https://github.com/orumanayurpanjayat-ux/SamTimer)
+- [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo) | [【Linux提权】CVE-2026-98260-c: 三星S24 Ultra定时器UAF内核漏洞提权](https://github.com/orumanayurpanjayat-ux/SamTimer) | [【Linux提权】CVE-2026-98260-d: GhostKey Android内核定时器释放后使用漏洞提权](https://github.com/jonrazta89/SamGhostKey) | [【Linux提权】CVE-2026-98260-e: 小米17 Ultra内核定时器释放后使用漏洞提权](https://github.com/skyrocketingHong/CVE-2026-98260_nezha) | [【Linux提权】CVE-2026-98260-f: 三星S24 Ultra内核定时器释放后使用漏洞提权](https://github.com/Reallyliked21/galaxy-s24u-dzj3-temp-root)
 - [【Linux提权】CVE-2026-43284: Redmi K50的Android内核DirtyFrag任意写漏洞提权](https://github.com/noctide/redmi-k50-temp-root) | [【Linux提权】CVE-2026-43284-b: iQOO Neo7竞速版DirtyFrag页缓存写内核漏洞提权](https://github.com/q181555/pd2232-dirtyfrag)
 - [【Windows提权】CVE-2026-81963: Windows更新栈CBS OnePackage dpx.dll侧加载漏洞提权](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)
 - [【Windows提权】CVE-2026-2039819: HWiNFO 内核驱动的 IOCTL 越权访问漏洞提权](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC)
 - [【Windows提权】CVE-2026-117017: OPSWAT AppRemover 驱动的 IOCTL 注册表越权写漏洞提权](https://github.com/esecforte/PoC_CVE-2026-117017)
 - [【Linux提权】CVE-2026-87772: Pardus About 挂载助手未设 nosuid 获取 root提权](https://github.com/jankesec/CVE-2026-87772-pardus-about-lpe)
 - [【Linux提权】CVE-2026-123039: Check Point Gaia OS 的动态CLI命令执行漏洞提权](https://github.com/googlesky/CVE-2026-123039)
+- [【Linux提权】CVE-2026-41651: PackageKit D-Bus事务标志竞争条件漏洞提权](https://github.com/0xv01d/CVE-2026-41651)
 
   
 ## <span id="head6"> PC</span>
@@ -1604,6 +1610,7 @@
 - [CVE-2026-126497: LibreCAD解析DWG文件堆越界写漏洞](https://github.com/zeetee1235/CVE-2026-126497)
 - [CVE-2026-125350: Chrome XSLT模式缓存释放后使用漏洞](https://github.com/TJT001/CVE-2026-125350-PoC)
 - [CVE-2025-48384: Git 子模块检出钩子的任意代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-sub-20261113) | [CVE-2025-48384-b: Git 递归克隆的子模块钩子代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-parent-20261113)
+- [CVE-2026-113408: Git客户端HEAD对称引用路径穿越漏洞](https://github.com/xssdoctor/git-cve-2026-113408-poc)
 
 
 
