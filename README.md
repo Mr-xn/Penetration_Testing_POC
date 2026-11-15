@@ -310,6 +310,8 @@
 - [CVE-2026-89052: TP-Link Archer C6 的硬编码 AES 密钥漏洞](https://github.com/sergioamsilva/CVE-2026-89052-archer-c6-aes)
 - [CVE-2026-0073: Android adbd 的无线TLS证书校验绕过漏洞](https://github.com/xqi1337/poc-CVE-2026-0073)
 - [CVE-2026-112611: CoreGraphics PDF解析越界写漏洞](https://github.com/hkl1593246852-del/CVE-2026-112611)
+- [CVE-2026-101107: SoftBank Air终端6未授权命令执行漏洞](https://github.com/code-raisan/CVE-2026-101107-PoC-SBA6RCE-SAFETY)
+- [CVE-2026-37640: Tenda HG21隐藏端点telnet后门漏洞](https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor)
 
 ## <span id="head4">Web APP</span>
 
@@ -1256,7 +1258,7 @@
 - [CVE-2026-123618: ABP外部登录路径认证绕过漏洞](https://github.com/yuwkaaa/CVE-2026-123618)
 - [CVE-2026-125753: ABP BlobStoring路径遍历文件读取漏洞](https://github.com/yuwkaaa/CVE-2026-125753)
 - [CVE-2026-105425: Ivanti Sentry管理接口命令注入漏洞](https://github.com/mustafasaydam/CVE-2026-105425-PoC)
-- [CVE-2026-68982: Airflow CeleryExecutor未授权命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-68982-airflow-celery-rce)
+- [CVE-2026-68982: Airflow CeleryExecutor未授权命令执行漏洞](https://github.com/Ghost-Bx1/cve-2026-68982-airflow-celery-rce) | [CVE-2026-68982-b: Apache Airflow CeleryExecutor未授权回调代码执行](https://github.com/im0xfay/CVE-2026-68982)
 - [CVE-2026-110264: GitLab Org模式正则整数溢出漏洞](https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce)
 - [CVE-2026-115252: WordPress Confection插件PHP注入漏洞](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce) | [CVE-2026-115252-b: WordPress Confection 插件的未授权远程代码执行漏洞](https://github.com/evenomn/CVE-2026-115252)
 - [CVE-2026-19803: Printcart插件未授权文件上传漏洞](https://github.com/Aureels/CVE-2026-19803)
@@ -1281,6 +1283,18 @@
 - [CVE-2026-129110: sysPass未授权重装反序列化远程代码执行漏洞](https://github.com/psylinux/CVE-2026-129110-sysPass)
 - [CVE-2026-125440: s2Member PayPal短代码注入漏洞](https://github.com/yozturk0/CVE-2026-125440)
 - [CVE-2026-126837: MongoDB驱动SRV域名校验绕过漏洞](https://github.com/googlesky/CVE-2026-126837)
+- [CVE-2026-76954: Synology DSM认证API预授权SQL注入漏洞](https://github.com/googlesky/CVE-2026-76954)
+- [CVE-2026-128027: FrankenPHP旧基座镜像OpenSSL CMS栈溢出](https://github.com/googlesky/CVE-2026-128027)
+- [CVE-2026-126273: NocoDB空管理员密码致首个注册者获超管](https://github.com/googlesky/CVE-2026-126273)
+- [CVE-2026-126269: NocoDB附件MIME校验绕过存储型XSS漏洞](https://github.com/googlesky/CVE-2026-126269)
+- [CVE-2026-126274: NocoDB删除对话框innerHTML存储型XSS漏洞](https://github.com/googlesky/CVE-2026-126274)
+- [CVE-2026-126173: AutomatorWP Webhooks未授权密码重置账号接管](https://github.com/im0xfay/CVE-2026-126173)
+- [CVE-2026-126473: OpenEMR OAuth作用域绕过未授权FHIR患者写入](https://github.com/googlesky/CVE-2026-126473)
+- [CVE-2026-125855: ELEX HelpDesk反序列化对象注入代码执行](https://github.com/im0xfay/CVE-2026-125855)
+- [CVE-2026-117551: Joomla jDownloads缩略图上传远程代码执行](https://github.com/fixedbyreboot/CVE-2026-117551-POC)
+- [CVE-2026-128046: OpenMage自定义选项phar上传远程代码执行](https://github.com/googlesky/CVE-2026-128046)
+- [CVE-2026-102895: GPUStack回环地址信任认证绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-102895-POC)
+- [CVE-2026-126937: Zipline初始设置竞态创建多个超级管理员](https://github.com/googlesky/CVE-2026-126937)
    
    
 ## <span id="head5"> 提权辅助相关</span>
