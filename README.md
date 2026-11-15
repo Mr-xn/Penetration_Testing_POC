@@ -309,6 +309,7 @@
 - [CVE-2026-0667: OT/ICS 与企业组件的多个 CVE 漏洞利用代码](https://github.com/dexteon/ot-ics-cve-pocs-2026)
 - [CVE-2026-89052: TP-Link Archer C6 的硬编码 AES 密钥漏洞](https://github.com/sergioamsilva/CVE-2026-89052-archer-c6-aes)
 - [CVE-2026-0073: Android adbd 的无线TLS证书校验绕过漏洞](https://github.com/xqi1337/poc-CVE-2026-0073)
+- [CVE-2026-112611: CoreGraphics PDF解析越界写漏洞](https://github.com/hkl1593246852-del/CVE-2026-112611)
 
 ## <span id="head4">Web APP</span>
 
@@ -1198,7 +1199,7 @@
 - [CVE-2026-76418: Cisco ASA / FTD - SSL VPN 崩溃与拒绝服务漏洞公告](https://www.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpn-dos)
 - [CVE-2026-111357 / CVE-2026-118527: Ivanti Connect Secure - VPN 网关 Root 级在野利用利用链](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVE-2026-86060 / CVE-2026-67276: MikroTik RouterOS - 路由器 SSH 认证绕过与特权提升](https://github.com/CVE-2026-mikrotik-poc)
-- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497) | [CVE-2026-111497-e: Express body-parser Brotli解压远程代码执行漏洞](https://github.com/OhMyDitzzy/CVE-2026-111497)
+- [CVE-2026-111497: HTTP2Shell / Node2Shell - Brotli 解压缩堆越界写入远程 RCE PoC](https://github.com/sysdiglabs/cve-2026-111497-brotli-poc) | [CVE-2026-111497-b: Google Brotli / Node2Shell 堆缓冲区溢出利用复现靶场](https://github.com/dimasma0305/CVE-2026-111497-POC) | [CVE-2026-111497-c: Node.js Brotli 解码器越界写入漏洞](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) | [CVE-2026-111497-d: Node2Shell 组件远程代码执行漏洞](https://github.com/EQSTLab/CVE-2026-111497) | [CVE-2026-111497-e: Express body-parser Brotli解压远程代码执行漏洞](https://github.com/OhMyDitzzy/CVE-2026-111497) | [CVE-2026-111497-f: Node.js Brotli解码器的越界写漏洞](https://github.com/alequinterok/CVE-2026-111497)
 - [CVE-2026-72898: Metabase 未授权 SQL 注入管理员权限接管利用脚本](https://github.com/EQSTLab/CVE-2026-72898) | [CVE-2026-72898-b: Metabase 的 SQL 注入远程代码执行漏洞](https://github.com/Jenderal92/metapwn-mass)
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
@@ -1275,6 +1276,11 @@
 - [CVE-2026-6460: PostgreSQL复合类型混淆内存破坏漏洞](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460)
 - [CVE-2026-39987: Marimo终端WebSocket未授权远程代码执行漏洞](https://github.com/0xv01d/CVE-2026-39987)
 - [CVE-2026-119077: ELEX HelpDesk PHP对象注入远程代码执行漏洞](https://github.com/im0xfay/CVE-2026-119077)
+- [CVE-2026-53787: Magento Amasty Order Attributes文件上传漏洞](https://github.com/karthi-the-hacker/CVE-2026-53787)
+- [CVE-2026-128970: Psono服务器的权限校验绕过漏洞](https://github.com/R00t3dbyFa17h/security-advisories)
+- [CVE-2026-129110: sysPass未授权重装反序列化远程代码执行漏洞](https://github.com/psylinux/CVE-2026-129110-sysPass)
+- [CVE-2026-125440: s2Member PayPal短代码注入漏洞](https://github.com/yozturk0/CVE-2026-125440)
+- [CVE-2026-126837: MongoDB驱动SRV域名校验绕过漏洞](https://github.com/googlesky/CVE-2026-126837)
    
    
 ## <span id="head5"> 提权辅助相关</span>
