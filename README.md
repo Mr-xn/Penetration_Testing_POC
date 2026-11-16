@@ -315,6 +315,7 @@
 - [CVE-2026-37641: Tenda HG21工厂端点未授权访问漏洞](https://github.com/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints)
 - [CVE-2026-37643: Tenda HG21 OMCI Shell上传远程代码执行漏洞](https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce)
 - [CVE-2026-124002: Copeland XWEB EVO预认证命令注入漏洞](https://github.com/fixedbyreboot/CVE-2026-124002-POC)
+- [CVE-2026-129353: D-Link路由器认证接口栈缓冲区溢出](https://github.com/googlesky/CVE-2026-129353)
 
 ## <span id="head4">Web APP</span>
 
@@ -1179,7 +1180,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive) | [CVE-2026-109618-h: PHP会话上传进度代码注入漏洞](https://github.com/MammaniNelsonD/PHP2P4IM0NSHELL)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive) | [CVE-2026-109618-h: PHP会话上传进度代码注入漏洞](https://github.com/MammaniNelsonD/PHP2P4IM0NSHELL) | [CVE-2026-109618-i: PHP引擎预认证远程代码执行漏洞](https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
@@ -1306,6 +1307,12 @@
 - [CVE-2026-96349: SiteSkite插件的未授权远程代码执行漏洞](https://github.com/1xPwn/exploit-CVE-2026-96349)
 - [CVE-2026-124020: Control Web Panel密码重置投毒与授权绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-124020-POC)
 - [用友GRP-U8Cloud getSjjk 接口SQL注入漏洞分析复现](https://mrxn.net/jswz/yongyou-GRP-U8Cloud-getSjjk-sqli.html)
+- [CVE-2026-115934: Craft CMS 搜索SQL注入导致管理员权限接管](https://github.com/fixedbyreboot/CVE-2026-115934-POC)
+- [CVE-2026-126539: Directus WebSocket认证绕过未授权数据操作](https://github.com/fixedbyreboot/CVE-2026-126539-POC)
+- [CVE-2026-105642: Ghost CMS 书签卡片与主题翻译远程代码执行](https://github.com/fixedbyreboot/CVE-2026-105642-POC)
+- [CVE-2026-105211: ZITADEL Login V2 多漏洞会话接管](https://github.com/fixedbyreboot/CVE-2026-105211-POC)
+- [CVE-2026-114552: MailEnable CardDAV XXE任意文件读取](https://github.com/RossKeddy/CVE-2026-114552)
+- [CVE-2026-97229: GitLab CI正则表达式远程代码执行](https://github.com/wa6n3r/cve-2026-97229)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1645,6 +1652,13 @@
 - [CVE-2025-48384: Git 子模块检出钩子的任意代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-sub-20261113) | [CVE-2025-48384-b: Git 递归克隆的子模块钩子代码执行漏洞](https://github.com/xssdoctor/muse-git-cve-2025-48384-parent-20261113)
 - [CVE-2026-113408: Git客户端HEAD对称引用路径穿越漏洞](https://github.com/xssdoctor/git-cve-2026-113408-poc)
 - [CVE-2026-112652: iOS Security框架证书校验绕过漏洞](https://github.com/FAHAD21313/cve-2026-112652-secpolicy-research)
+- [CVE-2026-126912: Skia凸路径扫描转换堆缓冲区溢出](https://github.com/abraxas/skia-convex-oob)
+- [CVE-2026-126909: Chrome自动登录提示菜单释放后使用漏洞](https://github.com/abraxas/chrome-autosignin-toast-uaf)
+- [CVE-2026-126910: Chrome V8 Maglev类型混淆漏洞](https://github.com/abraxas/chrome-v8-maglev-literal-stale)
+- [CVE-2026-126916: Chrome ICU搜索索引整数溢出漏洞](https://github.com/abraxas/chrome-icu-usearch-ce-overflow)
+- [CVE-2026-126919: Chrome MimeHandler视图释放后使用漏洞](https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf)
+- [CVE-2026-126902: Chrome Mac共享文件符号链接跟随漏洞](https://github.com/abraxas/chrome-mac-webshare-symlink)
+- [CVE-2026-126915: Skia Vulkan渲染通道未初始化变量漏洞](https://github.com/abraxas/skia-vk-uninit-renderpass)
 
 
 
