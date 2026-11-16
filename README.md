@@ -1305,6 +1305,7 @@
 - [CVE-2026-73574: Zimbra Classic UI未授权本地文件包含漏洞](https://github.com/fixedbyreboot/CVE-2026-73574-POC)
 - [CVE-2026-96349: SiteSkite插件的未授权远程代码执行漏洞](https://github.com/1xPwn/exploit-CVE-2026-96349)
 - [CVE-2026-124020: Control Web Panel密码重置投毒与授权绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-124020-POC)
+- [用友GRP-U8Cloud getSjjk 接口SQL注入漏洞分析复现](https://mrxn.net/jswz/yongyou-GRP-U8Cloud-getSjjk-sqli.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
