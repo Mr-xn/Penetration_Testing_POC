@@ -316,6 +316,12 @@
 - [CVE-2026-37643: Tenda HG21 OMCI Shell上传远程代码执行漏洞](https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce)
 - [CVE-2026-124002: Copeland XWEB EVO预认证命令注入漏洞](https://github.com/fixedbyreboot/CVE-2026-124002-POC)
 - [CVE-2026-129353: D-Link路由器认证接口栈缓冲区溢出](https://github.com/googlesky/CVE-2026-129353)
+- [CVE-2026-129354: D-Link DIR-600L HNAP栈溢出远程代码执行](https://github.com/googlesky/CVE-2026-129354)
+- [CVE-2026-129351: TRENDnet TEW-657BRM mini_httpd预认证缓冲区溢出](https://github.com/googlesky/CVE-2026-129351)
+- [CVE-2026-129352: TRENDnet TEW-657BRM固件升级CGI栈溢出](https://github.com/googlesky/CVE-2026-129352)
+- [CVE-2026-15315: Tapo C200摄像头会话令牌认证绕过](https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc)
+- [CVE-2026-112477: iOS IOSurfaceRoot内核UAF崩溃复现](https://github.com/Sparticle62ops/israce-probe)
+- [CVE-2026-111497: iOS Brotli解码器堆溢出代码执行](https://github.com/TimmyTurner51/brotli-lab)
 
 ## <span id="head4">Web APP</span>
 
@@ -1243,7 +1249,7 @@
 - [CVE-2026-123807: Signal K Server 资源接口路径遍历致 RCE 漏洞](https://github.com/qianlijaingshan/signalk-audit)
 - [CVE-2026-121653: Ivanti EPM Core 未授权 SQL 注入 RCE 漏洞](https://github.com/googlesky/CVE-2026-121653)
 - [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
-- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache) | [CVE-2026-119618-c: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/toeyhack/cve-2026-119618-apache-lab) | [CVE-2026-119618-d: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab) | [CVE-2026-119618-e: Apache mod_http2竞态内存损坏漏洞](https://github.com/terminat0r7031/CVE-2026-119618) | [CVE-2026-119618-f: Apache mod_http2竞态内存损坏漏洞](https://github.com/d4ytox/CVE-2026-119618)
+- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache) | [CVE-2026-119618-c: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/toeyhack/cve-2026-119618-apache-lab) | [CVE-2026-119618-d: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab) | [CVE-2026-119618-e: Apache mod_http2竞态内存损坏漏洞](https://github.com/terminat0r7031/CVE-2026-119618) | [CVE-2026-119618-f: Apache mod_http2竞态内存损坏漏洞](https://github.com/d4ytox/CVE-2026-119618) | [CVE-2026-119618-g: Apache mod_http2请求头表竞态远程代码执行](https://github.com/studiogangster/CVE-2026-119618)
 - [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
 - [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
 - [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
@@ -1313,6 +1319,13 @@
 - [CVE-2026-105211: ZITADEL Login V2 多漏洞会话接管](https://github.com/fixedbyreboot/CVE-2026-105211-POC)
 - [CVE-2026-114552: MailEnable CardDAV XXE任意文件读取](https://github.com/RossKeddy/CVE-2026-114552)
 - [CVE-2026-97229: GitLab CI正则表达式远程代码执行](https://github.com/wa6n3r/cve-2026-97229)
+- [CVE-2026-123751: WP Duplicate插件未授权文件上传远程代码执行](https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751)
+- [CVE-2026-129355: dufs WebDAV COPY越权覆盖已有文件](https://github.com/googlesky/CVE-2026-129355)
+- [CVE-2026-118989: WooCommerce产品导入插件重定向绕过SSRF](https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf)
+- [CVE-2026-129349: Apache Shiro LDAPRealm缓存认证绕过](https://github.com/googlesky/CVE-2026-129349)
+- [CVE-2026-129359: Magma orc8r硬编码凭据gRPC认证绕过](https://github.com/googlesky/CVE-2026-129359)
+- [CVE-2026-129360: Magma orc8r REST可伪造证书序列号认证绕过](https://github.com/googlesky/CVE-2026-129360)
+- [CVE-2026-129357: Magma NMS越权创建超级管理员账户](https://github.com/googlesky/CVE-2026-129357)
    
    
 ## <span id="head5"> 提权辅助相关</span>
