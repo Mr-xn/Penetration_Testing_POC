@@ -300,7 +300,7 @@
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag) | [CVE-2026-43284-c: iQOO Neo8 的 DirtyFrag 内核页缓存写漏洞复现](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
-- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i)
+- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405)
 - [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
@@ -1326,6 +1326,12 @@
 - [CVE-2026-129359: Magma orc8r硬编码凭据gRPC认证绕过](https://github.com/googlesky/CVE-2026-129359)
 - [CVE-2026-129360: Magma orc8r REST可伪造证书序列号认证绕过](https://github.com/googlesky/CVE-2026-129360)
 - [CVE-2026-129357: Magma NMS越权创建超级管理员账户](https://github.com/googlesky/CVE-2026-129357)
+- [CVE-2026-39808: Fortinet多产品命令注入与认证绕过漏洞利用集](https://github.com/Ghost-Bx1/fortinet-exploits)
+- [CVE-2026-116779: FreeSWITCH SIP MESSAGE未授权命令注入](https://github.com/pentestershell/CVE-2026-116779) | [CVE-2026-116779-b: jDownloads前台截图上传远程代码执行](https://github.com/Fad-X/CVE-20260-117551) | [CVE-2026-116779-c: FreeSWITCH SIP2Shell远程命令执行](https://github.com/ashrafzaryouh/CVE-2026-116779)
+- [CVE-2026-129494: CloudPaste代理接口未授权泄露WebDAV凭据](https://github.com/googlesky/CVE-2026-129494)
+- [CVE-2026-125423: Gitea自动初始化竞态导致远程代码执行](https://github.com/grigorovichvlad/CVE-2026-125423)
+- [CVE-2026-129493: Bolo博客文章查看密码未授权泄露](https://github.com/googlesky/CVE-2026-129493)
+- [CVE-2026-116331: PostgreSQL本地远程代码执行](https://github.com/notdenied/CVE-2026-116331-PoC)
    
    
 ## <span id="head5"> 提权辅助相关</span>
