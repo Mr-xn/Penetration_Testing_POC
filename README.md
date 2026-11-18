@@ -322,6 +322,7 @@
 - [CVE-2026-15315: Tapo C200摄像头会话令牌认证绕过](https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc)
 - [CVE-2026-112477: iOS IOSurfaceRoot内核UAF崩溃复现](https://github.com/Sparticle62ops/israce-probe)
 - [CVE-2026-111497: iOS Brotli解码器堆溢出代码执行](https://github.com/TimmyTurner51/brotli-lab)
+- [CVE-2026-29013: libcoap OSCORE的越界读内存破坏漏洞](https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro)
 
 ## <span id="head4">Web APP</span>
 
@@ -1186,7 +1187,7 @@
 - [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
-- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive) | [CVE-2026-109618-h: PHP会话上传进度代码注入漏洞](https://github.com/MammaniNelsonD/PHP2P4IM0NSHELL) | [CVE-2026-109618-i: PHP引擎预认证远程代码执行漏洞](https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE)
+- [CVE-2026-109618-exploit](https://github.com/junaire/CVE-2026-109618-exploit) | [php2shell-poc](https://github.com/ikow/php2shell-poc) | [CVE-2026-109618-b](https://github.com/MuhammadUwais/php2shell-php-fpm-rce) | [CVE-2026-109618-c](https://github.com/SquidSec/php2shell) | [CVE-2026-109618-d](https://github.com/ncpz/cloudflare-php-ctf-research) | [CVE-2026-109618-e](https://github.com/WKL-Sec/CVE-2026-109618) | [CVE-2026-109618-f: PHP解释器的分配失败路径释放后使用漏洞](https://github.com/LiliNothere/CVE-2026-109618) | [CVE-2026-109618-g: PHP 会话 UAF 链式远程代码执行漏洞](https://github.com/djad04/php2shell-deep-dive) | [CVE-2026-109618-h: PHP会话上传进度代码注入漏洞](https://github.com/MammaniNelsonD/PHP2P4IM0NSHELL) | [CVE-2026-109618-i: PHP引擎预认证远程代码执行漏洞](https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE) | [CVE-2026-109618-j: PHP运行时的未授权远程代码执行漏洞](https://github.com/ghostn4444/PHP2Shell) | [CVE-2026-109618-k: PHP运行时的未授权远程代码执行漏洞](https://github.com/Fkstone/php2shell-verdict) | [CVE-2026-109618-l: PHP会话上传进度的远程代码执行漏洞](https://github.com/tolmohq/php2shell-docs)
 - [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
 - [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
@@ -1254,7 +1255,7 @@
 - [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
 - [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
 - [CVE-2026-68524: Apache OFBiz 未授权远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-68524-POC)
-- [CVE-2026-90436: Apache Axis 未授权远程类实例化漏洞](https://github.com/fixedbyreboot/CVE-2026-90436-POC)
+- [CVE-2026-90436: Apache Axis 未授权远程类实例化漏洞](https://github.com/fixedbyreboot/CVE-2026-90436-POC) | [CVE-2026-90436-b: Apache Axis的不安全反射远程代码执行漏洞](https://github.com/dinosn/axis-cve-2026-90436-lab-poc)
 - [CVE-2026-92414: Apache Jackrabbit WebDAV 会话劫持漏洞](https://github.com/fixedbyreboot/CVE-2026-92414-POC)
 - [CVE-2026-11800: Keycloak JWT算法混淆认证绕过漏洞](https://github.com/sickwell/CVE-2026-11800) | [CVE-2026-11800-b: Keycloak JWT算法混淆认证绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-11800-POC)
 - [CVE-2026-86829: Apache Airflow XCom反序列化远程代码执行](https://github.com/googlesky/CVE-2026-86829)
@@ -1336,6 +1337,13 @@
 - [CVE-2026-112181: OpenKM社区版XXE与未授权远程代码执行漏洞](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce)
 - [nginx2root-由多个CVE漏洞串联的从nginx请求到宿主机root远程代码执行漏洞](https://mrxn.net/jswz/nginx2root-nginx-rce.html)
 - [Java4Shell（CVE-2026-114938）：Base64 解码器里的越界写如何导致未认证 RCE漏洞](https://mrxn.net/jswz/openjdk-java4shell-CVE-2026-114938-base64-rce.html)
+- [CVE-2026-78287: STAGGS插件的未授权远程代码执行漏洞](https://github.com/0xTerror/CVE-2026-78287)
+- [CVE-2026-83548: SonicWall SMA1000的未授权RCE漏洞](https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549)
+- [CVE-2026-59309: VMware vCenter vmdir的SRP认证绕过漏洞](https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC)
+- [CVE-2026-130354: phpMyFAQ的WebAuthn注册认证绕过漏洞](https://github.com/googlesky/CVE-2026-130354)
+- [CVE-2026-121684: Soledad主题的未授权远程代码执行漏洞](https://github.com/im0xfay/CVE-2026-121684)
+- [CVE-2026-63219: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/c0gnit00/GNSShell) | [CVE-2026-63219-b: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/Cyberuser-hash/CVE-2026-63219)
+- [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
    
    
 ## <span id="head5"> 提权辅助相关</span>
