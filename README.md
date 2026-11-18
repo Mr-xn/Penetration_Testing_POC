@@ -300,7 +300,7 @@
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag) | [CVE-2026-43284-c: iQOO Neo8 的 DirtyFrag 内核页缓存写漏洞复现](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
-- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405)
+- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) | [CVE-2026-98260-f: Redmi Note 15 Pro内核漏洞获取root](https://github.com/idk12345-desigh/lapis-mt6878-root) | [CVE-2026-98260-g: 联想TB710FU平板内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-tb710fu) | [CVE-2026-98260-h: vivo X200 Ultra内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot)
 - [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
@@ -1249,7 +1249,7 @@
 - [CVE-2026-123807: Signal K Server 资源接口路径遍历致 RCE 漏洞](https://github.com/qianlijaingshan/signalk-audit)
 - [CVE-2026-121653: Ivanti EPM Core 未授权 SQL 注入 RCE 漏洞](https://github.com/googlesky/CVE-2026-121653)
 - [CVE-2026-9198: IBM Langflow 未授权自动登录与代码执行链 RCE 漏洞](https://github.com/Edward-w-Jack/CVE-2026-9198)
-- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache) | [CVE-2026-119618-c: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/toeyhack/cve-2026-119618-apache-lab) | [CVE-2026-119618-d: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab) | [CVE-2026-119618-e: Apache mod_http2竞态内存损坏漏洞](https://github.com/terminat0r7031/CVE-2026-119618) | [CVE-2026-119618-f: Apache mod_http2竞态内存损坏漏洞](https://github.com/d4ytox/CVE-2026-119618) | [CVE-2026-119618-g: Apache mod_http2请求头表竞态远程代码执行](https://github.com/studiogangster/CVE-2026-119618)
+- [CVE-2026-119618: Apache httpd mod_http2 竞态堆损坏 RCE 漏洞](https://github.com/googlesky/CVE-2026-119618) | [CVE-2026-119618-b: Apache mod_http2 竞态条件堆损坏漏洞](https://github.com/geovanidps/cve-2026-119618-Apache) | [CVE-2026-119618-c: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/toeyhack/cve-2026-119618-apache-lab) | [CVE-2026-119618-d: Apache mod_http2头表竞态内存破坏漏洞](https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab) | [CVE-2026-119618-e: Apache mod_http2竞态内存损坏漏洞](https://github.com/terminat0r7031/CVE-2026-119618) | [CVE-2026-119618-f: Apache mod_http2竞态内存损坏漏洞](https://github.com/d4ytox/CVE-2026-119618) | [CVE-2026-119618-g: Apache mod_http2请求头表竞态远程代码执行](https://github.com/studiogangster/CVE-2026-119618) | [CVE-2026-119618-h: Apache mod_http2请求头竞争内存损坏漏洞](https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE)
 - [CVE-2026-119958: Windows LDAP 越界写远程代码执行漏洞](https://github.com/googlesky/CVE-2026-119958)
 - [CVE-2026-104711: Apache Struts OGNL 注入远程代码执行漏洞](https://github.com/fixedbyreboot/CVE-2026-104711-POC)
 - [CVE-2026-114656: Traefik mTLS 客户端证书校验绕过漏洞](https://github.com/fixedbyreboot/CVE-2026-114656-POC)
@@ -1332,6 +1332,8 @@
 - [CVE-2026-125423: Gitea自动初始化竞态导致远程代码执行](https://github.com/grigorovichvlad/CVE-2026-125423)
 - [CVE-2026-129493: Bolo博客文章查看密码未授权泄露](https://github.com/googlesky/CVE-2026-129493)
 - [CVE-2026-116331: PostgreSQL本地远程代码执行](https://github.com/notdenied/CVE-2026-116331-PoC)
+- [CVE-2026-111559: Batflat CMS联系表单SSTI远程代码执行漏洞](https://github.com/Tymbark7372/CVE-2026-111559)
+- [CVE-2026-112181: OpenKM社区版XXE与未授权远程代码执行漏洞](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1438,6 +1440,8 @@
 - [【Linux提权】CVE-2026-41651: PackageKit D-Bus事务标志竞争条件漏洞提权](https://github.com/0xv01d/CVE-2026-41651)
 - [【Linux提权】CVE-2026-80914: Linux内核蓝牙ISO套接字释放后使用漏洞提权](https://github.com/nanhang-950/CVE-2026-80914-POC)
 - [【Linux提权】CVE-2026-46331: Linux内核act_pedit越界写内存损坏漏洞提权](https://github.com/Ayataaki/CVE_2026_46331)
+- [【Windows提权】CVE-2026-38194: CorMem驱动的内核驱动映射漏洞利用提权](https://github.com/269s/Vuln-Driver-Mapper)
+- [【Linux提权】CVE-2026-95518: Pardus安装器TOCTOU包替换漏洞提权](https://github.com/ozcanpng/CVE-2026-95518)
 
   
 ## <span id="head6"> PC</span>
@@ -1659,7 +1663,7 @@
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 - [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
 - [CVE-2026-123014: iTerm2的x-man-page参数注入命令执行漏洞](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)
-- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1) | [CVE-2026-112611-b: CoreGraphics PDF 渲染越界写入漏洞](https://github.com/Rust505/CVE-2026-112611)
+- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1) | [CVE-2026-112611-b: CoreGraphics PDF 渲染越界写入漏洞](https://github.com/Rust505/CVE-2026-112611) | [CVE-2026-112611-c: CoreGraphics的PDF解析内存损坏漏洞](https://github.com/marksvia/CVE-2026-112611-oob)
 - [CVE-2026-83844: Microsoft Paint C2PA解析越界读拒绝服务](https://github.com/HackingLZ/CVE-2026-83844-public) | [CVE-2026-83844-b: Microsoft Paint 的 bfdb 字段越界读取漏洞](https://github.com/blkph0x/CVE-2026-83844_POC)
 - [CVE-2026-111760: Git子模块符号链接处理远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce)
 - [CVE-2026-124194: Outlook恶意msg文件NTLM哈希泄露漏洞](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak)
