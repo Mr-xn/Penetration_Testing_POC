@@ -1334,6 +1334,8 @@
 - [CVE-2026-116331: PostgreSQL本地远程代码执行](https://github.com/notdenied/CVE-2026-116331-PoC)
 - [CVE-2026-111559: Batflat CMS联系表单SSTI远程代码执行漏洞](https://github.com/Tymbark7372/CVE-2026-111559)
 - [CVE-2026-112181: OpenKM社区版XXE与未授权远程代码执行漏洞](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce)
+- [nginx2root-由多个CVE漏洞串联的从nginx请求到宿主机root远程代码执行漏洞](https://mrxn.net/jswz/nginx2root-nginx-rce.html)
+- [Java4Shell（CVE-2026-114938）：Base64 解码器里的越界写如何导致未认证 RCE漏洞](https://mrxn.net/jswz/openjdk-java4shell-CVE-2026-114938-base64-rce.html)
    
    
 ## <span id="head5"> 提权辅助相关</span>
