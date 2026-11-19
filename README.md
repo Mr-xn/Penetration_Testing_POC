@@ -1346,7 +1346,10 @@
 - [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
 - [CVE-2026-82025: WP File Manager任意文件上传远程代码执行漏洞](https://github.com/rxsklife/CVE-2026-82025)
 - [CVE-2026-127222: sglang的LoRA加载接口缺失授权漏洞](https://github.com/rahulreddykarne/CVE-2026-127222-sglang)
-- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc)
+- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell)
+- [CVE-2026-131850: ILIAS注册码列表ORDER BY SQL注入漏洞](https://github.com/murrez/CVE-2026-131850)
+- [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
+- [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1676,7 +1679,7 @@
 - [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 - [CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)
 - [CVE-2026-123014: iTerm2的x-man-page参数注入命令执行漏洞](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)
-- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1) | [CVE-2026-112611-b: CoreGraphics PDF 渲染越界写入漏洞](https://github.com/Rust505/CVE-2026-112611) | [CVE-2026-112611-c: CoreGraphics的PDF解析内存损坏漏洞](https://github.com/marksvia/CVE-2026-112611-oob)
+- [CVE-2026-112611: CoreGraphics的PDF着色越界写入漏洞](https://github.com/murk-sus/natsuk1) | [CVE-2026-112611-b: CoreGraphics PDF 渲染越界写入漏洞](https://github.com/Rust505/CVE-2026-112611) | [CVE-2026-112611-c: CoreGraphics的PDF解析内存损坏漏洞](https://github.com/marksvia/CVE-2026-112611-oob) | [CVE-2026-112611-d: CoreGraphics PDF着色器越界写漏洞](https://github.com/SKVLENT/CVE-2026-112611)
 - [CVE-2026-83844: Microsoft Paint C2PA解析越界读拒绝服务](https://github.com/HackingLZ/CVE-2026-83844-public) | [CVE-2026-83844-b: Microsoft Paint 的 bfdb 字段越界读取漏洞](https://github.com/blkph0x/CVE-2026-83844_POC)
 - [CVE-2026-111760: Git子模块符号链接处理远程代码执行漏洞](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce)
 - [CVE-2026-124194: Outlook恶意msg文件NTLM哈希泄露漏洞](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak)
@@ -1695,6 +1698,7 @@
 - [CVE-2026-126919: Chrome MimeHandler视图释放后使用漏洞](https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf)
 - [CVE-2026-126902: Chrome Mac共享文件符号链接跟随漏洞](https://github.com/abraxas/chrome-mac-webshare-symlink)
 - [CVE-2026-126915: Skia Vulkan渲染通道未初始化变量漏洞](https://github.com/abraxas/skia-vk-uninit-renderpass)
+- [CVE-2026-131842: Poppler pdfdetach路径穿越任意文件写入](https://github.com/googlesky/CVE-2026-131842)
 
 
 
