@@ -301,7 +301,7 @@
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
 - [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) | [CVE-2026-98260-f: Redmi Note 15 Pro内核漏洞获取root](https://github.com/idk12345-desigh/lapis-mt6878-root) | [CVE-2026-98260-g: 联想TB710FU平板内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-tb710fu) | [CVE-2026-98260-h: vivo X200 Ultra内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot)
-- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme) | [CVE-2026-43499-f: iQOO Z6的GhostLock内核漏洞临时root复现](https://github.com/bxffhss/iqoo-z6-temp-root)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
@@ -323,6 +323,7 @@
 - [CVE-2026-112477: iOS IOSurfaceRoot内核UAF崩溃复现](https://github.com/Sparticle62ops/israce-probe)
 - [CVE-2026-111497: iOS Brotli解码器堆溢出代码执行](https://github.com/TimmyTurner51/brotli-lab)
 - [CVE-2026-29013: libcoap OSCORE的越界读内存破坏漏洞](https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro)
+- [CVE-2026-71960: Cudy WR3000路由器MQTT命令注入漏洞](https://github.com/ShibbityShwab/cudy-wr3000v2-cve)
 
 ## <span id="head4">Web APP</span>
 
@@ -1346,12 +1347,13 @@
 - [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
 - [CVE-2026-82025: WP File Manager任意文件上传远程代码执行漏洞](https://github.com/rxsklife/CVE-2026-82025)
 - [CVE-2026-127222: sglang的LoRA加载接口缺失授权漏洞](https://github.com/rahulreddykarne/CVE-2026-127222-sglang)
-- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce)
+- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce) | [CVE-2026-114938-k: OpenJDK Base64解码器堆溢出漏洞PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) | [CVE-2026-114938-l: OpenJDK AVX-512 Base64堆溢出本地复现](https://github.com/fumioryoto/java4shell-poc) | [CVE-2026-114938-m: OpenJDK Base64堆溢出远程RCE链PoC](https://github.com/FebusAI/java4shell-poc) | [CVE-2026-114938-n: Spring Boot应用Java4Shell RCE复现](https://github.com/zulloper/cve-2026-114938-spring-poc) | [CVE-2026-114938-o: OpenJDK Base64堆溢出本地实验复现](https://github.com/eduxcode/java4shell-lab)
 - [CVE-2026-131850: ILIAS注册码列表ORDER BY SQL注入漏洞](https://github.com/murrez/CVE-2026-131850)
 - [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
 - [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
 - [CVE-2026-130587: OpenFunction租户PodSpec复制导致节点级越权漏洞](https://github.com/googlesky/CVE-2026-130587)
 - [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007)
+- [CVE-2026-95267: MCMS文件上传漏洞RCE](https://github.com/netuseradministrator/CVE-2026-95267)
    
    
 ## <span id="head5"> 提权辅助相关</span>
