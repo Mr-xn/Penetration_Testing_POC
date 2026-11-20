@@ -1342,14 +1342,16 @@
 - [CVE-2026-59309: VMware vCenter vmdir的SRP认证绕过漏洞](https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC)
 - [CVE-2026-130354: phpMyFAQ的WebAuthn注册认证绕过漏洞](https://github.com/googlesky/CVE-2026-130354)
 - [CVE-2026-121684: Soledad主题的未授权远程代码执行漏洞](https://github.com/im0xfay/CVE-2026-121684)
-- [CVE-2026-63219: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/c0gnit00/GNSShell) | [CVE-2026-63219-b: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/Cyberuser-hash/CVE-2026-63219)
+- [CVE-2026-63219: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/c0gnit00/GNSShell) | [CVE-2026-63219-b: GeoNetwork的XSLT未授权远程代码执行漏洞](https://github.com/Cyberuser-hash/CVE-2026-63219) | [CVE-2026-63219-c: GeoNetwork未授权远程代码执行漏洞](https://github.com/gzzcoo/GeoNetwork-UnauthenticatedRCE)
 - [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
 - [CVE-2026-82025: WP File Manager任意文件上传远程代码执行漏洞](https://github.com/rxsklife/CVE-2026-82025)
 - [CVE-2026-127222: sglang的LoRA加载接口缺失授权漏洞](https://github.com/rahulreddykarne/CVE-2026-127222-sglang)
-- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell)
+- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce)
 - [CVE-2026-131850: ILIAS注册码列表ORDER BY SQL注入漏洞](https://github.com/murrez/CVE-2026-131850)
 - [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
 - [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
+- [CVE-2026-130587: OpenFunction租户PodSpec复制导致节点级越权漏洞](https://github.com/googlesky/CVE-2026-130587)
+- [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1699,6 +1701,8 @@
 - [CVE-2026-126902: Chrome Mac共享文件符号链接跟随漏洞](https://github.com/abraxas/chrome-mac-webshare-symlink)
 - [CVE-2026-126915: Skia Vulkan渲染通道未初始化变量漏洞](https://github.com/abraxas/skia-vk-uninit-renderpass)
 - [CVE-2026-131842: Poppler pdfdetach路径穿越任意文件写入](https://github.com/googlesky/CVE-2026-131842)
+- [CVE-2026-121994: GDB远程调试桩连接远程代码执行漏洞](https://github.com/DeeBumG/CVE-2026-121994-POC)
+- [CVE-2026-131873: Gargoyle Plus解释器ReadAction栈缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-131873)
 
 
 
