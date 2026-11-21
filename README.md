@@ -1347,13 +1347,14 @@
 - [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
 - [CVE-2026-82025: WP File Manager任意文件上传远程代码执行漏洞](https://github.com/rxsklife/CVE-2026-82025)
 - [CVE-2026-127222: sglang的LoRA加载接口缺失授权漏洞](https://github.com/rahulreddykarne/CVE-2026-127222-sglang)
-- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce) | [CVE-2026-114938-k: OpenJDK Base64解码器堆溢出漏洞PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) | [CVE-2026-114938-l: OpenJDK AVX-512 Base64堆溢出本地复现](https://github.com/fumioryoto/java4shell-poc) | [CVE-2026-114938-m: OpenJDK Base64堆溢出远程RCE链PoC](https://github.com/FebusAI/java4shell-poc) | [CVE-2026-114938-n: Spring Boot应用Java4Shell RCE复现](https://github.com/zulloper/cve-2026-114938-spring-poc) | [CVE-2026-114938-o: OpenJDK Base64堆溢出本地实验复现](https://github.com/eduxcode/java4shell-lab)
+- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce) | [CVE-2026-114938-k: OpenJDK Base64解码器堆溢出漏洞PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) | [CVE-2026-114938-l: OpenJDK AVX-512 Base64堆溢出本地复现](https://github.com/fumioryoto/java4shell-poc) | [CVE-2026-114938-m: OpenJDK Base64堆溢出远程RCE链PoC](https://github.com/FebusAI/java4shell-poc) | [CVE-2026-114938-n: Spring Boot应用Java4Shell RCE复现](https://github.com/zulloper/cve-2026-114938-spring-poc) | [CVE-2026-114938-o: OpenJDK Base64堆溢出本地实验复现](https://github.com/eduxcode/java4shell-lab) | [CVE-2026-114938-p: OpenJDK Base64解码器的堆越界写远程代码执行漏洞](https://github.com/alt3kx/CVE-2026-114938)
 - [CVE-2026-131850: ILIAS注册码列表ORDER BY SQL注入漏洞](https://github.com/murrez/CVE-2026-131850)
 - [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
 - [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
 - [CVE-2026-130587: OpenFunction租户PodSpec复制导致节点级越权漏洞](https://github.com/googlesky/CVE-2026-130587)
-- [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007)
+- [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007) | [CVE-2026-123007-b: nginx HTTP/2流控整数下溢远程代码执行漏洞](https://github.com/akarkode/nginx-http2-cve-2026-123007-lab) | [CVE-2026-123007-c: nginx HTTP/2流控整数下溢漏洞复现环境](https://github.com/0xcypher110/nginx2root_lab)
 - [CVE-2026-95267: MCMS文件上传漏洞RCE](https://github.com/netuseradministrator/CVE-2026-95267)
+- [CVE-2026-132252: October CMS的外部图片校验SSRF漏洞](https://github.com/googlesky/CVE-2026-132252)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1462,6 +1463,7 @@
 - [【Linux提权】CVE-2026-46331: Linux内核act_pedit越界写内存损坏漏洞提权](https://github.com/Ayataaki/CVE_2026_46331)
 - [【Windows提权】CVE-2026-38194: CorMem驱动的内核驱动映射漏洞利用提权](https://github.com/269s/Vuln-Driver-Mapper)
 - [【Linux提权】CVE-2026-95518: Pardus安装器TOCTOU包替换漏洞提权](https://github.com/ozcanpng/CVE-2026-95518)
+- [【Windows提权】CVE-2026-97798: Windows WER的子进程参数篡改漏洞提权](https://github.com/noname2kz/LPE_CVE-2026-97798_Research)
 
   
 ## <span id="head6"> PC</span>
