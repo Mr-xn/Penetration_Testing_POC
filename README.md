@@ -1366,6 +1366,14 @@
 - [CVE-2026-132747: Vtiger CRM导出功能selected_ids参数SQL注入](https://github.com/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi)
 - [CVE-2026-132748: Vtiger CRM配置编辑器PHP代码注入](https://github.com/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection)
 - [CVE-2026-132749: Vtiger CRM报表高级过滤参数盲SQL注入](https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi)
+- [CVE-2026-58192: Appium存储插件未授权路径穿越任意文件删除漏洞](https://github.com/googlesky/CVE-2026-58192)
+- [CVE-2026-104883: Contao主题导入能力自授予远程代码执行漏洞](https://github.com/googlesky/CVE-2026-104883)
+- [CVE-2026-104882: Contao CSV导入越权写入内容记录漏洞](https://github.com/googlesky/CVE-2026-104882)
+- [CVE-2026-122244: Budibase绑定预览存储型跨权限XSS漏洞](https://github.com/googlesky/CVE-2026-122244)
+- [CVE-2026-129289: PHP-FPM FastCGI记录走私远程代码执行漏洞](https://github.com/tc4dy/CVE-2026-129289-PoC-Exploit)
+- [CVE-2026-104885: OpenRemote跨realm会话断开授权绕过漏洞](https://github.com/googlesky/CVE-2026-104885)
+- [CVE-2026-104881: Contao新闻通讯频道越权操作漏洞](https://github.com/googlesky/CVE-2026-104881)
+- [CVE-2026-104773: CKAN注册视图会话固定劫持漏洞](https://github.com/googlesky/CVE-2026-104773)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1475,6 +1483,7 @@
 - [【Windows提权】CVE-2026-38194: CorMem驱动的内核驱动映射漏洞利用提权](https://github.com/269s/Vuln-Driver-Mapper)
 - [【Linux提权】CVE-2026-95518: Pardus安装器TOCTOU包替换漏洞提权](https://github.com/ozcanpng/CVE-2026-95518)
 - [【Windows提权】CVE-2026-97798: Windows WER的子进程参数篡改漏洞提权](https://github.com/noname2kz/LPE_CVE-2026-97798_Research)
+- [【Linux提权】CVE-2026-99491: Android Wacom HID驱动的释放后使用漏洞提权](https://github.com/Yunnijian/CVE-2026-99491)
 
   
 ## <span id="head6"> PC</span>
