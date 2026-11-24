@@ -326,6 +326,8 @@
 - [CVE-2026-71960: Cudy WR3000路由器MQTT命令注入漏洞](https://github.com/ShibbityShwab/cudy-wr3000v2-cve)
 - [CVE-2026-21385: Samsung KGSL对齐符号扩展越界GPU虚拟地址](https://github.com/zhanghangjie/CVE-2026-21385-CYL1)
 - [CVE-2026-99491: Android内核CVE-2026-99491漏洞利用插件](https://github.com/FatBrother1/hapt-99491)
+- [CVE-2026-113910: Apple LZBITMAP 解压内核内存泄露漏洞](https://github.com/ecc521/CVE-2026-113910)
+- [CVE-2026-112554: IOStorageFamily GPT 分区名越界读取漏洞](https://github.com/ecc521/CVE-2026-112554)
 
 ## <span id="head4">Web APP</span>
 
@@ -1220,7 +1222,7 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) | [CVE-2026-123158-h: OpenSSH超长口令密码认证绕过漏洞](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) | [CVE-2026-123158-h: OpenSSH超长口令密码认证绕过漏洞](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass) | [CVE-2026-123158-i: OpenSSH musl 密码认证绕过漏洞](https://github.com/0xsyr0/CVE-2026-123158-POC)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit) | [CVE-2026-119977-b: WordPress 核心升级窗口 TOCTOU 远程代码执行](https://github.com/BugStealers/CVE-2026-119977) | [CVE-2026-119977-c: WordPress升级暂存路径未授权远程代码执行](https://github.com/BlackHatExploitation/CVE-2026-119977)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
@@ -1376,6 +1378,13 @@
 - [CVE-2026-104881: Contao新闻通讯频道越权操作漏洞](https://github.com/googlesky/CVE-2026-104881)
 - [CVE-2026-104773: CKAN注册视图会话固定劫持漏洞](https://github.com/googlesky/CVE-2026-104773)
 - [CVE-2026-58209: nats-server MQTT保留消息订阅权限绕过漏洞](https://github.com/googlesky/CVE-2026-58209)
+- [CVE-2026-9506: Bagisto 未授权路径穿越任意文件读取漏洞](https://github.com/0x5t4l1n/CVE-2026-9506)
+- [CVE-2026-132147: Debbugs version.cgi 本地文件包含漏洞](https://github.com/ly1g3/debian-bts-CVE-2026-132147)
+- [CVE-2026-104099: Fabio 路径未归一化 ACL 绕过漏洞](https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass) | [CVE-2026-104099-b: Fabio 未归一化路径 ACL 绕过漏洞](https://github.com/googlesky/CVE-2026-104099)
+- [CVE-2026-49952: Discuz X5.0 认证绕过远程代码执行漏洞](https://github.com/caviar-dynamo/CVE-2026-49952)
+- [CVE-2026-59988: django-docutils RST 本地文件读取漏洞](https://github.com/googlesky/CVE-2026-59988)
+- [CVE-2026-114516: Etherpad 静态资源路径穿越文件读取漏洞](https://github.com/googlesky/CVE-2026-114516)
+- [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1470,9 +1479,9 @@
 - [CVE-2026-17106: CopyEscape - Docker 容器逃逸 / 宿主机任意文件覆盖漏洞 PoC](https://github.com/masasron/CopyEscape-CVE-2026-17106)
 - [CVE-2026-64600: RefluXFS - Linux 内核 XFS 写时复制（CoW）竞争条件本地提权 PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)
 - [CVE-2026-98432: Linux 内核 TCP 释放后重用（UAF）竞争条件漏洞利用 PoC](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit) | [【Linux提权】CVE-2026-98432-b: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/rootagi/CVE-2026-98432) | [【Linux提权】CVE-2026-98432-c: Linux 内核 TCP 的 inet_opt 释放后使用漏洞提权](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack) | [【Linux提权】CVE-2026-98432-d: Linux 内核 ireq_opt 对象释放后使用漏洞提权](https://github.com/ylh440104/cve-2026-98432-chain)
-- [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root) | [【Linux提权】CVE-2026-43499-c: OnePlus Ace5竞速版GhostLock内核漏洞提权](https://github.com/BlackIce417/root-oplusace5) | [【Linux提权】CVE-2026-43499-d: Samsung内核futex PI UAF获取root权限提权](https://github.com/zhanghangjie/CVE-2026-43499-CYL1)
+- [CVE-2026-43499: Android内核futex PI释放后利用提权](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) | [【Linux提权】CVE-2026-43499-b: 小米13 的内核 futex PI UAF 漏洞提权](https://github.com/realskyrin/fuxi-temp-root) | [【Linux提权】CVE-2026-43499-c: OnePlus Ace5竞速版GhostLock内核漏洞提权](https://github.com/BlackIce417/root-oplusace5) | [【Linux提权】CVE-2026-43499-d: Samsung内核futex PI UAF获取root权限提权](https://github.com/zhanghangjie/CVE-2026-43499-CYL1) | [【Linux提权】CVE-2026-43499-e: iQOO Neo5 内核 futex PI 释放后使用漏洞提权](https://github.com/stellaqwq/ghostlock-root5-pd2118c)
 - [CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232-RUST-POC)
-- [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo) | [【Linux提权】CVE-2026-98260-c: 三星S24 Ultra定时器UAF内核漏洞提权](https://github.com/orumanayurpanjayat-ux/SamTimer) | [【Linux提权】CVE-2026-98260-d: GhostKey Android内核定时器释放后使用漏洞提权](https://github.com/jonrazta89/SamGhostKey) | [【Linux提权】CVE-2026-98260-e: 小米17 Ultra内核定时器释放后使用漏洞提权](https://github.com/skyrocketingHong/CVE-2026-98260_nezha) | [【Linux提权】CVE-2026-98260-f: 三星S24 Ultra内核定时器释放后使用漏洞提权](https://github.com/Reallyliked21/galaxy-s24u-dzj3-temp-root) | [【Linux提权】CVE-2026-98260-g: Samsung内核POSIX CPU定时器UAF获取root提权](https://github.com/zhanghangjie/CVE-2026-98260-CYL1)
+- [【Linux提权】CVE-2026-98260: vivo X200 Pro 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/whooslizi/infinitycore-x200pro) | [【Linux提权】CVE-2026-98260-b: iQOO Z9 Turbo 的内核 POSIX 定时器 UAF 漏洞提权](https://github.com/Yukaneko520/RootMyZ9Turbo) | [【Linux提权】CVE-2026-98260-c: 三星S24 Ultra定时器UAF内核漏洞提权](https://github.com/orumanayurpanjayat-ux/SamTimer) | [【Linux提权】CVE-2026-98260-d: GhostKey Android内核定时器释放后使用漏洞提权](https://github.com/jonrazta89/SamGhostKey) | [【Linux提权】CVE-2026-98260-e: 小米17 Ultra内核定时器释放后使用漏洞提权](https://github.com/skyrocketingHong/CVE-2026-98260_nezha) | [【Linux提权】CVE-2026-98260-f: 三星S24 Ultra内核定时器释放后使用漏洞提权](https://github.com/Reallyliked21/galaxy-s24u-dzj3-temp-root) | [【Linux提权】CVE-2026-98260-g: Samsung内核POSIX CPU定时器UAF获取root提权](https://github.com/zhanghangjie/CVE-2026-98260-CYL1) | [【Linux提权】CVE-2026-98260-h: Android 内核 POSIX CPU 定时器释放后使用漏洞提权](https://github.com/okk30721-cell/cve-2026-98260-ksu)
 - [【Linux提权】CVE-2026-43284: Redmi K50的Android内核DirtyFrag任意写漏洞提权](https://github.com/noctide/redmi-k50-temp-root) | [【Linux提权】CVE-2026-43284-b: iQOO Neo7竞速版DirtyFrag页缓存写内核漏洞提权](https://github.com/q181555/pd2232-dirtyfrag)
 - [【Windows提权】CVE-2026-81963: Windows更新栈CBS OnePackage dpx.dll侧加载漏洞提权](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)
 - [【Windows提权】CVE-2026-2039819: HWiNFO 内核驱动的 IOCTL 越权访问漏洞提权](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC)
