@@ -300,8 +300,8 @@
 - [CVE-2026-43284](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) | [CVE-2026-43284-b: 三星手机内核 DirtyFrag 页面缓存写漏洞](https://github.com/Jean7z/DFRoot-DirtyFrag) | [CVE-2026-43284-c: iQOO Neo8 的 DirtyFrag 内核页缓存写漏洞复现](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root)
 - [CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051)
 - [CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550)
-- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) | [CVE-2026-98260-f: Redmi Note 15 Pro内核漏洞获取root](https://github.com/idk12345-desigh/lapis-mt6878-root) | [CVE-2026-98260-g: 联想TB710FU平板内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-tb710fu) | [CVE-2026-98260-h: vivo X200 Ultra内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot)
-- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme) | [CVE-2026-43499-f: iQOO Z6的GhostLock内核漏洞临时root复现](https://github.com/bxffhss/iqoo-z6-temp-root) | [CVE-2026-43499-g: realme RMX3031 GhostLock 内核漏洞利用](https://github.com/rubnet/ghostlock-RMX3031)
+- [CVE-2026-98260: 小米17 Pro Max内核的本地提权漏洞](https://github.com/starriv/CVE-2026-98260-Xiaomi-17-Pro-Max) | [CVE-2026-98260-b: 三星S25 FE的timerfd内核漏洞获取Root权限](https://github.com/MocLG/Time-My-Galaxy) | [CVE-2026-98260-c: 荣耀MagicOS内核定时器UAF本地提权漏洞](https://github.com/qq2770355800/ExtractKit) | [CVE-2026-98260-d: vivo Y500i的内核本地提权漏洞](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) | [CVE-2026-98260-e: OPPO Pad 3内核漏洞临时root工具链](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) | [CVE-2026-98260-f: Redmi Note 15 Pro内核漏洞获取root](https://github.com/idk12345-desigh/lapis-mt6878-root) | [CVE-2026-98260-g: 联想TB710FU平板内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-tb710fu) | [CVE-2026-98260-h: vivo X200 Ultra内核漏洞获取root](https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot) | [CVE-2026-98260-i: 三星Galaxy A55内核漏洞获取root权限](https://github.com/minhmc2007/CVE-2026-98260-My-A55)
+- [CVE-2026-43499: BlackBerry KEYone内核的本地提权漏洞](https://github.com/giannoccarol/root-key1) | [CVE-2026-43499-b: iQOO Neo5的futex UAF内核漏洞临时Root利用](https://github.com/Viper-Boss/iqoo-neo5-temp-root) | [CVE-2026-43499-c: Fire TV Stick的GhostLock内核漏洞](https://github.com/DarkDevil-937/make-it-root) | [CVE-2026-43499-d: Android arm64内核漏洞ROOT适配框架](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) | [CVE-2026-43499-e: 小米 10S GhostLock 内核本地提权漏洞](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme) | [CVE-2026-43499-f: iQOO Z6的GhostLock内核漏洞临时root复现](https://github.com/bxffhss/iqoo-z6-temp-root) | [CVE-2026-43499-g: realme RMX3031 GhostLock 内核漏洞利用](https://github.com/rubnet/ghostlock-RMX3031) | [CVE-2026-43499-h: HONOR 9X GhostLock内核futex漏洞](https://github.com/xiaobright/ghostlock-hlk-al00)
 - [CVE-2026-58868: Android HEIF 网格图像堆缓冲区溢出漏洞](https://github.com/redfishrouge/CVE-2026-58868-PoC)
 - [CVE-2026-98499: Linux内核Wacom HID驱动的堆越界读漏洞](https://github.com/woshigenm/CVE-2026-98499)
 - [CVE-2026-21155: 三星Exynos S-Boot的签名验证绕过漏洞](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)
@@ -1291,7 +1291,7 @@
 - [CVE-2026-126997: JeecgBoot 的未授权SSRF凭证窃取漏洞](https://github.com/evenomn/CVE-2026-126997)
 - [CVE-2026-110697: Red Hat Quay机器人列表SQL通配符注入漏洞](https://github.com/googlesky/CVE-2026-110697)
 - [CVE-2026-34265: SAP DIAG协议预认证内存破坏漏洞](https://github.com/redrays-io/SAP-DIAG-Memory-Corruption-CVE-2026-34265)
-- [CVE-2026-6460: PostgreSQL复合类型混淆内存破坏漏洞](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460)
+- [CVE-2026-6460: PostgreSQL复合类型混淆内存破坏漏洞](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460) | [CVE-2026-6460-b: PostgreSQL复合类型混淆远程代码执行漏洞](https://github.com/gabrielunknown/CVE-2026-6460_PostgreSQL_RCE)
 - [CVE-2026-39987: Marimo终端WebSocket未授权远程代码执行漏洞](https://github.com/0xv01d/CVE-2026-39987) | [CVE-2026-39987-b: Marimo的终端WebSocket未授权远程代码执行漏洞](https://github.com/Arnau029/CVE-2026-39987-PoC)
 - [CVE-2026-119077: ELEX HelpDesk PHP对象注入远程代码执行漏洞](https://github.com/im0xfay/CVE-2026-119077)
 - [CVE-2026-53787: Magento Amasty Order Attributes文件上传漏洞](https://github.com/karthi-the-hacker/CVE-2026-53787)
@@ -1361,7 +1361,7 @@
 - [CVE-2026-132252: October CMS的外部图片校验SSRF漏洞](https://github.com/googlesky/CVE-2026-132252)
 - [CVE-2026-73504: Cassandra JDBC Wrapper 认证令牌日志信息泄露](https://github.com/googlesky/CVE-2026-73504)
 - [CVE-2026-129987: Dokploy 数据库密码修改命令注入远程代码执行](https://github.com/evenomn/CVE-2026-129987)
-- [CVE-2026-123633: Nginx HTTP/2 远程代码执行漏洞利用集合](https://github.com/0xsaju/nginx-exploits)
+- [CVE-2026-123633: Nginx HTTP/2 远程代码执行漏洞利用集合](https://github.com/0xsaju/nginx-exploits) | [CVE-2026-123633-b: NGINX HTTP/2使用后释放远程代码执行漏洞](https://github.com/tc4dy/CVE-2026-123633-PoC-Toolkit)
 - [CVE-2026-71319: Nuxt DevTools未授权RPC命令执行漏洞](https://github.com/TazmiDev/CVE-2026-71319)
 - [CVE-2026-62955: baserCMS主题文件路径校验绕过任意写入](https://github.com/googlesky/CVE-2026-62955)
 - [CVE-2026-132745: Vtiger CRM认证后盲SQL注入漏洞](https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi)
@@ -1387,6 +1387,7 @@
 - [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
 - [CVE-2026-123903: VMware vCenter vmdir 认证绕过漏洞](https://github.com/dinosn/CVE-2026-123903)
 - [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914)
+- [CVE-2026-129244: GeoServer未授权远程代码执行漏洞链](https://github.com/Crypto-Cat/geoserver-unauth-rce-poc)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1497,6 +1498,7 @@
 - [【Linux提权】CVE-2026-95518: Pardus安装器TOCTOU包替换漏洞提权](https://github.com/ozcanpng/CVE-2026-95518)
 - [【Windows提权】CVE-2026-97798: Windows WER的子进程参数篡改漏洞提权](https://github.com/noname2kz/LPE_CVE-2026-97798_Research)
 - [【Linux提权】CVE-2026-99491: Android Wacom HID驱动的释放后使用漏洞提权](https://github.com/Yunnijian/CVE-2026-99491)
+- [【Windows提权】CVE-2026-69451: Windows fastprox任意用户密码修改漏洞提权](https://github.com/CreeperMPG/PasswordToolCVE)
 
   
 ## <span id="head6"> PC</span>
