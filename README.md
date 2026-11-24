@@ -3024,6 +3024,8 @@
 - [dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) 把上游 `reverse-skill` 的 86 个 skill 原样封装成 dsh Cordis 插件，适用于逆向工程、渗透测试和安全研究等场景，安装后可直接按需加载。
 - [pwn-skill](https://github.com/BountyForge-xyz/pwn-skill)：面向二进制利用与 CTF Pwn 的 Agent Skill，覆盖栈溢出、堆利用、格式化字符串、内核及 seccomp 绕过等场景，可供 AI 编码助手按需调用。
 - [rea](https://github.com/morluto/rea)：一个借助 AI Agent 进行逆向工程的工具，可从应用行为分析一直深入到原生二进制文件。
+- [context1337](https://github.com/wgpsec/context1337)：渗透测试 skill/字典/EXP 检索与自动推荐工具，团队安全知识库
+- [AboutSecurity](https://github.com/wgpsec/AboutSecurity)：渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论
 
 
 
