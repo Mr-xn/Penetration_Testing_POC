@@ -1385,6 +1385,7 @@
 - [CVE-2026-59988: django-docutils RST 本地文件读取漏洞](https://github.com/googlesky/CVE-2026-59988)
 - [CVE-2026-114516: Etherpad 静态资源路径穿越文件读取漏洞](https://github.com/googlesky/CVE-2026-114516)
 - [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
+- [CVE-2026-123903: VMware vCenter vmdir 认证绕过漏洞](https://github.com/dinosn/CVE-2026-123903)
    
    
 ## <span id="head5"> 提权辅助相关</span>
