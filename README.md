@@ -325,6 +325,7 @@
 - [CVE-2026-29013: libcoap OSCORE的越界读内存破坏漏洞](https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro)
 - [CVE-2026-71960: Cudy WR3000路由器MQTT命令注入漏洞](https://github.com/ShibbityShwab/cudy-wr3000v2-cve)
 - [CVE-2026-21385: Samsung KGSL对齐符号扩展越界GPU虚拟地址](https://github.com/zhanghangjie/CVE-2026-21385-CYL1)
+- [CVE-2026-99491: Android内核CVE-2026-99491漏洞利用插件](https://github.com/FatBrother1/hapt-99491)
 
 ## <span id="head4">Web APP</span>
 
@@ -1374,6 +1375,7 @@
 - [CVE-2026-104885: OpenRemote跨realm会话断开授权绕过漏洞](https://github.com/googlesky/CVE-2026-104885)
 - [CVE-2026-104881: Contao新闻通讯频道越权操作漏洞](https://github.com/googlesky/CVE-2026-104881)
 - [CVE-2026-104773: CKAN注册视图会话固定劫持漏洞](https://github.com/googlesky/CVE-2026-104773)
+- [CVE-2026-58209: nats-server MQTT保留消息订阅权限绕过漏洞](https://github.com/googlesky/CVE-2026-58209)
    
    
 ## <span id="head5"> 提权辅助相关</span>
