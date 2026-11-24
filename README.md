@@ -1386,6 +1386,7 @@
 - [CVE-2026-114516: Etherpad 静态资源路径穿越文件读取漏洞](https://github.com/googlesky/CVE-2026-114516)
 - [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
 - [CVE-2026-123903: VMware vCenter vmdir 认证绕过漏洞](https://github.com/dinosn/CVE-2026-123903)
+- [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914)
    
    
 ## <span id="head5"> 提权辅助相关</span>
