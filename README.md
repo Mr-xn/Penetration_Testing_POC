@@ -1386,7 +1386,7 @@
 - [CVE-2026-114516: Etherpad 静态资源路径穿越文件读取漏洞](https://github.com/googlesky/CVE-2026-114516)
 - [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
 - [CVE-2026-123903: VMware vCenter vmdir 认证绕过漏洞](https://github.com/dinosn/CVE-2026-123903)
-- [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914)
+- [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914) | [CVE-2026-131914-c: Idunno.AntiCsrf无密钥反序列化漏洞](https://github.com/abraxas/cve-2026-131914-idunno-anticsrf-deserialization)
 - [CVE-2026-129244: GeoServer未授权远程代码执行漏洞链](https://github.com/Crypto-Cat/geoserver-unauth-rce-poc)
 - [CVE-2026-123890: VMware vCenter vmdir SRP会话密钥认证绕过](https://github.com/cveForge/CVE-2026-123890)
 - [CVE-2026-76466: Cisco Expressway硬编码凭据获取root权限](https://github.com/cveForge/CVE-2026-76466)
@@ -1401,6 +1401,10 @@
 - [CVE-2026-123039: Check Point Quantum敏感端点未授权访问](https://github.com/cveForge/CVE-2026-123039)
 - [CVE-2026-19868: SonicOS管理接口凭据明文传输](https://github.com/cveForge/CVE-2026-19868)
 - [CVE-2026-118527: Ivanti Connect Secure命令注入远程代码执行](https://github.com/cveForge/CVE-2026-118527)
+- [CVE-2026-130007: k8s-mcp-server SSE传输未授权访问漏洞](https://github.com/abraxas/cve-2026-130007-k8smcp-sse-noauth)
+- [CVE-2026-77918: Gogs私有分叉仓库信息泄露漏洞](https://github.com/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918)
+- [CVE-2026-33704: Chamilo LMS大文件上传扩展名绕过漏洞](https://github.com/duypt02/CVE-2026-33704-PoC)
+- [CVE-2026-63402: i18next深层合并原型污染漏洞](https://github.com/googlesky/CVE-2026-63402)
    
    
 ## <span id="head5"> 提权辅助相关</span>
