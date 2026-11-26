@@ -1386,7 +1386,7 @@
 - [CVE-2026-114516: Etherpad 静态资源路径穿越文件读取漏洞](https://github.com/googlesky/CVE-2026-114516)
 - [CVE-2026-77367: daptin 排序参数未授权 SQL 注入漏洞](https://github.com/googlesky/CVE-2026-77367)
 - [CVE-2026-123903: VMware vCenter vmdir 认证绕过漏洞](https://github.com/dinosn/CVE-2026-123903)
-- [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914) | [CVE-2026-131914-c: Idunno.AntiCsrf无密钥反序列化漏洞](https://github.com/abraxas/cve-2026-131914-idunno-anticsrf-deserialization)
+- [CVE-2026-131914: Idunno.AntiCsrf ObjectStateFormatter反序列化未授权远程代码执行漏洞](https://github.com/dinosn/cve-2026-131914-poc) | [CVE-2026-131914-b](https://github.com/l0lsec/CVE-2026-131914) | [CVE-2026-131914-c: Idunno.AntiCsrf无密钥反序列化漏洞](https://github.com/abraxas/cve-2026-131914-idunno-anticsrf-deserialization) | [CVE-2026-131914-d: Idunno AntiCsrf 模块反序列化远程代码执行漏洞](https://github.com/Hakchandara/CVE-2026-131914)
 - [CVE-2026-129244: GeoServer未授权远程代码执行漏洞链](https://github.com/Crypto-Cat/geoserver-unauth-rce-poc)
 - [CVE-2026-123890: VMware vCenter vmdir SRP会话密钥认证绕过](https://github.com/cveForge/CVE-2026-123890)
 - [CVE-2026-76466: Cisco Expressway硬编码凭据获取root权限](https://github.com/cveForge/CVE-2026-76466)
@@ -1407,6 +1407,7 @@
 - [CVE-2026-63402: i18next深层合并原型污染漏洞](https://github.com/googlesky/CVE-2026-63402)
 - [CVE-2026-135207: Healthchecks 邮箱验证令牌绑定绕过漏洞](https://github.com/googlesky/CVE-2026-135207)
 - [CVE-2026-135154: Tolgee 未验证邮箱 MFA 注册授权绕过漏洞](https://github.com/googlesky/CVE-2026-135154)
+- [CVE-2026-135155: PodFetch 播客添加接口未授权服务端请求漏洞](https://github.com/googlesky/CVE-2026-135155)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1518,6 +1519,7 @@
 - [【Windows提权】CVE-2026-97798: Windows WER的子进程参数篡改漏洞提权](https://github.com/noname2kz/LPE_CVE-2026-97798_Research)
 - [【Linux提权】CVE-2026-99491: Android Wacom HID驱动的释放后使用漏洞提权](https://github.com/Yunnijian/CVE-2026-99491)
 - [【Windows提权】CVE-2026-69451: Windows fastprox任意用户密码修改漏洞提权](https://github.com/CreeperMPG/PasswordToolCVE)
+- [【Linux提权】CVE-2026-53361: Android 内核 AF_UNIX UAF 凭据覆写漏洞提权](https://github.com/Aoki-Shinshi/CVE-2026-53361)
 
   
 ## <span id="head6"> PC</span>
