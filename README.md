@@ -1351,7 +1351,7 @@
 - [CVE-2026-130347: phpMyFAQ的密码重置认证绕过漏洞](https://github.com/googlesky/CVE-2026-130347)
 - [CVE-2026-82025: WP File Manager任意文件上传远程代码执行漏洞](https://github.com/rxsklife/CVE-2026-82025)
 - [CVE-2026-127222: sglang的LoRA加载接口缺失授权漏洞](https://github.com/rahulreddykarne/CVE-2026-127222-sglang)
-- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce) | [CVE-2026-114938-k: OpenJDK Base64解码器堆溢出漏洞PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) | [CVE-2026-114938-l: OpenJDK AVX-512 Base64堆溢出本地复现](https://github.com/fumioryoto/java4shell-poc) | [CVE-2026-114938-m: OpenJDK Base64堆溢出远程RCE链PoC](https://github.com/FebusAI/java4shell-poc) | [CVE-2026-114938-n: Spring Boot应用Java4Shell RCE复现](https://github.com/zulloper/cve-2026-114938-spring-poc) | [CVE-2026-114938-o: OpenJDK Base64堆溢出本地实验复现](https://github.com/eduxcode/java4shell-lab) | [CVE-2026-114938-p: OpenJDK Base64解码器的堆越界写远程代码执行漏洞](https://github.com/alt3kx/CVE-2026-114938) | [CVE-2026-114938-q: OpenJDK Base64 解码器内存损坏漏洞实验环境](https://github.com/rzkyp/java4shell-lab) | [CVE-2026-114938-r: Java Base64解码器堆缓冲区溢出漏洞](https://github.com/crash00xd/java2shell-poc)
+- [CVE-2026-114938: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) | [CVE-2026-114938-b: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/r3dvei1/java4shell) | [CVE-2026-114938-c: OpenJDK Java4Shell Base64解码堆越界写漏洞](https://github.com/ikow/java4shell-poc) | [CVE-2026-114938-d: OpenJDK Base64解码器堆越界写复现](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) | [CVE-2026-114938-e: OpenJDK Base64解码器越界写崩溃复现](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) | [CVE-2026-114938-f: OpenJDK Base64越界写漏洞复现实验室](https://github.com/zake1god/java2shell) | [CVE-2026-114938-g: OpenJDK Base64解码堆溢出远程代码执行](https://github.com/TahuCryptsi/poc-cve-2026-114938-java4shell-base64-oob) | [CVE-2026-114938-h: OpenJDK Base64解码器堆溢出攻击实验](https://github.com/Dungsocool/CVE-2026-114938) | [CVE-2026-114938-i: OpenJDK Base64解码器堆溢出利用链](https://github.com/chjwoo7/java4shell) | [CVE-2026-114938-j: OpenJDK AVX-512 Base64解码堆溢出RCE](https://github.com/zejunyang/java4shell-rce) | [CVE-2026-114938-k: OpenJDK Base64解码器堆溢出漏洞PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) | [CVE-2026-114938-l: OpenJDK AVX-512 Base64堆溢出本地复现](https://github.com/fumioryoto/java4shell-poc) | [CVE-2026-114938-m: OpenJDK Base64堆溢出远程RCE链PoC](https://github.com/FebusAI/java4shell-poc) | [CVE-2026-114938-n: Spring Boot应用Java4Shell RCE复现](https://github.com/zulloper/cve-2026-114938-spring-poc) | [CVE-2026-114938-o: OpenJDK Base64堆溢出本地实验复现](https://github.com/eduxcode/java4shell-lab) | [CVE-2026-114938-p: OpenJDK Base64解码器的堆越界写远程代码执行漏洞](https://github.com/alt3kx/CVE-2026-114938) | [CVE-2026-114938-q: OpenJDK Base64 解码器内存损坏漏洞实验环境](https://github.com/rzkyp/java4shell-lab) | [CVE-2026-114938-r: Java Base64解码器堆缓冲区溢出漏洞](https://github.com/crash00xd/java2shell-poc) | [CVE-2026-114938-s: TeamCity Kotlin DSL 沙箱逃逸远程代码执行漏洞](https://github.com/jburgess-r7/java4shell-teamcity-poc)
 - [CVE-2026-131850: ILIAS注册码列表ORDER BY SQL注入漏洞](https://github.com/murrez/CVE-2026-131850)
 - [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
 - [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
@@ -1405,6 +1405,8 @@
 - [CVE-2026-77918: Gogs私有分叉仓库信息泄露漏洞](https://github.com/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918)
 - [CVE-2026-33704: Chamilo LMS大文件上传扩展名绕过漏洞](https://github.com/duypt02/CVE-2026-33704-PoC)
 - [CVE-2026-63402: i18next深层合并原型污染漏洞](https://github.com/googlesky/CVE-2026-63402)
+- [CVE-2026-135207: Healthchecks 邮箱验证令牌绑定绕过漏洞](https://github.com/googlesky/CVE-2026-135207)
+- [CVE-2026-135154: Tolgee 未验证邮箱 MFA 注册授权绕过漏洞](https://github.com/googlesky/CVE-2026-135154)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1759,6 +1761,17 @@
 - [CVE-2026-131842: Poppler pdfdetach路径穿越任意文件写入](https://github.com/googlesky/CVE-2026-131842)
 - [CVE-2026-121994: GDB远程调试桩连接远程代码执行漏洞](https://github.com/DeeBumG/CVE-2026-121994-POC)
 - [CVE-2026-131873: Gargoyle Plus解释器ReadAction栈缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-131873)
+- [CVE-2026-135712: FFmpeg img2enc 分平面尺寸校验整数溢出漏洞](https://github.com/googlesky/CVE-2026-135712)
+- [CVE-2026-135736: FFmpeg deband 耦合命令堆越界读写漏洞](https://github.com/googlesky/CVE-2026-135736)
+- [CVE-2026-135706: FFmpeg modplug 头解析堆缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-135706)
+- [CVE-2026-135708: FFmpeg WHIP 协议任意文件破坏漏洞](https://github.com/googlesky/CVE-2026-135708)
+- [CVE-2026-135711: FFmpeg TTML 封装器 XML 注入漏洞](https://github.com/googlesky/CVE-2026-135711)
+- [CVE-2026-135714: FFmpeg RTMP AMF 字段解析信息泄露漏洞](https://github.com/googlesky/CVE-2026-135714)
+- [CVE-2026-135704: FFmpeg MXG 解复用器信息泄露漏洞](https://github.com/googlesky/CVE-2026-135704)
+- [CVE-2026-135723: FFmpeg IMF 标记解析双重释放漏洞](https://github.com/googlesky/CVE-2026-135723)
+- [CVE-2026-135725: FFmpeg RTMP 包头栈缓冲区溢出漏洞](https://github.com/googlesky/CVE-2026-135725)
+- [CVE-2026-135731: FFmpeg VC2HQ RTP 图片尺寸整数溢出漏洞](https://github.com/googlesky/CVE-2026-135731)
+- [CVE-2026-135729: FFmpeg WebM DASH 封装器 XML 注入漏洞](https://github.com/googlesky/CVE-2026-135729)
 
 
 
