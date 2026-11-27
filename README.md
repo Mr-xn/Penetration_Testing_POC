@@ -325,13 +325,14 @@
 - [CVE-2026-29013: libcoap OSCORE的越界读内存破坏漏洞](https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro)
 - [CVE-2026-71960: Cudy WR3000路由器MQTT命令注入漏洞](https://github.com/ShibbityShwab/cudy-wr3000v2-cve)
 - [CVE-2026-21385: Samsung KGSL对齐符号扩展越界GPU虚拟地址](https://github.com/zhanghangjie/CVE-2026-21385-CYL1)
-- [CVE-2026-99491: Android内核CVE-2026-99491漏洞利用插件](https://github.com/FatBrother1/hapt-99491)
+- [CVE-2026-99491: Android内核CVE-2026-99491漏洞利用插件](https://github.com/FatBrother1/hapt-99491) | [CVE-2026-99491-b: REDMI K90 Max wacom HID驱动的释放后使用漏洞](https://github.com/ChaYeWuu/prague-CVE-2026-99491)
 - [CVE-2026-113910: Apple LZBITMAP 解压内核内存泄露漏洞](https://github.com/ecc521/CVE-2026-113910)
 - [CVE-2026-112554: IOStorageFamily GPT 分区名越界读取漏洞](https://github.com/ecc521/CVE-2026-112554)
 - [CVE-2026-136411: BusyBox tftpd的绝对路径穿越任意文件读写漏洞](https://github.com/googlesky/CVE-2026-136411)
 - [CVE-2026-16663: MCUboot加密串口恢复预认证越界写漏洞](https://github.com/googlesky/CVE-2026-16663)
 - [CVE-2026-16665: MCUboot的NDEBUG构建安全断言失效漏洞](https://github.com/googlesky/CVE-2026-16665)
 - [CVE-2026-135472: open62541的lookupRefType释放后使用漏洞](https://github.com/googlesky/CVE-2026-135472)
+- [CVE-2026-99233: HONOR手机tracefs合成事件的释放后使用漏洞](https://github.com/Aoki-Shinshi/CVE-2026-99233)
 
 ## <span id="head4">Web APP</span>
 
@@ -1360,7 +1361,7 @@
 - [CVE-2026-131852: OwnTracks Recorder未授权格式串漏洞](https://github.com/googlesky/CVE-2026-131852)
 - [CVE-2026-93295: MISP后台任务参数注入远程代码执行漏洞](https://github.com/CXu0630/CVE-2026-93295_MISP_RCE_Proof-of-Concept)
 - [CVE-2026-130587: OpenFunction租户PodSpec复制导致节点级越权漏洞](https://github.com/googlesky/CVE-2026-130587)
-- [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007) | [CVE-2026-123007-b: nginx HTTP/2流控整数下溢远程代码执行漏洞](https://github.com/akarkode/nginx-http2-cve-2026-123007-lab) | [CVE-2026-123007-c: nginx HTTP/2流控整数下溢漏洞复现环境](https://github.com/0xcypher110/nginx2root_lab) | [CVE-2026-123007-d: Nginx HTTP/2 流控整数下溢漏洞检测扫描](https://github.com/0xnrg/CVE-2026-123007) | [CVE-2026-123007-e: Nginx HTTP/2 流控整数下溢漏洞安全探测](https://github.com/MazeResearch/nginx-h2-probe) | [CVE-2026-123007-f: Nginx HTTP/2 流控整数下溢远程代码执行漏洞](https://github.com/yusif-v/cve-2026-123007-poc) | [CVE-2026-123007-g: NGINX HTTP2流控整数下溢内存破坏](https://github.com/genaforvena/nginx2root)
+- [CVE-2026-123007: NGINX HTTP/2整数下溢未授权远程代码执行](https://github.com/sfewer-r7/CVE-2026-123007) | [CVE-2026-123007-b: nginx HTTP/2流控整数下溢远程代码执行漏洞](https://github.com/akarkode/nginx-http2-cve-2026-123007-lab) | [CVE-2026-123007-c: nginx HTTP/2流控整数下溢漏洞复现环境](https://github.com/0xcypher110/nginx2root_lab) | [CVE-2026-123007-d: Nginx HTTP/2 流控整数下溢漏洞检测扫描](https://github.com/0xnrg/CVE-2026-123007) | [CVE-2026-123007-e: Nginx HTTP/2 流控整数下溢漏洞安全探测](https://github.com/MazeResearch/nginx-h2-probe) | [CVE-2026-123007-f: Nginx HTTP/2 流控整数下溢远程代码执行漏洞](https://github.com/yusif-v/cve-2026-123007-poc) | [CVE-2026-123007-g: NGINX HTTP2流控整数下溢内存破坏](https://github.com/genaforvena/nginx2root) | [CVE-2026-123007-h: NGINX的HTTP/2远程代码执行漏洞](https://github.com/CaptainAI-Labs/CVE-2026-123007)
 - [CVE-2026-95267: MCMS文件上传漏洞RCE](https://github.com/netuseradministrator/CVE-2026-95267)
 - [CVE-2026-132252: October CMS的外部图片校验SSRF漏洞](https://github.com/googlesky/CVE-2026-132252)
 - [CVE-2026-73504: Cassandra JDBC Wrapper 认证令牌日志信息泄露](https://github.com/googlesky/CVE-2026-73504)
@@ -1419,6 +1420,12 @@
 - [CVE-2026-135818: Dispatcharr的自定义API操作权限绕过漏洞](https://github.com/googlesky/CVE-2026-135818)
 - [CVE-2026-136134: Mealie的Accept-Language路径穿越漏洞](https://github.com/googlesky/CVE-2026-136134)
 - [CVE-2026-135817: AiSOC的未验证JWT审计归属伪造漏洞](https://github.com/googlesky/CVE-2026-135817)
+- [CVE-2026-123214: Joomla网络安装器的认证绕过未授权RCE漏洞](https://github.com/b3tar00t/joomsday)
+- [CVE-2026-125396: Ghostscript沙箱逃逸导致的远程代码执行漏洞](https://github.com/Luscious8/Upload2shell)
+- [CVE-2026-41528: Q-SYS CGI端点的命令注入漏洞](https://github.com/oliv4s/CVE-2026-41528)
+- [CVE-2026-135300: Pomerium的MCP令牌端点认证绕过漏洞](https://github.com/googlesky/CVE-2026-135300)
+- [CVE-2026-135164: Formance Ledger账户expand参数SQL注入漏洞](https://github.com/googlesky/CVE-2026-135164)
+- [CVE-2026-135158: Windmill跨工作区流程恢复的授权绕过漏洞](https://github.com/googlesky/CVE-2026-135158)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1786,6 +1793,8 @@
 - [CVE-2026-135731: FFmpeg VC2HQ RTP 图片尺寸整数溢出漏洞](https://github.com/googlesky/CVE-2026-135731)
 - [CVE-2026-135729: FFmpeg WebM DASH 封装器 XML 注入漏洞](https://github.com/googlesky/CVE-2026-135729)
 - [CVE-2026-59831: GitHub CLI的未验证链接远程代码执行漏洞](https://github.com/googlesky/CVE-2026-59831)
+- [CVE-2026-135440: MediaInfoLib的Vorbis解析堆释放后使用漏洞](https://github.com/googlesky/CVE-2026-135440)
+- [CVE-2026-135294: LibreCAD的DXF文件加载整数溢出漏洞](https://github.com/googlesky/CVE-2026-135294)
 
 
 
