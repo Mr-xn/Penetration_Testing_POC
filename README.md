@@ -1227,7 +1227,7 @@
 - [CVE-2026-78818: CyberPanel phpSelection参数注入root RCE](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce)
 - [CVE-2026-86596: s2Member模板注入武器化RCE](https://github.com/Aureels/CVE-2026-86596)
 - [CVE-2026-115290](https://github.com/googlesky/CVE-2026-115290)
-- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) | [CVE-2026-123158-h: OpenSSH超长口令密码认证绕过漏洞](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass) | [CVE-2026-123158-i: OpenSSH musl 密码认证绕过漏洞](https://github.com/0xsyr0/CVE-2026-123158-POC)
+- [CVE-2026-123158: OpenSSH在musl libc下的远程认证绕过漏洞](https://github.com/SkrudjReal/sshhole-exploit) | [CVE-2026-123158-b: OpenSSH 的密码认证绕过漏洞](https://github.com/halilkirazkaya/CVE-2026-123158) | [CVE-2026-123158-c: OpenSSH musl 密码认证绕过漏洞](https://github.com/Galaxy-sc/CVE-2026-123158) | [CVE-2026-123158-d: OpenSSH sshd musl环境密码字段认证绕过](https://github.com/Iperez95-ot/sshole-lab) | [CVE-2026-123158-e: OpenSSH 的 musl libc 环境认证绕过漏洞](https://github.com/pablocerdeira1/CVE-2026-123158) | [CVE-2026-123158-f: OpenSSH在musl环境下的认证绕过漏洞](https://github.com/Doseuser/CVE-2026-123158) | [CVE-2026-123158-g: OpenSSH无PAM密码认证绕过漏洞](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) | [CVE-2026-123158-h: OpenSSH超长口令密码认证绕过漏洞](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass) | [CVE-2026-123158-i: OpenSSH musl 密码认证绕过漏洞](https://github.com/0xsyr0/CVE-2026-123158-POC) | [CVE-2026-123158-j: Alpine Linux OpenSSH SSHole认证绕过漏洞](https://github.com/iotsec-in/sshole-cve-2026-123158)
 - [CVE-2026-119977: WordPress核心升级窗口竞争导致远程代码执行](https://github.com/tc4dy/CVE-2026-119977-Toolkit) | [CVE-2026-119977-b: WordPress 核心升级窗口 TOCTOU 远程代码执行](https://github.com/BugStealers/CVE-2026-119977) | [CVE-2026-119977-c: WordPress升级暂存路径未授权远程代码执行](https://github.com/BlackHatExploitation/CVE-2026-119977) | [CVE-2026-119977-d: WordPress核心TOCTOU竞态条件授权绕过](https://github.com/cveForge/CVE-2026-119977)
 - [CVE-2026-118569: Drupal fasttoggle模块越权发布任意内容漏洞](https://github.com/yuwkaaa/CVE-2026-118569)
 - [CVE-2026-120491: Wing FTP Server管理页存储型XSS漏洞](https://github.com/3jee/CVE-2026-120491)
@@ -1426,6 +1426,13 @@
 - [CVE-2026-135300: Pomerium的MCP令牌端点认证绕过漏洞](https://github.com/googlesky/CVE-2026-135300)
 - [CVE-2026-135164: Formance Ledger账户expand参数SQL注入漏洞](https://github.com/googlesky/CVE-2026-135164)
 - [CVE-2026-135158: Windmill跨工作区流程恢复的授权绕过漏洞](https://github.com/googlesky/CVE-2026-135158)
+- [CVE-2026-128064: PHP流包装器TLS明文降级信息泄露漏洞](https://github.com/wild0ni0n/CVE-2026-128064-PoC)
+- [CVE-2026-137062: BookStack内容转换越权删除回收站数据](https://github.com/googlesky/CVE-2026-137062)
+- [CVE-2026-137064: Chatwoot短信回调未授权消息注入漏洞](https://github.com/googlesky/CVE-2026-137064)
+- [CVE-2026-133968: MONAI Label未授权路径遍历远程代码执行漏洞](https://github.com/evenomn/CVE-2026-133968)
+- [CVE-2026-137306: Grav Admin密码重置主机头投毒漏洞](https://github.com/googlesky/CVE-2026-137306)
+- [CVE-2026-137305: Grav Form上传至模板目录代码执行漏洞](https://github.com/googlesky/CVE-2026-137305)
+- [CVE-2026-137308: markdownify-mcp SSRF地址校验绕过漏洞](https://github.com/googlesky/CVE-2026-137308)
    
    
 ## <span id="head5"> 提权辅助相关</span>
@@ -1795,6 +1802,7 @@
 - [CVE-2026-59831: GitHub CLI的未验证链接远程代码执行漏洞](https://github.com/googlesky/CVE-2026-59831)
 - [CVE-2026-135440: MediaInfoLib的Vorbis解析堆释放后使用漏洞](https://github.com/googlesky/CVE-2026-135440)
 - [CVE-2026-135294: LibreCAD的DXF文件加载整数溢出漏洞](https://github.com/googlesky/CVE-2026-135294)
+- [CVE-2026-136950: Ghostty终端OSC8超链接注入漏洞](https://github.com/googlesky/CVE-2026-136950)
 
 
 
